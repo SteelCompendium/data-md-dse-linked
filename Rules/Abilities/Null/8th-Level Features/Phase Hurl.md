@@ -73,12 +73,20 @@ metadata:
   type: feature/ability/null/8th-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 9 + A damage; push 5; I < WEAK, dazed (save ends)
-    tier2: 13 + A damage; push 7; I < AVERAGE, dazed (save ends)
-    tier3: 18 + A damage; push 10; I < STRONG, dazed (save ends)
+    tier1: 9 + A damage; push 5; I < WEAK,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 13 + A damage; push 7; I < AVERAGE,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 18 + A damage; push 10; I < STRONG,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: The target and each creature or object they collide with from this
       forced movement takes psychic damage equal to the total number of squares
-      the target was force moved. While the target is dazed this way, they see
-      glimpses of creatures from other parts of the timescape.
+      the target was force moved. While the target is
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      this way, they see glimpses of creatures from other parts of the
+      timescape.
 ```

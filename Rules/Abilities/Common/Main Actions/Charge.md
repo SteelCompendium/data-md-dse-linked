@@ -40,7 +40,12 @@ effects:
 
 
       A creature can't move through difficult terrain or shift when they charge.
-      They can fly or burrow as part of the Charge main action if they have that
-      movement available to them, but they can't climb or swim while charging
-      unless they can automatically use that movement at full speed.
+      They can
+      [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) or
+      [burrow](%7BREL_PATH_PREFIX%7DRules/Movement/Burrow%7BREL_PATH_SUFFIX%7D)
+      as part of the Charge main action if they have that movement available to
+      them, but they can't \[climb\]({REL_PATH_PREFIX}Rules/Movement/Climb or
+      Swim{REL_PATH_SUFFIX}) or \[swim\]({REL_PATH_PREFIX}Rules/Movement/Climb
+      or Swim{REL_PATH_SUFFIX}) while charging unless they can automatically use
+      that movement at full speed.
 ```

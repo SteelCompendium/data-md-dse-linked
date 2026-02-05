@@ -42,9 +42,14 @@ effects:
       influence the minds of other creatures.
 
 
-      You choose a talent tradition from the following options: chronopathy,
-      telekinesis, or telepathy. Your talent tradition is your subclass, and
-      your choice of tradition determines many of the features you'll gain as
-      you gain new levels. (Other talent traditions will be featured in future
-      products.) (*Quick Build:* Telekinesis.)
+      You choose a
+      [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D)
+      tradition from the following options: chronopathy, telekinesis, or
+      telepathy. Your
+      [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D)
+      tradition is your subclass, and your choice of tradition determines many
+      of the features you'll gain as you gain new levels. (Other
+      [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D)
+      traditions will be featured in future products.) (*Quick Build:*
+      Telekinesis.)
 ```

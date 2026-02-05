@@ -65,7 +65,13 @@ metadata:
   type: feature/ability/troubadour/1st-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: 2 + P psychic damage; P < WEAK, bleeding (save ends)
-    tier2: 5 + P psychic damage; P < AVERAGE, bleeding (save ends)
-    tier3: 7 + P psychic damage; P < STRONG, bleeding (save ends)
+    tier1: 2 + P psychic damage; P < WEAK,
+      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 5 + P psychic damage; P < AVERAGE,
+      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 7 + P psychic damage; P < STRONG,
+      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

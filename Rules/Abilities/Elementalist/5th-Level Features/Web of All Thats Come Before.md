@@ -73,12 +73,20 @@ metadata:
   type: feature/ability/elementalist/5th-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: 2 corruption damage; A < WEAK, restrained (save ends)
-    tier2: 3 corruption damage; A < AVERAGE, restrained (save ends)
-    tier3: 5 corruption damage; A < STRONG, restrained (save ends)
+    tier1: 2 corruption damage; A < WEAK,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 3 corruption damage; A < AVERAGE,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 5 corruption damage; A < STRONG,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: The area is difficult terrain until the start of your next turn. Each
-      enemy who ends their turn in the area is restrained (save ends).
+      enemy who ends their turn in the area is
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends).
   - name: Persistent 1
     effect: The area remains until the start of your next turn.
 ```

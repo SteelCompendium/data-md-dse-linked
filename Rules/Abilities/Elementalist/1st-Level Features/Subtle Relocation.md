@@ -63,10 +63,15 @@ metadata:
   type: feature/ability/elementalist/1st-level-feature
 effects:
   - name: Effect
-    effect: You teleport the target up to a number of squares equal to your Reason
-      score. If the target moves to trigger this ability, you can teleport them
-      at any point during the move.
+    effect: You
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      the target up to a number of squares equal to your Reason score. If the
+      target moves to trigger this ability, you can
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      them at any point during the move.
   - cost: Spend 1 Essence
-    effect: You teleport the target up to a number of squares equal to twice your
-      Reason score instead.
+    effect: You
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      the target up to a number of squares equal to twice your Reason score
+      instead.
 ```

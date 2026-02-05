@@ -71,6 +71,9 @@ effects:
   - name: Effect
     effect: The target gains 3 of their Heroic Resource, has a double edge on a
       power roll of their choice made during their next turn, is no longer
-      slowed or weakened if they were before, and can immediately take their
-      turn after yours if they have not taken their turn already this round.
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      or
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      if they were before, and can immediately take their turn after yours if
+      they have not taken their turn already this round.
 ```

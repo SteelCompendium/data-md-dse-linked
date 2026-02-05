@@ -53,9 +53,15 @@ effects:
         target: Each enemy in the area
         effects:
           - roll: Power Roll + Agility
-            tier1: 6 cold damage; A < WEAK, slowed (save ends)
-            tier2: 9 cold damage; A < AVERAGE, slowed (save ends)
-            tier3: 13 cold damage; A < STRONG, slowed (save ends)
+            tier1: 6 cold damage; A < WEAK,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: 9 cold damage; A < AVERAGE,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: 13 cold damage; A < STRONG,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
       - type: feature
         feature_type: ability
         name: Heat Sink

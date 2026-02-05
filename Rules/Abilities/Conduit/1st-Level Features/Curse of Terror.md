@@ -67,7 +67,13 @@ metadata:
   type: feature/ability/conduit/1st-level-feature
 effects:
   - roll: Power Roll + Intuition
-    tier1: 6 + I holy damage; I < WEAK, frightened (save ends)
-    tier2: 9 + I holy damage; I < AVERAGE, frightened (save ends)
-    tier3: 13 + I holy damage; I < STRONG, frightened (save ends)
+    tier1: 6 + I holy damage; I < WEAK,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 9 + I holy damage; I < AVERAGE,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 13 + I holy damage; I < STRONG,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

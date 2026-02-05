@@ -57,8 +57,11 @@ metadata:
   type: feature/ability/shadow/1st-level-feature
 effects:
   - name: Effect
-    effect: You take half the damage, then can teleport up to 4 squares after the
-      triggering effect resolves.
+    effect: You take half the damage, then can
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      up to 4 squares after the triggering effect resolves.
   - cost: Spend 1+ Insight
-    effect: You teleport 1 additional square for each insight spent.
+    effect: You
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      1 additional square for each insight spent.
 ```

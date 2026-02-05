@@ -73,9 +73,17 @@ metadata:
   type: feature/ability/talent/8th-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: 10 + P damage; P < WEAK, weakened (save ends)
-    tier2: 14 + P damage; P < AVERAGE, weakened (save ends)
-    tier3: 20 + P damage; P < STRONG, weakened and slowed (save ends)
+    tier1: 10 + P damage; P < WEAK,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 14 + P damage; P < AVERAGE,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 20 + P damage; P < STRONG,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      and
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: "This ability gains an edge against a target with a soul (see *[Draw
       Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power

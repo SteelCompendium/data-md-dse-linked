@@ -72,7 +72,13 @@ effects:
     effect: You shift up to twice your speed, making one power roll that targets
       each creature you come adjacent to during the shift.
   - roll: Power Roll + Agility
-    tier1: An enemy takes 6 damage; an ally can teleport up to 3 squares.
-    tier2: An enemy takes 10 damage; an ally can teleport up to 5 squares.
-    tier3: An enemy takes 14 damage; an ally can teleport up to 7 squares.
+    tier1: An enemy takes 6 damage; an ally can
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      up to 3 squares.
+    tier2: An enemy takes 10 damage; an ally can
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      up to 5 squares.
+    tier3: An enemy takes 14 damage; an ally can
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      up to 7 squares.
 ```

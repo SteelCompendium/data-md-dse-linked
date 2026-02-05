@@ -68,9 +68,11 @@ effects:
       the target's space while the other appears in an unoccupied space of your
       choice within distance. If the target is a creature, this creates a new
       creature under the Director's control. Each entity has half the original
-      target's Stamina, is weakened, and takes 1d6 corruption damage at the
-      start of each of their turns. If either entity is reduced to 0 Stamina,
-      the other entity persists as the original entity and this effect ends. The
-      effect also ends if both entities occupy the same space, causing them to
-      automatically merge and combine their current Stamina.
+      target's Stamina, is
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D),
+      and takes 1d6 corruption damage at the start of each of their turns. If
+      either entity is reduced to 0 Stamina, the other entity persists as the
+      original entity and this effect ends. The effect also ends if both
+      entities occupy the same space, causing them to automatically merge and
+      combine their current Stamina.
 ```

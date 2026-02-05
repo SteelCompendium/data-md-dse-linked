@@ -67,9 +67,17 @@ metadata:
   type: feature/ability/conduit/3rd-level-feature
 effects:
   - roll: Power Roll + Intuition
-    tier1: 6 psychic damage; I < WEAK, frightened (save ends)
-    tier2: 9 psychic damage; I < AVERAGE, frightened (save ends)
-    tier3: 13 psychic damage; I < STRONG, frightened (save ends)
+    tier1: 6 psychic damage; I < WEAK,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 9 psychic damage; I < AVERAGE,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 13 psychic damage; I < STRONG,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
-    effect: Each target is frightened of you or a creature you choose within distance.
+    effect: Each target is
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      of you or a creature you choose within distance.
 ```

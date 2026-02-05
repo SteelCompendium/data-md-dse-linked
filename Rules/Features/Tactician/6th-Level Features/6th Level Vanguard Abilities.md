@@ -56,9 +56,15 @@ effects:
             effect: The target takes half the damage. You then make a power roll against the
               triggering creature.
           - roll: Power Roll + Might
-            tier1: A < WEAK, dazed (save ends)
-            tier2: A < AVERAGE, dazed (save ends)
-            tier3: A < STRONG, dazed (save ends)
+            tier1: A < WEAK,
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: A < AVERAGE,
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: A < STRONG,
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
       - type: feature
         feature_type: ability
         name: To Me Squad!
@@ -86,7 +92,9 @@ effects:
               the charge
           - name: Effect
             effect: If the target is hit with two or more strikes as part of this ability
-              and they have R < STRONG, they are dazed (save ends). If the
-              target is reduced to 0 Stamina before one or both allies has made
-              their strike, the ally or allies can pick a different target.
+              and they have R < STRONG, they are
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              (save ends). If the target is reduced to 0 Stamina before one or
+              both allies has made their strike, the ally or allies can pick a
+              different target.
 ```

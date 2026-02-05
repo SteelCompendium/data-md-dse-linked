@@ -73,7 +73,14 @@ effects:
     effect: You shift up to your speed. You make one power roll that targets each
       enemy you move adjacent to during this shift.
   - roll: Power Roll + Agility or Presence
-    tier1: Taunted (EoT); A < WEAK, prone
-    tier2: Taunted (EoT); A < AVERAGE, prone
-    tier3: Taunted (EoT); A < STRONG, prone and can't stand (EoT)
+    tier1: "[Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFF\
+      IX%7D) (EoT); A < WEAK,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)"
+    tier2: "[Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFF\
+      IX%7D) (EoT); A < AVERAGE,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)"
+    tier3: "[Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFF\
+      IX%7D) (EoT); A < STRONG,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      and can't stand (EoT)"
 ```

@@ -72,9 +72,15 @@ effects:
   - name: Effect
     effect: You mark the target.
   - roll: Power Roll + Might
-    tier1: 4 + M damage; R < WEAK, weakened (save ends)
-    tier2: 6 + M damage; R < AVERAGE, weakened (save ends)
-    tier3: 10 + M damage; R < STRONG, weakened (save ends)
+    tier1: 4 + M damage; R < WEAK,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 6 + M damage; R < AVERAGE,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 10 + M damage; R < STRONG,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: Before the start of your next turn, the first time any ally deals damage
       to any target marked by you, that ally can spend a Recovery.

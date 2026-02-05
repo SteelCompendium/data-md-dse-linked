@@ -53,11 +53,16 @@ effects:
         target: Each enemy in the area
         effects:
           - name: Effect
-            effect: A prone target ignores this ability.
+            effect: A
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+              target ignores this ability.
           - roll: Power Roll + Presence
-            tier1: 7 sonic damage; P < WEAK, prone
-            tier2: 10 sonic damage; P < AVERAGE, prone
-            tier3: 13 sonic damage; P < STRONG, prone
+            tier1: 7 sonic damage; P < WEAK,
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+            tier2: 10 sonic damage; P < AVERAGE,
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+            tier3: 13 sonic damage; P < STRONG,
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
       - type: feature
         feature_type: ability
         name: Legendary Drum Fill

@@ -31,9 +31,10 @@ metadata:
   source: mcdm.heroes.v1
   type: common-ability/maneuver
 effects:
-  - effect: A creature who is grabbed by another creature, an object, or an effect
-      (see [Grab](#page-287-5) below) can attempt to escape by using the
-      following ability.
+  - effect: A creature who is
+      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+      by another creature, an object, or an effect (see [Grab](#page-287-5)
+      below) can attempt to escape by using the following ability.
     features:
       - type: feature
         feature_type: ability
@@ -46,13 +47,18 @@ effects:
         effects:
           - roll: Power Roll + Might or Agility
             tier1: No effect.
-            tier2: You can escape the grab, but if you do, a creature who has you grabbed
+            tier2: You can escape the grab, but if you do, a creature who has you
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
               can make a melee free strike against you before you are no longer
-              grabbed.
-            tier3: You are no longer grabbed.
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D).
+            tier3: You are no longer
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D).
           - name: Effect
             effect: You take a bane on this maneuver if your size is smaller than the size
-              of the creature, object, or effect that has you grabbed.
+              of the creature, object, or effect that has you
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D).
   - effect: "See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for
-      information on the grabbed condition."
+      information on the
+      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX\
+      %7D) condition."
 ```

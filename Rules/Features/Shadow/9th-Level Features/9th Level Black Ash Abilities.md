@@ -56,9 +56,15 @@ effects:
             effect: You shift up to twice your speed, making one power roll that targets
               each creature you come adjacent to during the shift.
           - roll: Power Roll + Agility
-            tier1: An enemy takes 6 damage; an ally can teleport up to 3 squares.
-            tier2: An enemy takes 10 damage; an ally can teleport up to 5 squares.
-            tier3: An enemy takes 14 damage; an ally can teleport up to 7 squares.
+            tier1: An enemy takes 6 damage; an ally can
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              up to 3 squares.
+            tier2: An enemy takes 10 damage; an ally can
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              up to 5 squares.
+            tier3: An enemy takes 14 damage; an ally can
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              up to 7 squares.
       - type: feature
         feature_type: ability
         name: Demon Door
@@ -79,6 +85,8 @@ effects:
             tier2: 18 + A corruption damage; push 5
             tier3: 25 + A corruption damage; push 7
           - name: Effect
-            effect: On a critical hit, the target is grabbed by the demon and pulled through
-              the portal before it closes, never to be seen again.
+            effect: On a critical hit, the target is
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              by the demon and pulled through the portal before it closes, never
+              to be seen again.
 ```

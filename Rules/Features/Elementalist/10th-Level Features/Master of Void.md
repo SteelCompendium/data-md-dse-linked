@@ -39,12 +39,8 @@ metadata:
   subclass: Void
   type: feature/trait/elementalist/10th-level-feature
 effects:
-  - effect: >-
-      Whenever you willingly move, you can teleport.
+  - effect: |-
+      Whenever you willingly move, you can [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D).
 
-
-      Additionally, your mind is connected to the mystery and helps you find the
-      answers you seek. You no longer require project sources for research
-      projects. Whenever you use a respite activity to make a project roll for a
-      research project, you automatically complete the project.
+      Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.
 ```

@@ -53,9 +53,11 @@ effects:
         trigger: The target takes damage.
         effects:
           - name: Effect
-            effect: The target is teleported to an unoccupied space adjacent to you, taking
-              no damage and suffering no additional effects if this movement
-              would get them out of harm's way.
+            effect: The target is
+              [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              to an unoccupied space adjacent to you, taking no damage and
+              suffering no additional effects if this movement would get them
+              out of harm's way.
           - name: Strained
             effect: You can't target yourself, and you take the damage and any additional
               effects instead of the target.

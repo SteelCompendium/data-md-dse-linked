@@ -69,5 +69,6 @@ effects:
     effect: You can target yourself instead of one ally with this ability. Each
       target can spend any number of Recoveries, can end any effects on them
       that are ended by a saving throw or that end at the end of their turn, and
-      can stand up if they are prone.
+      can stand up if they are
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
 ```

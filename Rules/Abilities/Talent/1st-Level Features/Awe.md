@@ -78,7 +78,13 @@ effects:
       a saving throw or that ends at the end of their turn. If you target an
       enemy, you make a power roll.
   - roll: Power Roll + Presence
-    tier1: 3 + P psychic damage; I < WEAK, frightened (save ends)
-    tier2: 6 + P psychic damage; I < AVERAGE, frightened (save ends)
-    tier3: 9 + P psychic damage; I < STRONG, frightened (save ends)
+    tier1: 3 + P psychic damage; I < WEAK,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 6 + P psychic damage; I < AVERAGE,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 9 + P psychic damage; I < STRONG,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

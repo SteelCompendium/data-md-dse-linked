@@ -69,9 +69,15 @@ metadata:
   type: feature/ability/conduit/6th-level-feature
 effects:
   - roll: Power Roll + Intuition
-    tier1: 9 + I corruption damage; R < WEAK, weakened (save ends)
-    tier2: 14 + I corruption damage; R < AVERAGE, weakened (save ends)
-    tier3: 19 + I corruption damage; R < STRONG, weakened (save ends)
+    tier1: 9 + I corruption damage; R < WEAK,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 14 + I corruption damage; R < AVERAGE,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 19 + I corruption damage; R < STRONG,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: If this damage kills the target, you and each ally within distance can
       spend a Recovery.

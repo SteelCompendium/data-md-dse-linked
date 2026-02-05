@@ -73,9 +73,15 @@ metadata:
   type: feature/ability/talent/3rd-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: 6 + P damage; P < WEAK, dazed (save ends)
-    tier2: 10 + P damage; P < AVERAGE, dazed (save ends)
-    tier3: 14 + P damage; P < STRONG, dazed (save ends)
+    tier1: 6 + P damage; P < WEAK,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 10 + P damage; P < AVERAGE,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 14 + P damage; P < STRONG,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: The target takes a bane on Presence tests until the end of the encounter.
   - name: Strained

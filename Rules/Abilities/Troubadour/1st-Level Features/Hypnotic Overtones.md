@@ -65,9 +65,15 @@ metadata:
   type: feature/ability/troubadour/1st-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: Slide 1; I < WEAK, dazed (save ends)
-    tier2: Slide 1; I < AVERAGE, dazed (save ends)
-    tier3: Slide 2; I < STRONG, dazed (save ends)
+    tier1: Slide 1; I < WEAK,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: Slide 1; I < AVERAGE,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: Slide 2; I < STRONG,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - cost: Spend 2+ Drama
     effect: The size of the burst increases by 1 for every 2 drama spent.
 ```

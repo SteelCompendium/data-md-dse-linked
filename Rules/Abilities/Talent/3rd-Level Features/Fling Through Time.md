@@ -73,11 +73,17 @@ metadata:
   type: feature/ability/talent/3rd-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: 3 + P corruption damage; P < WEAK, weakened (save ends)
+    tier1: 3 + P corruption damage; P < WEAK,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
     tier2: 5 + P corruption damage; the target is flung through time, and if P <
-      AVERAGE, they are weakened (save ends)
+      AVERAGE, they are
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
     tier3: 8 + P corruption damage; the target is flung through time, and if P <
-      STRONG, they are weakened (save ends)
+      STRONG, they are
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: A target who is flung through time is removed from the encounter map
       until the end of their next turn, reappearing in their original space or

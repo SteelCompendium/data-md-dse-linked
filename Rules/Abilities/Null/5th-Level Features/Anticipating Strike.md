@@ -71,9 +71,15 @@ metadata:
   type: feature/ability/null/5th-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 7 + A damage; I < WEAK, restrained (save ends)
-    tier2: 10 + A damage; I < AVERAGE, restrained (save ends)
-    tier3: 13 + A damage; I < STRONG, restrained (save ends)
+    tier1: 7 + A damage; I < WEAK,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 10 + A damage; I < AVERAGE,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 13 + A damage; I < STRONG,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: This strike resolves before the triggering movement or main action.
 ```

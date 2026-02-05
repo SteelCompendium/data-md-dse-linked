@@ -55,9 +55,15 @@ effects:
         target: One creature
         effects:
           - roll: Power Roll + Agility
-            tier1: 6 + A damage; you can teleport the target 1 square
-            tier2: 10 + A damage; you can teleport the target up to 3 squares
-            tier3: 14 + A damage; you can teleport the target up to 5 squares
+            tier1: 6 + A damage; you can
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              the target 1 square
+            tier2: 10 + A damage; you can
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              the target up to 3 squares
+            tier3: 14 + A damage; you can
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              the target up to 5 squares
       - type: feature
         feature_type: ability
         name: Too Slow
@@ -72,7 +78,10 @@ effects:
         effects:
           - name: Effect
             effect: You ignore any effects associated with the damage that triggered your In
-              All This Confusion ability. Before you teleport, you can make a
-              free strike against a creature who damaged you to trigger In All
-              This Confusion. After you teleport, you can spend a Recovery.
+              All This Confusion ability. Before you
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D),
+              you can make a free strike against a creature who damaged you to
+              trigger In All This Confusion. After you
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D),
+              you can spend a Recovery.
 ```

@@ -66,7 +66,13 @@ metadata:
   type: feature/ability/troubadour/6th-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: 2 psychic damage; P < WEAK, frightened (save ends)
-    tier2: 5 psychic damage; P < AVERAGE, frightened (save ends)
-    tier3: 7 psychic damage; P < STRONG, frightened (save ends)
+    tier1: 2 psychic damage; P < WEAK,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 5 psychic damage; P < AVERAGE,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 7 psychic damage; P < STRONG,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

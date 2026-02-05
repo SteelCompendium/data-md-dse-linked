@@ -69,5 +69,7 @@ effects:
     tier2: 6 + R corruption damage
     tier3: 9 + R corruption damage
   - name: Effect
-    effect: You can teleport up to a number of squares equal to your Reason score.
+    effect: You can
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      up to a number of squares equal to your Reason score.
 ```

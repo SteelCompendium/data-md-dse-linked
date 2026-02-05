@@ -65,9 +65,12 @@ metadata:
   type: feature/ability/talent/1st-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: 2 + R damage; M < WEAK, prone
-    tier2: 4 + R damage; M < AVERAGE, prone
-    tier3: 6 + R damage; M < STRONG, prone
+    tier1: 2 + R damage; M < WEAK,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier2: 4 + R damage; M < AVERAGE,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier3: 6 + R damage; M < STRONG,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
   - name: Effect
     effect: When targeting an object with a solid reflective surface or a creature
       carrying or wearing such an object (such as a mirror, an unpainted metal

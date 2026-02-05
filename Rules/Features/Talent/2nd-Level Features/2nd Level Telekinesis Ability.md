@@ -57,8 +57,9 @@ effects:
             tier2: 6 damage; vertical push 4
             tier3: 9 damage; vertical push 6
           - name: Strained
-            effect: The size of the burst increases by 1, and you are weakened until the end
-              of your turn.
+            effect: The size of the burst increases by 1, and you are
+              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              until the end of your turn.
       - type: feature
         feature_type: ability
         name: Levity and Gravity
@@ -75,9 +76,13 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Reason
-            tier1: 6 + R damage; M < WEAK, prone
-            tier2: 10 + R damage; M < AVERAGE, prone
-            tier3: 14 + R damage; M < STRONG, prone and can't stand (save ends)
+            tier1: 6 + R damage; M < WEAK,
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+            tier2: 10 + R damage; M < AVERAGE,
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+            tier3: 14 + R damage; M < STRONG,
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+              and can't stand (save ends)
           - name: Strained
             effect: You take half the damage the target takes.
 ```

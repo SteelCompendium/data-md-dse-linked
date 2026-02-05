@@ -67,12 +67,16 @@ metadata:
   type: feature/ability/elementalist/4th-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: M < WEAK, prone
-    tier2: M < AVERAGE, prone
-    tier3: M < STRONG, prone
+    tier1: M < WEAK,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier2: M < AVERAGE,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier3: M < STRONG,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
   - name: Effect
     effect: You create a fissure in the ground adjacent to you that is a 10 x 2 line
-      and 6 squares deep. Each creature in the area who is prone and size 2 or
-      smaller falls in. Other creatures can enter the fissure or can shift to
-      the nearest unoccupied space of their choice outside it.
+      and 6 squares deep. Each creature in the area who is
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      and size 2 or smaller falls in. Other creatures can enter the fissure or
+      can shift to the nearest unoccupied space of their choice outside it.
 ```

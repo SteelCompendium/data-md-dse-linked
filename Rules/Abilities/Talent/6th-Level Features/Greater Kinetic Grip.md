@@ -74,8 +74,11 @@ effects:
   - roll: Power Roll + Reason
     tier1: Slide 4 + R; M < WEAK, the forced movement is vertical
     tier2: Slide 8 + R; M < AVERAGE, the forced movement is vertical
-    tier3: Slide 12 + R; prone; M < STRONG, the forced movement is vertical
+    tier3: Slide 12 + R;
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D);
+      M < STRONG, the forced movement is vertical
   - name: Strained
     effect: The forced movement ignores stability. You take 2d6 damage and are
-      weakened (save ends).
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends).
 ```

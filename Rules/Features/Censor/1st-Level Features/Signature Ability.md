@@ -91,9 +91,15 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Might
-            tier1: 2 + M holy damage; P < WEAK, slowed (save ends)
-            tier2: 5 + M holy damage; P < AVERAGE, slowed (save ends)
-            tier3: 7 + M holy damage; P < STRONG, slowed (save ends)
+            tier1: 2 + M holy damage; P < WEAK,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: 5 + M holy damage; P < AVERAGE,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: 7 + M holy damage; P < STRONG,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
       - type: feature
         feature_type: ability
         name: Your Allies Cannot Save You!

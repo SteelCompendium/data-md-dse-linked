@@ -67,7 +67,13 @@ metadata:
   type: feature/ability/shadow/3rd-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 8 + A damage; A < WEAK, restrained (save ends)
-    tier2: 12 + A damage; A < AVERAGE, restrained (save ends)
-    tier3: 16 + A damage; A < STRONG, restrained (save ends)
+    tier1: 8 + A damage; A < WEAK,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 12 + A damage; A < AVERAGE,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 16 + A damage; A < STRONG,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

@@ -38,9 +38,12 @@ metadata:
   type: feature/trait/talent/4th-level-feature
 effects:
   - effect: >-
-      You can fly. While flying, your stability is reduced to 0 and can't be
-      increased. If you can already fly, you have a +2 bonus to speed while
-      flying instead.
+      You can
+      [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). While
+      flying, your stability is reduced to 0 and can't be increased. If you can
+      already
+      [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you
+      have a +2 bonus to speed while flying instead.
 
 
       If you are strained while flying and are force moved, the forced movement

@@ -36,7 +36,8 @@ effects:
       you'll want to use the more impactful main actions granted by your class,
       kit, or other feature, just as the Director will use the main actions in a
       creature's stat block, but free strikes are available for when all else
-      fails. For instance, a fury who has no other options for ranged strikes
-      might use the Ranged Weapon Free Strike ability with an improvised weapon
-      when battling a flying foe.
+      fails. For instance, a
+      [fury](%7BREL_PATH_PREFIX%7DRules/Classes/Fury%7BREL_PATH_SUFFIX%7D) who
+      has no other options for ranged strikes might use the Ranged Weapon Free
+      Strike ability with an improvised weapon when battling a flying foe.
 ```

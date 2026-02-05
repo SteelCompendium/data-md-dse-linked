@@ -71,13 +71,24 @@ metadata:
   type: feature/ability/fury/5th-level-feature
 effects:
   - roll: Power Roll + Might
-    tier1: 9 + M damage; M < WEAK, slowed (save ends)
-    tier2: 13 + M damage; M < AVERAGE, slowed (save ends)
-    tier3: 18 + M damage; M < STRONG, restrained (save ends)
+    tier1: 9 + M damage; M < WEAK,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 13 + M damage; M < AVERAGE,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 18 + M damage; M < STRONG,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
-    effect: While the target is slowed this way, any other effect that would make
-      the target slowed instead makes them restrained by this ability.
-      Additionally, a creature who fails the saving throw while restrained this
-      way is petrified until they are given a supernatural cure or you choose to
-      reverse the effect (no action required).
+    effect: While the target is
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      this way, any other effect that would make the target
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      instead makes them
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      by this ability. Additionally, a creature who fails the saving throw while
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      this way is petrified until they are given a supernatural cure or you
+      choose to reverse the effect (no action required).
 ```

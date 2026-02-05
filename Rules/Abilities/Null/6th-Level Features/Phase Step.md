@@ -76,7 +76,10 @@ effects:
       objects are not difficult terrain for this shift. You make one power roll
       that targets each enemy you moved through during this shift.
   - roll: Power Roll + Agility
-    tier1: 6 damage; M < WEAK, dazed
-    tier2: 8 damage; M < AVERAGE, dazed
-    tier3: 12 damage; M < STRONG, dazed
+    tier1: 6 damage; M < WEAK,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+    tier2: 8 damage; M < AVERAGE,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+    tier3: 12 damage; M < STRONG,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
 ```

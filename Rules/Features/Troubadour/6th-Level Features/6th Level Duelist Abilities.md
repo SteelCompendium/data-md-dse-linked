@@ -54,9 +54,17 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Agility
-            tier1: 12 + A damage; M < WEAK, bleeding (save ends)
-            tier2: 18 + A damage; M < AVERAGE, bleeding (save ends)
-            tier3: 24 + A damage; bleeding (EoT), or if M < STRONG, bleeding (save ends)
+            tier1: 12 + A damage; M < WEAK,
+              [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: 18 + A damage; M < AVERAGE,
+              [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: 24 + A damage;
+              [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+              (EoT), or if M < STRONG,
+              [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+              (save ends)
       - type: feature
         feature_type: ability
         name: Fight Choreography

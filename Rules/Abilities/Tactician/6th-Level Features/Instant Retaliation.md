@@ -70,7 +70,13 @@ effects:
     effect: The target takes half the damage. You then make a power roll against the
       triggering creature.
   - roll: Power Roll + Might
-    tier1: A < WEAK, dazed (save ends)
-    tier2: A < AVERAGE, dazed (save ends)
-    tier3: A < STRONG, dazed (save ends)
+    tier1: A < WEAK,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: A < AVERAGE,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: A < STRONG,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

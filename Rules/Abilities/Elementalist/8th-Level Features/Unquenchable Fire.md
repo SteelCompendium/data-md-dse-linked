@@ -70,9 +70,15 @@ metadata:
   type: feature/ability/elementalist/8th-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: 13 + R fire damage; I < WEAK, dazed (save ends)
-    tier2: 18 + R fire damage; I < AVERAGE, dazed (save ends)
-    tier3: 25 + R fire damage; I < STRONG, dazed (save ends)
+    tier1: 13 + R fire damage; I < WEAK,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 18 + R fire damage; I < AVERAGE,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 25 + R fire damage; I < STRONG,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: This damage ignores immunity.
 ```

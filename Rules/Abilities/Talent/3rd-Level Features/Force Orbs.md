@@ -82,5 +82,7 @@ effects:
     tier2: 3 damage
     tier3: 5 damage
   - name: Strained
-    effect: You create five orbs, and you are weakened while you have any orbs active.
+    effect: You create five orbs, and you are
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      while you have any orbs active.
 ```

@@ -72,7 +72,9 @@ effects:
           - roll: Power Roll + Might
             tier1: 2 + M damage
             tier2: 5 + M damage
-            tier3: 7 + M damage; A < STRONG, slowed (save ends)
+            tier3: 7 + M damage; A < STRONG,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
           - name: Effect
             effect: You can shift 1 square.
       - type: feature
@@ -88,9 +90,12 @@ effects:
         target: One creature of your size or smaller
         effects:
           - roll: Power Roll + Might
-            tier1: 2 + M damage; M < WEAK, grabbed
-            tier2: 5 + M damage; M < AVERAGE, grabbed
-            tier3: 7 + M damage; M < STRONG, grabbed
+            tier1: 2 + M damage; M < WEAK,
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+            tier2: 5 + M damage; M < AVERAGE,
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+            tier3: 7 + M damage; M < STRONG,
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
       - type: feature
         feature_type: ability
         name: To the Death!

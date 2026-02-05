@@ -84,5 +84,9 @@ effects:
   - name: Strained
     effect: You and the target both permanently grow visibly younger (the equivalent
       of 20 human years, to the minimum of an 18-year-old). Additionally, you
-      are weakened and slowed (save ends).
+      are
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      and
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends).
 ```

@@ -67,9 +67,15 @@ metadata:
   type: feature/ability/fury/2nd-level-feature
 effects:
   - roll: Power Roll + Might
-    tier1: 4 damage; I < WEAK, slowed (save ends)
-    tier2: 6 damage; I < AVERAGE, slowed (save ends)
-    tier3: 10 damage; I < STRONG, slowed (save ends)
+    tier1: 4 damage; I < WEAK,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 6 damage; I < AVERAGE,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 10 damage; I < STRONG,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: The target can't be hidden from you for 24 hours. Until the end of the
       encounter, whenever the target willingly moves, you can use a free

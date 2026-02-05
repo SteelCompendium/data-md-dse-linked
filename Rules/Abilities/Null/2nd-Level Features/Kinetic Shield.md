@@ -68,5 +68,6 @@ effects:
     tier3: You gain 20 temporary Stamina.
   - name: Effect
     effect: While you have temporary Stamina from this ability, you can't be made
-      bleeding even while dying.
+      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+      even while dying.
 ```

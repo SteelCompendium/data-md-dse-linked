@@ -70,9 +70,15 @@ metadata:
   type: feature/ability/shadow/5th-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 10 + A damage; P < WEAK, dazed (save ends)
-    tier2: 15 + A damage; P < AVERAGE, dazed (save ends)
-    tier3: 21 + A damage; P < STRONG, dazed (save ends)
+    tier1: 10 + A damage; P < WEAK,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 15 + A damage; P < AVERAGE,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 21 + A damage; P < STRONG,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: The target can't communicate with anyone until the end of the encounter.
 ```

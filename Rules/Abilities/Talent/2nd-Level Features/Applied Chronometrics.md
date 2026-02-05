@@ -77,8 +77,12 @@ effects:
     tier3: You target four creatures, one of which can be you.
   - name: Effect
     effect: Until the start of your next turn, each target gains a +5 bonus to
-      speed, they can't be made dazed, and they can use an additional maneuver
-      on their turn. If a target is already dazed, that condition ends for them.
+      speed, they can't be made
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D),
+      and they can use an additional maneuver on their turn. If a target is
+      already
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D),
+      that condition ends for them.
   - name: Strained
     effect: Your speed is halved until the end of the encounter.
 ```

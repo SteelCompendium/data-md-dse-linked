@@ -70,12 +70,16 @@ metadata:
   type: feature/ability/censor/1st-level-feature
 effects:
   - roll: Power Roll + Might
-    tier1: 6 + M holy damage; grabbed
-    tier2: 9 + M holy damage; grabbed
-    tier3: 13 + M holy damage; grabbed
+    tier1: 6 + M holy damage;
+      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+    tier2: 9 + M holy damage;
+      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+    tier3: 13 + M holy damage;
+      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
   - name: Effect
-    effect: If the target makes a strike against a creature while grabbed this way,
-      you can spend 3 wrath to deal holy damage to them equal to your Presence
-      score, then change the target of the strike to another target within the
-      strike's distance.
+    effect: If the target makes a strike against a creature while
+      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+      this way, you can spend 3 wrath to deal holy damage to them equal to your
+      Presence score, then change the target of the strike to another target
+      within the strike's distance.
 ```

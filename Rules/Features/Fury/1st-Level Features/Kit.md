@@ -38,5 +38,6 @@ metadata:
   type: feature/trait/fury/1st-level-feature
 effects:
   - effect: "You can use and gain the benefits of a kit. See Chapter 6: Kits for
-      more information. (*Quick Build:* Panther.)"
+      more information. (*Quick Build:*
+      [Panther](%7BREL_PATH_PREFIX%7DRules/Kits/Panther%7BREL_PATH_SUFFIX%7D).)"
 ```

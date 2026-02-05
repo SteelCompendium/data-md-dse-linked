@@ -58,7 +58,13 @@ metadata:
   type: kit-ability/ranger
 effects:
   - roll: Power Roll + Might or Agility
-    tier1: 3 + M or A damage; A < WEAK, slowed (save ends)
-    tier2: 5 + M or A damage; A < AVERAGE, slowed (save ends)
-    tier3: 7 + M or A damage; A < STRONG, slowed (save ends)
+    tier1: 3 + M or A damage; A < WEAK,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 5 + M or A damage; A < AVERAGE,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 7 + M or A damage; A < STRONG,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

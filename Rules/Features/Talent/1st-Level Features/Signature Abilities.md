@@ -54,9 +54,15 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Presence
-            tier1: 2 + P corruption damage; P < WEAK, slowed (save ends)
-            tier2: 3 + P corruption damage; P < AVERAGE, slowed (save ends)
-            tier3: 5 + P corruption damage; P < STRONG, slowed (save ends)
+            tier1: 2 + P corruption damage; P < WEAK,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: 3 + P corruption damage; P < AVERAGE,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: 5 + P corruption damage; P < STRONG,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
           - name: Effect
             effect: The target takes an extra 1 corruption damage for each additional time
               they are targeted by this ability during the encounter.
@@ -77,12 +83,23 @@ effects:
         target: One creature
         effects:
           - roll: Power Roll + Reason
-            tier1: 2 + R cold damage; M < WEAK, slowed (EoT)
-            tier2: 4 + R cold damage; M < AVERAGE, slowed (EoT)
-            tier3: 6 + R cold damage; M < STRONG, slowed (EoT)
+            tier1: 2 + R cold damage; M < WEAK,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (EoT)
+            tier2: 4 + R cold damage; M < AVERAGE,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (EoT)
+            tier3: 6 + R cold damage; M < STRONG,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (EoT)
           - name: Strained
-            effect: You are slowed until the end of your next turn. Additionally, a target
-              slowed by this ability is restrained instead.
+            effect: You are
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              until the end of your next turn. Additionally, a target
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              by this ability is
+              [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+              instead.
       - type: feature
         feature_type: ability
         name: Incinerate
@@ -123,7 +140,8 @@ effects:
           - roll: Power Roll + Reason
             tier1: Slide 2 + R
             tier2: Slide 4 + R
-            tier3: Slide 6 + R; prone
+            tier3: Slide 6 + R;
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
           - name: Strained
             effect: You must vertical push the target instead of sliding them.
       - type: feature
@@ -143,8 +161,9 @@ effects:
             tier2: 5 psychic damage; push 1
             tier3: 7 psychic damage; push 2
           - name: Strained
-            effect: The size of the burst increases by 2, and you are bleeding until the
-              start of your next turn.
+            effect: The size of the burst increases by 2, and you are
+              [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+              until the start of your next turn.
       - type: feature
         feature_type: ability
         name: Materialize
@@ -186,9 +205,12 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Reason
-            tier1: 2 + R damage; M < WEAK, prone
-            tier2: 4 + R damage; M < AVERAGE, prone
-            tier3: 6 + R damage; M < STRONG, prone
+            tier1: 2 + R damage; M < WEAK,
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+            tier2: 4 + R damage; M < AVERAGE,
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+            tier3: 6 + R damage; M < STRONG,
+              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
           - name: Effect
             effect: When targeting an object with a solid reflective surface or a creature
               carrying or wearing such an object (such as a mirror, an unpainted

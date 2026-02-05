@@ -62,6 +62,7 @@ metadata:
 effects:
   - name: Effect
     effect: Until the end of the encounter or until you are dying, each enemy who
-      starts their turn adjacent to you and has P < STRONG is frightened until
-      the end of their turn.
+      starts their turn adjacent to you and has P < STRONG is
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      until the end of their turn.
 ```

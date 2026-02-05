@@ -41,5 +41,7 @@ metadata:
 effects:
   - effect: Whenever you use the Charge main action, you can use a strike signature
       ability or a strike heroic ability instead of a free strike. Additionally,
-      you can jump as part of your charge.
+      you can
+      [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) as
+      part of your charge.
 ```

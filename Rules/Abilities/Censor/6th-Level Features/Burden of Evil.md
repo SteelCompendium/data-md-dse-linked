@@ -72,7 +72,13 @@ metadata:
   type: feature/ability/censor/6th-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: Slide 3; I < WEAK, dazed (save ends)
-    tier2: Slide 5; I < AVERAGE, dazed (save ends)
-    tier3: Slide 7; I < STRONG, dazed (save ends)
+    tier1: Slide 3; I < WEAK,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: Slide 5; I < AVERAGE,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: Slide 7; I < STRONG,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

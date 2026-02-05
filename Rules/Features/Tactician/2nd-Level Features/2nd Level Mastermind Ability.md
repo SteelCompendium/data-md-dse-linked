@@ -53,9 +53,15 @@ effects:
         target: One creature
         effects:
           - roll: Power Roll + Reason
-            tier1: 5 + R damage; taunted (EoT)
-            tier2: 9 + R damage; taunted (EoT)
-            tier3: 12 + R damage; taunted (EoT)
+            tier1: 5 + R damage;
+              [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+              (EoT)
+            tier2: 9 + R damage;
+              [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+              (EoT)
+            tier3: 12 + R damage;
+              [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+              (EoT)
           - name: Effect
             effect: One ally adjacent to the target can spend a Recovery.
       - type: feature

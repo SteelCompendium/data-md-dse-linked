@@ -53,9 +53,21 @@ effects:
         target: One creature
         effects:
           - roll: Power Roll + Might
-            tier1: 3 + M damage; P < WEAK, dazed and frightened (save ends)
-            tier2: 5 + M damage; P < AVERAGE, dazed and frightened (save ends)
-            tier3: 8 + M damage; P < STRONG, dazed and frightened (save ends)
+            tier1: 3 + M damage; P < WEAK,
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              and
+              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: 5 + M damage; P < AVERAGE,
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              and
+              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: 8 + M damage; P < STRONG,
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              and
+              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              (save ends)
       - type: feature
         feature_type: ability
         name: Phalanx-Breaker
@@ -72,7 +84,13 @@ effects:
             effect: You shift up to your speed and make one power roll that targets up to
               three enemies you move adjacent to during this shift.
           - roll: Power Roll + Might
-            tier1: 2 damage; A < WEAK, dazed (save ends)
-            tier2: 4 damage; A < AVERAGE, dazed (save ends)
-            tier3: 6 damage; A < STRONG, dazed (save ends)
+            tier1: 2 damage; A < WEAK,
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: 4 damage; A < AVERAGE,
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: 6 damage; A < STRONG,
+              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
 ```

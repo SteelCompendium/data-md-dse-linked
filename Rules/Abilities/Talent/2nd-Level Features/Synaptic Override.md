@@ -80,5 +80,7 @@ effects:
       in them suffering a condition or other negative effect. However, you can
       move them to provoke opportunity attacks.
   - name: Strained
-    effect: You take 1d6 damage and are weakened until the end of your turn.
+    effect: You take 1d6 damage and are
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      until the end of your turn.
 ```

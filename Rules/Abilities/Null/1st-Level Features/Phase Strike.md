@@ -74,6 +74,8 @@ effects:
     tier2: 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
     tier3: 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
   - name: Effect
-    effect: A target who goes out of phase is slowed, has their stability reduced by
-      2, and can't obtain a tier 3 outcome on ability rolls.
+    effect: A target who goes out of phase is
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D),
+      has their stability reduced by 2, and can't obtain a tier 3 outcome on
+      ability rolls.
 ```

@@ -77,6 +77,10 @@ effects:
       target can ignore that ally's stability. A creature can only be force
       moved this way once a turn.
   - name: Strained
-    effect: You are weakened (save ends). While you are weakened this way, whenever
-      you are force moved, the forced movement distance gains a +5 bonus.
+    effect: You are
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends). While you are
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      this way, whenever you are force moved, the forced movement distance gains
+      a +5 bonus.
 ```

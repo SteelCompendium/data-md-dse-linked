@@ -67,12 +67,20 @@ metadata:
   type: feature/ability/censor/8th-level-feature
 effects:
   - roll: Power Roll + Might
-    tier1: 9 + M damage; I < WEAK, weakened (save ends)
-    tier2: 13 + M damage; I < AVERAGE, weakened (save ends)
-    tier3: 18 + M damage; I < STRONG, weakened (save ends)
+    tier1: 9 + M damage; I < WEAK,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 13 + M damage; I < AVERAGE,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 18 + M damage; I < STRONG,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
-    effect: At the end of each of your turns, a target weakened this way deals holy
-      damage equal to twice your Presence score to each enemy within 2 squares
-      of them. Additionally, a target weakened this way can't be targeted by
-      their allies' abilities.
+    effect: At the end of each of your turns, a target
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      this way deals holy damage equal to twice your Presence score to each
+      enemy within 2 squares of them. Additionally, a target
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      this way can't be targeted by their allies' abilities.
 ```

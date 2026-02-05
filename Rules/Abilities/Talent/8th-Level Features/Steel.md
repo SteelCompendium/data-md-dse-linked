@@ -67,7 +67,10 @@ metadata:
   type: feature/ability/talent/8th-level-feature
 effects:
   - name: Effect
-    effect: The target has damage immunity 5 and can't be made slowed or weakened
+    effect: The target has damage immunity 5 and can't be made
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      or
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
       until the start of your next turn. Whenever the target force moves a
       creature or object while under this effect, the forced movement distance
       gains a +5 bonus.

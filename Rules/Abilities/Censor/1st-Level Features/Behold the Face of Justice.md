@@ -77,12 +77,20 @@ metadata:
 effects:
   - roll: Power Roll + Might
     tier1: 3 + M holy damage; if the target has P < WEAK, each enemy within 2
-      squares of them is frightened of you (save ends)
+      squares of them is
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      of you (save ends)
     tier2: 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2
-      squares of them is frightened of you (save ends)
+      squares of them is
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      of you (save ends)
     tier3: 8 + M holy damage; if the target has P < STRONG, each enemy within 2
-      squares of them is frightened of you (save ends)
+      squares of them is
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      of you (save ends)
   - name: Effect
-    effect: Each enemy frightened this way is pushed up to 2 squares away from the
-      target and takes psychic damage equal to your Presence score.
+    effect: Each enemy
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      this way is pushed up to 2 squares away from the target and takes psychic
+      damage equal to your Presence score.
 ```

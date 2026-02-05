@@ -85,6 +85,8 @@ effects:
               power roll.
           - roll: Power Roll + Agility
             tier1: The creature's speed is increased by 2 until the end of the encounter.
-            tier2: The creature can fly until the end of the encounter.
+            tier2: The creature can
+              [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D)
+              until the end of the encounter.
             tier3: The creature turns invisible until the end of their next turn.
 ```

@@ -68,10 +68,12 @@ effects:
   - name: Effect
     effect: Until the end of the encounter or until you are dying, each enemy target
       takes damage of your primordial damage type equal to twice your Might
-      score at the end of each of your turns. Additionally, you can fly while
+      score at the end of each of your turns. Additionally, you can
+      [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) while
       the aura is active. Each ally target who starts or ends their turn in the
-      area can also fly until the start of their next turn or until the effect
-      ends.
+      area can also
+      [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) until
+      the start of their next turn or until the effect ends.
   - name: Special
     effect: When you use this ability outside of combat without spending ferocity,
       you must spend 1 uninterrupted minute summoning a primordial storm that

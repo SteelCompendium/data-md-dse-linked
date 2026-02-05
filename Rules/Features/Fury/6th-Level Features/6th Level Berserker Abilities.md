@@ -51,8 +51,12 @@ effects:
         target: Self
         effects:
           - name: Effect
-            effect: You jump up to your maximum jump distance and make one power roll that
-              targets each creature adjacent to the space where you land.
+            effect: You
+              [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D)
+              up to your maximum
+              [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D)
+              distance and make one power roll that targets each creature
+              adjacent to the space where you land.
           - roll: Power Roll + Might
             tier1: 4 damage; push 1
             tier2: 7 damage; push 2

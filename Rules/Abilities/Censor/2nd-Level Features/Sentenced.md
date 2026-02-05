@@ -72,10 +72,17 @@ metadata:
   type: feature/ability/censor/2nd-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: 5 + P damage; P < WEAK, restrained (save ends)
-    tier2: 9 + P damage; P < AVERAGE, restrained (save ends)
-    tier3: 12 + P damage; P < STRONG, restrained (save ends)
+    tier1: 5 + P damage; P < WEAK,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 9 + P damage; P < AVERAGE,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 12 + P damage; P < STRONG,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
-    effect: While the target is restrained this way, your abilities that impose
-      forced movement can still move them.
+    effect: While the target is
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      this way, your abilities that impose forced movement can still move them.
 ```

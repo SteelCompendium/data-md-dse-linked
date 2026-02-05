@@ -70,7 +70,13 @@ metadata:
   type: feature/ability/shadow/8th-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 12 damage; M < WEAK, slowed (save ends)
-    tier2: 18 damage; M < AVERAGE, slowed (save ends)
-    tier3: 24 damage; M < STRONG, slowed (save ends)
+    tier1: 12 damage; M < WEAK,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 18 damage; M < AVERAGE,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 24 damage; M < STRONG,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

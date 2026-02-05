@@ -69,12 +69,21 @@ metadata:
   type: feature/ability/null/9th-level-feature
 effects:
   - roll: Power Roll + Intuition
-    tier1: 8 + I cold damage; M < WEAK, restrained (save ends)
-    tier2: 11 + I cold damage; M < AVERAGE, restrained (save ends)
-    tier3: 15 + I cold damage; M < STRONG, restrained (save ends)
+    tier1: 8 + I cold damage; M < WEAK,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 11 + I cold damage; M < AVERAGE,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 15 + I cold damage; M < STRONG,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
-    effect: While restrained this way, the target takes cold damage equal to your
-      Intuition score at the start of each of your turns. Additionally, whenever
-      the target damages another creature while restrained this way, any potency
-      associated with the damage is reduced by 2.
+    effect: While
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      this way, the target takes cold damage equal to your Intuition score at
+      the start of each of your turns. Additionally, whenever the target damages
+      another creature while
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      this way, any potency associated with the damage is reduced by 2.
 ```

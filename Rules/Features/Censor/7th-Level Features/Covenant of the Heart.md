@@ -55,8 +55,10 @@ effects:
         target: Self and each ally
         effects:
           - name: Effect
-            effect: Each target is teleported to unoccupied spaces within 5 squares of a
-              willing creature who you are bonded to with your Invocation of the
-              Heart feature. You don't need line of effect to the bonded
-              creature but you must be on the same world.
+            effect: Each target is
+              [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              to unoccupied spaces within 5 squares of a willing creature who
+              you are bonded to with your Invocation of the Heart feature. You
+              don't need line of effect to the bonded creature but you must be
+              on the same world.
 ```

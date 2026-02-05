@@ -67,9 +67,15 @@ metadata:
   type: feature/ability/troubadour/1st-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: 4 damage; P < WEAK, slowed (save ends)
-    tier2: 5 damage; P < AVERAGE, slowed (save ends)
-    tier3: 6 damage; P < STRONG, restrained (save ends)
+    tier1: 4 damage; P < WEAK,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 5 damage; P < AVERAGE,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 6 damage; P < STRONG,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
     effect: The area is difficult terrain for enemies.
 ```

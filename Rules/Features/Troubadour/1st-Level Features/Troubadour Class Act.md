@@ -37,12 +37,18 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/troubadour/1st-level-feature
 effects:
-  - effect: Panache, melody, and depiction. Some troubadours have it all, but
-      everyone starts somewhere. Your troubadour class act is your art form,
-      summing up the manner in which the world becomes your stage. As you go
-      about unearthing the drama of everyday life and strife, you choose a
-      troubadour class act from the following options, each of which grants you
-      a skill. (*Quick Build:* Virtuoso.)
-  - effect: Your troubadour class act is your subclass, and your choice of class act
-      determines many of the features you'll gain as you gain new levels.
+  - effect: Panache, melody, and depiction. Some
+      [troubadours](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D)
+      have it all, but everyone starts somewhere. Your
+      [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D)
+      class act is your art form, summing up the manner in which the world
+      becomes your stage. As you go about unearthing the drama of everyday life
+      and strife, you choose a
+      [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D)
+      class act from the following options, each of which grants you a skill.
+      (*Quick Build:* Virtuoso.)
+  - effect: Your
+      [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D)
+      class act is your subclass, and your choice of class act determines many
+      of the features you'll gain as you gain new levels.
 ```

@@ -70,8 +70,10 @@ metadata:
   type: feature/ability/elementalist/2nd-level-feature
 effects:
   - name: Effect
-    effect: The target is teleported to another space within distance. Make a power
-      roll that affects each enemy adjacent to the target's new space.
+    effect: The target is
+      [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      to another space within distance. Make a power roll that affects each
+      enemy adjacent to the target's new space.
   - roll: Power Roll + Reason
     tier1: 3 fire damage
     tier2: 5 fire damage

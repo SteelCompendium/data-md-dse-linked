@@ -69,7 +69,10 @@ effects:
     tier2: 6 + A damage; push 4
     tier3: 8 + A damage; push 6
   - name: Effect
-    effect: Before the push is resolved, you teleport the target to a square
-      adjacent to you and opposite the one they started in. If the target can't
-      be teleported this way, you can't push them.
+    effect: Before the push is resolved, you
+      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      the target to a square adjacent to you and opposite the one they started
+      in. If the target can't be
+      [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+      this way, you can't push them.
 ```

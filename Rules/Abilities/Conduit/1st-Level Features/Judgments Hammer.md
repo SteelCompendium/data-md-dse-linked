@@ -67,7 +67,11 @@ metadata:
   type: feature/ability/conduit/1st-level-feature
 effects:
   - roll: Power Roll + Intuition
-    tier1: 3 + I holy damage; A < WEAK, prone
-    tier2: 6 + I holy damage; A < AVERAGE, prone
-    tier3: 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
+    tier1: 3 + I holy damage; A < WEAK,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier2: 6 + I holy damage; A < AVERAGE,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier3: 9 + I holy damage; A < STRONG,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      and can't stand (save ends)
 ```

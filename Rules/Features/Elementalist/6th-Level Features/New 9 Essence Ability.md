@@ -57,10 +57,11 @@ effects:
         target: Self or one ally
         effects:
           - name: Effect
-            effect: The target has a +3 bonus to speed, they can fly, and their abilities
-              ignore concealment. Additionally, whenever the target gains their
-              Heroic Resource, they gain 1 additional Heroic Resource. This
-              effect lasts until the start of your next turn.
+            effect: The target has a +3 bonus to speed, they can
+              [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D),
+              and their abilities ignore concealment. Additionally, whenever the
+              target gains their Heroic Resource, they gain 1 additional Heroic
+              Resource. This effect lasts until the start of your next turn.
           - name: Persistent 1
             effect: The effect lasts until the start of your next turn.
       - type: feature
@@ -80,26 +81,13 @@ effects:
         target: Self or one ally
         effects:
           - name: Effect
-            effect: >-
-              Until the start of your next turn, the target has the following
-              benefits:
-
-              - Their size and stability increase by 2, with any size 1 target
-              becoming size 3. Each creature who is within the target's new
-              space slides to the nearest unoccupied space, ignoring stability.
-              If the target doesn't have space to grow, they grow as much as
-              they can and become restrained until the effect ends.
-
+            effect: |-
+              Until the start of your next turn, the target has the following benefits:
+              - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) until the effect ends.
               - They have fire immunity 10.
-
-              - Their strikes deal extra fire damage equal to twice your Reason
-              score.
-
-              - When the target force moves a creature or object, the forced
-              movement distance gains a +2 bonus.
-
-              - They can use their highest characteristic instead of Might for
-              Might power rolls.
+              - Their strikes deal extra fire damage equal to twice your Reason score.
+              - When the target force moves a creature or object, the forced movement distance gains a +2 bonus.
+              - They can use their highest characteristic instead of Might for Might power rolls.
           - name: Persistent 2
             effect: The effect lasts until the start of your next turn. Additionally, at the
               start of your turn, the target can spend 2 Recoveries.
@@ -120,16 +108,23 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Reason
-            tier1: You teleport the target up to 4 squares.
-            tier2: You teleport the target up to 6 squares.
-            tier3: You teleport the target up to 8 squares.
+            tier1: You
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              the target up to 4 squares.
+            tier2: You
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              the target up to 6 squares.
+            tier3: You
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              the target up to 8 squares.
           - name: Effect
-            effect: If the target is teleported to a space where they would fall, they
-              immediately do so, treating the fall as if their Agility score
-              were 0. The target takes fire damage from the fall, and each enemy
-              within 3 squares of where they land takes the same amount of fire
-              damage. The ground within 3 squares of where the target lands is
-              difficult terrain.
+            effect: If the target is
+              [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              to a space where they would fall, they immediately do so, treating
+              the fall as if their Agility score were 0. The target takes fire
+              damage from the fall, and each enemy within 3 squares of where
+              they land takes the same amount of fire damage. The ground within
+              3 squares of where the target lands is difficult terrain.
       - type: feature
         feature_type: ability
         name: The Wode Remembers and Returns

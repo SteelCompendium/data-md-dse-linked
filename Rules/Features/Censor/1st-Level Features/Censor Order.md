@@ -37,10 +37,15 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/censor/1st-level-feature
 effects:
-  - effect: Censors are the will of their god made physically manifest, and you act
-      as your god's agent in the world. As you shoulder that responsibility, you
-      choose a censor order from the following options, each of which grants you
-      a skill. (*Quick Build:* Paragon.)
-  - effect: Your censor order is your subclass, and your choice of order determines
-      many of the features you'll gain as you gain new levels.
+  - effect: "[Censors](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%\
+      7D) are the will of their god made physically manifest, and you act as
+      your god's agent in the world. As you shoulder that responsibility, you
+      choose a
+      [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D)
+      order from the following options, each of which grants you a skill.
+      (*Quick Build:* Paragon.)"
+  - effect: Your
+      [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D)
+      order is your subclass, and your choice of order determines many of the
+      features you'll gain as you gain new levels.
 ```

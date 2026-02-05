@@ -65,7 +65,10 @@ metadata:
   type: feature/ability/null/1st-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 4 + A damage; A < WEAK, grabbed
-    tier2: 7 + A damage; A < AVERAGE, grabbed
-    tier3: 9 + A damage; A < STRONG, grabbed
+    tier1: 4 + A damage; A < WEAK,
+      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+    tier2: 7 + A damage; A < AVERAGE,
+      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+    tier3: 9 + A damage; A < STRONG,
+      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
 ```

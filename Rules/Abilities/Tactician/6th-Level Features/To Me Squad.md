@@ -84,7 +84,9 @@ effects:
       charge
   - name: Effect
     effect: If the target is hit with two or more strikes as part of this ability
-      and they have R < STRONG, they are dazed (save ends). If the target is
-      reduced to 0 Stamina before one or both allies has made their strike, the
-      ally or allies can pick a different target.
+      and they have R < STRONG, they are
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends). If the target is reduced to 0 Stamina before one or both
+      allies has made their strike, the ally or allies can pick a different
+      target.
 ```

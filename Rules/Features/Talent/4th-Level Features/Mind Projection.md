@@ -39,10 +39,12 @@ metadata:
 effects:
   - effect: >-
       As a maneuver, you project your mind outside your body. While you are in
-      this state, your body remains unconscious and prone, and your mind is a
-      separate entity with size 1T. Your mind automatically has concealment, and
-      can freely move through solid matter. If you end your turn inside solid
-      matter, you are forced out into the space where you entered it.
+      this state, your body remains unconscious and
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D),
+      and your mind is a separate entity with size 1T. Your mind automatically
+      has concealment, and can freely move through solid matter. If you end your
+      turn inside solid matter, you are forced out into the space where you
+      entered it.
 
 
       Any abilities or features you use originate from your mind. Both your mind

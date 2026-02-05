@@ -67,10 +67,18 @@ metadata:
   type: feature/ability/fury/1st-level-feature
 effects:
   - roll: Power Roll + Might
-    tier1: 3 + M damage; M < WEAK, bleeding (save ends)
-    tier2: 5 + M damage; M < AVERAGE, bleeding (save ends)
-    tier3: 8 + M damage; M < STRONG, bleeding (save ends)
+    tier1: 3 + M damage; M < WEAK,
+      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 5 + M damage; M < AVERAGE,
+      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 8 + M damage; M < STRONG,
+      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
-    effect: While bleeding this way, the target takes damage equal to your Might
-      score at the end of each of your turns.
+    effect: While
+      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+      this way, the target takes damage equal to your Might score at the end of
+      each of your turns.
 ```

@@ -69,7 +69,8 @@ effects:
   - roll: Power Roll + Reason
     tier1: 3 damage
     tier2: 5 damage
-    tier3: 8 damage; M < STRONG, prone
+    tier3: 8 damage; M < STRONG,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
   - name: Effect
     effect: You must be touching the ground to use this ability. Additionally, you
       can choose a square of ground in the area that is unoccupied or is

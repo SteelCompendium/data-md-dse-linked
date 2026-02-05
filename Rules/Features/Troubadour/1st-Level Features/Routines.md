@@ -42,10 +42,11 @@ effects:
       Performances are magical presentations (such as songs, dances, poems, or
       gymnastic feats) that your allies can participate in. These abilities have
       the Performance keyword. At the start of each combat round, as long as you
-      are not dazed, dead, or surprised, you can either choose a new performance
-      or maintain your current performance (no action required). Your
-      performance lasts until you are unable to maintain it or until the end of
-      the encounter.
+      are not
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D),
+      dead, or surprised, you can either choose a new performance or maintain
+      your current performance (no action required). Your performance lasts
+      until you are unable to maintain it or until the end of the encounter.
 
 
       You start off with the Choreography and Revitalizing Limerick performance

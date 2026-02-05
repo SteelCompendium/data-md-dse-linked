@@ -65,7 +65,13 @@ metadata:
   type: feature/ability/null/1st-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 4 + A damage; A < WEAK, weakened (save ends)
-    tier2: 7 + A damage; A < AVERAGE, weakened (save ends)
-    tier3: 9 + A damage; A < STRONG, weakened (save ends)
+    tier1: 4 + A damage; A < WEAK,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 7 + A damage; A < AVERAGE,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 9 + A damage; A < STRONG,
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

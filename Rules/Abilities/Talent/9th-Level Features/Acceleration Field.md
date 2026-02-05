@@ -77,7 +77,13 @@ effects:
   - name: Strained
     effect: Make a power roll that targets you and each enemy within distance.
   - roll: Power Roll + Presence
-    tier1: 4 corruption damage; slowed (save ends)
-    tier2: 6 corruption damage; slowed (save ends)
-    tier3: 10 corruption damage; slowed (save ends)
+    tier1: 4 corruption damage;
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 6 corruption damage;
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 10 corruption damage;
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

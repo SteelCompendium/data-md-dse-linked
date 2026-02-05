@@ -79,7 +79,13 @@ effects:
               you can make the following weapon strike with a distance of melee
               1 against a creature.
           - roll: Power Roll + Reason
-            tier1: 2 + R damage; R < WEAK, frightened (save ends)
-            tier2: 3 + R damage; R < AVERAGE, frightened (save ends)
-            tier3: 4 + R damage; R < STRONG, frightened (save ends)
+            tier1: 2 + R damage; R < WEAK,
+              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: 3 + R damage; R < AVERAGE,
+              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: 4 + R damage; R < STRONG,
+              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              (save ends)
 ```

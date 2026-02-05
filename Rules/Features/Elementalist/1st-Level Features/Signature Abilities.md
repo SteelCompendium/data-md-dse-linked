@@ -99,7 +99,9 @@ effects:
             tier2: 6 + R corruption damage
             tier3: 9 + R corruption damage
           - name: Effect
-            effect: You can teleport up to a number of squares equal to your Reason score.
+            effect: You can
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              up to a number of squares equal to your Reason score.
       - type: feature
         feature_type: ability
         name: The Green Within, the Green Without
@@ -150,9 +152,15 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Reason
-            tier1: 2 + R corruption damage; R < WEAK, slowed (save ends)
-            tier2: 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-            tier3: 6 + R corruption damage; R < STRONG, slowed (save ends)
+            tier1: 2 + R corruption damage; R < WEAK,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: 4 + R corruption damage; R < AVERAGE,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: 6 + R corruption damage; R < STRONG,
+              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              (save ends)
       - type: feature
         feature_type: ability
         name: Unquiet Ground

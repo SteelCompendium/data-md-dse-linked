@@ -75,9 +75,13 @@ metadata:
   type: feature/ability/talent/2nd-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: 6 + R damage; M < WEAK, prone
-    tier2: 10 + R damage; M < AVERAGE, prone
-    tier3: 14 + R damage; M < STRONG, prone and can't stand (save ends)
+    tier1: 6 + R damage; M < WEAK,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier2: 10 + R damage; M < AVERAGE,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier3: 14 + R damage; M < STRONG,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      and can't stand (save ends)
   - name: Strained
     effect: You take half the damage the target takes.
 ```

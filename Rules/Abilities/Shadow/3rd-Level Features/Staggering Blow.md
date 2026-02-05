@@ -70,7 +70,13 @@ metadata:
   type: feature/ability/shadow/3rd-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 7 + A damage; M < WEAK, slowed (save ends)
-    tier2: 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-    tier3: 16 + A damage; M < STRONG, prone and can't stand (save ends)
+    tier1: 7 + A damage; M < WEAK,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 11 + A damage; M < AVERAGE,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      and can't stand (save ends)
+    tier3: 16 + A damage; M < STRONG,
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      and can't stand (save ends)
 ```

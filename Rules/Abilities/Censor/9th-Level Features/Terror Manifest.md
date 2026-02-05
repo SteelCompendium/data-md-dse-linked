@@ -69,12 +69,21 @@ metadata:
   type: feature/ability/censor/9th-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: 7 + P psychic damage; P < WEAK, frightened (save ends)
-    tier2: 10 + P psychic damage; P < AVERAGE, frightened (save ends)
-    tier3: 13 + P psychic damage; P < STRONG, frightened (save ends)
+    tier1: 7 + P psychic damage; P < WEAK,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 10 + P psychic damage; P < AVERAGE,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 13 + P psychic damage; P < STRONG,
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
-    effect: While frightened this way, if a target who is a leader or solo creature
-      is winded, they take an extra 25 psychic damage. If a target frightened
+    effect: While
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      this way, if a target who is a leader or solo creature is winded, they
+      take an extra 25 psychic damage. If a target
+      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
       this way is not a leader or solo creature and is winded, they are reduced
       to 0 Stamina.
 ```

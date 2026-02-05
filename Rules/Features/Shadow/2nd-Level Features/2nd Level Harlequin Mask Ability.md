@@ -75,7 +75,8 @@ effects:
         effects:
           - name: Effect
             effect: You use your Clever Trick ability with no insight cost against the
-              triggering creature and strike. You can teleport to an unoccupied
-              space within 3 squares of that creature and can make a free strike
-              against them. You can then spend a Recovery.
+              triggering creature and strike. You can
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              to an unoccupied space within 3 squares of that creature and can
+              make a free strike against them. You can then spend a Recovery.
 ```

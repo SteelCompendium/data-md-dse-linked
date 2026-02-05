@@ -73,7 +73,13 @@ metadata:
   type: feature/ability/elementalist/2nd-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: 5 + R fire damage; A < WEAK, restrained (save ends)
-    tier2: 9 + R fire damage; A < AVERAGE, restrained (save ends)
-    tier3: 12 + R fire damage; A < STRONG, restrained (save ends)
+    tier1: 5 + R fire damage; A < WEAK,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 9 + R fire damage; A < AVERAGE,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 12 + R fire damage; A < STRONG,
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

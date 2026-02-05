@@ -116,9 +116,12 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Agility
-            tier1: 4 + A damage; A < WEAK, grabbed
-            tier2: 7 + A damage; A < AVERAGE, grabbed
-            tier3: 9 + A damage; A < STRONG, grabbed
+            tier1: 4 + A damage; A < WEAK,
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+            tier2: 7 + A damage; A < AVERAGE,
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+            tier3: 9 + A damage; A < STRONG,
+              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
       - type: feature
         feature_type: ability
         name: Kinetic Strike
@@ -133,9 +136,15 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Agility
-            tier1: 4 + A damage; taunted (EoT)
-            tier2: 5 + A damage; taunted (EoT), slide 1
-            tier3: 6 + A damage; taunted (EoT), slide 2
+            tier1: 4 + A damage;
+              [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+              (EoT)
+            tier2: 5 + A damage;
+              [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+              (EoT), slide 1
+            tier3: 6 + A damage;
+              [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+              (EoT), slide 2
       - type: feature
         feature_type: ability
         name: Magnetic Strike
@@ -172,9 +181,12 @@ effects:
             tier2: 6 + A damage; push 4
             tier3: 8 + A damage; push 6
           - name: Effect
-            effect: Before the push is resolved, you teleport the target to a square
-              adjacent to you and opposite the one they started in. If the
-              target can't be teleported this way, you can't push them.
+            effect: Before the push is resolved, you
+              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              the target to a square adjacent to you and opposite the one they
+              started in. If the target can't be
+              [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              this way, you can't push them.
       - type: feature
         feature_type: ability
         name: Pressure Points
@@ -189,7 +201,13 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Agility
-            tier1: 4 + A damage; A < WEAK, weakened (save ends)
-            tier2: 7 + A damage; A < AVERAGE, weakened (save ends)
-            tier3: 9 + A damage; A < STRONG, weakened (save ends)
+            tier1: 4 + A damage; A < WEAK,
+              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier2: 7 + A damage; A < AVERAGE,
+              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              (save ends)
+            tier3: 9 + A damage; A < STRONG,
+              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              (save ends)
 ```

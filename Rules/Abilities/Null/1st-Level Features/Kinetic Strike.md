@@ -65,7 +65,13 @@ metadata:
   type: feature/ability/null/1st-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 4 + A damage; taunted (EoT)
-    tier2: 5 + A damage; taunted (EoT), slide 1
-    tier3: 6 + A damage; taunted (EoT), slide 2
+    tier1: 4 + A damage;
+      [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+      (EoT)
+    tier2: 5 + A damage;
+      [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+      (EoT), slide 1
+    tier3: 6 + A damage;
+      [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+      (EoT), slide 2
 ```

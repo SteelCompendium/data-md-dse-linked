@@ -66,5 +66,7 @@ effects:
     tier3: Each target gains 3 surges.
   - name: Effect
     effect: A target can end one effect on them that is ended by a saving throw or
-      that ends at the end of their turn, or a prone target can stand up.
+      that ends at the end of their turn, or a
+      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      target can stand up.
 ```

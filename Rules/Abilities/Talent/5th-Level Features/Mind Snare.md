@@ -73,14 +73,26 @@ metadata:
   type: feature/ability/talent/5th-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: 10 + R psychic damage; R < WEAK, slowed (save ends)
-    tier2: 14 + R psychic damage; R < AVERAGE, slowed (save ends)
-    tier3: 20 + R psychic damage; R < STRONG, slowed (save ends)
+    tier1: 10 + R psychic damage; R < WEAK,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 14 + R psychic damage; R < AVERAGE,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 20 + R psychic damage; R < STRONG,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
   - name: Effect
-    effect: While slowed this way, the target takes 3 psychic damage for each square
-      they willingly leave.
+    effect: While
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      this way, the target takes 3 psychic damage for each square they willingly
+      leave.
   - name: Strained
-    effect: While slowed this way, the target instead takes 5 psychic damage for
-      each square they willingly leave. You have a double bane on ability rolls
-      made against the target while they are slowed this way.
+    effect: While
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      this way, the target instead takes 5 psychic damage for each square they
+      willingly leave. You have a double bane on ability rolls made against the
+      target while they are
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      this way.
 ```

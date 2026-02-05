@@ -67,7 +67,13 @@ metadata:
   type: feature/ability/censor/1st-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: 5 + P holy damage; I < WEAK, dazed (save ends)
-    tier2: 8 + P holy damage; I < AVERAGE, dazed (save ends)
-    tier3: 11 + P holy damage; I < STRONG, dazed (save ends)
+    tier1: 5 + P holy damage; I < WEAK,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier2: 8 + P holy damage; I < AVERAGE,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
+    tier3: 11 + P holy damage; I < STRONG,
+      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+      (save ends)
 ```

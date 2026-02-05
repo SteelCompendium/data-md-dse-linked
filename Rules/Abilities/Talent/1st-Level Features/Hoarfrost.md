@@ -65,10 +65,21 @@ metadata:
   type: feature/ability/talent/1st-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: 2 + R cold damage; M < WEAK, slowed (EoT)
-    tier2: 4 + R cold damage; M < AVERAGE, slowed (EoT)
-    tier3: 6 + R cold damage; M < STRONG, slowed (EoT)
+    tier1: 2 + R cold damage; M < WEAK,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (EoT)
+    tier2: 4 + R cold damage; M < AVERAGE,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (EoT)
+    tier3: 6 + R cold damage; M < STRONG,
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      (EoT)
   - name: Strained
-    effect: You are slowed until the end of your next turn. Additionally, a target
-      slowed by this ability is restrained instead.
+    effect: You are
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      until the end of your next turn. Additionally, a target
+      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+      by this ability is
+      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      instead.
 ```

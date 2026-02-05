@@ -73,6 +73,7 @@ effects:
     tier2: 6 damage; vertical push 4
     tier3: 9 damage; vertical push 6
   - name: Strained
-    effect: The size of the burst increases by 1, and you are weakened until the end
-      of your turn.
+    effect: The size of the burst increases by 1, and you are
+      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+      until the end of your turn.
 ```
