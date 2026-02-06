@@ -56,7 +56,7 @@ effects:
       adjacent willing ally. When a creature eats a Life Fruit, they restore all
       their Stamina, they can end all conditions or effects on themself, and
       they can stand up if
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
       Additionally, if the creature desires, their aging pauses for 1d10 years.
       If the creature eats additional Life Fruit and chooses to pause their
       aging, the effects don't stack. Instead, the creature gains the benefit

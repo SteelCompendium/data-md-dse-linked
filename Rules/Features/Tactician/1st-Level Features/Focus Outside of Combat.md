@@ -37,26 +37,35 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/tactician/1st-level-feature
 effects:
-  - effect: |-
-      Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+  - effect: >-
+      Though you can't gain focus outside of combat, you can use your heroic
+      abilities and effects that cost focus without spending it. Whenever you
+      use an ability or effect outside of combat that costs focus, you can't use
+      that same ability or effect outside of combat again until you earn 1 or
+      more Victories or finish a respite.
 
-      When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D), but they might appear in future products.)
+
+      When you use an ability outside of combat that lets you spend unlimited
+      focus on its effect, you can use it as if you had spent an amount of focus
+      equal to your Victories. (Such abilities aren't part of the core rules for
+      the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX),
+      but they might appear in future products.)
     features:
       - type: feature
         feature_type: trait
         name: Tactician Abilities Explained
         effects:
           - effect: Many of the
-              [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D)'s
+              [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s
               abilities grant allies extra movement, damage, and actions. But
               what's happening in the fiction to allow this? The
-              [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D)
+              [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)
               is an incredible strategist and inspiring leader who is quick to
               give commands and inspiration that causes their allies to act. The
-              [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D)
+              [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)
               can quickly read the battlefield, analyze enemies, and then bark
               orders and encouragement that pushes their allies to greatness.
               Many of the names of the
-              [tactician](%7BREL_PATH_PREFIX%7DRules/Classes/Tactician%7BREL_PATH_SUFFIX%7D)'s
+              [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s
               abilities are the actual commands they give their friends!
 ```

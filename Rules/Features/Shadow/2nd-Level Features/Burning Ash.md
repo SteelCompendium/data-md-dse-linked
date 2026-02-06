@@ -40,10 +40,9 @@ metadata:
   type: feature/trait/shadow/2nd-level-feature
 effects:
   - effect: The ash you leave behind burns your foes. The first time on a turn that
-      you use a
-      [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D)
+      you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)
       ability to
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      away from or into a space adjacent to an enemy, that enemy takes fire
-      damage equal to your Agility score.
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away
+      from or into a space adjacent to an enemy, that enemy takes fire damage
+      equal to your Agility score.
 ```

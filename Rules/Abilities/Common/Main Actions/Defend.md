@@ -36,7 +36,6 @@ effects:
       Additionally, you have a double edge on tests when called for to resist
       environmental effects or a creature's traits or abilities. A creature
       gains no benefit from this action while another creature is
-      [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX\
-      %7D) by them (see [Conditions](#page-91-2) in [Chapter 5:
-      Classes](#page-83-2))."
+      [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by them
+      (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2))."
 ```

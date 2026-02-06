@@ -72,23 +72,23 @@ metadata:
 effects:
   - roll: Power Roll + Might
     tier1: 9 + M damage; M < WEAK,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
     tier2: 13 + M damage; M < AVERAGE,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
     tier3: 18 + M damage; M < STRONG,
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (save ends)
   - name: Effect
     effect: While the target is
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      this way, any other effect that would make the target
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      instead makes them
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
-      by this ability. Additionally, a creature who fails the saving throw while
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) this way,
+      any other effect that would make the target
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) instead
+      makes them
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) by
+      this ability. Additionally, a creature who fails the saving throw while
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       this way is petrified until they are given a supernatural cure or you
       choose to reverse the effect (no action required).
 ```

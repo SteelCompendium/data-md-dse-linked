@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 2nd-level [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), you gain the following features.
 
 #### Perk
 
@@ -75,11 +75,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 15 + M holy damage; P < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) (save ends)
+> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) (save ends)
+> - **17+:** 15 + M holy damage; P < STRONG, [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) (save ends)
 >
-> **Effect:** If the target is already [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+> **Effect:** If the target is already [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
 <!-- -->
 > ###### Revelator (5 Wrath)
@@ -146,8 +146,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; P < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 12 + P damage; P < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 5 + P damage; P < WEAK, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
+> - **17+:** 12 + P damage; P < STRONG, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
 >
-> **Effect:** While the target is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, your abilities that impose forced movement can still move them.
+> **Effect:** While the target is [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) this way, your abilities that impose forced movement can still move them.

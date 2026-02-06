@@ -33,10 +33,10 @@ type: title/2nd-echelon
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 7 damage; M < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
-> - **12-16:** 11 damage; M < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
-> - **17+:** 16 damage; M < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (save ends)
+> - **≤11:** 7 damage; M < WEAK, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and can't stand (save ends)
+> - **12-16:** 11 damage; M < AVERAGE, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and can't stand (save ends)
+> - **17+:** 16 damage; M < STRONG, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and can't stand (save ends)
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
-- *Up the Beanstalk:* You have the \[Climb\]({REL_PATH_PREFIX}Rules/Movement/Climb or Swim{REL_PATH_SUFFIX}) skill. If you already have this skill, you instead gain an edge on tests made using the \[Climb\]({REL_PATH_PREFIX}Rules/Movement/Climb or Swim{REL_PATH_SUFFIX}) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the \[Climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) skill. If you already have this skill, you instead gain an edge on tests made using the \[Climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.

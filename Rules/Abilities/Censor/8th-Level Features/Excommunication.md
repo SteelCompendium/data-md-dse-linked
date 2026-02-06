@@ -68,19 +68,19 @@ metadata:
 effects:
   - roll: Power Roll + Might
     tier1: 9 + M damage; I < WEAK,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
     tier2: 13 + M damage; I < AVERAGE,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
     tier3: 18 + M damage; I < STRONG,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
   - name: Effect
     effect: At the end of each of your turns, a target
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      this way deals holy damage equal to twice your Presence score to each
-      enemy within 2 squares of them. Additionally, a target
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      this way can't be targeted by their allies' abilities.
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) this
+      way deals holy damage equal to twice your Presence score to each enemy
+      within 2 squares of them. Additionally, a target
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) this
+      way can't be targeted by their allies' abilities.
 ```

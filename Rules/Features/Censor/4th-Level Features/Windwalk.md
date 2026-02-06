@@ -40,8 +40,7 @@ metadata:
   type: feature/trait/censor/4th-level-feature
 effects:
   - effect: While you have 5 or more Victories, you can
-      [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D). If
-      you can already
-      [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), you
-      have a +2 bonus to speed while flying instead.
+      [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can
+      already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have
+      a +2 bonus to speed while flying instead.
 ```

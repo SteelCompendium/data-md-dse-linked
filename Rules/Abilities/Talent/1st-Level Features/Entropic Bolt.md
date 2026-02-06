@@ -66,14 +66,14 @@ metadata:
 effects:
   - roll: Power Roll + Presence
     tier1: 2 + P corruption damage; P < WEAK,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
     tier2: 3 + P corruption damage; P < AVERAGE,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
     tier3: 5 + P corruption damage; P < STRONG,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
   - name: Effect
     effect: The target takes an extra 1 corruption damage for each additional time
       they are targeted by this ability during the encounter.

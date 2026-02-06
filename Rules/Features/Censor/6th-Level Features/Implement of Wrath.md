@@ -37,11 +37,26 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/censor/6th-level-feature
 effects:
-  - effect: |-
-      Each time you finish a respite, you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's wrath. The weapon becomes magic and gains the following benefits until your next respite:
+  - effect: >-
+      Each time you finish a respite, you can choose one hero's weapon,
+      including your own, to channel supernatural power as an implement of your
+      god's wrath. The weapon becomes magic and gains the following benefits
+      until your next respite:
 
-      - Strikes with the weapon deal extra holy damage equal to the wielder's highest characteristic score.
-      - Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) and [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends).
-      - Any minion targeted by a strike using the weapon dies. That minion's Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad.
-      - The weapon's wielder can't be made [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D).
+
+      - Strikes with the weapon deal extra holy damage equal to the wielder's
+      highest characteristic score.
+
+      - Any creature struck by the weapon who has holy weakness and has P <
+      STRONG is
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
+      and [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
+      (save ends).
+
+      - Any minion targeted by a strike using the weapon dies. That minion's
+      Stamina maximum is removed from the minion Stamina pool before any damage
+      is applied to the rest of the squad.
+
+      - The weapon's wielder can't be made
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX).
 ```

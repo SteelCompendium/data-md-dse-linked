@@ -71,12 +71,9 @@ metadata:
 effects:
   - roll: Power Roll + Might
     tier1: 3 + M damage; M < WEAK,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
     tier2: 5 + M damage; M < AVERAGE,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
     tier3: 8 + M damage; M < STRONG,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
 ```

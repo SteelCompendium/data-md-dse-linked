@@ -71,14 +71,11 @@ metadata:
 effects:
   - roll: Power Roll + Agility
     tier1: 10 + A damage; P < WEAK,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
     tier2: 15 + A damage; P < AVERAGE,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
     tier3: 21 + A damage; P < STRONG,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
   - name: Effect
     effect: The target can't communicate with anyone until the end of the encounter.
 ```

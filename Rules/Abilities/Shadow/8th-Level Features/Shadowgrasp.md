@@ -68,12 +68,12 @@ metadata:
 effects:
   - roll: Power Roll + Agility
     tier1: 11 corruption damage; A < WEAK,
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (save ends)
     tier2: 16 corruption damage; A < AVERAGE,
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (save ends)
     tier3: 21 corruption damage; A < STRONG,
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (save ends)
 ```

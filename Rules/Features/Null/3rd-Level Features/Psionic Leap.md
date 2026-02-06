@@ -37,9 +37,7 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/null/3rd-level-feature
 effects:
-  - effect: You can long
-      [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) and
-      high [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D)
-      a distance equal to twice your Agility score without needing to make a
-      test.
+  - effect: You can long [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX)
+      and high [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) a
+      distance equal to twice your Agility score without needing to make a test.
 ```

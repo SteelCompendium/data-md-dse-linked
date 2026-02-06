@@ -68,18 +68,15 @@ metadata:
 effects:
   - roll: Power Roll + Might
     tier1: 3 + M damage; P < WEAK,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      and
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) and
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier2: 5 + M damage; P < AVERAGE,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      and
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) and
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier3: 8 + M damage; P < STRONG,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      and
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) and
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
 ```

@@ -71,14 +71,13 @@ metadata:
 effects:
   - roll: Power Roll + Agility
     tier1: 10 + A damage; A < WEAK,
-      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
     tier2: 14 + A damage; A < AVERAGE,
-      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
     tier3: 18 + A damage; A < STRONG,
-      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
   - name: Effect
-    effect: While
-      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+    effect: While [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
       this way, the target takes a bane on the Escape Grab maneuver. Each time
       they use that maneuver, they take damage equal to twice your Agility
       score.

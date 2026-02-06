@@ -70,14 +70,14 @@ metadata:
 effects:
   - roll: Power Roll + Presence
     tier1: The target's speed is halved (save ends), or if P < WEAK, the target is
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends).
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends).
     tier2: The target is
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends), or if P < AVERAGE, the target's speed is 0 (save ends).
     tier3: The target is
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends), or if P < STRONG, the target's speed is 0 (save ends).
   - name: Effect
     effect: A target can't use triggered actions while their speed is reduced this way.
   - name: Strained

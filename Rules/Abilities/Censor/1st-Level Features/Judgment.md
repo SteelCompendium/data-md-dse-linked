@@ -57,14 +57,38 @@ metadata:
   type: feature/ability/censor/1st-level-feature
 effects:
   - name: Effect
-    effect: |-
-      The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D) judges the target.
-      Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
-      When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
-      Additionally, you can spend 1 wrath to take one of the following free triggered actions:
-      - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
-      - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
-      - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-      - If you damage a creature judged by you with a melee ability, the creature is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you until the end of their next turn.
-      You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
+    effect: >-
+      The target is judged by you until the end of the encounter, you use this
+      ability again, you willingly end this effect (no action required), or
+      another [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX)
+      judges the target.
+
+      Whenever a creature judged by you uses a main action and is within your
+      line of effect, you can use a free triggered action to deal holy damage
+      equal to twice your Presence score to them.
+
+      When a creature judged by you is reduced to 0 Stamina, you can use a free
+      triggered action to use this ability against a new target.
+
+      Additionally, you can spend 1 wrath to take one of the following free
+      triggered actions:
+
+      - When an adjacent creature judged by you starts to shift, you make a
+      melee free strike against them and their speed becomes 0 until the end of
+      the current turn, preventing them from shifting.
+
+      - When a creature judged by you within 10 squares makes a power roll, you
+      cause them to take a bane on the roll.
+
+      - When a creature judged by you within 10 squares uses an ability with a
+      potency that targets only one creature, the potency is reduced by 1 for
+      that creature.
+
+      - If you damage a creature judged by you with a melee ability, the
+      creature is
+      [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by you
+      until the end of their next turn.
+
+      You can choose only one free triggered action option at a time, even if
+      multiple options are triggered by the same effect.
 ```

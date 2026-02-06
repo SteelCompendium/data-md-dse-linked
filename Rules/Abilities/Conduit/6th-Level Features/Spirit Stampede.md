@@ -70,12 +70,12 @@ metadata:
 effects:
   - roll: Power Roll + Intuition
     tier1: 5 damage; M < WEAK,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      and can't stand (save ends)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and can't
+      stand (save ends)
     tier2: 8 damage; M < AVERAGE,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      and can't stand (save ends)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and can't
+      stand (save ends)
     tier3: 11 damage; M < STRONG,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      and can't stand (save ends)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and can't
+      stand (save ends)
 ```

@@ -70,20 +70,20 @@ metadata:
 effects:
   - roll: Power Roll + Presence
     tier1: 7 + P psychic damage; P < WEAK,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier2: 10 + P psychic damage; P < AVERAGE,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier3: 13 + P psychic damage; P < STRONG,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
   - name: Effect
     effect: While
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       this way, if a target who is a leader or solo creature is winded, they
       take an extra 25 psychic damage. If a target
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       this way is not a leader or solo creature and is winded, they are reduced
       to 0 Stamina.
 ```

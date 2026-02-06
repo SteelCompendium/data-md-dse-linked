@@ -14,4 +14,4 @@ type: movement
 
 ##### Falling Onto Another Creature
 
-A creature who falls and lands on another creature causes that creature to take the same damage from the fall. The falling creature then lands [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) in the nearest unoccupied space of their choice. If the falling creature's size is greater than the Might score of the creature they land on, that creature is knocked [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
+A creature who falls and lands on another creature causes that creature to take the same damage from the fall. The falling creature then lands [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) in the nearest unoccupied space of their choice. If the falling creature's size is greater than the Might score of the creature they land on, that creature is knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).

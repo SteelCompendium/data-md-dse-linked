@@ -61,13 +61,13 @@ effects:
               during the move. You then make a power roll against the target.
           - roll: Power Roll + Might
             tier1: R < WEAK, the target is
-              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
               of the triggering ally (save ends)
             tier2: R < AVERAGE, the target is
-              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
               of the triggering ally (save ends)
             tier3: R < STRONG, the target is
-              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
               of the triggering ally (save ends)
       - type: feature
         feature_type: ability

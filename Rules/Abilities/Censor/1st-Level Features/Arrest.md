@@ -71,15 +71,15 @@ metadata:
 effects:
   - roll: Power Roll + Might
     tier1: 6 + M holy damage;
-      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
     tier2: 9 + M holy damage;
-      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
     tier3: 13 + M holy damage;
-      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
   - name: Effect
     effect: If the target makes a strike against a creature while
-      [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-      this way, you can spend 3 wrath to deal holy damage to them equal to your
+      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) this
+      way, you can spend 3 wrath to deal holy damage to them equal to your
       Presence score, then change the target of the strike to another target
       within the strike's distance.
 ```

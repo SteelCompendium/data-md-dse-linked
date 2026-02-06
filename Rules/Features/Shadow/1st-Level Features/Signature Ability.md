@@ -56,7 +56,7 @@ effects:
             tier1: 3 + A damage
             tier2: 5 + A damage
             tier3: 8 + A damage; I < STRONG,
-              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+              [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
           - name: Effect
             effect: One ally within 5 squares of the target gains 1 surge.
       - type: feature

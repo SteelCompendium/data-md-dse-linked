@@ -69,14 +69,13 @@ metadata:
   type: feature/ability/troubadour/6th-level-feature
 effects:
   - name: Effect
-    effect: A
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      target ignores this ability.
+    effect: A [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) target
+      ignores this ability.
   - roll: Power Roll + Presence
     tier1: 7 sonic damage; P < WEAK,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
     tier2: 10 sonic damage; P < AVERAGE,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
     tier3: 13 sonic damage; P < STRONG,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
 ```

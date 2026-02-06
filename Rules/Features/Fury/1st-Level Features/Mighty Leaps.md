@@ -38,6 +38,6 @@ metadata:
   type: feature/trait/fury/1st-level-feature
 effects:
   - effect: "You can't obtain lower than a tier 2 outcome on any Might test made to
-      [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) (see
-      Movement Types in Chapter 10: Combat)."
+      [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) (see Movement
+      Types in Chapter 10: Combat)."
 ```

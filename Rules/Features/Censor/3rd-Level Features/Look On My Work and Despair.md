@@ -40,12 +40,12 @@ effects:
   - effect: Your judgment has grown in divine power, instilling fear in those you
       condemn. Whenever you use your Judgment ability, you can spend 1 wrath,
       and if the target has P < AVERAGE, they are
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
-      of you (save ends). Additionally, whenever a creature judged by you is
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of
+      you (save ends). Additionally, whenever a creature judged by you is
       reduced to 0 Stamina and you use Judgment as a free triggered action, if
       the new target has P < STRONG, they are
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
-      of you (save ends). If the target is already
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
-      of you, they instead take holy damage equal to twice your Presence score.
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of
+      you (save ends). If the target is already
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of
+      you, they instead take holy damage equal to twice your Presence score.
 ```

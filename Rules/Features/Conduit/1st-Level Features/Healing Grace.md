@@ -53,10 +53,16 @@ effects:
           - name: Effect
             effect: The target can spend a Recovery.
           - cost: Spend 1+ Piety
-            effect: |-
+            effect: >-
               For each piety spent, choose one of the following enhancements:
+
               - You can target one additional ally within distance.
-              - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-              - A [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target can stand up.
+
+              - You can end one effect on a target that is ended by a saving
+              throw or that ends at the end of their turn.
+
+              - A [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
+              target can stand up.
+
               - A target can spend 1 additional Recovery.
 ```

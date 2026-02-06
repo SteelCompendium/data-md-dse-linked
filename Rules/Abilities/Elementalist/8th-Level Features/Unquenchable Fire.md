@@ -71,14 +71,11 @@ metadata:
 effects:
   - roll: Power Roll + Reason
     tier1: 13 + R fire damage; I < WEAK,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
     tier2: 18 + R fire damage; I < AVERAGE,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
     tier3: 25 + R fire damage; I < STRONG,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
   - name: Effect
     effect: This damage ignores immunity.
 ```

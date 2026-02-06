@@ -52,8 +52,7 @@ effects:
         target: Each ally in the area
         effects:
           - name: Effect
-            effect: Each target can
-              [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D)
+            effect: Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX)
               until the start of your next turn, and can immediately shift up to
               their speed. You can also shift up to your speed. While flying, a
               target's stability is reduced to 0 and can't be increased.

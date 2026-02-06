@@ -17,7 +17,7 @@ type: title/4th-echelon
 
 *The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!*
 
-**Prerequisite:** You have the \[Godsworn\]({REL_PATH_PREFIX}Rules/Titles/2nd Echelon/Godsworn{REL_PATH_SUFFIX}) title, and hundreds of worshipful mortals complete a divine ritual in your name.
+**Prerequisite:** You have the \[Godsworn\](REL_PATH_PREFIXRules/Titles/2nd Echelon/GodswornREL_PATH_SUFFIX) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 
 **Effect:** You gain the following benefits:
 

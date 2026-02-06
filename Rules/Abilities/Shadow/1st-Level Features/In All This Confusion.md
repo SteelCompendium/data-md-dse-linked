@@ -58,10 +58,9 @@ metadata:
 effects:
   - name: Effect
     effect: You take half the damage, then can
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      up to 4 squares after the triggering effect resolves.
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 4
+      squares after the triggering effect resolves.
   - cost: Spend 1+ Insight
-    effect: You
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      1 additional square for each insight spent.
+    effect: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) 1
+      additional square for each insight spent.
 ```

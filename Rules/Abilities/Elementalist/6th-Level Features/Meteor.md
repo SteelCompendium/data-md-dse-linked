@@ -76,21 +76,18 @@ metadata:
   type: feature/ability/elementalist/6th-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: You
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      the target up to 4 squares.
-    tier2: You
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      the target up to 6 squares.
-    tier3: You
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      the target up to 8 squares.
+    tier1: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the
+      target up to 4 squares.
+    tier2: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the
+      target up to 6 squares.
+    tier3: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the
+      target up to 8 squares.
   - name: Effect
     effect: If the target is
-      [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      to a space where they would fall, they immediately do so, treating the
-      fall as if their Agility score were 0. The target takes fire damage from
-      the fall, and each enemy within 3 squares of where they land takes the
-      same amount of fire damage. The ground within 3 squares of where the
-      target lands is difficult terrain.
+      [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to a
+      space where they would fall, they immediately do so, treating the fall as
+      if their Agility score were 0. The target takes fire damage from the fall,
+      and each enemy within 3 squares of where they land takes the same amount
+      of fire damage. The ground within 3 squares of where the target lands is
+      difficult terrain.
 ```

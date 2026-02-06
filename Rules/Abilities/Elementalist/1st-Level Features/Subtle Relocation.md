@@ -63,15 +63,13 @@ metadata:
   type: feature/ability/elementalist/1st-level-feature
 effects:
   - name: Effect
-    effect: You
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+    effect: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
       the target up to a number of squares equal to your Reason score. If the
       target moves to trigger this ability, you can
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      them at any point during the move.
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) them at
+      any point during the move.
   - cost: Spend 1 Essence
-    effect: You
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+    effect: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
       the target up to a number of squares equal to twice your Reason score
       instead.
 ```

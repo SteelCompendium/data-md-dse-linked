@@ -68,17 +68,14 @@ metadata:
 effects:
   - roll: Power Roll + Might
     tier1: 9 + M damage; I < WEAK,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
     tier2: 13 + M damage; I < AVERAGE,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
     tier3: 18 + M damage; I < STRONG,
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
   - name: Effect
     effect: At the end of each of your turns, a target
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      this way deals holy damage equal to twice your Presence score to each
-      enemy within 2 squares of them.
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) this way
+      deals holy damage equal to twice your Presence score to each enemy within
+      2 squares of them.
 ```

@@ -63,6 +63,6 @@ effects:
     tier3: 11 + M or A damage
   - name: Effect
     effect: The target is
-      [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
-      until the end of their next turn.
+      [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) until
+      the end of their next turn.
 ```

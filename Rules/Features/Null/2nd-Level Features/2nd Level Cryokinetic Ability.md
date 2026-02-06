@@ -54,13 +54,13 @@ effects:
         effects:
           - roll: Power Roll + Agility
             tier1: 6 cold damage; A < WEAK,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
             tier2: 9 cold damage; A < AVERAGE,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
             tier3: 13 cold damage; A < STRONG,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
       - type: feature
         feature_type: ability

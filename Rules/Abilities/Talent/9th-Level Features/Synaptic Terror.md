@@ -77,13 +77,13 @@ effects:
       affected by the ability's power roll.
   - roll: Power Roll + Reason
     tier1: R < WEAK,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier2: R < AVERAGE,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier3: R < STRONG,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
   - name: Strained
     effect: You can't use this ability if doing so would cause you to have negative

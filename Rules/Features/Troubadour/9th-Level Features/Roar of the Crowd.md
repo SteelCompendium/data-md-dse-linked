@@ -37,8 +37,17 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/troubadour/9th-level-feature
 effects:
-  - effect: |-
-      You are empowered by your audience, near and far. You can't be made [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D), and if you are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), you can stand up as a free maneuver.
+  - effect: >-
+      You are empowered by your audience, near and far. You can't be made
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX),
+      and if you are
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), you can
+      stand up as a free maneuver.
 
-      Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your Scene Partner feature + either your Victories or the number of players in your game (whichever is higher).
+
+      Additionally, whenever you spend a Recovery, you can forgo regaining
+      Stamina to invoke the roar of an invisible applauding audience. You and
+      each ally within 3 squares of you gains temporary Stamina equal to 10 +
+      the number of active bonds from your Scene Partner feature + either your
+      Victories or the number of players in your game (whichever is higher).
 ```

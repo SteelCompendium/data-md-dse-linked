@@ -71,13 +71,12 @@ effects:
   - name: Effect
     effect: The target has damage weakness 5 until the end of your next turn.
       Whenever the target takes damage while they have this weakness, they are
-      knocked
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
+      knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
   - name: Strained
     effect: This ability gains the Strike keyword as the vision hurts the target's
       psyche. You make a power roll, then are
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends).
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends).
   - roll: Power Roll + Presence
     tier1: 8 + P psychic damage
     tier2: 13 + P psychic damage

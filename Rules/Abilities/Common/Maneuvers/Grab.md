@@ -48,16 +48,21 @@ effects:
             tier1: No effect.
             tier2: You can grab the target, but if you do, the target can make a melee free
               strike against you before they are
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D).
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
             tier3: The target is
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
               by you.
           - name: Effect
             effect: You can usually target only creatures of your size or smaller. If your
               Might score is 2 or higher, you can target any creature with a
               size equal to or less than your Might score.
-  - effect: |-
-      Unless otherwise indicated, a creature can grab only one creature at a time.
+  - effect: >-
+      Unless otherwise indicated, a creature can grab only one creature at a
+      time.
 
-      See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D) condition.
+
+      See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for
+      information on the
+      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
+      condition.
 ```

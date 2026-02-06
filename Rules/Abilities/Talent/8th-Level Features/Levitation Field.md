@@ -62,11 +62,10 @@ metadata:
   type: feature/ability/talent/8th-level-feature
 effects:
   - name: Effect
-    effect: Each target can
-      [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) until
-      the start of your next turn, and can immediately shift up to their speed.
-      You can also shift up to your speed. While flying, a target's stability is
-      reduced to 0 and can't be increased.
+    effect: Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX)
+      until the start of your next turn, and can immediately shift up to their
+      speed. You can also shift up to your speed. While flying, a target's
+      stability is reduced to 0 and can't be increased.
   - cost: Spend 5 Clarity
     effect: The effects last for 1 hour instead.
 ```

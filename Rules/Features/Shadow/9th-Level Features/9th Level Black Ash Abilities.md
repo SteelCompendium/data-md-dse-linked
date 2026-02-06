@@ -57,13 +57,13 @@ effects:
               each creature you come adjacent to during the shift.
           - roll: Power Roll + Agility
             tier1: An enemy takes 6 damage; an ally can
-              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               up to 3 squares.
             tier2: An enemy takes 10 damage; an ally can
-              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               up to 5 squares.
             tier3: An enemy takes 14 damage; an ally can
-              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               up to 7 squares.
       - type: feature
         feature_type: ability
@@ -86,7 +86,7 @@ effects:
             tier3: 25 + A corruption damage; push 7
           - name: Effect
             effect: On a critical hit, the target is
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
               by the demon and pulled through the portal before it closes, never
               to be seen again.
 ```

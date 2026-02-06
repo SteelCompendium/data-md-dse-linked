@@ -56,11 +56,11 @@ effects:
             effect: The target has damage weakness 5 until the end of your next turn.
               Whenever the target takes damage while they have this weakness,
               they are knocked
-              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
+              [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
           - name: Strained
             effect: This ability gains the Strike keyword as the vision hurts the target's
               psyche. You make a power roll, then are
-              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
               (save ends).
           - roll: Power Roll + Presence
             tier1: 8 + P psychic damage
@@ -82,21 +82,21 @@ effects:
         effects:
           - name: Effect
             effect: |-
-              The area is frozen in time until the start of your next turn. Each object in the area is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+              The area is frozen in time until the start of your next turn. Each object in the area is [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
               Make a power roll that targets each enemy in the area.
           - roll: Power Roll + Presence
             tier1: P < WEAK, the target is
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               until the effect ends
             tier2: P < AVERAGE, the target's speed is 0 until the effect ends
             tier3: P < STRONG, the target is
-              [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+              [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
               until the effect ends
           - name: Strained
             effect: Any creature or object force moved in the area takes 2 corruption damage
               for each square of the area they enter. Creatures and objects
-              [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+              [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
               in the area can be force moved. You are
-              [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+              [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
               until the effect ends.
 ```

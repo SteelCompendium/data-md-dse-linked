@@ -68,9 +68,9 @@ effects:
   - name: Effect
     effect: The target takes half the damage, and if the triggering creature has I <
       AVERAGE, they are
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      (save ends). While the triggering creature is
-      [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-      this way, they take psychic damage equal to your Intuition score whenever
-      they use a main action.
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends).
+      While the triggering creature is
+      [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) this way,
+      they take psychic damage equal to your Intuition score whenever they use a
+      main action.
 ```

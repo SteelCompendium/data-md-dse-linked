@@ -70,16 +70,16 @@ metadata:
 effects:
   - roll: Power Roll + Intuition
     tier1: 10 + I corruption damage; A < WEAK,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
     tier2: 15 + I corruption damage; A < AVERAGE,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
     tier3: 21 + I corruption damage; A < STRONG,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
   - name: Effect
     effect: While
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      this way, the target has damage weakness 10.
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) this
+      way, the target has damage weakness 10.
 ```

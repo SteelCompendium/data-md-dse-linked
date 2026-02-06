@@ -56,14 +56,12 @@ effects:
             effect: The target takes half the damage. You then make a power roll against the
               triggering creature.
           - roll: Power Roll + Might
-            tier1: A < WEAK,
-              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+            tier1: A < WEAK, [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)
               (save ends)
             tier2: A < AVERAGE,
-              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)
               (save ends)
-            tier3: A < STRONG,
-              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+            tier3: A < STRONG, [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)
               (save ends)
       - type: feature
         feature_type: ability
@@ -93,7 +91,7 @@ effects:
           - name: Effect
             effect: If the target is hit with two or more strikes as part of this ability
               and they have R < STRONG, they are
-              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)
               (save ends). If the target is reduced to 0 Stamina before one or
               both allies has made their strike, the ally or allies can pick a
               different target.

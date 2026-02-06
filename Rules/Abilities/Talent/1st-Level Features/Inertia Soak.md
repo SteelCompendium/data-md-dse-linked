@@ -78,9 +78,9 @@ effects:
       moved this way once a turn.
   - name: Strained
     effect: You are
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends). While you are
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      this way, whenever you are force moved, the forced movement distance gains
-      a +5 bonus.
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends). While you are
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) this
+      way, whenever you are force moved, the forced movement distance gains a +5
+      bonus.
 ```

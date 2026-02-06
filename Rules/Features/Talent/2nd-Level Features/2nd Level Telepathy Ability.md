@@ -56,13 +56,13 @@ effects:
         effects:
           - roll: Power Roll + Reason
             tier1: 6 + R psychic damage; I < WEAK,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
             tier2: 10 + R psychic damage; I < AVERAGE,
-              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
               (save ends)
             tier3: 14 + R psychic damage; I < STRONG,
-              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+              [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)
               (save ends)
           - name: Strained
             effect: You start crying, and you can't use triggered actions or make free
@@ -93,6 +93,6 @@ effects:
               However, you can move them to provoke opportunity attacks.
           - name: Strained
             effect: You take 1d6 damage and are
-              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
               until the end of your turn.
 ```

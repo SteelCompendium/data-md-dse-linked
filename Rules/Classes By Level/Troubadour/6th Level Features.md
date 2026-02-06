@@ -14,7 +14,7 @@ type: class/troubadour/level
 
 ### 6th-Level Features
 
-As a 6th-level [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D), you gain the following features.
+As a 6th-level [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX), you gain the following features.
 
 #### Perk
 
@@ -37,7 +37,7 @@ You have the following performance ability, which is usable with your Routines f
 
 #### 6th-Level Class Act Ability
 
-Your [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D) class act grants your choice of one of two heroic abilities.
+Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Auteur Abilities
 
@@ -54,9 +54,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 psychic damage; P < WEAK, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 7 psychic damage; P < STRONG, [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 2 psychic damage; P < WEAK, [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) (save ends)
+> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) (save ends)
+> - **17+:** 7 psychic damage; P < STRONG, [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) (save ends)
 
 <!-- -->
 > ###### You're All My Understudies (9 Drama)
@@ -84,9 +84,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 + A damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 24 + A damage; [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (EoT), or if M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 12 + A damage; M < WEAK, [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends)
+> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends)
+> - **17+:** 24 + A damage; [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (EoT), or if M < STRONG, [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends)
 
 <!-- -->
 > ###### Fight Choreography (9 Drama)
@@ -112,13 +112,13 @@ Choose one of the following abilities.
 > | ----------------------------- | ----------------------------: |
 > | **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
 >
-> **Effect:** A [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target ignores this ability.
+> **Effect:** A [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) target ignores this ability.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 sonic damage; P < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 13 sonic damage; P < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 7 sonic damage; P < WEAK, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
+> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
+> - **17+:** 13 sonic damage; P < STRONG, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
 
 <!-- -->
 > ###### Legendary Drum Fill (9 Drama)

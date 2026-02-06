@@ -66,12 +66,11 @@ metadata:
 effects:
   - roll: Power Roll + Agility
     tier1: 4 + A damage;
-      [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
-      (EoT)
+      [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT)
     tier2: 5 + A damage;
-      [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
-      (EoT), slide 1
+      [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT),
+      slide 1
     tier3: 6 + A damage;
-      [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
-      (EoT), slide 2
+      [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT),
+      slide 2
 ```

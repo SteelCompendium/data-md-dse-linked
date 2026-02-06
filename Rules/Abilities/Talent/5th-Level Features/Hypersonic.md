@@ -70,17 +70,16 @@ metadata:
   type: feature/ability/talent/5th-level-feature
 effects:
   - name: Effect
-    effect: You
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      to a square on the opposite side of the area before making the power roll.
+    effect: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to
+      a square on the opposite side of the area before making the power roll.
   - roll: Power Roll + Reason
     tier1: 12 sonic damage
     tier2: 18 sonic damage
     tier3: 24 sonic damage
   - name: Strained
     effect: If you obtain a tier 2 outcome or better, you are
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      until the end of your turn and each target is
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      until the end of their turn.
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) until the
+      end of your turn and each target is
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) until the
+      end of their turn.
 ```

@@ -67,6 +67,6 @@ effects:
     tier3: 7 psychic damage; push 2
   - name: Strained
     effect: The size of the burst increases by 2, and you are
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      until the start of your next turn.
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) until
+      the start of your next turn.
 ```

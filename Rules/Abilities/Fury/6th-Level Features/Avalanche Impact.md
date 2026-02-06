@@ -63,12 +63,10 @@ metadata:
   type: feature/ability/fury/6th-level-feature
 effects:
   - name: Effect
-    effect: You
-      [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D) up
-      to your maximum
-      [jump](%7BREL_PATH_PREFIX%7DRules/Movement/Jump%7BREL_PATH_SUFFIX%7D)
-      distance and make one power roll that targets each creature adjacent to
-      the space where you land.
+    effect: You [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to your
+      maximum [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) distance
+      and make one power roll that targets each creature adjacent to the space
+      where you land.
   - roll: Power Roll + Might
     tier1: 4 damage; push 1
     tier2: 7 damage; push 2

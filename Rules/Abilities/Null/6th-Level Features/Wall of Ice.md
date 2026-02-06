@@ -75,9 +75,8 @@ effects:
       squares are treated as stone squares for the purpose of damage, and you
       and allies can move freely through the wall. Each enemy who enters a
       square adjacent to the wall and has M < AVERAGE is
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends). Each enemy who is force moved into the wall and has M <
-      AVERAGE is
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends). Each enemy who is force moved into the wall and has M < AVERAGE is
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (save ends).
 ```

@@ -68,22 +68,22 @@ metadata:
 effects:
   - roll: Power Roll + Presence
     tier1: 5 + P damage; I < WEAK,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
     tier2: 9 + P damage; I < AVERAGE,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
     tier3: 12 + P damage; I < STRONG,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
   - name: Effect
     effect: While the target is
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      this way, each of their allies who starts their turn within 5 squares of
-      them must use a free maneuver to make a free strike against the target.
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) this way,
+      each of their allies who starts their turn within 5 squares of them must
+      use a free maneuver to make a free strike against the target.
       Additionally, while the target is
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      this way, each of their allies within 5 squares of them who can make a
-      triggered free strike against a different creature must make the free
-      strike against the target instead.
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) this way,
+      each of their allies within 5 squares of them who can make a triggered
+      free strike against a different creature must make the free strike against
+      the target instead.
 ```

@@ -70,14 +70,14 @@ metadata:
 effects:
   - roll: Power Roll + Agility
     tier1: 12 + A damage; M < WEAK,
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save
+      ends)
     tier2: 18 + A damage; M < AVERAGE,
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save
+      ends)
     tier3: 24 + A damage;
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      (EoT), or if M < STRONG,
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (EoT),
+      or if M < STRONG,
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save
+      ends)
 ```

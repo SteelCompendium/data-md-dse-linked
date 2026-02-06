@@ -45,8 +45,8 @@ effects:
       form:
 
 
-      - You can automatically \[climb\]({REL_PATH_PREFIX}Rules/Movement/Climb or
-      Swim{REL_PATH_SUFFIX}) at full speed while moving.
+      - You can automatically \[climb\](REL_PATH_PREFIXRules/Movement/Climb or
+      SwimREL_PATH_SUFFIX) at full speed while moving.
 
       - Enemies' spaces don't count as difficult terrain for you. An enemy takes
       corruption damage equal to your Agility score the first time you pass

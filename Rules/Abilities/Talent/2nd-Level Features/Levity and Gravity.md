@@ -76,12 +76,12 @@ metadata:
 effects:
   - roll: Power Roll + Reason
     tier1: 6 + R damage; M < WEAK,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
     tier2: 10 + R damage; M < AVERAGE,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
     tier3: 14 + R damage; M < STRONG,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      and can't stand (save ends)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and can't
+      stand (save ends)
   - name: Strained
     effect: You take half the damage the target takes.
 ```

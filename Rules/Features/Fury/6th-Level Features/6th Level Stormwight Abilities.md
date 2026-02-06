@@ -55,14 +55,14 @@ effects:
         effects:
           - roll: Power Roll + Might
             tier1: 8 damage; M < WEAK,
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
             tier2: 13 damage; M < AVERAGE,
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
             tier3: 17 damage; M < STRONG,
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
           - name: Effect
             effect: You can shift up to 4 squares, bringing the target with you. While
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
               this way, the target takes damage equal to twice your Might score
               at the start of each of your turns.
       - type: feature
@@ -81,12 +81,11 @@ effects:
             effect: Until the end of the encounter or until you are dying, each enemy target
               takes damage of your primordial damage type equal to twice your
               Might score at the end of each of your turns. Additionally, you
-              can
-              [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D)
-              while the aura is active. Each ally target who starts or ends
-              their turn in the area can also
-              [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D)
-              until the start of their next turn or until the effect ends.
+              can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) while
+              the aura is active. Each ally target who starts or ends their turn
+              in the area can also
+              [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) until the
+              start of their next turn or until the effect ends.
           - name: Special
             effect: When you use this ability outside of combat without spending ferocity,
               you must spend 1 uninterrupted minute summoning a primordial storm

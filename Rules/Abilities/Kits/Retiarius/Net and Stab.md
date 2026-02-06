@@ -62,12 +62,10 @@ metadata:
 effects:
   - roll: Power Roll + Might or Agility
     tier1: 4 + M or A damage; A < WEAK,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (EoT)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (EoT)
     tier2: 6 + M or A damage; A < AVERAGE,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (EoT)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (EoT)
     tier3: 8 + M or A damage; A < STRONG,
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (EoT)
 ```

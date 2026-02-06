@@ -65,8 +65,8 @@ effects:
       increases by 1. While the area of that ability is enlarged this way, each
       enemy who has I < AVERAGE and enters the area for the first time in a
       combat round or starts their turn there is
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      (save ends). Each ally who enters the area for the first time in a combat
-      round or starts their turn there gains temporary Stamina equal to your
-      Intuition score.
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save
+      ends). Each ally who enters the area for the first time in a combat round
+      or starts their turn there gains temporary Stamina equal to your Intuition
+      score.
 ```

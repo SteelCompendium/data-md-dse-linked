@@ -14,7 +14,7 @@ type: kit
 
 #### Swashbuckler
 
-If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](%7BREL_PATH_PREFIX%7DRules/Kits/Swashbuckler%7BREL_PATH_SUFFIX%7D) kit. This is a great kit for heroes who want to be master duelists.
+If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](REL_PATH_PREFIXRules/Kits/SwashbucklerREL_PATH_SUFFIX) kit. This is a great kit for heroes who want to be master duelists.
 
 ##### Equipment
 

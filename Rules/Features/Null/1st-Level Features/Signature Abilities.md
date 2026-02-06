@@ -117,11 +117,11 @@ effects:
         effects:
           - roll: Power Roll + Agility
             tier1: 4 + A damage; A < WEAK,
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
             tier2: 7 + A damage; A < AVERAGE,
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
             tier3: 9 + A damage; A < STRONG,
-              [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+              [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
       - type: feature
         feature_type: ability
         name: Kinetic Strike
@@ -137,13 +137,13 @@ effects:
         effects:
           - roll: Power Roll + Agility
             tier1: 4 + A damage;
-              [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+              [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX)
               (EoT)
             tier2: 5 + A damage;
-              [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+              [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX)
               (EoT), slide 1
             tier3: 6 + A damage;
-              [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
+              [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX)
               (EoT), slide 2
       - type: feature
         feature_type: ability
@@ -182,10 +182,10 @@ effects:
             tier3: 8 + A damage; push 6
           - name: Effect
             effect: Before the push is resolved, you
-              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               the target to a square adjacent to you and opposite the one they
               started in. If the target can't be
-              [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               this way, you can't push them.
       - type: feature
         feature_type: ability
@@ -202,12 +202,12 @@ effects:
         effects:
           - roll: Power Roll + Agility
             tier1: 4 + A damage; A < WEAK,
-              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
               (save ends)
             tier2: 7 + A damage; A < AVERAGE,
-              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
               (save ends)
             tier3: 9 + A damage; A < STRONG,
-              [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
+              [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
               (save ends)
 ```

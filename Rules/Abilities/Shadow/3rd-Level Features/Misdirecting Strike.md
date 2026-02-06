@@ -75,7 +75,7 @@ effects:
     tier3: 18 + A damage
   - name: Effect
     effect: The target is
-      [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D)
-      by a willing ally within 5 squares of you until the end of the target's
-      next turn.
+      [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by a
+      willing ally within 5 squares of you until the end of the target's next
+      turn.
 ```

@@ -68,16 +68,16 @@ metadata:
 effects:
   - roll: Power Roll + Agility
     tier1: 6 + A damage; P < WEAK,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
     tier2: 10 + A damage; P < AVERAGE,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
     tier3: 14 + A damage; P < STRONG,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
   - name: Effect
     effect: You can become
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      (save ends) to deal an extra 5 corruption damage to the target.
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save
+      ends) to deal an extra 5 corruption damage to the target.
 ```

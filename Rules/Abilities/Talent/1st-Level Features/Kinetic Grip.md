@@ -64,8 +64,7 @@ effects:
   - roll: Power Roll + Reason
     tier1: Slide 2 + R
     tier2: Slide 4 + R
-    tier3: Slide 6 + R;
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier3: Slide 6 + R; [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
   - name: Strained
     effect: You must vertical push the target instead of sliding them.
 ```

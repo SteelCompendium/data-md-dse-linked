@@ -56,13 +56,11 @@ metadata:
   type: feature/ability/shadow/1st-level-feature
 effects:
   - name: Effect
-    effect: You
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      up to 5 squares. If you have concealment or cover at your destination, you
+    effect: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up
+      to 5 squares. If you have concealment or cover at your destination, you
       can use the Hide maneuver even if you are observed. If you successfully
       hide using this maneuver, you gain 1 surge.
   - cost: Spend 1+ Insight
-    effect: You
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      1 additional square for each insight spent.
+    effect: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) 1
+      additional square for each insight spent.
 ```

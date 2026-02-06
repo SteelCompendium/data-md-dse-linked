@@ -40,11 +40,9 @@ metadata:
   type: feature/trait/shadow/8th-level-feature
 effects:
   - effect: Whenever you willingly move, you can
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D).
-      When you
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      this way, it counts as using a
-      [shadow](%7BREL_PATH_PREFIX%7DRules/Classes/Shadow%7BREL_PATH_SUFFIX%7D)
-      ability for the purpose of using your Burning Ash and Trail of Cinders
-      features.
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). When
+      you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) this
+      way, it counts as using a
+      [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability for
+      the purpose of using your Burning Ash and Trail of Cinders features.
 ```

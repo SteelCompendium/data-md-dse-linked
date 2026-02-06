@@ -43,10 +43,10 @@ effects:
       transportation network. You can maintain a number of trees in your network
       equal to your Intuition score. Whenever you touch any tree in your
       network, you can use a main action to
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      yourself and any willing creatures within 10 squares of you to a tree in
-      your network on the same world. If a tree in your network dies, it is no
-      longer part of the network. You can remove a tree from your network no
-      matter your distance from it, including across different worlds (no action
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) yourself
+      and any willing creatures within 10 squares of you to a tree in your
+      network on the same world. If a tree in your network dies, it is no longer
+      part of the network. You can remove a tree from your network no matter
+      your distance from it, including across different worlds (no action
       required).
 ```

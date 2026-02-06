@@ -56,7 +56,7 @@ effects:
         effects:
           - name: Effect
             effect: Each target is
-              [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               to unoccupied spaces within 5 squares of a willing creature who
               you are bonded to with your Invocation of the Heart feature. You
               don't need line of effect to the bonded creature but you must be

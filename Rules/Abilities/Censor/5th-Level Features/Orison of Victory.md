@@ -67,6 +67,6 @@ effects:
   - name: Effect
     effect: A target can end one effect on them that is ended by a saving throw or
       that ends at the end of their turn, or a
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      target can stand up.
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) target can
+      stand up.
 ```

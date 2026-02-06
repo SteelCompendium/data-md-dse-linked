@@ -68,11 +68,9 @@ metadata:
 effects:
   - name: Effect
     effect: Each target can
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      up to 5 squares. Any
-      [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      target who was
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      is no longer
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D).
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5
+      squares. Any
+      [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) target
+      who was [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) is
+      no longer [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX).
 ```

@@ -59,6 +59,6 @@ effects:
           - cost: Spend 1 Wrath
             effect: You can end one effect on the target that is ended by a saving throw or
               that ends at the end of their turn, or a
-              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+              [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
               target can stand up.
 ```

@@ -63,5 +63,5 @@ effects:
   - name: Effect
     effect: Each target gains 2 surges. Additionally, they can spend a Recovery,
       remove any conditions or effects on them, and stand up if they are
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
 ```

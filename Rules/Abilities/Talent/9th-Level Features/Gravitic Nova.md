@@ -80,6 +80,6 @@ effects:
       deals an extra 10 damage.
   - name: Strained
     effect: You are
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends). If you scored a critical hit with this ability, you die.
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends). If you scored a critical hit with this ability, you die.
 ```

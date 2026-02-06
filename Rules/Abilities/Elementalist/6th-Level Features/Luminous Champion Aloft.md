@@ -74,10 +74,10 @@ metadata:
 effects:
   - name: Effect
     effect: The target has a +3 bonus to speed, they can
-      [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D), and
-      their abilities ignore concealment. Additionally, whenever the target
-      gains their Heroic Resource, they gain 1 additional Heroic Resource. This
-      effect lasts until the start of your next turn.
+      [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), and their
+      abilities ignore concealment. Additionally, whenever the target gains
+      their Heroic Resource, they gain 1 additional Heroic Resource. This effect
+      lasts until the start of your next turn.
   - name: Persistent 1
     effect: The effect lasts until the start of your next turn.
 ```

@@ -64,10 +64,9 @@ metadata:
 effects:
   - name: Effect
     effect: Each target can
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      up to 5 squares. For each target in addition to you who teleports away
-      from or into a space adjacent to an enemy, that enemy takes fire damage
-      equal to your Agility score. Additionally, a target who ends this movement
-      in concealment or cover can use the Hide maneuver even if they are
-      observed.
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5
+      squares. For each target in addition to you who teleports away from or
+      into a space adjacent to an enemy, that enemy takes fire damage equal to
+      your Agility score. Additionally, a target who ends this movement in
+      concealment or cover can use the Hide maneuver even if they are observed.
 ```

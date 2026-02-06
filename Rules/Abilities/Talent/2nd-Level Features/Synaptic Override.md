@@ -81,6 +81,6 @@ effects:
       move them to provoke opportunity attacks.
   - name: Strained
     effect: You take 1d6 damage and are
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      until the end of your turn.
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) until
+      the end of your turn.
 ```

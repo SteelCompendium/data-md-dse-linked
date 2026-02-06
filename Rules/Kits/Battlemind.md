@@ -14,7 +14,7 @@ type: kit
 
 #### Battlemind
 
-Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The [Battlemind](%7BREL_PATH_PREFIX%7DRules/Kits/Battlemind%7BREL_PATH_SUFFIX%7D) kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
+Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The [Battlemind](REL_PATH_PREFIXRules/Kits/BattlemindREL_PATH_SUFFIX) kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
 
 ##### Equipment
 

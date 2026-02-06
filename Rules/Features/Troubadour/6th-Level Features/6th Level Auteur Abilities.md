@@ -53,13 +53,13 @@ effects:
         effects:
           - roll: Power Roll + Presence
             tier1: 2 psychic damage; P < WEAK,
-              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
               (save ends)
             tier2: 5 psychic damage; P < AVERAGE,
-              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
               (save ends)
             tier3: 7 psychic damage; P < STRONG,
-              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
               (save ends)
       - type: feature
         feature_type: ability

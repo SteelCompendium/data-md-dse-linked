@@ -75,8 +75,8 @@ effects:
     tier1: 15 + A damage
     tier2: 21 + A damage
     tier3: 28 + A damage; M < STRONG,
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save
+      ends)
   - name: Effect
     effect: This ability can't obtain better than a tier 2 outcome unless the target
       is at maximum distance. If you obtain a tier 3 outcome with a natural 17

@@ -75,6 +75,6 @@ effects:
       the base cost. Augmentations to the ability can be paid for as usual.
   - name: Strained
     effect: You take 1d6 damage and are
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends).
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends).
 ```

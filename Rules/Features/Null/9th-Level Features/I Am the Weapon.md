@@ -38,8 +38,7 @@ metadata:
   type: feature/trait/null/9th-level-feature
 effects:
   - effect: Your Stamina increases by 21 and you can't be made
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      even while dying. You no longer age or have need of food. Additionally,
-      you can use Intuition instead of another characteristic when resisting
-      potencies.
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) even
+      while dying. You no longer age or have need of food. Additionally, you can
+      use Intuition instead of another characteristic when resisting potencies.
 ```

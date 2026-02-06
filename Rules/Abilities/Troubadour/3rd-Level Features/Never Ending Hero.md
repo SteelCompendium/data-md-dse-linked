@@ -65,6 +65,6 @@ effects:
     effect: While this performance is active, each target who starts their turn
       dying while in the area gains an edge on power rolls and ignores the
       effects of
-      [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
-      until the end of their turn.
+      [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) until
+      the end of their turn.
 ```

@@ -70,7 +70,7 @@ effects:
     effect: The target can spend any number of Recoveries, can end any effects on
       them that are ended by a saving throw or that end at the end of their
       turn, and can stand up if they are
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D).
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
       Additionally, at the start of each of their turns until the end of the
       encounter or until they are dying, the target gains 3 surges.
 ```

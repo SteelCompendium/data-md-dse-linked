@@ -66,9 +66,9 @@ effects:
   - name: Effect
     effect: You ignore any effects associated with the damage that triggered your In
       All This Confusion ability. Before you
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D),
-      you can make a free strike against a creature who damaged you to trigger
-      In All This Confusion. After you
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D),
-      you can spend a Recovery.
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), you can
+      make a free strike against a creature who damaged you to trigger In All
+      This Confusion. After you
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), you can
+      spend a Recovery.
 ```

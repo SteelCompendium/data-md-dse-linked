@@ -70,18 +70,15 @@ metadata:
 effects:
   - roll: Power Roll + Intuition
     tier1: 8 + I damage; A < WEAK,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      and
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (save ends)
     tier2: 12 + I damage; A < AVERAGE,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      and
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (save ends)
     tier3: 16 + I damage; A < STRONG,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      and
-      [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and
+      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (save ends)
 ```

@@ -71,9 +71,9 @@ metadata:
 effects:
   - name: Effect
     effect: The target is
-      [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      to another space within distance. Make a power roll that affects each
-      enemy adjacent to the target's new space.
+      [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to
+      another space within distance. Make a power roll that affects each enemy
+      adjacent to the target's new space.
   - roll: Power Roll + Reason
     tier1: 3 fire damage
     tier2: 5 fire damage

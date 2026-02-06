@@ -68,12 +68,12 @@ metadata:
 effects:
   - roll: Power Roll + Intuition
     tier1: 6 + I holy damage; I < WEAK,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier2: 9 + I holy damage; I < AVERAGE,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier3: 13 + I holy damage; I < STRONG,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
 ```

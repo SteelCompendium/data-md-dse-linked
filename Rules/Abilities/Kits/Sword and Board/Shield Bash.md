@@ -61,5 +61,5 @@ effects:
     tier1: 4 + M or A damage; push 1
     tier2: 7 + M or A damage; push 2
     tier3: 9 + M or A damage; push 3; M < STRONG,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
 ```

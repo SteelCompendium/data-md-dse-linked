@@ -80,12 +80,12 @@ effects:
               1 against a creature.
           - roll: Power Roll + Reason
             tier1: 2 + R damage; R < WEAK,
-              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
               (save ends)
             tier2: 3 + R damage; R < AVERAGE,
-              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
               (save ends)
             tier3: 4 + R damage; R < STRONG,
-              [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+              [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
               (save ends)
 ```

@@ -32,9 +32,8 @@ metadata:
   type: common-ability/maneuver
 effects:
   - effect: A creature can use the Stand Up maneuver to stand up if they are
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D),
-      ending that condition. Alternatively, they can use this maneuver to make a
-      willing adjacent
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), ending that
+      condition. Alternatively, they can use this maneuver to make a willing
+      adjacent [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
       creature stand up.
 ```

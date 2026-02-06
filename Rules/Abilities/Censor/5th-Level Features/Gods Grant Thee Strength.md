@@ -63,8 +63,8 @@ effects:
   - name: Effect
     effect: The target ends any condition or effect on them that is ended by a
       saving throw or that ends at the end of their turn, or a
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-      target can stand up. The target then gains 2 surges, can shift up to their
-      speed while ignoring difficult terrain, and can use a strike signature
-      ability as a free triggered action.
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) target can
+      stand up. The target then gains 2 surges, can shift up to their speed
+      while ignoring difficult terrain, and can use a strike signature ability
+      as a free triggered action.
 ```

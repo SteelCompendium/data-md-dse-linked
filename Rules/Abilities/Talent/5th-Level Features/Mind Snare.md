@@ -74,25 +74,22 @@ metadata:
 effects:
   - roll: Power Roll + Reason
     tier1: 10 + R psychic damage; R < WEAK,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
     tier2: 14 + R psychic damage; R < AVERAGE,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
     tier3: 20 + R psychic damage; R < STRONG,
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      ends)
   - name: Effect
-    effect: While
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+    effect: While [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
       this way, the target takes 3 psychic damage for each square they willingly
       leave.
   - name: Strained
-    effect: While
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+    effect: While [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
       this way, the target instead takes 5 psychic damage for each square they
       willingly leave. You have a double bane on ability rolls made against the
       target while they are
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      this way.
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) this way.
 ```

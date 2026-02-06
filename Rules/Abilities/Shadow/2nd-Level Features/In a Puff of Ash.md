@@ -76,12 +76,12 @@ metadata:
 effects:
   - roll: Power Roll + Agility
     tier1: 6 + A damage; you can
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      the target 1 square
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the
+      target 1 square
     tier2: 10 + A damage; you can
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      the target up to 3 squares
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the
+      target up to 3 squares
     tier3: 14 + A damage; you can
-      [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
-      the target up to 5 squares
+      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the
+      target up to 5 squares
 ```

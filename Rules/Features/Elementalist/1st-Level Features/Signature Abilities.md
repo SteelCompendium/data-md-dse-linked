@@ -100,7 +100,7 @@ effects:
             tier3: 9 + R corruption damage
           - name: Effect
             effect: You can
-              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               up to a number of squares equal to your Reason score.
       - type: feature
         feature_type: ability
@@ -153,13 +153,13 @@ effects:
         effects:
           - roll: Power Roll + Reason
             tier1: 2 + R corruption damage; R < WEAK,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
             tier2: 4 + R corruption damage; R < AVERAGE,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
             tier3: 6 + R corruption damage; R < STRONG,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
       - type: feature
         feature_type: ability

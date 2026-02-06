@@ -14,35 +14,35 @@ type: ancestry
 
 ## Polder
 
-After [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) are the most numerous and diverse ancestry in Orden. They are not [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), but they live in and among [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) and share their gods and culture. Almost every [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) culture in Orden has a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) saint or a [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) saint venerated by [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D).
+After [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) are the most numerous and diverse ancestry in Orden. They are not [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), but they live in and among [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) and share their gods and culture. Almost every [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) culture in Orden has a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) saint or a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) saint venerated by [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX).
 
-Short, averaging 31/2 feet tall, the [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D)' origins are obscure. They are a young species who, like [humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) consider this a base slander and point out they're also famed as chefs, though [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) can be found in every profession, especially in cities.
+Short, averaging 31/2 feet tall, the [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)' origins are obscure. They are a young species who, like [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) consider this a base slander and point out they're also famed as chefs, though [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) can be found in every profession, especially in cities.
 
 ### On Polders
 
 The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
-"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said. "You need the people to rise up. Been fifteen years since Omund died—fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
+"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said. "You need the people to rise up. Been fifteen years since Omund died—fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
 
 "If you stand on the grass long enough, it learns to lie flat," A Mist Curls Around Dying Embers said. "But what do *you* say?"
 
-"Eh?" the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
+"Eh?" the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) before," he said.
+"Oh," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) before," he said.
 
 "Are you kidding me?" Jackson said.
 
 "No! Sorry, I just..."
 
-"What are you, from the moon? Where you from that you never met a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) before? There's [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) in every fucking village and town from here to the sea."
+"What are you, from the moon? Where you from that you never met a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) before? There's [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) in every fucking village and town from here to the sea."
 
-"Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) before."
+"Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) before."
 
 Jackson looked at his friend, the high elf void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
-"Well, we're adorable," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
+"Well, we're adorable," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
-The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which... I don't even know how you manage that."
+The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which... I don't even know how you manage that."
 
 "You're talking just... my voice is just as loud as yours!"
 
@@ -50,17 +50,17 @@ The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) 
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
-"[Humans](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D) are loud, yes," Embers agreed.
+"[Humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) are loud, yes," Embers agreed.
 
 "Do we have to... can we talk about something else, please?" John said.
 
-"I just..." The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) wouldn't let it go. "You seriously never... you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D), got [polders](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) in the kitchen or waiting tables. One of the only two things we're good at, I think."
+"I just..." The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) wouldn't let it go. "You seriously never... you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX), got [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) in the kitchen or waiting tables. One of the only two things we're good at, I think."
 
 "Yeah?" John asked. "What's the other one?"
 
 The little man smiled. "Getting into places we ain't supposed to be." "Now we're talking," Sir John said. "You were saying we need the people behind us. I agree."
 
-"Yeah, okay. To business: How to rally the people." The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) took the question seriously. "It's not hard. First, we need someone they'll rally around. I could make someone up, invent a local folk hero, but if we can find the real thing? They just need to look the part, that's all. I'll take care of the rest."
+"Yeah, okay. To business: How to rally the people." The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) took the question seriously. "It's not hard. First, we need someone they'll rally around. I could make someone up, invent a local folk hero, but if we can find the real thing? They just need to look the part, that's all. I'll take care of the rest."
 
 "I'm working on that," John said. "But it's... slower going than I thought. I'm betting on a long shot."
 
@@ -74,11 +74,11 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
-"What do you mean?" Now it was the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D)'s turn to be confused. "What do you mean, 'What do I mean?'" John said.
+"What do you mean?" Now it was the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)'s turn to be confused. "What do you mean, 'What do I mean?'" John said.
 
 "I'm not... we don't need *real* ogres." Jackson looked at the elf. "Is he for real?"
 
@@ -86,15 +86,15 @@ The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) 
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the high elf void mage, then back at the [human](%7BREL_PATH_PREFIX%7DRules/Ancestries/Human%7BREL_PATH_SUFFIX%7D). "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the high elf void mage, then back at the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
-The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) turned back to Sir John. "Hello. I lie for a living. And I'm *really good at it*. Sometimes also kill people, but only if lying or running away doesn't work."
+The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) turned back to Sir John. "Hello. I lie for a living. And I'm *really good at it*. Sometimes also kill people, but only if lying or running away doesn't work."
 
 John turned to Embers. "I thought he was a thief."
 
-"I was a thief," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said.
+"I was a thief," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said.
 
 "You *were* a thief."
 
@@ -102,21 +102,21 @@ John turned to Embers. "I thought he was a thief."
 
 "Did they kick you out, or did you quit?"
 
-"Depends on who you ask. I don't like being told what to do. It's sort of a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) thing. Hereditary or ancestral or whatever. Everybody wants a [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) chef until they start trying to tell us what to cook."
+"Depends on who you ask. I don't like being told what to do. It's sort of a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) thing. Hereditary or ancestral or whatever. Everybody wants a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) chef until they start trying to tell us what to cook."
 
 "So what are you now?"
 
 "I'm annoying."
 
-The elf smiled. "He's a [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D)—one of the best."
+The elf smiled. "He's a [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX)—one of the best."
 
 Sir John looked at him, nodded. "No lute, I notice. And you don't seem the type to sit by the hearth telling stories."
 
-The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) grinned. "I ain't that kind of [troubadour](%7BREL_PATH_PREFIX%7DRules/Classes/Troubadour%7BREL_PATH_SUFFIX%7D). I'm the other kind. I think the best story is the one people tell each other."
+The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) grinned. "I ain't that kind of [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX). I'm the other kind. I think the best story is the one people tell each other."
 
-"Propaganda," Sir John said, a grin spreading across his face. The [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) pointed a finger at him and smiled. John heard the door to the inn open behind him. This wasn't notable, but the gasp from the customers was.
+"Propaganda," Sir John said, a grin spreading across his face. The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) pointed a finger at him and smiled. John heard the door to the inn open behind him. This wasn't notable, but the gasp from the customers was.
 
-"Hey," the [polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) said, looking past John to the doorway. "Hey, I think our folk hero just showed up. Damn, he looks the part all right. Or she, I can never tell with these guys."
+"Hey," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said, looking past John to the doorway. "Hey, I think our folk hero just showed up. Damn, he looks the part all right. Or she, I can never tell with these guys."
 
 John turned to see.
 
@@ -130,7 +130,7 @@ The dragon knight stared at them for a moment, then turned back to his friend.
 
 ### Polder Traits
 
-[Polder](%7BREL_PATH_PREFIX%7DRules/Ancestries/Polder%7BREL_PATH_SUFFIX%7D) heroes have access to the following traits.
+[Polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) heroes have access to the following traits.
 
 ### Signature Trait: Shadowmeld
 
@@ -162,7 +162,7 @@ Your innate shadow magic grants you resilience against the unnatural. You have c
 
 ##### Fearless (2 Points)
 
-Courage is all you know. You can't be made [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D).
+Courage is all you know. You can't be made [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX).
 
 ##### Graceful Retreat (1 Point)
 

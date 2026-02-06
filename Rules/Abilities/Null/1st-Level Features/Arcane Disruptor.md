@@ -73,17 +73,17 @@ metadata:
 effects:
   - roll: Power Roll + Agility
     tier1: 8 + **A** psychic damage; M < WEAK,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
     tier2: 12 + **A** psychic damage; M < AVERAGE,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
     tier3: 16 + **A** psychic damage; M < STRONG,
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      (save ends)
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save
+      ends)
   - name: Effect
     effect: While
-      [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D)
-      this way, the target takes damage equal to your Intuition score whenever
-      they use a supernatural ability that costs Malice.
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) this
+      way, the target takes damage equal to your Intuition score whenever they
+      use a supernatural ability that costs Malice.
 ```

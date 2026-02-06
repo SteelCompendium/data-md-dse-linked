@@ -112,7 +112,7 @@ effects:
             tier3: 5 holy damage
           - name: Effect
             effect: You can
-              [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               yourself and each ally in the area to unoccupied spaces in the
               area.
       - type: feature

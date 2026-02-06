@@ -79,12 +79,12 @@ effects:
       enemy, you make a power roll.
   - roll: Power Roll + Presence
     tier1: 3 + P psychic damage; I < WEAK,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier2: 6 + P psychic damage; I < AVERAGE,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
     tier3: 9 + P psychic damage; I < STRONG,
-      [frightened](%7BREL_PATH_PREFIX%7DRules/Conditions/Frightened%7BREL_PATH_SUFFIX%7D)
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX)
       (save ends)
 ```

@@ -48,7 +48,6 @@ effects:
       When you use an ability outside of combat that lets you spend unlimited
       wrath on its effect, you can use it as if you had spent an amount of wrath
       equal to your Victories. (Such abilities aren't part of the core rules for
-      the
-      [censor](%7BREL_PATH_PREFIX%7DRules/Classes/Censor%7BREL_PATH_SUFFIX%7D),
-      but they might appear in future products.)
+      the [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), but they
+      might appear in future products.)
 ```

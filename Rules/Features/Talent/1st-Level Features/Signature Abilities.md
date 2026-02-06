@@ -55,13 +55,13 @@ effects:
         effects:
           - roll: Power Roll + Presence
             tier1: 2 + P corruption damage; P < WEAK,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
             tier2: 3 + P corruption damage; P < AVERAGE,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
             tier3: 5 + P corruption damage; P < STRONG,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
           - name: Effect
             effect: The target takes an extra 1 corruption damage for each additional time
@@ -84,21 +84,20 @@ effects:
         effects:
           - roll: Power Roll + Reason
             tier1: 2 + R cold damage; M < WEAK,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (EoT)
             tier2: 4 + R cold damage; M < AVERAGE,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (EoT)
             tier3: 6 + R cold damage; M < STRONG,
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (EoT)
           - name: Strained
-            effect: You are
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+            effect: You are [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               until the end of your next turn. Additionally, a target
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-              by this ability is
-              [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) by
+              this ability is
+              [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
               instead.
       - type: feature
         feature_type: ability
@@ -141,7 +140,7 @@ effects:
             tier1: Slide 2 + R
             tier2: Slide 4 + R
             tier3: Slide 6 + R;
-              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+              [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
           - name: Strained
             effect: You must vertical push the target instead of sliding them.
       - type: feature
@@ -162,7 +161,7 @@ effects:
             tier3: 7 psychic damage; push 2
           - name: Strained
             effect: The size of the burst increases by 2, and you are
-              [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D)
+              [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX)
               until the start of your next turn.
       - type: feature
         feature_type: ability
@@ -206,11 +205,11 @@ effects:
         effects:
           - roll: Power Roll + Reason
             tier1: 2 + R damage; M < WEAK,
-              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+              [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
             tier2: 4 + R damage; M < AVERAGE,
-              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+              [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
             tier3: 6 + R damage; M < STRONG,
-              [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+              [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
           - name: Effect
             effect: When targeting an object with a solid reflective surface or a creature
               carrying or wearing such an object (such as a mirror, an unpainted

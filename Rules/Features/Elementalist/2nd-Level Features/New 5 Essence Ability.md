@@ -116,7 +116,7 @@ effects:
         effects:
           - name: Effect
             effect: The target is
-              [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D)
+              [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               to another space within distance. Make a power roll that affects
               each enemy adjacent to the target's new space.
           - roll: Power Roll + Reason
@@ -140,12 +140,12 @@ effects:
         effects:
           - roll: Power Roll + Reason
             tier1: 5 + R fire damage; A < WEAK,
-              [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+              [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
               (save ends)
             tier2: 9 + R fire damage; A < AVERAGE,
-              [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+              [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
               (save ends)
             tier3: 12 + R fire damage; A < STRONG,
-              [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D)
+              [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
               (save ends)
 ```

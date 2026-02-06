@@ -49,6 +49,6 @@ effects:
       discipline on its effect, you can use it as if you had spent an amount of
       discipline equal to your Victories. (Such abilities aren't part of the
       core rules for the
-      [null](%7BREL_PATH_PREFIX%7DRules/Classes/Null%7BREL_PATH_SUFFIX%7D), but
-      they might appear in future products.)
+      [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), but they might
+      appear in future products.)
 ```

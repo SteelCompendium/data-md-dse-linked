@@ -60,10 +60,10 @@ effects:
           - name: Effect
             effect: Until the start of your next turn, each target gains a +5 bonus to
               speed, they can't be made
-              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D),
-              and they can use an additional maneuver on their turn. If a target
-              is already
-              [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D),
+              [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX), and
+              they can use an additional maneuver on their turn. If a target is
+              already
+              [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX),
               that condition ends for them.
           - name: Strained
             effect: Your speed is halved until the end of the encounter.
@@ -82,14 +82,14 @@ effects:
         effects:
           - roll: Power Roll + Presence
             tier1: The target's speed is halved (save ends), or if P < WEAK, the target is
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends).
             tier2: The target is
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends), or if P < AVERAGE, the target's speed is 0 (save
               ends).
             tier3: The target is
-              [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
+              [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends), or if P < STRONG, the target's speed is 0 (save
               ends).
           - name: Effect

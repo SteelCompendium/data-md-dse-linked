@@ -61,6 +61,5 @@ effects:
       strike against them.
   - cost: Spend 1 Focus
     effect: If the target has R < AVERAGE, they are
-      [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D)
-      (EoT).
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (EoT).
 ```

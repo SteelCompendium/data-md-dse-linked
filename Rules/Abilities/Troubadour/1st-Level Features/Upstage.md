@@ -73,14 +73,12 @@ effects:
     effect: You shift up to your speed. You make one power roll that targets each
       enemy you move adjacent to during this shift.
   - roll: Power Roll + Agility or Presence
-    tier1: "[Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFF\
-      IX%7D) (EoT); A < WEAK,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)"
-    tier2: "[Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFF\
-      IX%7D) (EoT); A < AVERAGE,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)"
-    tier3: "[Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFF\
-      IX%7D) (EoT); A < STRONG,
-      [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+    tier1: "[Taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT);
+      A < WEAK, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)"
+    tier2: "[Taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT);
+      A < AVERAGE,
+      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)"
+    tier3: "[Taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT);
+      A < STRONG, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
       and can't stand (EoT)"
 ```

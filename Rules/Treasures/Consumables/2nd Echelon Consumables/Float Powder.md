@@ -28,4 +28,4 @@ type: treasure/consumable/2nd-echelon
 
 **Project Goal:** 90 (yields 1d3 vials)
 
-**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](%7BREL_PATH_PREFIX%7DRules/Movement/Fly%7BREL_PATH_SUFFIX%7D) and [hover](%7BREL_PATH_PREFIX%7DRules/Movement/Hover%7BREL_PATH_SUFFIX%7D). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
+**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) and [hover](REL_PATH_PREFIXRules/Movement/HoverREL_PATH_SUFFIX). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
