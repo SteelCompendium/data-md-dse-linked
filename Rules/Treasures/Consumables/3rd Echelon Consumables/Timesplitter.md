@@ -28,7 +28,7 @@ type: treasure/consumable/3rd-echelon
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged free strike using the \[Timesplitter\](REL_PATH_PREFIXRules/Treasures/Consumables/3rd Echelon Consumables/TimesplitterREL_PATH_SUFFIX), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged free strike using the [Timesplitter](REL_PATH_PREFIXRules/Treasures/Consumables/3rd%20Echelon%20Consumables/TimesplitterREL_PATH_SUFFIX), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** The target and each creature within 3 squares of them a [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).
 - **12-16:** The target and each creature within 5 squares of them is [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).

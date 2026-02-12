@@ -39,7 +39,7 @@ You can build your culture one aspect at a time, or you can use the following ta
 | Ancestry                                                                        | Language    | Environment | Organization | Upbringing |
 | ------------------------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
 | [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)                   | Anjali      | Urban       | Bureaucratic | Academic   |
-| \[Dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) | Vastariax   | Secluded    | Bureaucratic | Martial    |
+| [Dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) | Vastariax   | Secluded    | Bureaucratic | Martial    |
 | [Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)                   | Zaliac      | Secluded    | Bureaucratic | Creative   |
 | Wode elf                                                                        | Yllyric     | Wilderness  | Bureaucratic | Martial    |
 | High elf                                                                        | Hyrallic    | Secluded    | Bureaucratic | Martial    |
@@ -198,7 +198,7 @@ Your hero grew up among leaders who rule over others and play the games of polit
 <!-- -->
 > **But I Really Want Alertness**
 >
-> If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the \[noble\](REL_PATH_PREFIXRules/Titles/3rd Echelon/NobleREL_PATH_SUFFIX) upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
+> If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the [noble](REL_PATH_PREFIXRules/Titles/3rd%20Echelon/NobleREL_PATH_SUFFIX) upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
 
 #### Languages in Orden
 
@@ -212,7 +212,7 @@ The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago.
 
 Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), \[dragon knights\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX), elves, [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX), [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
+Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), [dragon knights](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX), elves, [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX), [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
 
 ##### Extant Languages
 
@@ -515,7 +515,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One supernatural perk (*Quick Build:* \[Ritualist\](REL_PATH_PREFIXRules/Perks/Supernatural Perks/RitualistREL_PATH_SUFFIX).)
+**Perk:** One supernatural perk (*Quick Build:* [Ritualist](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/RitualistREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -626,7 +626,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* \[Brawny\](REL_PATH_PREFIXRules/Perks/Exploration Perks/BrawnyREL_PATH_SUFFIX).)
+**Perk:** One exploration perk (*Quick Build:* [Brawny](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/BrawnyREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -680,7 +680,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One interpersonal perk (*Quick Build:* \[Harmonizer\](REL_PATH_PREFIXRules/Perks/Interpersonal Perks/HarmonizerREL_PATH_SUFFIX).)
+**Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](REL_PATH_PREFIXRules/Perks/Interpersonal%20Perks/HarmonizerREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -788,7 +788,7 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One exploration perk (*Quick Build:* \[Teamwork\](REL_PATH_PREFIXRules/Perks/Exploration Perks/TeamworkREL_PATH_SUFFIX).)
+**Perk:** One exploration perk (*Quick Build:* [Teamwork](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/TeamworkREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

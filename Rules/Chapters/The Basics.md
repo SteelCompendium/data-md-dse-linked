@@ -114,7 +114,7 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) might not have an ability that lets them \[climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](REL_PATH_PREFIXRules/Chapters/TestsREL_PATH_SUFFIX) for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) might not have an ability that lets them [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](REL_PATH_PREFIXRules/Chapters/TestsREL_PATH_SUFFIX) for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -153,13 +153,13 @@ An archer standing on a castle wall fires down into a throng of enemies, hitting
 
 ##### Edge
 
-An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to \[climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) walls!
+An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) walls!
 
 When you make a power roll with an edge, you gain a +2 bonus to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
 ##### Bane
 
-A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to \[climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) an outdoor wall because the weather makes the stone surface extra slick.
+A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a bane, you take a −2 penalty to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
@@ -173,7 +173,7 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to \[climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
 <!-- -->
 > **Why Cap?**
@@ -387,7 +387,7 @@ Now there is only suspicion.
 
 **The Hawklords of the High Aeries**, once remote and proud, almost mythical to the people below, made their own pact with Ajax to avoid extermination. They now serve as his elite counterinsurgent force. Mounted on their giant hawks, they project Ajax's power, enforce his law and extend his influence into every corner of the wilderness. Their mastery of the air means any revolt or rebellion is quickly seen and crushed.
 
-**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon \[knight\](REL_PATH_PREFIXRules/Titles/2nd Echelon/KnightREL_PATH_SUFFIX) foolish enough to travel without a disguise away to the Chrysopolis.
+**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon [knight](REL_PATH_PREFIXRules/Titles/2nd%20Echelon/KnightREL_PATH_SUFFIX) foolish enough to travel without a disguise away to the Chrysopolis.
 
 Isolated and outnumbered, the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) baronies desperately fight a losing battle against the encroaching wilderness. Order dies. Chaos thrives.
 

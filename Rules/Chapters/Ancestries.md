@@ -26,7 +26,7 @@ This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/Ancestrie
 
 **[Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX):** [Devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) originated in the Seven Cities of Hell and have a supernatural charisma that helps them persuade others. They are similar in stature to [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
 
-**\[Dragon Knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX):** \[Dragon knights\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All \[dragon knights\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) have wings, but on only a few are those wings big enough to let them [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX).
+**[Dragon Knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX):** [Dragon knights](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) have wings, but on only a few are those wings big enough to let them [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX).
 
 **[Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX):** Humanoids with stony skin, [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
 
@@ -46,7 +46,7 @@ This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/Ancestrie
 
 **[Revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX):** No hero starts their life as a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX). Rather, these undead creatures return to the world of the living because they have dire business that must be finished. A character of any ancestry can become a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX).
 
-**\[Time Raider\](REL_PATH_PREFIXRules/Ancestries/Time RaiderREL_PATH_SUFFIX):** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
+**[Time Raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX):** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
 <!-- -->
 > **Other Sections**
@@ -81,7 +81,7 @@ However, mortals are not gods and lack their ineffable wisdom. They are, in fact
 
 In every instance in recorded history, attempts by mortals to make obedient servitor species backfired. The steel [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) worked marvels with valiar, the truemetal, and the miracle mineral iridoss, known as prismacore, that grants objects a semblance of life. Eventually their science and magics produced the omnivok—machines that were self-aware. Perhaps uniquely, when the [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) realized they had created beings equal to themselves they stopped their work and gave their creations full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
 
-Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the \[dragon knights\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) were betrayed by one of their own, seduced by the power offered by Ajax.
+Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the [dragon knights](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) were betrayed by one of their own, seduced by the power offered by Ajax.
 
 The law of unintended consequences applies to the just and the unjust alike.
 
@@ -250,7 +250,7 @@ How tall is a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)? H
 | Ancestry                                                                        | Height in Feet/<br/> Inches | Weight in<br/> Pounds | Life Expectancy in<br/> Years |
 | ------------------------------------------------------------------------------- | --------------------------- | --------------------- | ----------------------------- |
 | [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)                   | 5'0''-6'0''                 | 120-250               | 70-120                        |
-| \[Dragon Knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) | 6'0''-7'0''                 | 200-350               | 50-90                         |
+| [Dragon Knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) | 6'0''-7'0''                 | 200-350               | 50-90                         |
 | [Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)                   | 4'0''-4'6''                 | 500-1,000             | 700-1,500                     |
 | Wode Elf                                                                        | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
 | High Elf                                                                        | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
@@ -259,7 +259,7 @@ How tall is a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)? H
 | [Memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX)               | 5'0''-6'0''                 | 50-100                | 70-120                        |
 | [Orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX)                       | 5'6''-6'6''                 | 150-300               | 50-90                         |
 | [Polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)                 | 3'3''-3'6''                 | 20-50                 | 50-90                         |
-| \[Time Raider\](REL_PATH_PREFIXRules/Ancestries/Time RaiderREL_PATH_SUFFIX)     | 5'0''-6'0''                 | 120-250               | 50-90                         |
+| [Time Raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)     | 5'0''-6'0''                 | 120-250               | 50-90                         |
 
 ### Starting Size and Speed
 
@@ -423,11 +423,11 @@ You possess wings powerful enough to take you airborne. While using your wings t
 
 ## Dragon Knight
 
-The ritual of Dracogenesis that grants the power to create a generation of \[dragon knights\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of \[dragon knights\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX). Within the Dragon Phalanx were [shadows](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX), [censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), [tacticians](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), and [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
+Knighthood was a title carried by every member of that first generation of [dragon knights](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX). Within the Dragon Phalanx were [shadows](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX), [censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), [tacticians](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), and [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
 
 Then Ajax came.
 
@@ -439,7 +439,7 @@ A tall, broad draconian stepped into the light. He was old, his scales battle-sc
 
 The three [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) bandits took a step back. One of the [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) just sneered—then, sensing his [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) growled.
 
-Looking at the \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX), another bandit added quickly, "We didn't know there was one of you here."
+Looking at the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX), another bandit added quickly, "We didn't know there was one of you here."
 
 The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX). "Think of the *bounty*," the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) hissed to the [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), but he kept his eye on the draconian. "We'll all be *rich*."
 
@@ -447,15 +447,15 @@ The two [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) surveyed
 
 "We'll be *back*," the lead [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
 
-As one, the people in the tavern turned to look with undisguised awe at the \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
+As one, the people in the tavern turned to look with undisguised awe at the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
 
-A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) walked past their table.
+A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) walked past their table.
 
 The knight moved on, ignoring them. The man reached out and grabbed the massive draconian's arm. The knight wheeled on the peasant, looming over him.
 
 The man touched his forelock. The two women with him curtseyed. "Begging your pardon, sir, but we been lookin' for you."
 
-The \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
+The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
 
 The man scurried around to stand in front of the draconian, blocking his way. He took off his worn cap and held it over his breast. "I'm sorry sir, but there ain't no one else. There's this new tax, you see, from the new baron. And a priest says he's of Saint Ajax."
 
@@ -463,7 +463,7 @@ The knight bared his impressive teeth, ready to scare Jago and the other two awa
 
 "You might want to hear 'em out, Vaant," said a voice from the table the three peasants had been sitting at.
 
-The \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
+The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
 
 "John?"
 
@@ -471,7 +471,7 @@ The man turned to look up.
 
 "Hi Vaant," he said, smiling. He rose from the table. He was middleaged, fit. Black hair hung down to his shoulders. He was armed with many weapons. "Folks," he said, "this is Vaantikalisax, knight of King Omund in the Thunder Phalanx. He may be the last of the Storm Knights."
 
-The man held out his hand. The \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
+The man held out his hand. The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
 
 "These people need help. I said I'd find it. Heard a rumor someone matching your description was holed up here having a drinking contest with Mr. John Barleycorn."
 
@@ -483,7 +483,7 @@ The draconian sniffed, released John's hand. "Sure," he said. "But why *me*?"
 
 "Yeah." Sir John smiled. "The hero game."
 
-The inn had mostly gone back to its business but the three peasants watched intently. Eventually the \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) spoke again, his voice low.
+The inn had mostly gone back to its business but the three peasants watched intently. Eventually the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) spoke again, his voice low.
 
 "I owe you a lot, John—but not everything."
 
@@ -493,17 +493,17 @@ The inn had mostly gone back to its business but the three peasants watched inte
 
 "What does your oath say? 'Even should the sun stop in the sky, even should the night-'"
 
-"John," the \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
+"John," the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
 
-"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) stopped and spun around. Everyone in the inn was watching the show again. Act two.
+"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) stopped and spun around. Everyone in the inn was watching the show again. Act two.
 
 "The people need leadership," John said.
 
-Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX)'s eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
+Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX)'s eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
 
 "Vaant... Vaant, the Dragon Phalanx didn't *fail*. You were *betrayed*. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never 'incorruptible.' It's just what we wanted to believe. You're just people—like the rest of us."
 
-The \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
+The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
 
 "Exactly," Vaantikalisax said. Then he turned and left the inn.
 
@@ -1571,7 +1571,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) stared at them for a moment, then turned back to his friend.
+The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) stared at them for a moment, then turned back to his friend.
 
 "Maybe you're right," he said.
 
@@ -1795,7 +1795,7 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) in working battle plate. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) with his battle-staff tipped with an hourglass. An [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) with a huge battleaxe casually resting on her shoulder. A [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) towering over everyone. And a \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX). Of all the motley band, it was the \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) in working battle plate. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) with his battle-staff tipped with an hourglass. An [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) with a huge battleaxe casually resting on her shoulder. A [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) towering over everyone. And a [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX). Of all the motley band, it was the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them against the certain fear of their commander.
 
@@ -1825,7 +1825,7 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX). He was just out of reach. But close enough.
 
-"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX), [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), and \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX). "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
+"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX), [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), and [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX). "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 

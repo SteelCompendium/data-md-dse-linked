@@ -27,7 +27,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One interpersonal perk (*Quick Build:* \[Harmonizer\](REL_PATH_PREFIXRules/Perks/Interpersonal Perks/HarmonizerREL_PATH_SUFFIX).)
+**Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](REL_PATH_PREFIXRules/Perks/Interpersonal%20Perks/HarmonizerREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

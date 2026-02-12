@@ -43,8 +43,9 @@ effects:
       They can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) or
       [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) as part of
       the Charge main action if they have that movement available to them, but
-      they can't \[climb\](REL_PATH_PREFIXRules/Movement/Climb or
-      SwimREL_PATH_SUFFIX) or \[swim\](REL_PATH_PREFIXRules/Movement/Climb or
-      SwimREL_PATH_SUFFIX) while charging unless they can automatically use that
-      movement at full speed.
+      they can't
+      [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or
+      [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)
+      while charging unless they can automatically use that movement at full
+      speed.
 ```

@@ -29,7 +29,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* \[Brawny\](REL_PATH_PREFIXRules/Perks/Exploration Perks/BrawnyREL_PATH_SUFFIX).)
+**Perk:** One exploration perk (*Quick Build:* [Brawny](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/BrawnyREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

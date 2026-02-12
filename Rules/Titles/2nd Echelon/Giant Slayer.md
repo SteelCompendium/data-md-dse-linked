@@ -39,4 +39,4 @@ type: title/2nd-echelon
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
-- *Up the Beanstalk:* You have the \[Climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) skill. If you already have this skill, you instead gain an edge on tests made using the \[Climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.

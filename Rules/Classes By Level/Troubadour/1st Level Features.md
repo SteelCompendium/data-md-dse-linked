@@ -125,7 +125,7 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), tumble, or \[climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), tumble, or [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) as part of their movement before the end of their turn.
 
 ##### Blocking
 

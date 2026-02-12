@@ -17,7 +17,7 @@ type: title/2nd-echelon
 
 *I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
-**Prerequisite:** You have the \[Marshal\](REL_PATH_PREFIXRules/Titles/1st Echelon/MarshalREL_PATH_SUFFIX) title, and you take down an entire criminal organization.
+**Prerequisite:** You have the [Marshal](REL_PATH_PREFIXRules/Titles/1st%20Echelon/MarshalREL_PATH_SUFFIX) title, and you take down an entire criminal organization.
 
 **Effect:** Choose one of the following benefits:
 

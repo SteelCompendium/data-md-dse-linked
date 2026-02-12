@@ -41,6 +41,7 @@ metadata:
 effects:
   - effect: You have cold immunity equal to twice your Intuition score.
       Additionally, you ignore difficult terrain related to cold and ice, and
-      you can automatically \[climb\](REL_PATH_PREFIXRules/Movement/Climb or
-      SwimREL_PATH_SUFFIX) at full speed while moving.
+      you can automatically
+      [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at
+      full speed while moving.
 ```

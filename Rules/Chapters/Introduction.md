@@ -82,7 +82,7 @@ Basically, we worry only about those things you'd see your characters doing in a
 
 Closely tied to the heroic keyword, the cinematic keyword is about how we like abilities and features to be strongly evocative. You can imagine your character doing or saying these things. "In All This Confusion" is a good name for the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)'s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates an awareness that explains *how* it's working.
 
-When Sir Vanazor the \[dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
+When Sir Vanazor the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
 You should imagine your [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) character leading the battle, granting your allies free strikes, extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
 
@@ -178,7 +178,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Claw Dirt:** An ability that uses a maneuver to allow a creature without "burrow" in their speed entry to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX).
 
-**\[Climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX):** A movement mode that allows a creature to \[climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) without using additional squares of movement. A creature without "climb" in their speed entry or the temporary ability to \[climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) must use 2 squares of movement to \[climb\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) 1 square.
+**[Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX):** A movement mode that allows a creature to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) without using additional squares of movement. A creature without "climb" in their speed entry or the temporary ability to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) must use 2 squares of movement to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) 1 square.
 
 **Combat Round:** A segment of a combat encounter in which each creature participating in the battle takes a turn.
 
@@ -250,7 +250,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Downtime Project:** A task a hero undertakes during one or more respites.
 
-**\[Dragon Knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX):** An ancestry with a draconic heritage.
+**[Dragon Knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX):** An ancestry with a draconic heritage.
 
 **Drama:** The [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX)'s Heroic Resource.
 
@@ -530,7 +530,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Surprised:** A creature who is surprised can't take triggered actions or free triggered actions, and ability rolls against them gain an edge.
 
-**\[Swim\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX):** A movement mode that allows a creature to \[swim\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) without using additional squares of movement. A creature without "\[swim\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX)" in their speed entry or the temporary ability to \[swim\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) must use 2 squares of movement to \[swim\](REL_PATH_PREFIXRules/Movement/Climb or SwimREL_PATH_SUFFIX) 1 square.
+**[Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX):** A movement mode that allows a creature to [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) without using additional squares of movement. A creature without "[swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry or the temporary ability to [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) must use 2 squares of movement to [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) 1 square.
 
 **[Tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX):** A class for a hero who is a brilliant strategist and weapons expert.
 
@@ -556,7 +556,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Title:** A special reward that a hero can earn while adventuring, and which grants benefits or new abilities.
 
-**\[Time Raider\](REL_PATH_PREFIXRules/Ancestries/Time RaiderREL_PATH_SUFFIX):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
+**[Time Raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
 
 **Timescape:** A multiverse of worlds, also known as manifolds, connected by the Sea of Stars.
 
