@@ -36,19 +36,19 @@ You can build your culture one aspect at a time, or you can use the following ta
 
 ###### Typical Ancestry Cultures Table
 
-| Ancestry                                                          | Language    | Environment | Organization | Upbringing |
-| ----------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
-| [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)     | Anjali      | Urban       | Bureaucratic | Academic   |
-| Dragon knight                                                     | Vastariax   | Secluded    | Bureaucratic | Martial    |
-| [Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)     | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| Wode elf                                                          | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| High elf                                                          | Hyrallic    | Secluded    | Bureaucratic | Martial    |
-| [Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX)   | Vhoric      | Rural       | Communal     | Labor      |
-| [Human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)     | Vaslorian   | Urban       | Communal     | Labor      |
-| [Memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) | Axiomatic   | Nomadic     | Communal     | Academic   |
-| [Orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX)         | Kalliak     | Wilderness  | Communal     | Creative   |
-| [Polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)   | Khoursirian | Urban       | Communal     | Creative   |
-| Time raider                                                       | Voll        | Nomadic     | Communal     | Martial    |
+| Ancestry                                                                        | Language    | Environment | Organization | Upbringing |
+| ------------------------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
+| [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)                   | Anjali      | Urban       | Bureaucratic | Academic   |
+| \[Dragon knight\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX) | Vastariax   | Secluded    | Bureaucratic | Martial    |
+| [Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)                   | Zaliac      | Secluded    | Bureaucratic | Creative   |
+| Wode elf                                                                        | Yllyric     | Wilderness  | Bureaucratic | Martial    |
+| High elf                                                                        | Hyrallic    | Secluded    | Bureaucratic | Martial    |
+| [Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX)                 | Vhoric      | Rural       | Communal     | Labor      |
+| [Human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)                   | Vaslorian   | Urban       | Communal     | Labor      |
+| [Memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX)               | Axiomatic   | Nomadic     | Communal     | Academic   |
+| [Orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX)                       | Kalliak     | Wilderness  | Communal     | Creative   |
+| [Polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)                 | Khoursirian | Urban       | Communal     | Creative   |
+| Time raider                                                                     | Voll        | Nomadic     | Communal     | Martial    |
 
 ###### Archetypical Cultures Table
 
@@ -212,7 +212,7 @@ The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago.
 
 Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), dragon knights, elves, [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX), [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
+Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), \[dragon knights\](REL_PATH_PREFIXRules/Ancestries/Dragon KnightREL_PATH_SUFFIX), elves, [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX), [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), [polders](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
 
 ##### Extant Languages
 
