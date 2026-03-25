@@ -38,7 +38,8 @@ metadata:
   type: feature/trait/tactician/6th-level-feature
 effects:
   - effect: Your expertise with weapons has grown to true mastery. Whenever you use
-      a signature ability from one of your equipped kits or make a free strike
+      a signature ability from one of your equipped kits or make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
       using a weapon from one of your equipped kits, you can negate a bane on
       the power roll or reduce a double bane to a bane.
 ```

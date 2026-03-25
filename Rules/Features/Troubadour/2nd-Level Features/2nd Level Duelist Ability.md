@@ -55,8 +55,10 @@ effects:
           - name: Effect
             effect: Each target can shift up to 5 squares, including vertically, but must
               end this movement adjacent to the other target and on solid
-              ground. Each target can then make a melee free strike that deals
-              extra damage equal to twice their highest characteristic score.
+              ground. Each target can then make a melee [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              that deals extra damage equal to twice their highest
+              characteristic score.
       - type: feature
         feature_type: ability
         name: En Garde!
@@ -75,6 +77,9 @@ effects:
             tier2: 11 + **A** damage
             tier3: 16 + **A** damage
           - name: Effect
-            effect: The target can make a melee free strike against you. If they do, you can
-              make a melee free strike against the target.
+            effect: The target can make a melee [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              against you. If they do, you can make a melee [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              against the target.
 ```

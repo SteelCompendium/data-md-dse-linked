@@ -58,5 +58,7 @@ effects:
             effect: The size of the creature or object you can target increases by 1 for
               every 2 clarity spent.
           - cost: Spend 3 Clarity
-            effect: You can vertical slide the target.
+            effect: You can
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              slide the target.
 ```

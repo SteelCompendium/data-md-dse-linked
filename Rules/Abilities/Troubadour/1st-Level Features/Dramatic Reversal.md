@@ -64,9 +64,12 @@ metadata:
   type: feature/ability/troubadour/1st-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: The target can shift 1 square and make a free strike.
-    tier2: The target can shift up to 2 squares and make a free strike that gains an
-      edge.
-    tier3: The target can shift up to 3 squares and make a free strike that gains an
-      edge, then can spend a Recovery.
+    tier1: The target can shift 1 square and make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
+    tier2: The target can shift up to 2 squares and make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      that gains an edge.
+    tier3: The target can shift up to 3 squares and make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      that gains an edge, then can spend a Recovery.
 ```

@@ -49,7 +49,9 @@ effects:
             tier1: No effect.
             tier2: You can escape the grab, but if you do, a creature who has you
               [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
-              can make a melee free strike against you before you are no longer
+              can make a melee [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              against you before you are no longer
               [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
             tier3: You are no longer
               [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).

@@ -142,7 +142,9 @@ effects:
             tier3: Slide 6 + R;
               [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
           - name: Strained
-            effect: You must vertical push the target instead of sliding them.
+            effect: You must
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              push the target instead of sliding them.
       - type: feature
         feature_type: ability
         name: Kinetic Pulse

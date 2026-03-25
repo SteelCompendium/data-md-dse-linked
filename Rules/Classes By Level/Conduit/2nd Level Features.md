@@ -96,7 +96,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a free strike against a target you choose
+> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against a target you choose
 > - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
 > - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
@@ -176,9 +176,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 lightning damage; vertical slide 1
-> - **12-16:** 5 lightning damage; vertical slide 2
-> - **17+:** 7 lightning damage; vertical slide 3
+> - **≤11:** 2 lightning damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 1
+> - **12-16:** 5 lightning damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 2
+> - **17+:** 7 lightning damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 3
 
 <!-- -->
 > ###### Statue of Power (5 Piety)

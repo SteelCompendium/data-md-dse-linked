@@ -58,8 +58,10 @@ effects:
             tier2: Slide 5
             tier3: Slide 7
           - name: Effect
-            effect: This forced movement ignores stability. Instead, the forced movement is
-              reduced by a number equal to the target's Intuition score.
+            effect: This forced movement ignores
+              [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
+              Instead, the forced movement is reduced by a number equal to the
+              target's Intuition score.
       - type: feature
         feature_type: ability
         name: So Gullible
@@ -78,5 +80,7 @@ effects:
               triggering creature and strike. You can
               [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
               to an unoccupied space within 3 squares of that creature and can
-              make a free strike against them. You can then spend a Recovery.
+              make a [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              against them. You can then spend a Recovery.
 ```

@@ -67,8 +67,11 @@ metadata:
   type: feature/ability/talent/1st-level-feature
 effects:
   - name: Effect
-    effect: The target's stability increases by an amount equal to your Reason
-      score, and they gain 10 temporary Stamina and 2 surges. This stability
+    effect: The target's
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX)
+      increases by an amount equal to your Reason score, and they gain 10
+      temporary Stamina and 2 surges. This
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX)
       increase lasts until the target no longer has temporary Stamina from this
       ability.
   - name: Strained

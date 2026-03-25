@@ -37,8 +37,11 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/null/1st-level-feature
 effects:
-  - effect: Whenever you use the Knockback or Grab maneuver, you use Intuition
-      instead of Might for the power roll and for determining if you can target
-      creatures larger than you. Additionally, whenever you use the Knockback
+  - effect: Whenever you use the
+      [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX)
+      or Grab maneuver, you use Intuition instead of Might for the power roll
+      and for determining if you can target creatures larger than you.
+      Additionally, whenever you use the
+      [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX)
       maneuver, you can choose to slide the target instead of pushing them.
 ```

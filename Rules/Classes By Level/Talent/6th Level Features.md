@@ -115,9 +115,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 damage; vertical pull 5 toward the center of the area
-> - **12-16:** 9 damage; vertical pull 7 toward the center of the area
-> - **17+:** 13 damage; vertical pull 10 toward the center of the area
+> - **≤11:** 6 damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 5 toward the center of the area
+> - **12-16:** 9 damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 7 toward the center of the area
+> - **17+:** 13 damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 10 toward the center of the area
 >
 > **Effect:** Targets closest to the center of the area are pulled first.
 >
@@ -134,11 +134,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is vertical
-> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is vertical
-> - **17+:** Slide 12 + R; [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX); M < STRONG, the forced movement is vertical
+> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+> - **17+:** Slide 12 + R; [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX); M < STRONG, the forced movement is [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
 >
-> **Strained:** The forced movement ignores stability. You take 2d6 damage and are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends).
+> **Strained:** The forced movement ignores [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX). You take 2d6 damage and are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends).
 
 ##### 6th-Level Telepathy Abilities
 

@@ -46,8 +46,9 @@ effects:
         effects:
           - roll: Power Roll + Might
             tier1: No effect.
-            tier2: You can grab the target, but if you do, the target can make a melee free
-              strike against you before they are
+            tier2: You can grab the target, but if you do, the target can make a melee [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              against you before they are
               [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
             tier3: The target is
               [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)

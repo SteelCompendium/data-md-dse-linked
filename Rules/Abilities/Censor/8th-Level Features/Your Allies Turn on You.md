@@ -80,10 +80,14 @@ effects:
     effect: While the target is
       [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) this way,
       each of their allies who starts their turn within 5 squares of them must
-      use a free maneuver to make a free strike against the target.
-      Additionally, while the target is
+      use a free maneuver to make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against the target. Additionally, while the target is
       [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) this way,
       each of their allies within 5 squares of them who can make a triggered
-      free strike against a different creature must make the free strike against
-      the target instead.
+      [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against a different creature must make the [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against the target instead.
 ```

@@ -54,9 +54,15 @@ effects:
         target: Each creature and object in the area
         effects:
           - roll: Power Roll + Reason
-            tier1: 6 damage; vertical pull 5 toward the center of the area
-            tier2: 9 damage; vertical pull 7 toward the center of the area
-            tier3: 13 damage; vertical pull 10 toward the center of the area
+            tier1: 6 damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              pull 5 toward the center of the area
+            tier2: 9 damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              pull 7 toward the center of the area
+            tier3: 13 damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              pull 10 toward the center of the area
           - name: Effect
             effect: Targets closest to the center of the area are pulled first.
           - name: Strained
@@ -77,13 +83,18 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Reason
-            tier1: Slide 4 + R; M < WEAK, the forced movement is vertical
-            tier2: Slide 8 + R; M < AVERAGE, the forced movement is vertical
+            tier1: Slide 4 + R; M < WEAK, the forced movement is
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+            tier2: Slide 8 + R; M < AVERAGE, the forced movement is
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
             tier3: Slide 12 + R;
               [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX); M <
-              STRONG, the forced movement is vertical
+              STRONG, the forced movement is
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
           - name: Strained
-            effect: The forced movement ignores stability. You take 2d6 damage and are
+            effect: The forced movement ignores
+              [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
+              You take 2d6 damage and are
               [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
               (save ends).
 ```

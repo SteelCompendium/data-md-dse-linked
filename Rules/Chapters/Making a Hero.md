@@ -75,7 +75,7 @@ Choose your hero's humanoid ancestry from among the range of [ancestries](REL_PA
 
 #### 3. Culture
 
-Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0) for more information.
+Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in [Chapter 4: Background](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX) for more information.
 
 <!-- -->
 > **Choosing Skills**
@@ -87,7 +87,7 @@ Choose or create your hero's culture. Although ancestry gives your hero any numb
 
 #### 4. Career
 
-Choose your hero's career, which describes what you did for a living before you became a hero. A career provides you with skills, an inciting incident that precipitated your adventuring career, and a perk that lets you customize your hero. It might also grant you languages, Renown, wealth, or the potential to undertake crafting and research. See Careers in Chapter 4: Background for more information.
+Choose your hero's career, which describes what you did for a living before you became a hero. A career provides you with skills, an inciting incident that precipitated your adventuring career, and a perk that lets you customize your hero. It might also grant you languages, Renown, wealth, or the potential to undertake crafting and research. See Careers in [Chapter 4: Background](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX) for more information.
 
 <!-- -->
 > **I Speak Their Language**
@@ -104,11 +104,11 @@ Your class might grant your hero a kit that helps define your approach to martia
 
 #### 7. Add Free Strikes
 
-A free strike is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? Free strike! Every hero has a melee weapon free strike and a ranged weapon free strike. They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your free strikes are. A thrown dagger? A punch? The design is intended to let you use your imagination.
+A [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? [Free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)! Every hero has a melee weapon [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) and a ranged weapon [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) are. A thrown dagger? A punch? The design is intended to let you use your imagination.
 
-You can also make free strikes on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) master archer can stab a too-close enemy with a dagger as a free strike, and a greataxe-wielding [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) can use a free strike to hurl a handaxe at a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) enemy staying annoyingly out of melee range.
+You can also make [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) master archer can stab a too-close enemy with a dagger as a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), and a greataxe-wielding [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) can use a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) to hurl a handaxe at a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) enemy staying annoyingly out of melee range.
 
-See Free Strikes in Chapter 10: Combat for more information on using free strikes, and see Abilities in Chapter 5: [Classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX) for information on the ability format and how to read it.
+See [Free Strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) in Chapter 10: Combat for more information on using [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), and see Abilities in Chapter 5: [Classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX) for information on the ability format and how to read it.
 
 ###### Melee Weapon Free Strike
 

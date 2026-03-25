@@ -64,5 +64,7 @@ metadata:
 effects:
   - name: Effect
     effect: You gain 20 temporary Stamina. Additionally, until the end of the
-      encounter, your stability gains a bonus equal to your Intuition score.
+      encounter, your
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) gains
+      a bonus equal to your Intuition score.
 ```

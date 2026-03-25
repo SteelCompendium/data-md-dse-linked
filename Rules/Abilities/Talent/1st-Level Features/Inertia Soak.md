@@ -74,8 +74,9 @@ effects:
       movement until the start of your next turn. Whenever the target enters a
       square while under this effect, they can push one adjacent creature up to
       a number of squares equal to your Reason score. When pushing an ally, the
-      target can ignore that ally's stability. A creature can only be force
-      moved this way once a turn.
+      target can ignore that ally's
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX). A
+      creature can only be force moved this way once a turn.
   - name: Strained
     effect: You are
       [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save

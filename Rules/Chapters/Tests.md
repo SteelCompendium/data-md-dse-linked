@@ -289,7 +289,7 @@ For example, intimidating someone with a purely verbal threat is a Presence test
 
 Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
-Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) who has a gymnastic background in [jumping](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
+Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) who has a gymnastic [background](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX) in [jumping](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
 The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my Climb skill for a +2 bonus to my Presence test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
@@ -340,18 +340,18 @@ Consequences for tests made with [exploration skills](REL_PATH_PREFIXRules/Skill
 
 ###### Exploration Skills Table
 
-| Skill                                                                   | Use                                                             |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) | Move up vertical surfaces                                       |
-| Drive                                                                   | Control vehicles                                                |
-| Endurance                                                               | Remain engaged in strenuous activity over a long period of time |
-| Gymnastics                                                              | Move across unsteady or narrow surfaces; tumble                 |
-| Heal                                                                    | Use mundane first aid                                           |
-| [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX)               | Leap vertical and horizontal distances                          |
-| Lift                                                                    | Pick up, carry, and throw heavy objects                         |
-| Navigate                                                                | Read a map and travel without becoming lost                     |
-| Ride                                                                    | Ride and control a nonsapient mount, such as a horse            |
-| [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)  | Move through deep liquid                                        |
+| Skill      | Use                                                             |
+| ---------- | --------------------------------------------------------------- |
+| Climb      | Move up vertical surfaces                                       |
+| Drive      | Control vehicles                                                |
+| Endurance  | Remain engaged in strenuous activity over a long period of time |
+| Gymnastics | Move across unsteady or narrow surfaces; tumble                 |
+| Heal       | Use mundane first aid                                           |
+| Jump       | Leap vertical and horizontal distances                          |
+| Lift       | Pick up, carry, and throw heavy objects                         |
+| Navigate   | Read a map and travel without becoming lost                     |
+| Ride       | Ride and control a nonsapient mount, such as a horse            |
+| Swim       | Move through deep liquid                                        |
 
 ##### Interpersonal Skills
 

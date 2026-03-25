@@ -72,7 +72,10 @@ metadata:
   type: feature/ability/null/2nd-level-feature
 effects:
   - roll: Power Roll + Agility
-    tier1: 8 + A psychic damage; vertical pull 3
-    tier2: 12 + A psychic damage; vertical pull 5
-    tier3: 16 + A psychic damage; vertical pull 7
+    tier1: 8 + A psychic damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 3
+    tier2: 12 + A psychic damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 5
+    tier3: 16 + A psychic damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 7
 ```

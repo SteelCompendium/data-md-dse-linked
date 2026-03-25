@@ -35,4 +35,4 @@ type: title/1st-echelon
 > **Effect:** Each target who has P < AVERAGE is [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by you until the end of their next turn, and you know the location of each creature [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) in this way.
 
 - *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
-- *Everybody Move!:* When you use the Knockback maneuver, you can target one additional creature of your size or two additional smaller creatures.
+- *Everybody Move!:* When you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can target one additional creature of your size or two additional smaller creatures.

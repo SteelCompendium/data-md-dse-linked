@@ -75,9 +75,15 @@ effects:
         target: One creature or object
         effects:
           - roll: Power Roll + Agility
-            tier1: 4 + A fire damage; vertical push 8
-            tier2: 7 + A fire damage; vertical push 10
-            tier3: 11 + A fire damage; vertical push 15
+            tier1: 4 + A fire damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              push 8
+            tier2: 7 + A fire damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              push 10
+            tier3: 11 + A fire damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              push 15
           - name: Effect
             effect: The ground beneath a 3-cube area around the target's starting position
               is difficult terrain.

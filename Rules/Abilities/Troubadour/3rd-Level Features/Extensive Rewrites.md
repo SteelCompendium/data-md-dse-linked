@@ -64,9 +64,12 @@ metadata:
   type: feature/ability/troubadour/3rd-level-feature
 effects:
   - roll: Power Roll + Presence
-    tier1: Slide 3; P < WEAK, this slide ignores the target's stability
-    tier2: Slide 5; P < AVERAGE, this slide ignores the target's stability
-    tier3: Slide 7; P < STRONG, this slide ignores the target's stability
+    tier1: Slide 3; P < WEAK, this slide ignores the target's
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX)
+    tier2: Slide 5; P < AVERAGE, this slide ignores the target's
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX)
+    tier3: Slide 7; P < STRONG, this slide ignores the target's
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX)
   - name: Effect
     effect: Instead of sliding a target, you can swap their location with another
       target as long as each can fit into the other's space. You can't slide

@@ -61,5 +61,6 @@ metadata:
   type: feature/ability/tactician/1st-level-feature
 effects:
   - name: Effect
-    effect: Each target can make a free strike.
+    effect: Each target can make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 ```

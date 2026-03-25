@@ -71,6 +71,7 @@ effects:
   - name: Effect
     effect: Each target can shift up to 5 squares, including vertically, but must
       end this movement adjacent to the other target and on solid ground. Each
-      target can then make a melee free strike that deals extra damage equal to
-      twice their highest characteristic score.
+      target can then make a melee [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      that deals extra damage equal to twice their highest characteristic score.
 ```

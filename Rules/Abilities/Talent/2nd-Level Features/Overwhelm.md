@@ -84,6 +84,7 @@ effects:
     tier3: 14 + R psychic damage; I < STRONG,
       [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
   - name: Strained
-    effect: You start crying, and you can't use triggered actions or make free
-      strikes until the end of the target's next turn.
+    effect: You start crying, and you can't use triggered actions or make [free
+      strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      until the end of the target's next turn.
 ```

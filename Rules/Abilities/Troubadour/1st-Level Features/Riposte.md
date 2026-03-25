@@ -57,6 +57,7 @@ metadata:
   type: feature/ability/troubadour/1st-level-feature
 effects:
   - name: Effect
-    effect: The target makes a free strike against the creature who made the
-      triggering strike.
+    effect: The target makes a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against the creature who made the triggering strike.
 ```

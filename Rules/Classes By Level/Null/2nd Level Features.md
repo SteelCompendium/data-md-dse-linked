@@ -125,9 +125,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + A psychic damage; vertical pull 3
-> - **12-16:** 12 + A psychic damage; vertical pull 5
-> - **17+:** 16 + A psychic damage; vertical pull 7
+> - **≤11:** 8 + A psychic damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 3
+> - **12-16:** 12 + A psychic damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 5
+> - **17+:** 16 + A psychic damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 7
 
 <!-- -->
 > ###### Kinetic Shield (5 Discipline)

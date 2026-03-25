@@ -66,11 +66,13 @@ metadata:
   type: feature/ability/tactician/2nd-level-feature
 effects:
   - name: Effect
-    effect: Each target is marked by you, and must immediately make a free strike
+    effect: Each target is marked by you, and must immediately make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
       against a creature of your choice within 5 squares of them.
   - name: Mark Benefit
     effect: Until the end of the encounter, whenever you or any ally makes a strike
       against a creature marked by you, you can spend 2 focus to force that
-      target to make a free strike against a creature of your choice within 5
-      squares of them.
+      target to make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against a creature of your choice within 5 squares of them.
 ```

@@ -63,6 +63,7 @@ metadata:
   type: feature/ability/tactician/2nd-level-feature
 effects:
   - name: Effect
-    effect: Until the start of your next turn, each target has a bonus to stability
-      equal to your Might score. Additionally, each target gains 2 surges.
+    effect: Until the start of your next turn, each target has a bonus to
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal
+      to your Might score. Additionally, each target gains 2 surges.
 ```

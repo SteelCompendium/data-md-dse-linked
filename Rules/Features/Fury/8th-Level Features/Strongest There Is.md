@@ -41,6 +41,7 @@ metadata:
 effects:
   - effect: Your strength is unmatched. Whenever you make a Might test, you can roll
       three dice and choose which two to use. Additionally, whenever you use the
-      Knockback maneuver, the forced movement distance gains a bonus equal to
-      your Might score.
+      [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX)
+      maneuver, the forced movement distance gains a bonus equal to your Might
+      score.
 ```

@@ -69,7 +69,9 @@ metadata:
   type: feature/ability/talent/2nd-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: The target makes a free strike against one enemy of your choice.
+    tier1: The target makes a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against one enemy of your choice.
     tier2: The target shifts up to their speed and uses their signature ability
       against any enemies of your choice.
     tier3: The target moves up to their speed and uses their signature ability

@@ -47,5 +47,7 @@ effects:
       [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 
 
-      Additionally, you have a bonus to stability equal to your Might score.
+      Additionally, you have a bonus to
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal
+      to your Might score.
 ```

@@ -55,9 +55,15 @@ effects:
         target: One creature
         effects:
           - roll: Power Roll + Agility
-            tier1: 3 + A damage; vertical push 5
-            tier2: 6 + A damage; vertical push 10
-            tier3: 9 + A damage; vertical push 15
+            tier1: 3 + A damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              push 5
+            tier2: 6 + A damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              push 10
+            tier3: 9 + A damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              push 15
           - name: Effect
             effect: A creature force moved by this ability must be moved straight upward.
       - type: feature

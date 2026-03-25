@@ -31,7 +31,9 @@ metadata:
   source: mcdm.heroes.v1
   type: common-ability/maneuver
 effects:
-  - effect: A creature who uses the Aid Attack maneuver chooses an enemy adjacent to
-      them. The next ability roll an ally makes against that enemy before the
-      start of the aiding creature's next turn gains an edge.
+  - effect: A creature who uses the [Aid
+      Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX)
+      maneuver chooses an enemy adjacent to them. The next ability roll an ally
+      makes against that enemy before the start of the aiding creature's next
+      turn gains an edge.
 ```

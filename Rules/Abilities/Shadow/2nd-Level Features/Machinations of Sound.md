@@ -76,6 +76,8 @@ effects:
     tier2: Slide 5
     tier3: Slide 7
   - name: Effect
-    effect: This forced movement ignores stability. Instead, the forced movement is
-      reduced by a number equal to the target's Intuition score.
+    effect: This forced movement ignores
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
+      Instead, the forced movement is reduced by a number equal to the target's
+      Intuition score.
 ```

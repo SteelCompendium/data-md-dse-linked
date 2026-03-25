@@ -73,6 +73,9 @@ effects:
     tier2: 11 + **A** damage
     tier3: 16 + **A** damage
   - name: Effect
-    effect: The target can make a melee free strike against you. If they do, you can
-      make a melee free strike against the target.
+    effect: The target can make a melee [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against you. If they do, you can make a melee [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against the target.
 ```

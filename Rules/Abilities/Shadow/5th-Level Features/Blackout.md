@@ -72,5 +72,7 @@ effects:
       you and your allies concealment against enemies. While you are in the
       area, whenever an enemy ends their turn in the area, you can use a free
       triggered action to shift to a new location within the area and make a
-      free strike against them.
+      [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against them.
 ```

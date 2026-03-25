@@ -72,9 +72,15 @@ metadata:
   type: feature/ability/talent/6th-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: 6 damage; vertical pull 5 toward the center of the area
-    tier2: 9 damage; vertical pull 7 toward the center of the area
-    tier3: 13 damage; vertical pull 10 toward the center of the area
+    tier1: 6 damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 5
+      toward the center of the area
+    tier2: 9 damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 7
+      toward the center of the area
+    tier3: 13 damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 10
+      toward the center of the area
   - name: Effect
     effect: Targets closest to the center of the area are pulled first.
   - name: Strained

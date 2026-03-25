@@ -81,7 +81,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ally can then make a melee free strike.
+> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ally can then make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 <!-- -->
 > ###### Power Ballad (11 Drama)
@@ -107,8 +107,8 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 >
 > - The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.
 > - The target has damage immunity equal to your Presence score.
-> - The target has a bonus to stability and a penalty to speed equal to your Presence score.
-> - The target has a bonus to speed and a penalty to stability equal to your Presence score.
+> - The target has a bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) and a penalty to speed equal to your Presence score.
+> - The target has a bonus to speed and a penalty to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal to your Presence score.
 
 <!-- -->
 > ###### The Show Must Go On (11 Drama)

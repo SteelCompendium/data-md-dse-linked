@@ -75,9 +75,15 @@ effects:
         target: Each enemy in the area
         effects:
           - roll: Power Roll + Might
-            tier1: 3 damage; vertical pull 3
-            tier2: 5 damage; vertical pull 5
-            tier3: 8 damage; vertical pull 7
+            tier1: 3 damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              pull 3
+            tier2: 5 damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              pull 5
+            tier3: 8 damage;
+              [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX)
+              pull 7
           - name: Effect
             effect: If this forced movement causes a target to slam into you, you take no
               damage from the collision and the target takes the damage you

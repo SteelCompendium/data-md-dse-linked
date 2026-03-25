@@ -70,8 +70,8 @@ metadata:
 effects:
   - name: Effect
     effect: Make a power roll to determine the area of this ability. Each target is
-      vertical pushed 6 squares. You can target only objects of size 1L or
-      smaller.
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pushed 6
+      squares. You can target only objects of size 1L or smaller.
   - roll: Power Roll + Reason
     tier1: 2 burst
     tier2: 3 burst

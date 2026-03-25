@@ -74,9 +74,11 @@ effects:
 
       - The target has damage immunity equal to your Presence score.
 
-      - The target has a bonus to stability and a penalty to speed equal to your
-      Presence score.
+      - The target has a bonus to
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) and a
+      penalty to speed equal to your Presence score.
 
-      - The target has a bonus to speed and a penalty to stability equal to your
-      Presence score.
+      - The target has a bonus to speed and a penalty to
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal
+      to your Presence score.
 ```

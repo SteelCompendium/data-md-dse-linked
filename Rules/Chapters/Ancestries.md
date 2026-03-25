@@ -20,7 +20,7 @@ Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](RE
 
 Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or [lore skills](REL_PATH_PREFIXRules/Skills/Lore%20SkillsREL_PATH_SUFFIX), though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who was raised in a forest among other [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), you can do that! If you want to play a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who was raised in an underground city of [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), and [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), you can do that too!
+In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX)) describes how you grew up. If you want to be a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who was raised in a forest among other [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), you can do that! If you want to play a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who was raised in an underground city of [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), and [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), you can do that too!
 
 This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) for the game:
 
@@ -55,7 +55,7 @@ This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/Ancestrie
 >
 > Edges and banes, Recoveries, respites: [Chapter 1: The Basics](#page-17-3)
 >
-> Languages: [Chapter 4: Background](#page-67-0)
+> Background Languages: [Chapter 4: Background](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX)
 >
 > Abilities, conditions, potencies, saving throws, surges: [Chapter 5: Classes](#page-83-2)
 >
@@ -263,7 +263,7 @@ How tall is a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)? H
 
 ### Starting Size and Speed
 
-Unless otherwise noted, a character of any of these [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) is size 1M and has speed 5 and stability 0.
+Unless otherwise noted, a character of any of these [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) is size 1M and has speed 5 and [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) 0.
 
 Where an ancestry provides you with an ability, see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) for details of the ability format.
 
@@ -705,7 +705,7 @@ Your hearty constitution prevents you from losing strength. You can't be made [w
 
 ##### Grounded (1 Point)
 
-Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to stability.
+Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
 
 ##### Spark Off Your Skin (2 Points)
 
@@ -1433,7 +1433,7 @@ Khorva shook her head. "[Orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFI
 
 #### Signature Trait: Relentless
 
-Whenever a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
 
 #### Purchased Orc Traits
 
@@ -1445,11 +1445,11 @@ The magic coursing through your veins makes you run faster in the heat of battle
 
 ##### Glowing Recovery (2 Points)
 
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the Catch Breath maneuver, you can spend as many Recoveries as you like.
+Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Catch%20BreathREL_PATH_SUFFIX) maneuver, you can spend as many Recoveries as you like.
 
 ##### Grounded (1 Point)
 
-The magic in your blood makes it difficult for others to move you. You have a +1 bonus to stability.
+The magic in your blood makes it difficult for others to move you. You have a +1 bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
 
 ##### Nonstop (2 Points)
 
@@ -1869,7 +1869,7 @@ Your unique physiology enhances your movement. You gain an edge on tests that us
 
 ##### Four-Armed Martial Arts (2 Points)
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at a time.
 
 ##### Psionic Gift (2 Points)
 

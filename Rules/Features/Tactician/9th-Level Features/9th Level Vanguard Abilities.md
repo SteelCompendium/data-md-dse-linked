@@ -86,6 +86,7 @@ effects:
             tier3: 17 + M damage
           - name: Effect
             effect: Until the end of the encounter or until you are dying, you can use a
-              signature or heroic ability instead of a free strike against any
-              target marked by you.
+              signature or heroic ability instead of a [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              against any target marked by you.
 ```

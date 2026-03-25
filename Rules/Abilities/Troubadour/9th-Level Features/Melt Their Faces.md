@@ -79,5 +79,6 @@ effects:
     tier2: 16 + P sonic damage; push 10
     tier3: 22 + P sonic damage; push 15
   - name: Effect
-    effect: Forced movement from this ability ignores stability.
+    effect: Forced movement from this ability ignores
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
 ```

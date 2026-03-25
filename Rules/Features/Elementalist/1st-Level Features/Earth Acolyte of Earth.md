@@ -40,7 +40,8 @@ metadata:
   type: feature/trait/elementalist/1st-level-feature
 effects:
   - effect: You harness the flow of earth magic to become harder to move. Whenever
-      you use an ability that has the Earth and Magic keywords, your stability
+      you use an ability that has the Earth and Magic keywords, your
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX)
       increases by 1 until the start of your next turn. This benefit is
       cumulative.
 ```

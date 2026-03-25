@@ -72,5 +72,5 @@ effects:
     tier3: 5 sonic damage; push 3
   - name: Effect
     effect: You can push each willing ally in the area the same distance, ignoring
-      stability.
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
 ```

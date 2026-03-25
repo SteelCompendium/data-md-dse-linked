@@ -57,8 +57,9 @@ metadata:
   type: feature/ability/tactician/1st-level-feature
 effects:
   - name: Effect
-    effect: At any time during the target's movement, one ally can make a free
-      strike against them.
+    effect: At any time during the target's movement, one ally can make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against them.
   - cost: Spend 1 Focus
     effect: If the target has R < AVERAGE, they are
       [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (EoT).

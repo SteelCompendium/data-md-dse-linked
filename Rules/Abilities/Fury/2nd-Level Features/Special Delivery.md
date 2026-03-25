@@ -65,8 +65,10 @@ metadata:
 effects:
   - name: Effect
     effect: You vertically push the target up to 4 squares. This forced movement
-      ignores the target's stability, and the target takes no damage from
-      colliding with creatures or objects. At the end of this movement, the
-      target can make a free strike that deals extra damage equal to your Might
-      score.
+      ignores the target's
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX), and
+      the target takes no damage from colliding with creatures or objects. At
+      the end of this movement, the target can make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      that deals extra damage equal to your Might score.
 ```

@@ -31,14 +31,8 @@ metadata:
   source: mcdm.heroes.v1
   type: common-ability/maneuver
 effects:
-  - effect: >-
-      A creature who uses the Catch Breath maneuver spends a Recovery and
-      regains Stamina equal to their recovery value. (See below for
-      [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The
-      Basics](#page-17-3).)
+  - effect: |-
+      A creature who uses the [Catch Breath](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Catch%20BreathREL_PATH_SUFFIX) maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
 
-
-      A creature who is dying (see [Dying and Death](#page-292-1) in
-      [Stamina](#page-291-0) below) can't use the Catch Breath maneuver, but
-      other creatures can help them spend Recoveries in other ways.
+      A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-291-0) below) can't use the [Catch Breath](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Catch%20BreathREL_PATH_SUFFIX) maneuver, but other creatures can help them spend Recoveries in other ways.
 ```

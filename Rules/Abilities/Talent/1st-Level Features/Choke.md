@@ -80,7 +80,10 @@ effects:
       [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
       (save ends)
   - name: Effect
-    effect: You can vertical pull the target up to 2 squares. If the target is made
+    effect: You can
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull the
+      target up to 2 squares. If the target is made
       [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) by
-      this ability, this forced movement ignores their stability.
+      this ability, this forced movement ignores their
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
 ```

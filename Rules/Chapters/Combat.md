@@ -182,9 +182,9 @@ A creature who has "burrow" in their speed entry, or who gains the temporary abi
 
 ###### Dig Maneuver
 
-It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
+It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](REL_PATH_PREFIXRules/Movement/Dig%20ManeuverREL_PATH_SUFFIX), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature has a creature who is not unconscious [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the [Dig maneuver](REL_PATH_PREFIXRules/Movement/Dig%20ManeuverREL_PATH_SUFFIX), they can move vertically up to a number of squares equal to their size. If a [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature has a creature who is not unconscious [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ###### Targeting Burrowing Creatures
 
@@ -216,11 +216,11 @@ If a creature who can't [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SU
 
 ###### Burrowing Forced Movement
 
-While a creature who is completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as if it were air.
+While a creature who is completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) is force moved by movement that isn't [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX), they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX), the creature is moved through the dirt as if it were air.
 
 ##### Climb or Swim
 
-A creature who has "[climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) in liquid at full speed.
+A creature who has "[climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) across [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) and horizontal surfaces at full speed. Likewise, a creature who has "[swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) in liquid at full speed.
 
 Creatures without those types of movement can still [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) when a rule allows them to move, but each square of [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swimming](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) costs 2 squares of movement. If a surface is difficult to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
@@ -230,7 +230,7 @@ You can attempt to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PA
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature, and they can make a free strike against you.
+- **≤11:** You fail to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature, and they can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against you.
 - **12-16:** You fail to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature.
 - **17+:** You [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature.
 
@@ -333,7 +333,7 @@ Forced movement ignores difficult terrain and never provokes opportunity attacks
 
 If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
-If a creature who can't [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is always a vertical forced move, whether or not the effect specifies it.
+If a creature who can't [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is left in midair at the end of a [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) forced move, they fall. Forced movement made against a creature who is [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is always a [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) forced move, whether or not the effect specifies it.
 
 Though you can't freely push, pull, or slide a target up and down unless that forced movement specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
@@ -385,9 +385,9 @@ If you can't [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) and are for
 
 ##### Stability
 
-Each creature has a stability that allows them to resist forced movement. When a creature is force moved, they can reduce that movement up to a number of squares equal to their stability. Heroes start with stability 0 and can increase their stability through ancestry, class, and kit options.
+Each creature has a [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) that allows them to resist forced movement. When a creature is force moved, they can reduce that movement up to a number of squares equal to their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX). Heroes start with [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) 0 and can increase their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) through ancestry, class, and kit options.
 
-A creature's stability can't be less than 0, even when reduced by a penalty.
+A creature's [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) can't be less than 0, even when reduced by a penalty.
 
 ##### "When a Creature Moves..."
 
@@ -421,13 +421,13 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 
 #### Aid Attack
 
-A creature who uses the Aid Attack maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
+A creature who uses the [Aid Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX) maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
 
 #### Catch Breath
 
-A creature who uses the Catch Breath maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
+A creature who uses the [Catch Breath](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Catch%20BreathREL_PATH_SUFFIX) maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
 
-A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-291-0) below) can't use the Catch Breath maneuver, but other creatures can help them spend Recoveries in other ways.
+A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-291-0) below) can't use the [Catch Breath](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Catch%20BreathREL_PATH_SUFFIX) maneuver, but other creatures can help them spend Recoveries in other ways.
 
 #### Escape Grab
 
@@ -443,7 +443,7 @@ A creature who is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFF
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) can make a melee free strike against you before you are no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
+> - **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) can make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against you before you are no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 > - **17+:** You are no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 >
 > **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
@@ -464,7 +464,7 @@ A creature seeking to keep a foe close and locked down can attempt to grab a cre
 > **Power Roll + Might:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can grab the target, but if you do, the target can make a melee free strike against you before they are [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
+> - **12-16:** You can grab the target, but if you do, the target can make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against you before they are [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 > - **17+:** The target is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) by you.
 >
 > **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
@@ -518,13 +518,13 @@ Unless otherwise noted in its description, a creature can activate a consumable 
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to help another creature regain Stamina, charge into battle, defend yourself, or make a free strike.
+You can also use your main action to help another creature regain Stamina, charge into battle, defend yourself, or make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 You can convert your main action into a maneuver or a move action, allowing you to take two maneuvers or move actions on your turn.
 
 #### Charge
 
-When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee free strike (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a free strike.
+When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 A creature can't move through difficult terrain or shift when they charge. They can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) or [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) as part of the Charge main action if they have that movement available to them, but they can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) while charging unless they can automatically use that movement at full speed.
 
@@ -534,7 +534,7 @@ When a creature takes the Defend main action, ability rolls made against them ha
 
 #### Free Strike
 
-A creature can use this main action to make a free strike (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) foe.
+A creature can use this main action to make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) are available for when all else fails. For instance, a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) who has no other options for ranged strikes might use the Ranged Weapon [Free Strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) ability with an improvised weapon when battling a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) foe.
 
 #### Heal
 
@@ -542,25 +542,25 @@ A creature who uses the Heal main action employs medicine or inspiring words to 
 
 ### Free Strikes
 
-Every creature can use a free strike ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use free strikes when the rules call for it. Specific rules let you use free strikes as part of an action that allows you to also do something else impactful, such as how the Charge main action lets you move and use a melee free strike in one main action (see Charge above).
+Every creature can use a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) when the rules call for it. Specific rules let you use [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) as part of an action that allows you to also do something else impactful, such as how the Charge main action lets you move and use a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) in one main action (see Charge above).
 
-Many rules and abilities allow heroes to make free strikes when it isn't their turn, such as the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s Overwatch ability. As well, all characters can make an opportunity attack free strike.
+Many rules and abilities allow heroes to make [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) when it isn't their turn, such as the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s Overwatch ability. As well, all characters can make an opportunity attack [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 #### Granted Abilities
 
-Some abilities, such as the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s Strike Now or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a free strike instead of a granted signature ability or heroic ability.
+Some abilities, such as the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s Strike Now or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) instead of a granted signature ability or heroic ability.
 
 #### Opportunity Attacks
 
-Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without shifting, the creature can take advantage of that movement to quickly make a melee free strike against the enemy as a free triggered action. This is called an opportunity attack.
+Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without shifting, the creature can take advantage of that movement to quickly make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against the enemy as a free triggered action. This is called an opportunity attack.
 
 If a creature has a bane or double bane on the power roll against the enemy, they can't make an opportunity attack.
 
 #### Standard Free Strikes
 
-Every hero has two standard free strike abilities available to them. Your class might give you additional free strike options, and your kit can improve the standard options (see [Chapter 6: Kits](#page-231-0)).
+Every hero has two standard [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) abilities available to them. Your class might give you additional [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) options, and your kit can improve the standard options (see [Chapter 6: Kits](#page-231-0)).
 
-A melee weapon free strike is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon free strike is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a free strike.
+A melee weapon [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 ###### Melee Weapon Free Strike
 
@@ -644,7 +644,7 @@ After any damage you take is reduced by damage immunity or other effects, your S
 
 #### Recoveries and Recovery Value
 
-Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the Catch Breath maneuver in combat (see [Maneuvers](#page-287-0) above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
+Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Catch%20BreathREL_PATH_SUFFIX) maneuver in combat (see [Maneuvers](#page-287-0) above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
 
 #### Winded
 
@@ -654,7 +654,7 @@ You can tell when other creatures are winded and vice versa.
 
 #### Dying and Death
 
-When your Stamina is 0 or lower, you are dying. While dying, you can't use the Catch Breath maneuver in combat. Additionally, you are [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Catch%20BreathREL_PATH_SUFFIX) maneuver in combat. Additionally, you are [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 

@@ -37,9 +37,9 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 ##### The Mountain Does Not Move
 
-You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.
+You stand firm and magnetize your allies to stay grounded. Your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) increases by your level.
 
-Additionally, whenever an ally within distance of your Hurl Element ability is force moved, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally's stability by an amount equal to the stability you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your Hurl Element ability is force moved, you can use a free triggered action to decrease your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) down to a minimum of 0, then increase the ally's [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) by an amount equal to the [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) you lost. This change lasts until the end of the round.
 
 ##### Pierce the Veil of Substance
 

@@ -18,7 +18,7 @@ You can attempt to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PA
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature, and they can make a free strike against you.
+- **≤11:** You fail to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature, and they can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against you.
 - **12-16:** You fail to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature.
 - **17+:** You [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature.
 

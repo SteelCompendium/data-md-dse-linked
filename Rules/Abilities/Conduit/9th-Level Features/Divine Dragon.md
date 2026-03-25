@@ -69,7 +69,8 @@ effects:
     effect: >-
       You conjure a size 4 dragon that appears in an unoccupied space within
       distance. The dragon has speed 6 and can
-      [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), stability 4, 100
+      [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX),
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) 4, 100
       Stamina, immunity all to fire damage, and uses your characteristics. The
       dragon disappears at the end of the encounter, if their Stamina drops to
       0, or if you are dying.
@@ -80,7 +81,8 @@ effects:
   - effect: Additionally, you can use a maneuver to move the dragon up to their
       speed, or to make a melee weapon strike with their claw against an
       adjacent creature or object. The dragon can also make this strike as a
-      free strike.
+      [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
     roll: Power Roll + Intuition
     tier1: 5 fire damage
     tier2: 9 fire damage

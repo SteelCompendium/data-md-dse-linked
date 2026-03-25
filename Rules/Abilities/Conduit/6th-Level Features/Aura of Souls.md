@@ -69,5 +69,6 @@ effects:
     effect: Until the end of the encounter or until you are dying, at the end of
       each of your turns, you can slide each creature in the area up to a number
       of squares equal to your Intuition score. This forced movement ignores
-      stability for your allies.
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) for
+      your allies.
 ```

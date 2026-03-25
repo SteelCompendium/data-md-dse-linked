@@ -41,7 +41,8 @@ metadata:
 effects:
   - effect: You and each creature or object of your choice in the area of your
       [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability
-      gain a bonus to stability equal to your Intuition score. A creature who
-      attempts to force move a target with this bonus takes psychic damage equal
-      to your Intuition score.
+      gain a bonus to
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal
+      to your Intuition score. A creature who attempts to force move a target
+      with this bonus takes psychic damage equal to your Intuition score.
 ```

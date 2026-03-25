@@ -77,6 +77,7 @@ effects:
     tier3: The target has a double bane on power rolls (save ends).
   - name: Effect
     effect: Choose one ally within distance. While the target is affected by this
-      ability, each time they use an ability, that ally can make a free strike
+      ability, each time they use an ability, that ally can make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
       against them after the ability is resolved.
 ```

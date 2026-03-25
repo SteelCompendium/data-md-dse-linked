@@ -37,7 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/elementalist/1st-level-feature
 effects:
-  - effect: You have the following ability, which can be used as a ranged free strike.
+  - effect: You have the following ability, which can be used as a ranged [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
     features:
       - type: feature
         feature_type: ability

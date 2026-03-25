@@ -28,7 +28,7 @@ type: treasure/consumable/1st-echelon
 
 **Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX))
 
-**Effect:** As a maneuver, you make a ranged free strike using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** You can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the target up to 2 squares.
 - **12-16:** You can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the target up to 4 squares.

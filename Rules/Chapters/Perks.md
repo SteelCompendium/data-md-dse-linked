@@ -91,7 +91,7 @@ Whenever you are in a natural environment (but not in a settlement in that envir
 
 #### Friend Catapult
 
-As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then vertical push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
+As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
 
 #### I've Got You!
 
@@ -276,11 +276,11 @@ If your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_P
 
 **Familiar**
 
-| [Familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) |          -          |            Level -             |            -            |          EV -          |
-| :---------------------------------------------------------------------------------: | :-----------------: | :----------------------------: | :---------------------: | :--------------------: |
-|                                  **1T**<br/> Size                                   |  **5**<br/> Speed   | **2x your level**<br/> Stamina |  **0**<br/> Stability   | **-**<br/> Free Strike |
-|                                **-**<br/> Immunities                                | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|                                  **-3**<br/> Might                                  | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
+| [Familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) |          -          |            Level -             |                                       -                                        |                                                    EV -                                                     |
+| :---------------------------------------------------------------------------------: | :-----------------: | :----------------------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+|                                  **1T**<br/> Size                                   |  **5**<br/> Speed   | **2x your level**<br/> Stamina | **0**<br/> [Stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) | **-**<br/> [Free Strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) |
+|                                **-**<br/> Immunities                                | **-**<br/> Movement |                                |                            **-**<br/> With Captain                             |                                            **-**<br/> Weaknesses                                            |
+|                                  **-3**<br/> Might                                  | **+2**<br/> Agility |       **0**<br/> Reason        |                              **0**<br/> Intuition                              |                                            **+1**<br/> Presence                                             |
 
 <!-- -->
 > **Telepathic**

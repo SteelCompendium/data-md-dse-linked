@@ -57,11 +57,12 @@ effects:
               new hero who appears in an unoccupied space within distance. This
               guest star is controlled by you, has their own turn, and shares
               your characteristics. Their Stamina maximum is half yours. They
-              have no abilities other than your melee and ranged free strikes.
-              At the end of the encounter, or when the guest star is reduced to
-              0 Stamina, they retreat or revert to a bystander. The same
-              bystander can't be uplifted this way more than once during an
-              encounter."
+              have no abilities other than your melee and ranged [free
+              strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Fre\
+              e%20StrikeREL_PATH_SUFFIX). At the end of the encounter, or when
+              the guest star is reduced to 0 Stamina, they retreat or revert to
+              a bystander. The same bystander can't be uplifted this way more
+              than once during an encounter."
       - type: feature
         feature_type: ability
         name: Twist at the End

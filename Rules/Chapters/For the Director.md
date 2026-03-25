@@ -143,7 +143,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) and [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) (see [Chapter 3](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX)) so that no one can take [Aristocrat](REL_PATH_PREFIXRules/Careers/AristocratREL_PATH_SUFFIX) or [Politician](REL_PATH_PREFIXRules/Careers/PoliticianREL_PATH_SUFFIX).
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) and [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) (see [Chapter 3](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4: Background](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX)) so that no one can take [Aristocrat](REL_PATH_PREFIXRules/Careers/AristocratREL_PATH_SUFFIX) or [Politician](REL_PATH_PREFIXRules/Careers/PoliticianREL_PATH_SUFFIX).
 
 Put any restrictions your campaign has into your pitch!
 
@@ -882,7 +882,7 @@ The duke has the following possible motivations:
 
 - **Discovery:** My agents have brought me many whispers, but this is news to me. Who else knows of this?
 - **Higher Authority:** I must do as my liege commands. [So tell me](REL_PATH_PREFIXRules/Perks/Interpersonal%20Perks/So%20Tell%20MeREL_PATH_SUFFIX) how you seek to serve them as well.
-- **Peace:** We must have stability. I will sacrifice anything—and anyone—for this.
+- **Peace:** We must have [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX). I will sacrifice anything—and anyone—for this.
 - **Vengeance:** There is one—I will not speak their name—who thinks I have forgotten what they did to me. Someday they will discover that I have a long memory.
 
 ###### Pitfalls
@@ -1393,7 +1393,7 @@ Go over any house rules you have with the players, and ask them if they have any
 
 During the first session of a new campaign, the players will likely spend most of their time building heroes. While they do so, it's a good idea for you to be available to answer any questions they have about the campaign and the setting. They might ask about everything from the name of the town where their first adventure starts, important organizations in the game, or if a specific language or skill will be useful in the campaign.
 
-As your players make their heroes, you can take notes. It's a good idea to record each hero's name, ancestry, background, class, and complication (if any). Also record any important backstory details a player shares with you, such as their character's hometown, the names of rivals, loved ones, or enemies, and any organizations with which they have history.
+As your players make their heroes, you can take notes. It's a good idea to record each hero's name, ancestry, [background](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX), class, and complication (if any). Also record any important backstory details a player shares with you, such as their character's hometown, the names of rivals, loved ones, or enemies, and any organizations with which they have history.
 
 #### Start With a Bang
 

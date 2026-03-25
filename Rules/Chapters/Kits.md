@@ -16,7 +16,7 @@ type: chapter
 
 # Kits
 
-The knight in [shining armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX). The [warrior priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX). The [sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX). Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+The knight in [shining armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX). The [warrior priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX). The [sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX). [Censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), furies, shadows, [tacticians](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), and [troubadours](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit
 
@@ -105,7 +105,7 @@ If you find a piece of equipment you really want to use that isn't part of your 
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your Stamina, speed, and stability, as well as the damage and distance of your weapon abilities, including your free strikes. ([Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) has information on abilities, ability keywords, and more.)
+A kit can grant a bonus to your Stamina, speed, and [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX), as well as the damage and distance of your weapon abilities, including your [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). ([Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
@@ -117,7 +117,7 @@ Your kit's speed bonus is added to your speed.
 
 #### Stability Bonus
 
-Your kit's stability bonus is added to your stability.
+Your kit's [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) bonus is added to your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
 
 #### Damage Bonuses
 
@@ -152,9 +152,9 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 <!-- -->
 > **Improvised Weapons**
 >
-> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee free strike, the sword counts as an improvised weapon.
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), the sword counts as an improvised weapon.
 >
-> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
+> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
 
 #### Arcane Archer
 
@@ -906,15 +906,15 @@ You wear no armor and wield a whip.
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 4 + M or A damage; vertical pull 1
-- **12-16:** 7 + M or A damage; vertical pull 2
-- **17+:** 10 + M or A damage; vertical pull 3
+- **≤11:** 4 + M or A damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 1
+- **12-16:** 7 + M or A damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 2
+- **17+:** 10 + M or A damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 3
 
 ### Optional Rule: Losing Equipment
 
 The rules of the game expect that heroes always have access to their equipment. That's because for most of the time in the game, heroes aren't worried about surviving for days on end in a dungeon and tracking every piece of gear they carry. However, there might be times where your group wants to tell a story of heroes who are captured and stripped of their equipment, or who find themselves at a masquerade where weapons need to be checked at the door. For those kinds of scenarios, you can use the following rules:
 
-- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's Stamina bonus and stability bonus. If you lose your shield but keep the rest of your armor, your Stamina decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its Stamina bonus, even if you aren't actively wielding it.
+- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's Stamina bonus and [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) bonus. If you lose your shield but keep the rest of your armor, your Stamina decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its Stamina bonus, even if you aren't actively wielding it.
 - If your kit has a medium or heavy weapon you aren't wielding, you lose the kit's melee damage bonus.
 - If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and distance bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
 - If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee distance bonus.
@@ -923,26 +923,26 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 ###### Kits Table
 
-| Kit                                                                               | Armor          | Weapon             | Stamina per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
-| --------------------------------------------------------------------------------- | -------------- | ------------------ | ------------------- | ----- | --------- | ------------ | ------------- | -------------- | --------------- | --------- |
-| [Arcane Archer](REL_PATH_PREFIXRules/Kits/Arcane%20ArcherREL_PATH_SUFFIX)         | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
-| [Battlemind](REL_PATH_PREFIXRules/Kits/BattlemindREL_PATH_SUFFIX)                 | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Cloak and Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX) | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| [Dual Wielder](REL_PATH_PREFIXRules/Kits/Dual%20WielderREL_PATH_SUFFIX)           | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Guisarmier](REL_PATH_PREFIXRules/Kits/GuisarmierREL_PATH_SUFFIX)                 | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
-| [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX)       | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX)                     | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
-| [Panther](REL_PATH_PREFIXRules/Kits/PantherREL_PATH_SUFFIX)                       | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
-| [Pugilist](REL_PATH_PREFIXRules/Kits/PugilistREL_PATH_SUFFIX)                     | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| [Raider](REL_PATH_PREFIXRules/Kits/RaiderREL_PATH_SUFFIX)                         | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| [Ranger](REL_PATH_PREFIXRules/Kits/RangerREL_PATH_SUFFIX)                         | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| Rapid-Fire                                                                        | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |
-| [Retiarius](REL_PATH_PREFIXRules/Kits/RetiariusREL_PATH_SUFFIX)                   | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
-| [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX)         | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX)                         | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |
-| [Spellsword](REL_PATH_PREFIXRules/Kits/SpellswordREL_PATH_SUFFIX)                 | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Stick and Robe](REL_PATH_PREFIXRules/Kits/Stick%20and%20RobeREL_PATH_SUFFIX)     | Light          | Polearm            | +3                  | +2    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
-| [Swashbuckler](REL_PATH_PREFIXRules/Kits/SwashbucklerREL_PATH_SUFFIX)             | Light          | Medium             | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Sword and Board](REL_PATH_PREFIXRules/Kits/Sword%20and%20BoardREL_PATH_SUFFIX)   | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
-| [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX)       | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| [Whirlwind](REL_PATH_PREFIXRules/Kits/WhirlwindREL_PATH_SUFFIX)                   | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
+| Kit                                                                               | Armor          | Weapon             | Stamina per Echelon | Speed | [Stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
+| --------------------------------------------------------------------------------- | -------------- | ------------------ | ------------------- | ----- | ------------------------------------------------------------------- | ------------ | ------------- | -------------- | --------------- | --------- |
+| [Arcane Archer](REL_PATH_PREFIXRules/Kits/Arcane%20ArcherREL_PATH_SUFFIX)         | None           | Bow                | -                   | +1    | -                                                                   | -            | +2/+2/+2      | -              | +10             | +1        |
+| [Battlemind](REL_PATH_PREFIXRules/Kits/BattlemindREL_PATH_SUFFIX)                 | Light          | Medium             | +3                  | +2    | +1                                                                  | +2/+2/+2     | -             | -              | -               | -         |
+| [Cloak and Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX) | Light          | Light              | +3                  | +2    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Dual Wielder](REL_PATH_PREFIXRules/Kits/Dual%20WielderREL_PATH_SUFFIX)           | Medium         | Light, medium      | +6                  | +2    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1        |
+| [Guisarmier](REL_PATH_PREFIXRules/Kits/GuisarmierREL_PATH_SUFFIX)                 | Medium         | Polearm            | +6                  | -     | +1                                                                  | +2/+2/+2     | -             | +1             | -               | -         |
+| [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX)       | None           | Unarmed strikes    | +3                  | +3    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1        |
+| [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX)                     | Heavy          | Heavy              | +9                  | -     | +2                                                                  | +0/+0/+4     | -             | -              | -               | -         |
+| [Panther](REL_PATH_PREFIXRules/Kits/PantherREL_PATH_SUFFIX)                       | None           | Heavy              | +6                  | +1    | +1                                                                  | +0/+0/+4     | -             | -              | -               | -         |
+| [Pugilist](REL_PATH_PREFIXRules/Kits/PugilistREL_PATH_SUFFIX)                     | None           | Unarmed strikes    | +6                  | +2    | +1                                                                  | +1/+1/+1     | -             | -              | -               | -         |
+| [Raider](REL_PATH_PREFIXRules/Kits/RaiderREL_PATH_SUFFIX)                         | Light, shield  | Light              | +6                  | +1    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Ranger](REL_PATH_PREFIXRules/Kits/RangerREL_PATH_SUFFIX)                         | Medium         | Bow, medium        | +6                  | +1    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Rapid-Fire](REL_PATH_PREFIXRules/Kits/Rapid%20FireREL_PATH_SUFFIX)               | Light          | Bow                | +3                  | +1    | -                                                                   | -            | +2/+2/+2      | -              | +7              | +1        |
+| [Retiarius](REL_PATH_PREFIXRules/Kits/RetiariusREL_PATH_SUFFIX)                   | Light          | Ensnaring, polearm | +3                  | +1    | -                                                                   | +2/+2/+2     | -             | +1             | -               | +1        |
+| [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX)         | Heavy, shield  | Medium             | +12                 | -     | +1                                                                  | +2/+2/+2     | -             | -              | -               | -         |
+| [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX)                         | None           | Bow                | -                   | +1    | -                                                                   | -            | +0/+0/+4      | -              | +10             | +1        |
+| [Spellsword](REL_PATH_PREFIXRules/Kits/SpellswordREL_PATH_SUFFIX)                 | Light, shield  | Medium             | +6                  | +1    | +1                                                                  | +2/+2/+2     | -             | -              | -               | -         |
+| [Stick and Robe](REL_PATH_PREFIXRules/Kits/Stick%20and%20RobeREL_PATH_SUFFIX)     | Light          | Polearm            | +3                  | +2    | -                                                                   | +1/+1/+1     | -             | +1             | -               | +1        |
+| [Swashbuckler](REL_PATH_PREFIXRules/Kits/SwashbucklerREL_PATH_SUFFIX)             | Light          | Medium             | +3                  | +3    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1        |
+| [Sword and Board](REL_PATH_PREFIXRules/Kits/Sword%20and%20BoardREL_PATH_SUFFIX)   | Medium, shield | Medium             | +9                  | -     | +1                                                                  | +2/+2/+2     | -             | -              | -               | +1        |
+| [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX)       | Heavy          | Light              | +9                  | +1    | +1                                                                  | +1/+1/+1     | -             | -              | -               | -         |
+| [Whirlwind](REL_PATH_PREFIXRules/Kits/WhirlwindREL_PATH_SUFFIX)                   | None           | Whip               | -                   | +3    | -                                                                   | +1/+1/+1     | -             | +1             | -               | +1        |

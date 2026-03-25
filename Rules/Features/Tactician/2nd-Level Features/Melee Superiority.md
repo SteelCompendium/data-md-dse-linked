@@ -45,6 +45,10 @@ effects:
       the end of the current turn.
   - name: Mark Benefit
     effect: When a creature marked by you attempts to move or shift within distance
-      of your melee free strike, you can use a free triggered action and spend 2
-      focus to make a melee free strike against that creature.
+      of your melee [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX),
+      you can use a free triggered action and spend 2 focus to make a melee
+      [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against that creature.
 ```

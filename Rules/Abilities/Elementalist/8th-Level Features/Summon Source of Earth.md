@@ -82,11 +82,11 @@ effects:
   - effect: |-
       **Source of Earth**
 
-      |       Elemental       |                                        -                                        |       Level 8       |          BRUTE          |          EV -          |
-      | :-------------------: | :-----------------------------------------------------------------------------: | :-----------------: | :---------------------: | :--------------------: |
-      |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
-      | **-**<br/> Immunities | **[Burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX)**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-      |   **+3**<br/> Might   |                               **+1**<br/> Agility                               | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
+      |       Elemental       |                                        -                                        |       Level 8       |                                     BRUTE                                      |                                                    EV -                                                     |
+      | :-------------------: | :-----------------------------------------------------------------------------: | :-----------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+      |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina | **5**<br/> [Stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) | **5**<br/> [Free Strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) |
+      | **-**<br/> Immunities | **[Burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX)**<br/> Movement |                     |                            **-**<br/> With Captain                             |                                            **-**<br/> Weaknesses                                            |
+      |   **+3**<br/> Might   |                               **+1**<br/> Agility                               | **-5**<br/> Reason  |                             **-5**<br/> Intuition                              |                                            **-3**<br/> Presence                                             |
     features:
       - type: feature
         feature_type: trait

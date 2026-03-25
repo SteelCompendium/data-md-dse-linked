@@ -66,5 +66,6 @@ effects:
       creature who dealt the damage can push the target up to 2 squares and then
       shift up to 2 squares. Additionally, any ally using the Charge main action
       to target a creature marked by you can use a melee strike signature
-      ability or a melee strike heroic ability instead of a melee free strike.
+      ability or a melee strike heroic ability instead of a melee [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 ```

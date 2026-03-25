@@ -75,7 +75,8 @@ effects:
     tier3: 13 + A damage
   - name: Effect
     effect: You can shift up to half your speed before or after you make this
-      strike. Additionally, whenever an effect lets you make a free strike or
-      use a signature ability, you can use this ability instead, paying its
+      strike. Additionally, whenever an effect lets you make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      or use a signature ability, you can use this ability instead, paying its
       discipline cost as usual.
 ```

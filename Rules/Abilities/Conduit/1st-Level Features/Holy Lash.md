@@ -62,7 +62,10 @@ metadata:
   type: feature/ability/conduit/1st-level-feature
 effects:
   - roll: Power Roll + Intuition
-    tier1: 3 + I holy damage; vertical pull 2
-    tier2: 5 + I holy damage; vertical pull 3
-    tier3: 8 + I holy damage; vertical pull 4
+    tier1: 3 + I holy damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 2
+    tier2: 5 + I holy damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 3
+    tier3: 8 + I holy damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 4
 ```

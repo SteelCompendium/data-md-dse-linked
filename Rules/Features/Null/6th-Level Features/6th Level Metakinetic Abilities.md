@@ -51,13 +51,18 @@ effects:
         target: Self
         effects:
           - roll: Power Roll + Intuition
-            tier1: Vertical slide 5
-            tier2: Vertical slide 7
-            tier3: Vertical slide 9
+            tier1: "[Vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide
+              5"
+            tier2: "[Vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide
+              7"
+            tier3: "[Vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide
+              9"
           - name: Effect
-            effect: This movement ignores stability. If you slide into another creature, you
-              resolve damage to both of you as if your force movement had ended,
-              but you keep moving through that creature's space.
+            effect: This movement ignores
+              [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
+              If you slide into another creature, you resolve damage to both of
+              you as if your force movement had ended, but you keep moving
+              through that creature's space.
       - type: feature
         feature_type: ability
         name: Iron Body
@@ -71,6 +76,7 @@ effects:
         effects:
           - name: Effect
             effect: You gain 20 temporary Stamina. Additionally, until the end of the
-              encounter, your stability gains a bonus equal to your Intuition
-              score.
+              encounter, your
+              [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX)
+              gains a bonus equal to your Intuition score.
 ```

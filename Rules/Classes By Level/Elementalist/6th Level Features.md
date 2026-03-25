@@ -59,7 +59,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Effect:** Until the start of your next turn, the target has the following benefits:
 >
-> - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) until the effect ends.
+> - Their size and [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX). If the target doesn't have space to grow, they grow as much as they can and become [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) until the effect ends.
 > - They have fire immunity 10.
 > - Their strikes deal extra fire damage equal to twice your Reason score.
 > - When the target force moves a creature or object, the forced movement distance gains a +2 bonus.

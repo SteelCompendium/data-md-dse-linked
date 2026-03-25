@@ -31,14 +31,17 @@ metadata:
   source: mcdm.heroes.v1
   type: common-ability/main-action
 effects:
-  - effect: A creature can use this main action to make a free strike (see
-      [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time,
+  - effect: A creature can use this main action to make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time,
       you'll want to use the more impactful main actions granted by your class,
       kit, or other feature, just as the Director will use the main actions in a
-      creature's stat block, but free strikes are available for when all else
-      fails. For instance, a
+      creature's stat block, but [free
+      strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      are available for when all else fails. For instance, a
       [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) who has no other
-      options for ranged strikes might use the Ranged Weapon Free Strike ability
-      with an improvised weapon when battling a
+      options for ranged strikes might use the Ranged Weapon [Free
+      Strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      ability with an improvised weapon when battling a
       [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) foe.
 ```

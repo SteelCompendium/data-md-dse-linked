@@ -80,9 +80,14 @@ effects:
         target: One creature
         effects:
           - name: Effect
-            effect: You and the target each make a melee free strike that targets each enemy
-              within 3 squares of either of you, dividing the enemies between
-              each of you. You choose which enemies your free strike targets and
-              which enemies the target creature's free strike targets. You then
-              slide the target 5 squares, ignoring stability.
+            effect: You and the target each make a melee [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              that targets each enemy within 3 squares of either of you,
+              dividing the enemies between each of you. You choose which enemies
+              your [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              targets and which enemies the target creature's [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              targets. You then slide the target 5 squares, ignoring
+              [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
 ```

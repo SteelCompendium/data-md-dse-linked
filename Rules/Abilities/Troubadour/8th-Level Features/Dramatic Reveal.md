@@ -67,5 +67,6 @@ effects:
       within distance of that ability into the creature's space in a plume of
       rose petals. You or the
       [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ally
-      can then make a melee free strike.
+      can then make a melee [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 ```

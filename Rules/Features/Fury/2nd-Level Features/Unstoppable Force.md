@@ -40,7 +40,9 @@ metadata:
   type: feature/trait/fury/2nd-level-feature
 effects:
   - effect: Whenever you use the Charge main action, you can use a strike signature
-      ability or a strike heroic ability instead of a free strike. Additionally,
-      you can [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) as part
-      of your charge.
+      ability or a strike heroic ability instead of a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
+      Additionally, you can
+      [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) as part of your
+      charge.
 ```

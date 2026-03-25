@@ -127,7 +127,7 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 >
 > **Trigger:** The target moves.
 >
-> **Effect:** At any time during the target's movement, one ally can make a free strike against them.
+> **Effect:** At any time during the target's movement, one ally can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against them.
 >
 > **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (EoT).
 
@@ -155,7 +155,7 @@ If both kits grant you the same benefit, you take one or the other and can't cha
 For example, if you take the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) and [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
-- Stability Bonus: +1
+- [Stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) Bonus: +1
 - Melee Damage Bonus: +2/+2/+2
 - Ranged Damage Bonus: +0/+0/+4
 - Speed Bonus: +1
@@ -329,7 +329,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 Three allies** |
 >
-> **Effect:** Each target can make a free strike.
+> **Effect:** Each target can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 <!-- -->
 > ###### This Is What We Planned For (5 Focus)

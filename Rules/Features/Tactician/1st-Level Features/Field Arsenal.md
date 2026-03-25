@@ -58,7 +58,8 @@ effects:
 
       - Stamina Bonus: +12 per echelon
 
-      - Stability Bonus: +1
+      - [Stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX)
+      Bonus: +1
 
       - Melee Damage Bonus: +2/+2/+2
 

@@ -70,7 +70,9 @@ metadata:
 effects:
   - roll: Power Roll + Intuition
     tier1: 4 + I holy damage; P < WEAK, before taking damage, the target makes a
-      free strike against a target you choose
+      [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against a target you choose
     tier2: 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an
       ability of your choice and you choose any targets for that ability
     tier3: 11 + I holy damage; P < STRONG, before taking damage, the target shifts

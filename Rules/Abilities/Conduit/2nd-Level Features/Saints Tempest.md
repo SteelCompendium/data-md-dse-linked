@@ -72,7 +72,10 @@ metadata:
   type: feature/ability/conduit/2nd-level-feature
 effects:
   - roll: Power Roll + Intuition
-    tier1: 2 lightning damage; vertical slide 1
-    tier2: 5 lightning damage; vertical slide 2
-    tier3: 7 lightning damage; vertical slide 3
+    tier1: 2 lightning damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 1
+    tier2: 5 lightning damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 2
+    tier3: 7 lightning damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 3
 ```

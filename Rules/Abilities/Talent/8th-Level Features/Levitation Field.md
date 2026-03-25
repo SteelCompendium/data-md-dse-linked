@@ -66,7 +66,8 @@ effects:
       until the start of your next turn, and can immediately shift up to their
       speed. You can also shift up to your speed. While
       [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), a target's
-      stability is reduced to 0 and can't be increased.
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) is
+      reduced to 0 and can't be increased.
   - cost: Spend 5 Clarity
     effect: The effects last for 1 hour instead.
 ```

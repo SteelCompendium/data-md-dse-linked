@@ -42,6 +42,6 @@ You wear no armor and wield a whip.
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 4 + M or A damage; vertical pull 1
-- **12-16:** 7 + M or A damage; vertical pull 2
-- **17+:** 10 + M or A damage; vertical pull 3
+- **≤11:** 4 + M or A damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 1
+- **12-16:** 7 + M or A damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 2
+- **17+:** 10 + M or A damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 3

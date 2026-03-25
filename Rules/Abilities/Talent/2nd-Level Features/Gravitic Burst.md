@@ -69,9 +69,12 @@ metadata:
   type: feature/ability/talent/2nd-level-feature
 effects:
   - roll: Power Roll + Reason
-    tier1: 3 damage; vertical push 2
-    tier2: 6 damage; vertical push 4
-    tier3: 9 damage; vertical push 6
+    tier1: 3 damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) push 2
+    tier2: 6 damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) push 4
+    tier3: 9 damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) push 6
   - name: Strained
     effect: The size of the burst increases by 1, and you are
       [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) until

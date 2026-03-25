@@ -41,5 +41,6 @@ metadata:
 effects:
   - effect: When you use the Charge main action to attack a creature marked by you,
       you can use a signature or heroic ability with the Melee and Strike
-      keywords instead of a melee free strike.
+      keywords instead of a melee [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 ```

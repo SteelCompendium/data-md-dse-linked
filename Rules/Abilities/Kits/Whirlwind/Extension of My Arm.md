@@ -59,7 +59,10 @@ metadata:
   type: kit-ability/whirlwind
 effects:
   - roll: Power Roll + Might or Agility
-    tier1: 4 + M or A damage; vertical pull 1
-    tier2: 7 + M or A damage; vertical pull 2
-    tier3: 10 + M or A damage; vertical pull 3
+    tier1: 4 + M or A damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 1
+    tier2: 7 + M or A damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 2
+    tier3: 10 + M or A damage;
+      [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 3
 ```

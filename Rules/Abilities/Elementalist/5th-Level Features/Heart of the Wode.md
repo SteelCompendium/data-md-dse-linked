@@ -70,19 +70,7 @@ metadata:
   type: feature/ability/elementalist/5th-level-feature
 effects:
   - name: Effect
-    effect: >-
-      A size 5 tree appears in an unoccupied space within distance. The tree has
-      100 Stamina and can't be force moved. You and any ally can touch the tree
-      to use the Catch Breath maneuver as a free maneuver. Additionally, when
-      you start your turn with line of effect to the tree, you can end one
-      effect on yourself that is ended by a saving throw or that ends at the end
-      of your turn, or you can stand up if you are
-      [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). Each ally
-      within distance also gains this benefit.
-
-      Each enemy who ends their turn within 3 squares of the tree is
-      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
-      until the end of their next turn. A creature
-      [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX)
-      this way can use a main action to end the effect early.
+    effect: |-
+      A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the [Catch Breath](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Catch%20BreathREL_PATH_SUFFIX) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). Each ally within distance also gains this benefit.
+      Each enemy who ends their turn within 3 squares of the tree is [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) until the end of their next turn. A creature [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) this way can use a main action to end the effect early.
 ```

@@ -78,6 +78,7 @@ effects:
             tier2: 9 + M damage; slide 3
             tier3: 13 + M damage; slide 5
           - name: Effect
-            effect: If a target is force moved into another creature, they must make a free
-              strike against that creature.
+            effect: If a target is force moved into another creature, they must make a [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              against that creature.
 ```

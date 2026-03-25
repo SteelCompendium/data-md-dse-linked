@@ -78,7 +78,8 @@ effects:
       [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
   - name: Effect
     effect: While [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
-      this way, the target takes a bane on the Escape Grab maneuver. Each time
-      they use that maneuver, they take damage equal to twice your Agility
-      score.
+      this way, the target takes a bane on the [Escape
+      Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX)
+      maneuver. Each time they use that maneuver, they take damage equal to
+      twice your Agility score.
 ```

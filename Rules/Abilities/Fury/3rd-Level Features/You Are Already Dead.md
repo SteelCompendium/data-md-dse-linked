@@ -69,5 +69,7 @@ effects:
   - name: Effect
     effect: If the target is not a leader or solo creature, they are reduced to 0
       Stamina at the end of their next turn. If the target is a leader or solo
-      creature, you gain 3 surges and can make a melee free strike against them.
+      creature, you gain 3 surges and can make a melee [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      against them.
 ```

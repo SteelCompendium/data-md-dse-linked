@@ -39,8 +39,9 @@ metadata:
 effects:
   - effect: >-
       You can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). While
-      [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), your stability
-      is reduced to 0 and can't be increased. If you can already
+      [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), your
+      [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) is
+      reduced to 0 and can't be increased. If you can already
       [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2
       bonus to speed while
       [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.

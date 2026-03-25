@@ -65,8 +65,9 @@ effects:
               [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)
               (save ends)
           - name: Strained
-            effect: You start crying, and you can't use triggered actions or make free
-              strikes until the end of the target's next turn.
+            effect: You start crying, and you can't use triggered actions or make [free
+              strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              until the end of the target's next turn.
       - type: feature
         feature_type: ability
         name: Synaptic Override
@@ -81,7 +82,9 @@ effects:
         target: One enemy
         effects:
           - roll: Power Roll + Reason
-            tier1: The target makes a free strike against one enemy of your choice.
+            tier1: The target makes a [free
+              strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+              against one enemy of your choice.
             tier2: The target shifts up to their speed and uses their signature ability
               against any enemies of your choice.
             tier3: The target moves up to their speed and uses their signature ability

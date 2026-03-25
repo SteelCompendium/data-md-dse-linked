@@ -76,14 +76,16 @@ metadata:
 effects:
   - roll: Power Roll + Agility
     tier1: 2 damage; if the target has R < WEAK, before the damage is resolved, they
-      make a free strike.
+      make a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
     tier2: 5 damage; if the target has R < AVERAGE, before the damage is resolved,
       they use a main action ability of your choice.
     tier3: 7 damage; if the target has R < STRONG, before the damage is resolved,
       they can shift up to their speed and use a main action ability of your
       choice.
   - name: Effect
-    effect: You choose the new targets for the original target's free strike or
-      ability. Additionally, if you are hidden or disguised, using this ability
-      doesn't cause you to be revealed.
+    effect: You choose the new targets for the original target's [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      or ability. Additionally, if you are hidden or disguised, using this
+      ability doesn't cause you to be revealed.
 ```
