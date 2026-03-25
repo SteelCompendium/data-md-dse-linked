@@ -64,7 +64,8 @@ metadata:
   type: feature/ability/null/3rd-level-feature
 effects:
   - name: Effect
-    effect: Until the end of the encounter, the size of your Null Field ability
+    effect: Until the end of the encounter, the size of your
+      [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability
       increases by 1. While the area of that ability is enlarged this way, you
       ignore difficult terrain and reduce the potency of enemy effects targeting
       you by 1 for you. You can also use a free triggered action at the start of

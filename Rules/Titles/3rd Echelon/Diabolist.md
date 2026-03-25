@@ -17,11 +17,11 @@ type: title/3rd-echelon
 
 *If you can't beat 'em, join 'em.*
 
-**Prerequisite:** You defeat a leader or solo creature with the Devil keyword, such as an archdevil, or you make a deal with a devil.
+**Prerequisite:** You defeat a leader or solo creature with the [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) keyword, such as an archdevil, or you make a deal with a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX).
 
 **Effect:** Choose one of the following benefits:
 
-- *Devil Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible supernatural effects. The potencies of your magic or psionic abilities that target Reason, Intuition, or Presence increase by 1.
-- *Infernal Legacy:* You gain 3 ancestry points to spend on purchased devil ancestry traits (see [Chapter 3](#page-35-0)).
-- *Sly Devil:* You gain the Silver Tongue signature trait from the devil ancestry.
+- *[Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible supernatural effects. The potencies of your magic or psionic abilities that target Reason, Intuition, or Presence increase by 1.
+- *Infernal Legacy:* You gain 3 ancestry points to spend on purchased [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) ancestry traits (see [Chapter 3](#page-35-0)).
+- *Sly [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX):* You gain the Silver Tongue signature trait from the [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) ancestry.
 - *Untouched by Corruption:* Whenever you use a damage-dealing ability, that ability can deal holy damage instead of its usual damage type.

@@ -24,7 +24,7 @@ So, we arrive here at the end of your first semester of [Human](REL_PATH_PREFIXR
 
 I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)?
 
-I am a high elf, as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
+I am a [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
 What do I think of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)? Well, I will tell you.
 

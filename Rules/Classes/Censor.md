@@ -140,7 +140,7 @@ The first time on a turn that you use your Judgment ability to judge a creature,
 
 #### Kit
 
-You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* Warrior Priest.)
+You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX).)
 
 #### My Life for Yours
 
@@ -503,7 +503,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See [Chap
 
 #### 2nd-Level Order Features
 
-Your censor order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 
@@ -539,7 +539,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 #### 2nd-Level Order Ability
 
-Your censor order grants your choice of one of two heroic abilities.
+Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Exorcist Ability
 
@@ -785,7 +785,7 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ##### Windwalk
 
-While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.
 
 ##### Wode Road
 
@@ -1042,7 +1042,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 <!-- -->
 > ###### Guided to Your Side
 >
-> *You concentrate on a friend and teleport to them.*
+> *You concentrate on a friend and [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to them.*
 >
 > | **Magic, Ranged** |           **Main action** |
 > | ----------------- | ------------------------: |
@@ -1141,7 +1141,7 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, devils, and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 
@@ -1258,7 +1258,7 @@ Choose one of the following abilities.
 > - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 > - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 >
-> **Effect:** This ability gains an edge against demons, devils, undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
+> **Effect:** This ability gains an edge against demons, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
 <!-- -->
 > ###### Terror Manifest (11 Wrath)

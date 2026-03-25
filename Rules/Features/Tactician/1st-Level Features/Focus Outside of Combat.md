@@ -53,7 +53,8 @@ effects:
     features:
       - type: feature
         feature_type: trait
-        name: Tactician Abilities Explained
+        name: "[Tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)
+          Abilities Explained"
         effects:
           - effect: Many of the
               [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s

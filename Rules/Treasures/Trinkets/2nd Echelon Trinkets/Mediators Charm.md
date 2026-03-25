@@ -20,7 +20,7 @@ type: treasure/trinkets/2nd-echelon
 
 **Keywords:** Head, Psionic
 
-**Item Prerequisite:** The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a devil
+**Item Prerequisite:** The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)
 
 **Project Source:** Texts or lore in Hyrallic
 

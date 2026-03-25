@@ -84,7 +84,8 @@ effects:
       - type: feature
         feature_type: ability
         name: Grasp of Beyond
-        flavor: You absorb the life energy of another creature and use it to teleport.
+        flavor: You absorb the life energy of another creature and use it to
+          [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX).
         keywords:
           - Magic
           - Melee

@@ -38,5 +38,6 @@ metadata:
   type: feature/trait/shadow/1st-level-feature
 effects:
   - effect: "You can use and gain the benefits of a kit. See Chapter 6: Kits for
-      more information. (*Quick Build:* Cloak and Dagger.)"
+      more information. (*Quick Build:* [Cloak and
+      Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX).)"
 ```

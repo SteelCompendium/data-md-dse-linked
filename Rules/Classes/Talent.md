@@ -47,18 +47,18 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ###### Talent Advancement Table
 
-| Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Talent Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, Talent Ward, Telepathic Speech, Tradition Features, Talent Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
-| 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                         | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                         | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, Psi Boost, Tradition Ability                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Skill, Vision                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                       | Abilities                     | Tradition Abilities |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Ward, Telepathic Speech, Tradition Features, [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                     | Two signature, 3, 5           | 5                   |
+| 3rd   | Scan, 7-Clarity Ability                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                                                                                                                                                                                           | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, Psi Boost, Tradition Ability                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill                                                                                                                                                                                                                                 | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Skill, Vision                                                                                                                                                                                                                                   | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -126,7 +126,7 @@ You have the following ability, which can be used as a ranged free strike.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
 
 ##### Battle Augmentation
 
@@ -193,7 +193,7 @@ You have the following ability.
 <!-- -->
 > ###### Accelerate
 >
-> *To your ally, it seems as though the world has slowed down.*
+> *To your ally, it seems as though the world has [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) down.*
 >
 > | **Psionic, Ranged** |                **Maneuver** |
 > | ------------------- | --------------------------: |
@@ -755,7 +755,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 >
-> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a human). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
 <!-- -->
 > ###### Force Orbs (7 Clarity)
@@ -794,7 +794,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 <!-- -->
 > ###### Soul Burn (7 Clarity)
 >
-> *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
+> *You blast their soul out of their body, leaving it to helplessly float back to a [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) husk.*
 >
 > | **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |
 > | ------------------------------------------- | ------------------: |
@@ -840,9 +840,9 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### Suspensor Field
 
-You can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). While flying, your stability is reduced to 0 and can't be increased. If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while flying instead.
+You can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). While [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), your stability is reduced to 0 and can't be increased. If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.
 
-If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.
+If you are strained while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) and are force moved, the forced movement distance gains a +2 bonus.
 
 ### 5th-Level Features
 
@@ -1187,7 +1187,7 @@ You have the following ability.
 > | ----------------- | ---------------------------: |
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), a target's stability is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -1279,7 +1279,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 > - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 >
-> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).
+> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) years, to the minimum of an 18-year-old). Additionally, you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).
 
 <!-- -->
 > ###### Steel (11 Clarity)

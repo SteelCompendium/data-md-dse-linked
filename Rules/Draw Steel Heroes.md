@@ -270,7 +270,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Flanking:** When two or more allied creatures are adjacent to and on opposite sides of an enemy, those creatures are flanking that enemy. A creature flanking an enemy gains an edge on melee strikes against that enemy.
 
-**[Fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX):** A movement mode available to creatures with "[fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX)" in their speed entry, or who gain the capability to temporarily [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a flying creature is made [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or has their speed reduced to 0, they fall.
+**[Fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX):** A movement mode available to creatures with "[fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX)" in their speed entry, or who gain the capability to temporarily [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) creature is made [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or has their speed reduced to 0, they fall.
 
 **Focus:** The [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s Heroic Resource.
 
@@ -392,7 +392,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Objective:** A goal the heroes have during a combat encounter that must be achieved to end an encounter victoriously.
 
-**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or teleporting, the creature can make a melee free strike as an opportunity attack against the enemy.
+**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), the creature can make a melee free strike as an opportunity attack against the enemy.
 
 **Opposed Power Roll:** Two creatures with opposed goals each make a test to see who wins out. The test totals are compared, and the higher total succeeds while the lower fails.
 
@@ -528,7 +528,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Target:** A creature or object affected by an ability or other effect. The target of an enemy's ability typically takes damage, has a condition or harmful effect imposed on them, or both. The target of an ally's ability typically gains some beneficial effect.
 
-**[Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX):** Moving from one location to another instantaneously. Teleporting requires line of effect to the space where a creature ends up, bypasses obstacles, and doesn't provoke opportunity attacks or other effects triggered by moving.
+**[Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX):** Moving from one location to another instantaneously. [Teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) requires line of effect to the space where a creature ends up, bypasses obstacles, and doesn't provoke opportunity attacks or other effects triggered by moving.
 
 **Temporary Stamina:** An additional pool of Stamina that decreases first when a creature takes damage, and which disappears at the end of an encounter if not already lost.
 
@@ -554,7 +554,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Trinket:** A treasure that can be used at will without any reduction in its power.
 
-**[Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX):** A class for a hero who is a storytelling swashbuckler.
+**[Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX):** A class for a hero who is a storytelling [swashbuckler](REL_PATH_PREFIXRules/Kits/SwashbucklerREL_PATH_SUFFIX).
 
 **Turn:** A creature's turn in combat consists of a main action, a maneuver, and a move action.
 
@@ -570,7 +570,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Victories:** A measure of a hero's increasing power over the course of an adventure, earned by triumphing in battles and overcoming other challenges.
 
-**[Walk](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX):** The most common movement type, used to move over solid ground. Walking can incorporate ambulating on legs, rolling, slithering, or any other default method of movement.
+**[Walk](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX):** The most common movement type, used to move over solid ground. [Walking](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX) can incorporate ambulating on legs, rolling, slithering, or any other default method of movement.
 
 **Wall:** When an ability or other effect creates a wall, that area is expressed as "X wall." The number X is how many squares are used to make the wall. Each square must share at least one side (not just a corner) with another square of the wall. A wall effect has a duration specified by the effect, or it lasts indefinitely or until destroyed.
 
@@ -684,7 +684,7 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) might not have an ability that lets them [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](REL_PATH_PREFIXRules/Chapters/TestsREL_PATH_SUFFIX) for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) might not have an ability that lets them [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) up the face of a cliff, so [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) is an activity they can attempt with a test. An [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](REL_PATH_PREFIXRules/Chapters/TestsREL_PATH_SUFFIX) for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -743,7 +743,7 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) a stone wall. But it makes sense that rainy conditions should make [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) that wall harder, so a Director should absolutely do so!
 
 <!-- -->
 > **Why Cap?**
@@ -951,7 +951,7 @@ Ajax abolished all faiths and temples. He executed the dukes who organized and u
 
 Now there is only suspicion.
 
-**The high elves of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The wode elves of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
+**The high elves of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
 
 **The [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) do not like this deal with the Overlord but lack the power—or the will—to rebel.
 
@@ -1003,7 +1003,7 @@ Higher worlds are more energetic, affording access to alien technologies. Great 
 
 The lower worlds lack the energy necessary for such extraordinary technology to function, and so rely on magic to break the rules.
 
-On Axiom, the Plane of Uttermost Law, the [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the time raiders and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
+On Axiom, the Plane of Uttermost Law, the [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
 
 Meanwhile, on Proteus, the Sea of Eternal Change, the formless proteans rebelled against the synliroi who once ruled the Plane of Uttermost Chaos, exiling the voiceless talkers to the World Below. Now masters of their world, the proteans take to the stars in their living changeships, hurling their small fleet against the tyrannical unquestioned might of UNISOL.
 
@@ -1069,7 +1069,7 @@ The Director should make an agenda for a campaign's first session often called "
 
 - The Director and players talk about the safety tools they want to employ at the game table (whether physical or virtual), so that everyone has a good time and understands which topics should be avoided in the game's narrative and which should be embraced. For more information, check out the MCDM Tabletop Safety Toolkit at *[mcdm.gg/SafetyToolkit](http://mcdm.gg/SafetyToolkit)*, which includes advice for running a successful first session.
 - The Director discusses the campaign's world and the major story themes they want to introduce into the game. This often takes the form of a campaign pitch the Director presents to the players.
-- The Director should tell the players if any options are limited or rare in their campaign. For example, some Directors don't want psionics to appear in their game worlds, so they might decide that heroes can't be [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) or [talents](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX). Another campaign might be grounded in more typical medieval fantasy and not have any [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) or time raiders, or those [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) might be exceedingly rare. In the latter case, players should know that their [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) or time raider heroes are likely to get a lot of questions from curious NPCs.
+- The Director should tell the players if any options are limited or rare in their campaign. For example, some Directors don't want psionics to appear in their game worlds, so they might decide that heroes can't be [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) or [talents](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX). Another campaign might be grounded in more typical medieval fantasy and not have any [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) or [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX), or those [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) might be exceedingly rare. In the latter case, players should know that their [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) or [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) heroes are likely to get a lot of questions from curious NPCs.
 - The players get a chance to tell the Director what they would like to experience in the campaign. This can include anything from "I'd love to play out some chase scenes!" to "I want to explore themes of loss and grief." These wishes should be starting points for a conversation. If not all players are comfortable with certain themes or content requested by other players, then session zero is a great time to discuss that and come to a consensus about what everyone wants out of the game.
 - Make heroes! Once everyone understands what the campaign is about, it's the perfect time to get into character creation. When a group of players make heroes together, they can tie backstories together and strategize to build a tactically dominant party both in and out of combat.
 - The Director runs an encounter to kick off the campaign. If all the players have the time, it's totally worth it to get some play in during the first session, even if it's just a quick brawl in a tavern with some cultists! Starting off with a little action lets you see what the game is all about—and raises anticipation for the next session.
@@ -1112,7 +1112,7 @@ The first thing you should do is think about the kind of hero you want to make. 
 
 #### 2. Ancestry
 
-Choose your hero's humanoid ancestry from among the range of [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) available in the game—devil, [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX), [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), wode elf, high elf, [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX), [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX), [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX), [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX), or time raider. Future supplements will introduce additional [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) you can choose from. See [Chapter 3: Ancestries](#page-35-0) for more information.
+Choose your hero's humanoid ancestry from among the range of [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) available in the game—[devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX), [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX), [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX), [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX), [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX), [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX), or [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX). Future supplements will introduce additional [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) you can choose from. See [Chapter 3: Ancestries](#page-35-0) for more information.
 
 #### 3. Culture
 
@@ -1147,7 +1147,7 @@ Your class might grant your hero a kit that helps define your approach to martia
 
 A free strike is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? Free strike! Every hero has a melee weapon free strike and a ranged weapon free strike. They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your free strikes are. A thrown dagger? A punch? The design is intended to let you use your imagination.
 
-You can also make free strikes on your turn to represent using weapons your hero isn't otherwise themed to use. A wode elf master archer can stab a too-close enemy with a dagger as a free strike, and a greataxe-wielding [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) can use a free strike to hurl a handaxe at a flying enemy staying annoyingly out of melee range.
+You can also make free strikes on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) master archer can stab a too-close enemy with a dagger as a free strike, and a greataxe-wielding [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) can use a free strike to hurl a handaxe at a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) enemy staying annoyingly out of melee range.
 
 See Free Strikes in Chapter 10: Combat for more information on using free strikes, and see Abilities in Chapter 5: [Classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX) for information on the ability format and how to read it.
 
@@ -1267,11 +1267,11 @@ Some games don't track XP or goals at all. The heroes simply gain a level whenev
 
 # Ancestries
 
-Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), elves, time raiders—and of course [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), whose culture and history dominates many worlds.
+Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), elves, [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)—and of course [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), whose culture and history dominates many worlds.
 
-Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or lore skills, though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
+Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or [lore skills](REL_PATH_PREFIXRules/Skills/Lore%20SkillsREL_PATH_SUFFIX), though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), and [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), you can do that too!
+In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who was raised in a forest among other [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), you can do that! If you want to play a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who was raised in an underground city of [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), and [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), you can do that too!
 
 This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) for the game:
 
@@ -1281,9 +1281,9 @@ This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/Ancestrie
 
 **[Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX):** Humanoids with stony skin, [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
 
-**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, wode elves have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
+**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
 
-**High Elf:** Stately and graceful, high elves have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any high elf is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a high elf's tone and smell.
+**High Elf:** Stately and graceful, [high elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX)'s tone and smell.
 
 **[Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX):** Descended from stone giants, the mighty [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) stand over 9 feet tall and have well-muscled bodies made of organic stone. They are the largest ancestry in this book!
 
@@ -1297,7 +1297,7 @@ This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/Ancestrie
 
 **[Revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX):** No hero starts their life as a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX). Rather, these undead creatures return to the world of the living because they have dire business that must be finished. A character of any ancestry can become a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX).
 
-**[Time Raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX):** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
+**[Time Raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX):** Travelers of the timescape, the [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
 <!-- -->
 > **Other Sections**
@@ -1336,7 +1336,7 @@ Normally, it doesn't work out that nicely. Even with the best of intentions, thi
 
 The law of unintended consequences applies to the just and the unjust alike.
 
-Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi—the time raiders who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
+Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi—the [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
 
 A perhaps less egregious use of this power is called *quickening*, used when a powerful mage lives in and amongst some clever species just on the cusp of self-awareness. These instances, which are much more numerous than creating a new species from whole cloth, are more like the concept of *uplifting* found in science fiction. The mage or witch or shaman didn't create anything. They just gave these cute, clever, frog-things a little boost. A little nudge. And suddenly there are angulotls walking around having conversations with each other,
 
@@ -1374,7 +1374,7 @@ Most cultures in Vasloria make a distinction between masculine and feminine name
 
 Among those cultures which do make a distinction between masculine and feminine names, there are always names that *could* refer to a person of any gender. Here in the real world, you can't tell a person's gender just from the name "Shane." This is mostly because which names are considered masculine or feminine changes over time, and when this happens, there's a period—maybe a few generations—where the name could refer to a person of any gender.
 
-Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. High elves sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
+Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. [High elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
 
 #### Authentic or Comedic?
 
@@ -1412,7 +1412,7 @@ The choice of name is an important one, because it says a lot about you and how 
 
 ##### Wode Elf Names
 
-Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For wode elves, this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
+Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
 
 **Feminine:** Elvyr, Eviarwyc, Illwyv, Iorwyth, Lliarwyn, Meithennyn, Nimuë, Rhegyth, Viarwyn, Ysallwyth
 
@@ -1422,7 +1422,7 @@ Elves in general have a casual attitude toward gender, it having no direct beari
 
 ##### High Elf Names
 
-High elf names are poetic. They are an attempt to capture a fleeting, often contradictory, impulse, or emotion. They sometimes contain references to the natural world. They are never meant to be taken literally and they are not an attempt to make a character feel heroic.
+[High elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) names are poetic. They are an attempt to capture a fleeting, often contradictory, impulse, or emotion. They sometimes contain references to the natural world. They are never meant to be taken literally and they are not an attempt to make a character feel heroic.
 
 **Examples:** The Anticipation of a Sigh Upon His Lips, A Crown of Starlight on Winter Snow, The Earth Cries the Skies Divide, Echoes of Autumn Heat, Edges of a Leaf Torn by the Wind, Every Flake of Snow a Memory, A Heart That Will Not Yield the Stars, The Last Star Fading With Morning, A Rain of Glass Over a Sea of Dreams, The Sun Reflected in a Lover's Tear
 
@@ -1478,7 +1478,7 @@ For reasons not well understood, [polders](REL_PATH_PREFIXRules/Ancestries/Polde
 
 ##### Time Raider Names
 
-Kuran'zoi names typically end with an epithet, given when the young time raider comes of age, that reflects their uniquely rebellious nature.
+Kuran'zoi names typically end with an epithet, given when the young [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) comes of age, that reflects their uniquely rebellious nature.
 
 **Feminine:** Ak'karatar, Ip'pritt, Ner'radmok, Orov'vika, Phe'kala, Quix'x, Thes'srika, Thos'sivik, Um'manri, Vir'rikin
 
@@ -1503,8 +1503,8 @@ How tall is a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)? H
 | [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)                   | 5'0''-6'0''               | 120-250             | 70-120                      |
 | [Dragon Knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) | 6'0''-7'0''               | 200-350             | 50-90                       |
 | [Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)                   | 4'0''-4'6''               | 500-1,000           | 700-1,500                   |
-| Wode Elf                                                                        | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
-| High Elf                                                                        | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
+| [Wode Elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)           | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
+| [High Elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX)           | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
 | [Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX)                 | 9'0''-10'0''              | 1,000-2,000         | 300-500                     |
 | [Human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)                   | 5'0''-6'0''               | 100-300             | 70-120                      |
 | [Memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX)               | 5'0''-6'0''               | 50-100              | 70-120                      |
@@ -1586,7 +1586,7 @@ A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stop
 
 "Ah. Um. Hmm."
 
-A young man in a low, stone building saw this exchange, grabbed what looked like a long iron poker, and ran out to confront the new arrival.
+A young man in a low, stone building saw this exchange, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) what looked like a long iron poker, and ran out to confront the new arrival.
 
 "Have at you, [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)!" he said, assuming something like a dueling pose. "I say! Steady on!" The [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) raised his hands.
 
@@ -1702,7 +1702,7 @@ As one, the people in the tavern turned to look with undisguised awe at the [dra
 
 A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) walked past their table.
 
-The knight moved on, ignoring them. The man reached out and grabbed the massive draconian's arm. The knight wheeled on the peasant, looming over him.
+The knight moved on, ignoring them. The man reached out and [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) the massive draconian's arm. The knight wheeled on the peasant, looming over him.
 
 The man touched his forelock. The two women with him curtseyed. "Begging your pardon, sir, but we been lookin' for you."
 
@@ -1760,7 +1760,7 @@ The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFF
 
 ### Dragon Knight Traits
 
-Dragon knight heroes have access to the following traits.
+[Dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) heroes have access to the following traits.
 
 #### Signature Trait: Wyrmplate
 
@@ -1948,7 +1948,7 @@ You can have one rune active at a time, and can change or remove a rune with 10 
 
 #### Purchased Dwarf Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX), Spark Off Your Skin.)
 
 ##### Great Fortitude (2 Points)
 
@@ -1972,9 +1972,9 @@ You have a magic connection to the earth. When you spend 1 uninterrupted hour si
 
 ## Wode Elf
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) for snatching children who wander too far into the woods. [Humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) *should* fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) for snatching children who wander too far into the woods. [Humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) *should* fear the trees.
 
-The wode elves' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
+The [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who dwell in cities naturally adept at urban warfare.
 
 ### On Wode Elves
 
@@ -1990,11 +1990,11 @@ The wode elves' natural ability to mask their presence, called *glamor*, complem
 
 Then, only a few feet from them, a half-dozen figures melded out of the background, as if the trees and bushes and grass had been painted on them to perfectly match the wode. They wore light armor covered in leaves, moss, and vines, and they bristled with weapons.
 
-Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more wode elves, his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
+Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
 The elves were tall, taller than an adult [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
-"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
+"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
 "*Consort!*" An elf before them spoke in Yllyric as he stood from his crouch and bowed. "*We have been tracking these since they entered the wode.*"
 
@@ -2018,9 +2018,9 @@ The elf smiled at the children. "But have no fear," they said. Their Vaslorian w
 
 Llyander smiled gaily. "I am a song! I contain melodies and harmonies alike," they said. Wenna smiled.
 
-Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other wode elf's garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
+Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)'s garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
 
-Llyander turned to Rhythylthin and the rest of the wode elf band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
+Llyander turned to Rhythylthin and the rest of the [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
 
 In spite of his previous skepticism toward the queen's consort, Rhythylthin straightened and bowed. As one, the elves turned and flowed into the wode. In only a few steps, they melded into the trees and undergrowth.
 
@@ -2056,7 +2056,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Wode Elf Traits
 
-Wode elf heroes have access to the following traits.
+[Wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) heroes have access to the following traits.
 
 #### Signature Trait: Wode Elf Glamor
 
@@ -2106,9 +2106,9 @@ You have the following signature ability. Signature abilities can be used at wil
 
 ## High Elf
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, high elf history describes a better age, before the coming of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) history describes a better age, before the coming of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
-In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
+In the millennia since their creators retired to Arcadia, the [high elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
 ### On High Elves
 
@@ -2116,7 +2116,7 @@ In the millennia since their creators retired to Arcadia, the high elves built a
 
 "It's not that hard," Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
+The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) escort Llyander at their side. Lord Tear, King of the [High Elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
 
 "They seem like..." Meliora said, searching for the words.
 
@@ -2156,7 +2156,7 @@ Lord Tear glided down the steps until he was standing, as tall as Llyander, befo
 
 "I'm surprised how kind he is," Jeremy said. "He seems a good king." Llyander chuckled. Wenna noticed. She didn't say anything at first, but eventually she couldn't resist. "What?"
 
-Llyander raised an eyebrow, then walked in front of the children so that as the wode elf spoke, their back was to the king.
+Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) spoke, their back was to the king.
 
 "Do you remember when my cousin's soldiers hid in the wode?" they said, their voice low. "How astonished you were?"
 
@@ -2178,7 +2178,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### High Elf Traits
 
-High elf heroes have access to the following traits.
+[High elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) heroes have access to the following traits.
 
 #### Signature Trait: High Elf Glamor
 
@@ -2230,13 +2230,13 @@ But the only [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) the
 
 The gate, or door, or whatever it was started to close. With Dazar on the other side of it.
 
-"Embers!" John called out, but the high elf was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
+"Embers!" John called out, but the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
 
 Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his speed.
 
 The rectangular, toothed egress demon was twelve feet tall at least, the giant almost matching its immense size.
 
-In the instant before the maw of teeth and eyeballs shut, the giant grabbed each side of the mouth, and pulled. Muscles the size of hounds bulged. Tendons like ship cables stood taught, quivering with strain. "Not today!" the giant shouted. "Not TODAY!!"
+In the instant before the maw of teeth and eyeballs shut, the giant [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) each side of the mouth, and pulled. Muscles the size of hounds bulged. Tendons like ship cables stood taught, quivering with strain. "Not today!" the giant shouted. "Not TODAY!!"
 
 As the giant forced the maw open, glowing tentacles writhed out of it, wrapping around the giant's arms, legs, neck. "Hahah!" the figure laughed. "You'll find... MY flesh..." the giant's bravado hid the fact that he was at the uttermost limits of his strength. "... too RICH... for your taste!"
 
@@ -2358,7 +2358,7 @@ So, we arrive here at the end of your first semester of [Human](REL_PATH_PREFIXR
 
 I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)?
 
-I am a high elf, as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
+I am a [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
 What do I think of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)? Well, I will tell you.
 
@@ -2688,7 +2688,7 @@ Whenever a creature deals damage to you that leaves you dying, you can make a fr
 
 #### Purchased Orc Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX).)
 
 ##### Bloodfire Rush (1 Point)
 
@@ -2726,7 +2726,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Eh?" the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) before," he said.
+"Oh," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) before," he said.
 
 "Are you kidding me?" Jackson said.
 
@@ -2736,7 +2736,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) before."
 
-Jackson looked at his friend, the high elf void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
+Jackson looked at his friend, the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
 "Well, we're adorable," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
@@ -2772,7 +2772,7 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) looked at the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
@@ -2784,7 +2784,7 @@ The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) looked at th
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the high elf void mage, then back at the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) void mage, then back at the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
@@ -2836,13 +2836,13 @@ You have the following ability.
 
 **<span class="steel-compendium-feature">Shadowmeld</span>**
 
-*You become an actual shadow.*
+*You become an actual [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX).*
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect:** You flatten yourself into a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
@@ -2856,7 +2856,7 @@ You have 4 ancestry points to spend on the following traits. (*Quick Build:* Cor
 
 ##### Corruption Immunity (1 Point)
 
-Your innate shadow magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
+Your innate [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
 
 ##### Fearless (2 Points)
 
@@ -3004,9 +3004,9 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
-Extraordinarily rare in Orden, time raiders thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
+Extraordinarily rare in Orden, [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. Time raiders also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
+In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
 ### On Time Raiders
 
@@ -3014,7 +3014,7 @@ In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them h
 
 "Is it that your brain is so small you must *talk* in order to *think*?" The woman's smile was a sneer.
 
-Lycaon strode toward the alien, grabbed a length of chain around her waist and yanked on it, pulling it taut so the chain around her neck tightened. "You are going to die in any event," he said. "If you wish to deny me the pleasure of hearing you howl and scream for mercy, tell me what I want to know now and my dogs will kill you quickly."
+Lycaon strode toward the alien, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) a length of chain around her waist and yanked on it, pulling it taut so the chain around her neck tightened. "You are going to die in any event," he said. "If you wish to deny me the pleasure of hearing you howl and scream for mercy, tell me what I want to know now and my dogs will kill you quickly."
 
 Up close, she could see the fine stitching along Lycaon's cheeks and forehead, the very slight differences in skin tone that showed his skin was not his own.
 
@@ -3026,7 +3026,7 @@ He struck a casual, jaunty pose. "Where is your worldship?" he said in a more re
 
 The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Like barking *thrazz*, you sound to me. Who holds your leash I wonder? For surely a microbrain such as you could not command any more than these rabble." She nodded her head at the other twenty or so war dogs.
 
-Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was dazed but she shook it off and laughed.
+Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) but she shook it off and laughed.
 
 "Look how easily this one is goaded!" she said. She spat out dark-blue blood and turned to the peasants gathered. "You people! Why do you let yourselves be cowed by these... *bits*? Bits of people kludged together? Even the least of you is worth more than these."
 
@@ -3046,7 +3046,7 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) in working battle plate. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) with his battle-staff tipped with an hourglass. An [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) with a huge battleaxe casually resting on her shoulder. A [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) towering over everyone. And a [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX). Of all the motley band, it was the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) in working battle plate. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) with his battle-staff tipped with an hourglass. An [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) with a huge battleaxe casually resting on her shoulder. A [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) with twin rapiers in his hands. A tall willowy [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) with night-black skin and golden hair. An unarmed [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) towering over everyone. And a [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX). Of all the motley band, it was the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them against the certain fear of their commander.
 
@@ -3064,7 +3064,7 @@ Not the war dogs—they were fanatics.
 
 "Allies of all those who suffer, and seek justice," the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) announced. Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
 
-"A kuran'zoi," the high elf said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
+"A kuran'zoi," the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
 
 John watched the alien. They sneered their approval at Ember's summary. That was enough for Sir John, they could work out the details later. After everything they'd been through before, he trusted Embers explicitly.
 
@@ -3080,9 +3080,9 @@ Lycaon cocked his head at Sir John and took a few foolish steps toward the [tact
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
-Ember's eyes flashed into a starfield. The time raider's chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
+Ember's eyes flashed into a starfield. The [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
 
-The time raider's right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
+The [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
 John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
 
@@ -3116,7 +3116,7 @@ Your senses extend past mundane obscuration and the veil of the future alike. Yo
 
 ##### Four-Armed Athletics (1 Point)
 
-Your unique physiology enhances your movement. You gain an edge on tests that use the Climb, Gymnastics, or Swim skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Gymnastics, or [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skills when you can use all your arms in the attempt.
 
 ##### Four-Armed Martial Arts (2 Points)
 
@@ -3128,7 +3128,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **<span class="steel-compendium-feature">Concussive Slam</span>**
 
-*You slam an invisible force down upon the target.*
+*You slam an [invisible force](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Invisible%20ForceREL_PATH_SUFFIX) down upon the target.*
 
 | **Psionic, Ranged, Strike** | Main action                   |
 | --------------------------- | ----------------------------- |
@@ -3184,7 +3184,7 @@ For our purposes, a hero's culture represents people, not a place. Yes, you migh
 
 Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find the right place for that culture within the world of the campaign.
 
-In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily wode elves. However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) raised in the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
+In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) raised in the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
 
 You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. ([Revenants](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX) are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
 
@@ -3195,14 +3195,14 @@ You can build your culture one aspect at a time, or you can use the following ta
 | [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)                   | Anjali      | Urban       | Bureaucratic | Academic   |
 | [Dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) | Vastariax   | Secluded    | Bureaucratic | Martial    |
 | [Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)                   | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| Wode elf                                                                        | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| High elf                                                                        | Hyrallic    | Secluded    | Bureaucratic | Martial    |
+| [Wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)           | Yllyric     | Wilderness  | Bureaucratic | Martial    |
+| [High elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX)           | Hyrallic    | Secluded    | Bureaucratic | Martial    |
 | [Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX)                 | Vhoric      | Rural       | Communal     | Labor      |
 | [Human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)                   | Vaslorian   | Urban       | Communal     | Labor      |
 | [Memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX)               | Axiomatic   | Nomadic     | Communal     | Academic   |
 | [Orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX)                       | Kalliak     | Wilderness  | Communal     | Creative   |
 | [Polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)                 | Khoursirian | Urban       | Communal     | Creative   |
-| Time raider                                                                     | Voll        | Nomadic     | Communal     | Martial    |
+| [Time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)     | Voll        | Nomadic     | Communal     | Martial    |
 
 ###### Archetypical Cultures Table
 
@@ -3305,7 +3305,7 @@ A communal culture is a place where all members of the culture are considered eq
 
 Many communal cultures operate outside settled lands, sticking to the wilds, a specific district in a larger settlement, city sewers, forgotten ruins, or other isolated places. For even when such cultures are harmless, their members know that outsiders might try to impose rules upon them if they live in the same place. As such, many folks in communal cultures focus on fending for themselves while avoiding the danger that other groups can represent.
 
-**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* Jump.)
+**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX).)
 
 #### Upbringing
 
@@ -3341,7 +3341,7 @@ Your hero grew up among folk who performed activities that other people—whethe
 
 A hero with a martial upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 
-**Skill Options:** One of the following: Blacksmithing or Fletching from the crafting skill group; Climb, Endurance, or Ride from the exploration group; Intimidate from the interpersonal group; Alertness or Track from the intrigue group; or Monsters or Strategy from the lore skill group (*Quick Build:* Intimidate.)
+**Skill Options:** One of the following: Blacksmithing or Fletching from the crafting skill group; [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Endurance, or Ride from the exploration group; Intimidate from the interpersonal group; Alertness or Track from the intrigue group; or Monsters or Strategy from the lore skill group (*Quick Build:* Intimidate.)
 
 ##### Noble
 
@@ -3401,7 +3401,7 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Caelian               | Orden denizens                                                                                                                  | Common language of Orden                                                       |
 | Filliaric             | Angulotls                                                                                                                       |                                                                                |
 | The First<br>Language | Elder dragons                                                                                                                   | Language of magic                                                              |
-| Hyrallic              | High elves                                                                                                                      | Language of interspecies diplomacy                                             |
+| Hyrallic              | [High elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX)                                                         | Language of interspecies diplomacy                                             |
 | Illyvric              | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) elves                                                              |                                                                                |
 | Kalliak               | [Orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX)                                                                      | Offshoot of Zaliac                                                             |
 | Kethaic               | Kobolds                                                                                                                         | Patois of Vastariax and Caelian                                                |
@@ -3417,16 +3417,16 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Variac                | Olothec, trolls,<br>voiceless talkers                                                                                           | Common language of the World Below                                             |
 | Vastariax             | Dragons, dragon<br>knights                                                                                                      |                                                                                |
 | Vhoric                | [Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX)                                                                 | Offshoot of the stone giant dialect of High<br>Kuric                           |
-| Voll                  | Time raiders                                                                                                                    |                                                                                |
-| Yllyric               | Wode elves                                                                                                                      | Language of druids                                                             |
+| Voll                  | [Time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)                                                    |                                                                                |
+| Yllyric               | [Wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)                                                         | Language of druids                                                             |
 | Za'hariax             | Overminds                                                                                                                       |                                                                                |
 | Zaliac                | [Dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)                                                                 | Language of engineering                                                        |
 
 ##### Language Usage
 
-**Hyrallic** is the primary language of the high elves in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX). As a result, while anyone who lives near or trades with a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) culture probably speaks at least a little Caelian, most nobles across all [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
+**Hyrallic** is the primary language of the [high elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX). As a result, while anyone who lives near or trades with a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) culture probably speaks at least a little Caelian, most nobles across all [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
-**Yllyric** is the cultural language of wode elves, and also the common language among those who defend and protect the natural forests of Orden.
+**Yllyric** is the cultural language of [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), and also the common language among those who defend and protect the natural forests of Orden.
 
 Within any document concerning the workings of machines, masonry, or geology, you are likely to find a healthy supply of jargon using **Zaliac**, the most popular [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) language. Even when such texts aren't fully written in Zaliac, they use a lot of [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) language when describing esoteric, complex ideas.
 
@@ -3446,17 +3446,17 @@ The Dead Languages table shows some of the dead languages of Orden, and the mode
 
 ###### Dead Languages Table
 
-| Language     | Ancestry                   | Related Languages  | Common Topics                          |
-| ------------ | -------------------------- | ------------------ | -------------------------------------- |
-| Ananjali     | Old hobgoblin              | Anjali             | Zodiakol, the bloodmetal               |
-| High Rhyvian | Sun elf                    | Hyrallic, Yllyric  | Liannar, the sunmetal                  |
-| Khamish      | Beast lord                 | Khoursirian        | Beast magic                            |
-| Kheltivari   | Old fae                    | Yllyric, Khelt     | Using a wode to travel<br>through time |
-| Low Rhyvian  | Sky elf                    | Hyrallic           | Flying castles                         |
-| Old Variac   | Olothec, voiceless talkers | Variac             | Kollar, the sinmetal                   |
-| Phorialtic   | Old elemental              | Low and High Kuric | Moving between<br>manifolds            |
-| Rallarian    | Steel dwarf                | Zaliac             | Valiar, the truemetal                  |
-| Ullorvic     | Star elf                   | Hyrallic, Yllyric  | Rovion, the starmetal                  |
+| Language     | Ancestry                                                            | Related Languages  | Common Topics                          |
+| ------------ | ------------------------------------------------------------------- | ------------------ | -------------------------------------- |
+| Ananjali     | Old hobgoblin                                                       | Anjali             | Zodiakol, the bloodmetal               |
+| High Rhyvian | Sun elf                                                             | Hyrallic, Yllyric  | Liannar, the sunmetal                  |
+| Khamish      | Beast lord                                                          | Khoursirian        | Beast magic                            |
+| Kheltivari   | Old fae                                                             | Yllyric, Khelt     | Using a wode to travel<br>through time |
+| Low Rhyvian  | Sky elf                                                             | Hyrallic           | Flying castles                         |
+| Old Variac   | Olothec, voiceless talkers                                          | Variac             | Kollar, the sinmetal                   |
+| Phorialtic   | Old elemental                                                       | Low and High Kuric | Moving between<br>manifolds            |
+| Rallarian    | Steel [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) | Zaliac             | Valiar, the truemetal                  |
+| Ullorvic     | Star elf                                                            | Hyrallic, Yllyric  | Rovion, the starmetal                  |
 
 Khamish is still spoken by lizardfolk and other creatures connected to the beast lords. However, the forms spoken today only vaguely resemble their original tongues and have been adapted for use within their speakers' own circles.
 
@@ -3531,7 +3531,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One intrigue perk (*Quick Build:* Forgettable Face.)
+**Perk:** One intrigue perk (*Quick Build:* [Forgettable Face](REL_PATH_PREFIXRules/Perks/Intrigue%20Perks/Forgettable%20FaceREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3589,7 +3589,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One crafting perk (*Quick Build:* Area of Expertise.)
+**Perk:** One crafting perk (*Quick Build:* [Area of Expertise](REL_PATH_PREFIXRules/Perks/Crafting%20Perks/Area%20of%20ExpertiseREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3615,7 +3615,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One interpersonal perk (*Quick Build:* Spot the Tell.)
+**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](REL_PATH_PREFIXRules/Perks/Interpersonal%20Perks/Spot%20the%20TellREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3643,7 +3643,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One intrigue perk (*Quick Build:* Criminal Contacts.)
+**Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](REL_PATH_PREFIXRules/Perks/Intrigue%20Perks/Criminal%20ContactsREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3692,11 +3692,11 @@ You ventured into uncharted areas and made your living as a cartographer, resear
 
 You gain the following career benefits:
 
-**Skills:** The Navigate skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* Climb, Heal, Navigate.)
+**Skills:** The Navigate skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Heal, Navigate.)
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* Wood Wise.)
+**Perk:** One exploration perk (*Quick Build:* [Wood Wise](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Wood%20WiseREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3724,7 +3724,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* Monster Whisperer.)
+**Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Monster%20WhispererREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3740,19 +3740,19 @@ You gain the following career benefits:
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
 - What led you to this life of violent entertainment?
-- What was your gladiator name and persona?
+- What was your [gladiator](REL_PATH_PREFIXRules/Careers/GladiatorREL_PATH_SUFFIX) name and persona?
 - Who was your biggest rival?
 - What happened during your most famous match?
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the exploration skill group (*Quick Build:* Gymnastics, Jump.)
+**Skills:** Two skills from the exploration skill group (*Quick Build:* Gymnastics, [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX).)
 
 **Languages:** One language
 
 **Renown:** +2
 
-**Perk:** One exploration perk (*Quick Build:* Friend Catapult.)
+**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Friend%20CatapultREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3808,16 +3808,16 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One supernatural perk (*Quick Build:* Arcane Trick.)
+**Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Arcane%20TrickREL_PATH_SUFFIX).)
 
-| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Forgotten Memories:** While practicing a spell, your inexperience caused the magic to backfire and your memories were wiped, leaving you with only fragments of who you once were. Determined to recall your past, you now dedicate yourself to helping others, hoping your actions will spark some remembrance or lead you to a way to reverse the magic.                                                                                                                  |
-| 2   | **Magic of Friendship:** As a sign of your status as a star pupil, your mentor gifted you a familiar as a magic pet. Another jealous apprentice captured the familiar and slipped away in the night. Haunted by your pet's absence, you adventure to find your kidnapped friend and prevent others from feeling your loss.                                                                                                                                                    |
-| 3   | **Missing Mage:** One day you woke up and the mage you worked for was gone. They didn't take any of their belongings and there was no sign of any foul play-only the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                                                                                      |
-| 4   | **Nightmares Made Flesh:** Your attempts at magic have always been unpredictable. A powerful mage promised to help you gain control. During your training, a terrible nightmare caused your body to flare with magic and pull the monster of your nightmare into the waking world. The horror escaped. You left, seeking to vanquish their vileness.                                                                                                                          |
-| 5   | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is!                                                                                                                                                                                                                |
-| 6   | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
+| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Forgotten Memories:** While practicing a spell, your inexperience caused the magic to backfire and your memories were wiped, leaving you with only fragments of who you once were. Determined to recall your past, you now dedicate yourself to helping others, hoping your actions will spark some remembrance or lead you to a way to reverse the magic.                                                                                                                     |
+| 2   | **Magic of Friendship:** As a sign of your status as a star pupil, your mentor gifted you a [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) as a magic pet. Another jealous apprentice captured the [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) and slipped away in the night. Haunted by your pet's absence, you adventure to find your kidnapped friend and prevent others from feeling your loss. |
+| 3   | **Missing Mage:** One day you woke up and the mage you worked for was gone. They didn't take any of their belongings and there was no sign of any foul play-only the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                                                                                         |
+| 4   | **Nightmares Made Flesh:** Your attempts at magic have always been unpredictable. A powerful mage promised to help you gain control. During your training, a terrible nightmare caused your body to flare with magic and pull the monster of your nightmare into the waking world. The horror escaped. You left, seeking to vanquish their vileness.                                                                                                                             |
+| 5   | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is!                                                                                                                                                                                                                   |
+| 6   | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day.    |
 
 #### Performer
 
@@ -3864,7 +3864,7 @@ You gain the following career benefits:
 
 **Wealth:** +1
 
-**Perk:** One interpersonal perk (*Quick Build:* Engrossing Monologue.)
+**Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](REL_PATH_PREFIXRules/Perks/Interpersonal%20Perks/Engrossing%20MonologueREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3914,11 +3914,11 @@ You worked on a ship, whether a merchant cog, a mercenary or military craft, or 
 
 You gain the following career benefits:
 
-**Skills:** Swim (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* Climb, Gymnastics, Swim.)
+**Skills:** [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Gymnastics, [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX).)
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* Put Your Back Into It!)
+**Perk:** One exploration perk (*Quick Build:* [Put Your Back Into It](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Put%20Your%20Back%20Into%20ItREL_PATH_SUFFIX)!)
 
 | d6                                                                                                                                                                                                                                                                                                                                                                                                               | Inciting Incident |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
@@ -3974,7 +3974,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* Camouflage Hunter.)
+**Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Camouflage%20HunterREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4001,16 +4001,16 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* Team Leader.)
+**Perk:** One exploration perk (*Quick Build:* [Team Leader](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Team%20LeaderREL_PATH_SUFFIX).)
 
-| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                     |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Bigger Fish:** You grew bored and disillusioned with chasing down petty thieves and imprisoning folks just trying to survive. Surely there are greater threats in the world. You will find that evil wherever it may lurk, and you'll be the one to stop it.                                                                                                                                                        |
-| 2   | **Corruption Within:** You joined the force to help the helpless and bring justice to those wronged. You weren't prepared for the rampant corruption reaching the top of your organization. You refused to cover for your fellow officers and were told in no uncertain terms to leave town or face the consequences. Now you travel as a hero, acting as the protector you always wanted to be.                      |
-| 3   | **Frame Job:** Your partner was murdered. That much is irrefutable. But you didn't do it, despite what the evidence implies. When it became clear you'd take the fall, you fled, leaving everything behind. Not content to cower in the shadows, you decided to adventure under a new name while you work to clear your own.                                                                                          |
-| 4   | **Missing Mentor:** You learned everything you know about the job from someone you always looked up to in a corrupt organization. One night, they sent you a cryptic message saying they had discovered "something big," but before you could find out more, they disappeared. No longer sure who you could trust, you slipped away and sought a new life. Now you do what good you can and search to find the truth. |
-| 5   | **One That Got Away:** A violent or depraved criminal began targeting you- perhaps stealing something personal or hurting someone you love—after slipping through your grasp. You left your career to pursue the criminal, but the trail has gone cold... for now. Might as well help folk in the meantime.                                                                                                           |
-| 6   | **Powerful Enemies:** You made it your responsibility to root out and bring down the region's foremost crime syndicate. They sent goons to burn down your home and teach you a lesson, leaving you bleeding in the street with nothing left except your life. You've since taken on the life of a hero to gain the power and influence you need to destroy the syndicate once and for all.                            |
+| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Bigger Fish:** You grew bored and disillusioned with chasing down petty thieves and imprisoning folks just trying to survive. Surely there are greater threats in the world. You will find that evil wherever it may lurk, and you'll be the one to stop it.                                                                                                                                                                                        |
+| 2   | **Corruption Within:** You joined the force to help the helpless and bring justice to those wronged. You weren't prepared for the rampant corruption reaching the top of your organization. You refused to cover for your fellow officers and were told in no uncertain terms to leave town or face the consequences. Now you travel as a hero, acting as the protector you always wanted to be.                                                      |
+| 3   | **Frame Job:** Your partner was murdered. That much is irrefutable. But you didn't do it, despite what the evidence implies. When it became clear you'd take the fall, you fled, leaving everything behind. Not content to cower in the shadows, you decided to adventure under a new name while you work to clear your own.                                                                                                                          |
+| 4   | **Missing Mentor:** You learned everything you know about the job from someone you always looked up to in a corrupt organization. One night, they sent you a cryptic message saying they had discovered "something big," but before you could find out more, they disappeared. No longer sure who you could trust, you slipped away and sought a new life. Now you do what good you can and search to find the truth.                                 |
+| 5   | **One That Got Away:** A violent or depraved criminal began targeting you- perhaps stealing something personal or hurting someone you love—after slipping through your grasp. You left your career to pursue the criminal, but the trail has gone cold... for now. Might as well help folk in the meantime.                                                                                                                                           |
+| 6   | **Powerful Enemies:** You made it your responsibility to root out and bring down the region's foremost crime syndicate. They sent goons to burn down your home and teach you a lesson, leaving you [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) in the street with nothing left except your life. You've since taken on the life of a hero to gain the power and influence you need to destroy the syndicate once and for all. |
 
 # Classes
 
@@ -4152,7 +4152,7 @@ If you make a ranged strike while any enemy is adjacent to you (within 1 square)
 
 Some abilities have a melee distance and a ranged distance. When you use such an ability, you choose whether to use it as a melee or a ranged ability.
 
-An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the Cloak and Dagger kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See [Chapter 6: Kits](#page-231-0).)
+An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See [Chapter 6: Kits](#page-231-0).)
 
 ##### Self
 
@@ -4338,7 +4338,7 @@ Reading the ability this way prevents a lot of back and forth. You don't need to
 
 ##### Adjusting Potencies
 
-Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX)'s Judgment ability and the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)'s Null Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
+Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX)'s Judgment ability and the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)'s [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
 
 ##### Spending Resources on Potencies
 
@@ -4377,7 +4377,7 @@ Many abilities that require power rolls also have effect entries describing addi
 
 ##### Actions Within Actions
 
-If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)'s Black Ash Teleport ability is a maneuver that allows you to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
+If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)'s Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability is a maneuver that allows you to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
 
 #### Spend Heroic Resource
 
@@ -4387,7 +4387,7 @@ Some abilities have a "Spend X [Heroic Resource]" entry in the body of the abili
 
 The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest bonus—from each use of the ability applies. The most recently used ability applies for determining duration.
 
-For example, the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)'s Null Field ability reduces the potencies of enemies within the field by 1. If two allied [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) each have their Null Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
+For example, the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)'s [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability reduces the potencies of enemies within the field by 1. If two allied [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) each have their [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
 
 Different effects that impose the same condition (see [Conditions](#page-91-2) below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (imposing a bane on the target's power rolls), the target isn't [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) twice to impose a double bane on those rolls. A character who is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) by an enemy can't be [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their recovery value, the hero's recovery value is halved only once.
 
@@ -4461,7 +4461,7 @@ A creature who is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFF
 
 A creature who has another creature [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) can use a maneuver to move the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature into an unoccupied space adjacent to them.
 
-A creature can release a creature they have [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at any time to end that condition (no action required). A [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature can attempt to escape being [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature teleports, or if either the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
+A creature can release a creature they have [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at any time to end that condition (no action required). A [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature can attempt to escape being [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), or if either the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 
 A creature can grab only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can grab any creature larger than them with a size equal to or less than their Might score.
 
@@ -4469,7 +4469,7 @@ Unless otherwise indicated, a creature can grab only one creature at a time.
 
 ##### Prone
 
-While a creature is [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature must [crawl](REL_PATH_PREFIXRules/Movement/CrawlREL_PATH_SUFFIX) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). If they are climbing, flying, or jumping when knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they fall.
+While a creature is [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature must [crawl](REL_PATH_PREFIXRules/Movement/CrawlREL_PATH_SUFFIX) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). If they are [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or [jumping](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) when knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they fall.
 
 Unless the ability or effect that imposed the [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) condition says otherwise, a [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature can stand up using the Stand Up maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)). A creature adjacent to a willing [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature can likewise use the Stand Up maneuver to make that creature stand up.
 
@@ -4477,7 +4477,7 @@ Unless the ability or effect that imposed the [prone](REL_PATH_PREFIXRules/Condi
 
 A creature who is [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
 
-If a creature teleports while [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX), that condition ends.
+If a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) while [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX), that condition ends.
 
 ##### Slowed
 
@@ -4630,7 +4630,7 @@ The first time on a turn that you use your Judgment ability to judge a creature,
 
 #### Kit
 
-You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* Warrior Priest.)
+You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX).)
 
 #### My Life for Yours
 
@@ -4993,7 +4993,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See [Chap
 
 #### 2nd-Level Order Features
 
-Your censor order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 
@@ -5029,7 +5029,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 #### 2nd-Level Order Ability
 
-Your censor order grants your choice of one of two heroic abilities.
+Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Exorcist Ability
 
@@ -5275,7 +5275,7 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ##### Windwalk
 
-While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.
 
 ##### Wode Road
 
@@ -5532,7 +5532,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 <!-- -->
 > ######## Guided to Your Side
 >
-> *You concentrate on a friend and teleport to them.*
+> *You concentrate on a friend and [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to them.*
 >
 > | **Magic, Ranged** |           **Main action** |
 > | ----------------- | ------------------------: |
@@ -5631,7 +5631,7 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, devils, and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 
@@ -5748,7 +5748,7 @@ Choose one of the following abilities.
 > - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 > - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 >
-> **Effect:** This ability gains an edge against demons, devils, undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
+> **Effect:** This ability gains an edge against demons, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
 <!-- -->
 > ######## Terror Manifest (11 Wrath)
@@ -5901,18 +5901,18 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 ###### Conduit Advancement Table
 
-| Level | Features                                                                                                                         | Abilities                     | Domain Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
-| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, Conduit Ward, Conduit Abilities | Two signature, 3, 5           | -                |
-| 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                        | Two signature, 3, 5           | 5                |
-| 3rd   | Minor Miracle, 7-Piety Ability                                                                                                   | Two signature, 3, 5, 7        | 5                |
-| 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                   | Two signature, 3, 5, 7        | 5                |
-| 5th   | Domain Feature, 9-Piety Ability                                                                                                  | Two signature, 3, 5, 7, 9     | 5                |
-| 6th   | Burgeoning Saint, Perk, Domain Ability                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                       | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                           | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                          | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | Avatar, Characteristic Increase, Divine Power, Most Pious, Perk, Skill Increase                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| Level | Features                                                                                                                                                                                                                                       | Abilities                     | Domain Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
+| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Ward, [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Abilities | Two signature, 3, 5           | -                |
+| 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                                                                                                                                      | Two signature, 3, 5           | 5                |
+| 3rd   | Minor Miracle, 7-Piety Ability                                                                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                |
+| 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                |
+| 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9     | 5                |
+| 6th   | Burgeoning Saint, Perk, Domain Ability                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                                                                                                                                        | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | Avatar, Characteristic Increase, Divine Power, Most Pious, Perk, Skill Increase                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -6203,7 +6203,7 @@ Choose one of the following triggered actions. (*Quick Build:* Word of Guidance.
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
 
 ##### Prayer of Destruction
 
@@ -6877,7 +6877,7 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ###### Windwalk
 
-While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.
 
 ###### Wode Road
 
@@ -7201,7 +7201,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 <!-- -->
 > ######## Guided to Your Side
 >
-> *You concentrate on a friend and teleport to them.*
+> *You concentrate on a friend and [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to them.*
 >
 > | **Magic, Ranged** |           **Main action** |
 > | ----------------- | ------------------------: |
@@ -7611,18 +7611,18 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ###### Elementalist Advancement Table
 
-| Level | Features                                                                                                                                                                                            | Abilities                           |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, Elementalist Ward, Elementalist Abilities | Two signature, 3, 5                 |
-| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                 | Two signature, 3, 5, 5              |
-| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
-| 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                   | Two signature, 3, 5, 5, 7           |
-| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
-| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | Characteristic Increase, Mantle of Quintessence, Surging Essence, Skill Increase                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| Level | Features                                                                                                                                                                                                                                                                                                                    | Abilities                           |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward, [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Abilities | Two signature, 3, 5                 |
+| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5              |
+| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7           |
+| 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
+| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7, 9        |
+| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | Characteristic Increase, Mantle of Quintessence, Surging Essence, Skill Increase                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ### 1st-Level Features
 
@@ -7637,7 +7637,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
 - **Rot** is the element of decay. Rot abilities harm and debuff enemies.
-- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.
+- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
 You choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
@@ -7871,7 +7871,7 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
 
 ##### Enchantment of Battle
 
@@ -7958,7 +7958,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ######## Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to teleport.*
+> *You absorb the life energy of another creature and use it to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX).*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |
@@ -8230,13 +8230,13 @@ At the start of a combat encounter, you gain a number of surges equal to your Vi
 
 ##### Disciple of the Green
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
 
-You choose a specific animal and appearance while in animal form. For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an animal form, your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
+You choose a specific animal and appearance while in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
-You can revert back to your true form as a maneuver. You can't enter an animal form unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
+You can revert back to your true form as a maneuver. You can't enter an [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
 
 ###### Green Animal Forms Table
 
@@ -8545,7 +8545,7 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ##### Hide of Tenfold Shields
 
-Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an animal form in combat, which is added to any temporary Stamina provided by the animal form.
+Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) in combat, which is added to any temporary Stamina provided by the [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX).
 
 Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
 
@@ -8699,7 +8699,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 <!-- -->
 > ######## Meteor (9 Essence)
 >
-> *You teleport the target into the air and let the ground and the elemental force of fire do the rest.*
+> *You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the target into the air and let the ground and the elemental force of fire do the rest.*
 >
 > | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 > | ------------------------------------ | ----------------------------: |
@@ -8777,9 +8777,9 @@ Additionally, your Mantle of Essence improves. While in the area of the aura, en
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your Disciple of the Green feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) as a free maneuver the first time you use your Disciple of the Green feature on your turn.
 
-Additionally, whenever you use your Disciple of the Green feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your Disciple of the Green feature, you can select an additional [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
@@ -8824,7 +8824,7 @@ You have the following ability.
 >
 > > **Tunneler**
 > >
-> > When the source burrows, they create a size 2 tunnel.
+> > When the source [burrows](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), they create a size 2 tunnel.
 >
 > > **Earth Harness**
 > >
@@ -9072,22 +9072,22 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **Recoveries:** 10
 
-**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
+**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), Nature.)
 
 ###### Fury Advancement Table
 
-| Level | Features                                                                                                                        | Abilities                 | Aspect Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, Fury Abilities           | Signature, 3, 5           | -                |
-| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                            | Signature, 3, 5           | 5                |
-| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                              | Signature, 3, 5, 7        | 5                |
-| 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill | Signature, 3, 5, 7        | 5                |
-| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                |
-| 6th   | Marauder of the Primordial Chaos, Perk, Aspect Ability                                                                          | Signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Elemental Form, Greater Ferocity, Growing Ferocity Improvement, Skill                                  | Signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Harbinger of the Primordial Chaos, Aspect Ability                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | Chaos Incarnate, Characteristic Increase, Growing Ferocity Improvement, Perk, Primordial Ferocity, Primordial Power, Skill      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| Level | Features                                                                                                                                                                  | Abilities                 | Aspect Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, [Fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) Abilities | Signature, 3, 5           | -                |
+| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                      | Signature, 3, 5           | 5                |
+| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                        | Signature, 3, 5, 7        | 5                |
+| 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill                                           | Signature, 3, 5, 7        | 5                |
+| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                                                                        | Signature, 3, 5, 7, 9     | 5                |
+| 6th   | Marauder of the Primordial Chaos, Perk, Aspect Ability                                                                                                                    | Signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Elemental Form, Greater Ferocity, Growing Ferocity Improvement, Skill                                                                            | Signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | Harbinger of the Primordial Chaos, Aspect Ability                                                                                                                         | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | Chaos Incarnate, Characteristic Increase, Growing Ferocity Improvement, Perk, Primordial Ferocity, Primordial Power, Skill                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -9213,7 +9213,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 >
 > **Trigger:** You lose Stamina and are not dying.
 >
-> **Effect:** You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.
+> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) or hybrid form.
 >
 > **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
@@ -9635,7 +9635,7 @@ Additionally, you have a bonus to stability equal to your Might score.
 
 You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
 
-When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in animal form (see Stormwight Kits).
+When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) (see Stormwight Kits).
 
 ##### See Through Their Tricks
 
@@ -9831,7 +9831,7 @@ As a 6th-level [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), you gai
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are frightened of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you (save ends).
 
 #### Primordial Portal
 
@@ -10264,9 +10264,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in animal form or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in animal form, you treat your Renown as 2 higher than usual.
+> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), you treat your Renown as 2 higher than usual.
 >
-> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another animal form, into your hybrid form, or back into your true form.
+> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), into your hybrid form, or back into your true form.
 
 ##### Primordial Storm
 
@@ -10278,7 +10278,7 @@ You wear no armor and wield only your unarmed strikes—which become devastating
 
 ##### Kit Bonuses
 
-These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
+These bonuses apply in your true form, your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
 
 ##### Signature Ability
 
@@ -10558,18 +10558,18 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 ###### Null Advancement Table
 
-| Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Null Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Null Speed, Psionic Augmentation, Psionic Martial Arts, Null Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                          | Two signature, 3, 5           | 5                   |
-| 3rd   | Psionic Leap, Reorder, 7-Discipline Ability                                                                                                         | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced Null Field, Perk, Regenerative Field, Skill                                       | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Elemental Absorption, Elemental Buffer, Perk, Tradition Ability                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, Discipline Mastery Improvement, Psi Boost, Improved Body, Skill                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | I Am the Weapon, Tradition Ability                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, Discipline Mastery Improvement, Manifold Body, Manifold Resonance, Order, Perk, Skill                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                            | Abilities                     | Tradition Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Tradition, Discipline, [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field, Inertial Shield, Discipline Mastery, [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Speed, Psionic Augmentation, Psionic Martial Arts, [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5           | 5                   |
+| 3rd   | Psionic Leap, Reorder, 7-Discipline Ability                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field, Perk, Regenerative Field, Skill                                                                                                                                                                                                   | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Elemental Absorption, Elemental Buffer, Perk, Tradition Ability                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, Discipline Mastery Improvement, Psi Boost, Improved Body, Skill                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | I Am the Weapon, Tradition Ability                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Characteristic Increase, Discipline Mastery Improvement, Manifold Body, Manifold Resonance, Order, Perk, Skill                                                                                                                                                                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -10593,7 +10593,7 @@ As your mastery of your body and tradition grows, it imbues you with a Heroic Re
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your Victories. At the start of each of your turns during combat, you gain 2 discipline.
 
-Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
+Additionally, the first time each combat round that an enemy in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
 
 You lose any remaining discipline at the end of the encounter.
 
@@ -10618,7 +10618,7 @@ You project a psionic field of order around your body, dampening the effects of 
 >
 > **Effect:** Each target reduces their potencies by 1.
 >
-> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your Null Field one of the following additional effects until the start of your next turn:
+> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field one of the following additional effects until the start of your next turn:
 >
 > - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 > - Inertial Anchor: Any target who starts their turn in the area can't shift.
@@ -10676,14 +10676,14 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 
 ###### Cryokinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                   |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 2 surges.                                                  |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                       |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.       |
+| Discipline      | Benefit                                                                                                                                                                                              |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead.    |
+| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 1 surge.  |
+| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                |
+| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 2 surges. |
+| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                          |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.          |
 
 ##### Metakinetic Mastery
 
@@ -10896,7 +10896,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > | ----------------- | ----------------------------: |
 > | **📏 2 burst**    | **🎯 Each enemy in the area** |
 >
-> **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your Null Field ability increases by 1. At the end of your current turn, each enemy in the area of your Null Field ability takes psychic damage equal to your Intuition score.
+> **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability takes psychic damage equal to your Intuition score.
 
 <!-- -->
 > ######## Relentless Nemesis (3 Discipline)
@@ -11098,7 +11098,7 @@ Choose one of the following heroic abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+> **Effect:** Until the start of your next turn, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
 
 ##### 2nd-Level Metakinetic Ability
 
@@ -11146,7 +11146,7 @@ You can long [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) and high 
 
 #### Reorder
 
-At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your Null Field ability.
+At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability.
 
 #### 7-Discipline Ability
 
@@ -11155,13 +11155,13 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 <!-- -->
 > ######## Absorption Field (7 Discipline)
 >
-> *Your null field absorbs kinetic energy.*
+> *Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) field absorbs kinetic energy.*
 >
 > | **Psionic** | **Maneuver** |
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+> **Effect:** Until the end of the encounter, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
 
 <!-- -->
 > ######## Molecular Rearrangement Field (7 Discipline)
@@ -11172,7 +11172,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+> **Effect:** Until the end of the encounter, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 <!-- -->
 > ######## Stabilizing Field (7 Discipline)
@@ -11183,18 +11183,18 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
+> **Effect:** Until the end of the encounter, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
 
 <!-- -->
 > ######## Synapse Field (7 Discipline)
 >
-> *Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.*
+> *Attacks made by allies in your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) field disrupt your enemies' thoughts, causing psychic pain.*
 >
 > | **Psionic** | **Maneuver** |
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+> **Effect:** Until the end of the encounter, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
 
 ### 4th-Level Features
 
@@ -11210,7 +11210,7 @@ Your Discipline Mastery feature provides additional benefits when you have 8 or 
 
 #### Enhanced Null Field
 
-While using your Null Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
+While using your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
 
 #### Perk
 
@@ -11218,7 +11218,7 @@ You gain one perk of your choice.
 
 #### Regenerative Field
 
-The first time each combat round that an enemy in the area of your Null Field ability uses a main action, you gain 2 discipline instead of 1.
+The first time each combat round that an enemy in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability uses a main action, you gain 2 discipline instead of 1.
 
 #### Skill
 
@@ -11246,7 +11246,7 @@ You steel yourself for imminent danger by tapping into your body's cold energy. 
 
 #### Inertial Fulcrum
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your Null Field ability equal to your Intuition score.
+Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability equal to your Intuition score.
 
 #### Instant Action
 
@@ -11301,7 +11301,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > | ----------- | ----------: |
 > | **📏 Self** | **🎯 Self** |
 >
-> **Effect:** You [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+> **Effect:** You [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 <!-- -->
 > ######## Synaptic Reset (9 Discipline)
@@ -11504,15 +11504,15 @@ Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants y
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your Null Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 
-When you take the Disengage move action, one ally in the area of your Null Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the Disengage move action, one ally in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.
+As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability also gains this benefit.
 
 #### 11-Discipline Ability
 
@@ -11521,7 +11521,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 <!-- -->
 > ######## Arcane Purge (11 Discipline)
 >
-> *You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
+> *You focus your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) field into a pressure point strike that prevents your foe from channeling sorcery.*
 >
 > | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 > | ---------------------------------- | ------------------: |
@@ -11576,7 +11576,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 > | ---------------------- | --------------------------: |
 > | **📏 Self; see below** | **🎯 Self or one creature** |
 >
-> **Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
+> **Trigger:** The target takes damage from another creature's ability while in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability.
 >
 > **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends). While the triggering creature is [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
@@ -11718,15 +11718,15 @@ When you gain discipline at the start of each of your turns during combat, you g
 
 #### Manifold Resonance
 
-Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your Null Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
+Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your Psi Boost feature to that ability. Additionally, you and allies in the area of your Null Field ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your Psi Boost feature to that ability. Additionally, you and allies in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability ignore banes and double banes on your power rolls.
 
 #### Order
 
 You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.
 
-At the start of a combat encounter, you can spend 1 order to increase the size of your Null Field by 1 until the end of the encounter.
+At the start of a combat encounter, you can spend 1 order to increase the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field by 1 until the end of the encounter.
 
 Order remains until you spend it.
 
@@ -11740,7 +11740,7 @@ You gain one skill of your choice.
 
 ## Shadow
 
-Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
+Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
 
 **As a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 
@@ -11771,18 +11771,18 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ###### Shadow Advancement Table
 
-| Level | Features                                                                                                            | Abilities                 | College Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| 1st   | Shadow College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, Shadow Abilities  | Signature, 3, 5           | -                 |
-| 2nd   | College Feature, Perk, College Ability                                                                              | Signature, 3, 5           | 5                 |
-| 3rd   | Careful Observation, 7-Insight Ability                                                                              | Signature, 3, 5, 7        | 5                 |
-| 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                   | Signature, 3, 5, 7        | 5                 |
-| 5th   | College Feature, 9-Insight Ability                                                                                  | Signature, 3, 5, 7, 9     | 5                 |
-| 6th   | Perk, Umbral Form, College Ability                                                                                  | Signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | Characteristic Increase, Keen Insight, Skill, Careful Observation Improvement, Ventriloquist                        | Signature, 3, 5, 7, 9     | 5, 9              |
-| 8th   | College Feature, Perk, 11-Insight Ability                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9              |
-| 9th   | Gloom Squad, College Ability                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | Characteristic Increase, Death Pool, Perk, Skill, Careful Observation Improvement, Improved Umbral Form, Subterfuge | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| Level | Features                                                                                                                                                                                                                       | Abilities                 | College Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----------------- |
+| 1st   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Abilities | Signature, 3, 5           | -                 |
+| 2nd   | College Feature, Perk, College Ability                                                                                                                                                                                         | Signature, 3, 5           | 5                 |
+| 3rd   | Careful Observation, 7-Insight Ability                                                                                                                                                                                         | Signature, 3, 5, 7        | 5                 |
+| 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                                                                                                                              | Signature, 3, 5, 7        | 5                 |
+| 5th   | College Feature, 9-Insight Ability                                                                                                                                                                                             | Signature, 3, 5, 7, 9     | 5                 |
+| 6th   | Perk, Umbral Form, College Ability                                                                                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9              |
+| 7th   | Characteristic Increase, Keen Insight, Skill, Careful Observation Improvement, Ventriloquist                                                                                                                                   | Signature, 3, 5, 7, 9     | 5, 9              |
+| 8th   | College Feature, Perk, 11-Insight Ability                                                                                                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9              |
+| 9th   | Gloom Squad, College Ability                                                                                                                                                                                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | Characteristic Increase, Death Pool, Perk, Skill, Careful Observation Improvement, Improved Umbral Form, Subterfuge                                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
 ### 1st-Level Features
 
@@ -11963,7 +11963,7 @@ You have the following ability.
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Cloak and Dagger.)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX).)
 
 #### Shadow Abilities
 
@@ -12069,7 +12069,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 <!-- -->
 > ######## Eviscerate (3 Insight)
 >
-> *You leave your foe bleeding out after a devastating attack.*
+> *You leave your foe [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) out after a devastating attack.*
 >
 > | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 > | --------------------------------- | ------------------: |
@@ -12465,7 +12465,7 @@ If the creature is the same size as you, you can disguise yourself as them using
 
 ##### Trail of Cinders
 
-Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash Teleport ability.
+Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability.
 
 Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The creature appears in an unoccupied space adjacent to the space into which you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). If no such space exists, they can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with you.
 
@@ -12473,7 +12473,7 @@ Additionally, you can now bring an adjacent willing creature along with you when
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not flying, you fall.
+Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
 
 #### 9-Insight Ability
 
@@ -12482,7 +12482,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 <!-- -->
 > ######## Blackout (9 Insight)
 >
-> *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
+> *You cause a plume of [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) to erupt from your eyes and create a cloud of darkness.*
 >
 > | **Area, Magic** |   **Maneuver** |
 > | --------------- | -------------: |
@@ -12551,7 +12551,7 @@ You gain one perk of your choice.
 
 #### Umbral Form
 
-As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
+As a maneuver, you lose control of yourself, becoming a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
 - You can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
@@ -12589,13 +12589,13 @@ Choose one of the following abilities.
 <!-- -->
 > ######## Cinderstorm (9 Insight)
 >
-> *You teleport your friends in a burst of ash and fire.*
+> *You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) your friends in a burst of ash and fire.*
 >
 > | **Magic**      |                          **Maneuver** |
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+> **Effect:** Each target can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. For each target in addition to you who [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -12743,7 +12743,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ######## Assassinate (11 Insight)
 >
-> *A practiced attack will instantly kill an already weakened foe.*
+> *A practiced attack will instantly kill an already [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) foe.*
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
@@ -12760,7 +12760,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ######## Shadowgrasp (11 Insight)
 >
-> *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
+> *The shadows around you give way, allowing the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) creature within you to grasp at your foes.*
 >
 > | **Area, Magic** |               **Main action** |
 > | --------------- | ----------------------------: |
@@ -12819,7 +12819,7 @@ Choose one of the following abilities.
 <!-- -->
 > ######## Cacophony of Cinders (11 Insight)
 >
-> *You tumble through the battle, stabbing foes and teleporting allies.*
+> *You tumble through the battle, stabbing foes and [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) allies.*
 >
 > | **Magic, Melee, Weapon** | **Main action** |
 > | ------------------------ | --------------: |
@@ -12946,9 +12946,9 @@ You can target three creatures simultaneously with your Careful Observation abil
 
 #### Improved Umbral Form
 
-You gain full control over the shadow creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to unoccupied spaces of your choice within that location. Each creature who teleports this way is invisible for 1 hour or until they use an ability.
+While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to unoccupied spaces of your choice within that location. Each creature who [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) this way is invisible for 1 hour or until they use an ability.
 
 #### Subterfuge
 
@@ -12993,18 +12993,18 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 ###### Tactician Advancement Table
 
-| Level | Features                                                                                                                    | Abilities      | Doctrine Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
-| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5           | -                  |
-| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                    | 3, 5           | 5                  |
-| 3rd   | Out of Position, 7-Focus Ability                                                                                            | 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                       | 3, 5, 7        | 5                  |
-| 5th   | Doctrine Feature, 9-Focus Ability                                                                                           | 3, 5, 7, 9     | 5                  |
-| 6th   | Master of Arms, Perk, Doctrine Ability                                                                                      | 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, Heightened Focus, Seize the Initiative, Skill, Doctrine Feature                                    | 3, 5, 7, 9     | 5, 9               |
-| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                    | 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | Grandmaster of Arms, Doctrine Ability                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Command, Perk, Skill, True Focus, Warmaster                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| Level | Features                                                                                                                                                                             | Abilities      | Doctrine Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------ |
+| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, [Tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) Abilities | 3, 5           | -                  |
+| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                                                                             | 3, 5           | 5                  |
+| 3rd   | Out of Position, 7-Focus Ability                                                                                                                                                     | 3, 5, 7        | 5                  |
+| 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                                                                                | 3, 5, 7        | 5                  |
+| 5th   | Doctrine Feature, 9-Focus Ability                                                                                                                                                    | 3, 5, 7, 9     | 5                  |
+| 6th   | Master of Arms, Perk, Doctrine Ability                                                                                                                                               | 3, 5, 7, 9     | 5, 9               |
+| 7th   | Characteristic Increase, Heightened Focus, Seize the Initiative, Skill, Doctrine Feature                                                                                             | 3, 5, 7, 9     | 5, 9               |
+| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                                                                             | 3, 5, 7, 9, 11 | 5, 9               |
+| 9th   | Grandmaster of Arms, Doctrine Ability                                                                                                                                                | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | Characteristic Increase, Command, Perk, Skill, True Focus, Warmaster                                                                                                                 | 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ### 1st-Level Features
 
@@ -13039,7 +13039,7 @@ Though you can't gain focus outside of combat, you can use your heroic abilities
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), but they might appear in future products.)
 
 <!-- -->
-> **Tactician Abilities Explained**
+> **[Tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) Abilities Explained**
 >
 > Many of the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s abilities are the actual commands they give their friends!
 
@@ -13142,11 +13142,11 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 
 #### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* Shining Armor, [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX).)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX), [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX).)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the Shining Armor and [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) and [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1
@@ -13157,7 +13157,7 @@ For example, if you take the Shining Armor and [Sniper](REL_PATH_PREFIXRules/Kit
 - Disengage Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit's damage bonus, then the Battle Grace signature ability from the Martial Artist kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit to deal 3/6/13 damage.
+Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit to deal 3/6/13 damage.
 
 #### Mark
 
@@ -13925,7 +13925,7 @@ Choose one of the following abilities.
 <!-- -->
 > ######## Squad! Hit and Run! (11 Focus)
 >
-> *I had to pry this secret from the shadow colleges.*
+> *I had to pry this secret from the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) colleges.*
 >
 > | **Ranged**       |            **Main action** |
 > | ---------------- | -------------------------: |
@@ -14087,18 +14087,18 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ###### Talent Advancement Table
 
-| Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Talent Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, Talent Ward, Telepathic Speech, Tradition Features, Talent Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
-| 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                         | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                         | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, Psi Boost, Tradition Ability                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Skill, Vision                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                       | Abilities                     | Tradition Abilities |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Ward, Telepathic Speech, Tradition Features, [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                     | Two signature, 3, 5           | 5                   |
+| 3rd   | Scan, 7-Clarity Ability                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                                                                                                                                                                                           | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, Psi Boost, Tradition Ability                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill                                                                                                                                                                                                                                 | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Skill, Vision                                                                                                                                                                                                                                   | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -14166,7 +14166,7 @@ You have the following ability, which can be used as a ranged free strike.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
 
 ##### Battle Augmentation
 
@@ -14233,7 +14233,7 @@ You have the following ability.
 <!-- -->
 > ######## Accelerate
 >
-> *To your ally, it seems as though the world has slowed down.*
+> *To your ally, it seems as though the world has [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) down.*
 >
 > | **Psionic, Ranged** |                **Maneuver** |
 > | ------------------- | --------------------------: |
@@ -14795,7 +14795,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 >
-> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a human). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
 <!-- -->
 > ######## Force Orbs (7 Clarity)
@@ -14834,7 +14834,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 <!-- -->
 > ######## Soul Burn (7 Clarity)
 >
-> *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
+> *You blast their soul out of their body, leaving it to helplessly float back to a [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) husk.*
 >
 > | **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |
 > | ------------------------------------------- | ------------------: |
@@ -14880,9 +14880,9 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### Suspensor Field
 
-You can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). While flying, your stability is reduced to 0 and can't be increased. If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while flying instead.
+You can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). While [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), your stability is reduced to 0 and can't be increased. If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.
 
-If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.
+If you are strained while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) and are force moved, the forced movement distance gains a +2 bonus.
 
 ### 5th-Level Features
 
@@ -15227,7 +15227,7 @@ You have the following ability.
 > | ----------------- | ---------------------------: |
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), a target's stability is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -15319,7 +15319,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 > - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 >
-> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).
+> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) years, to the minimum of an 18-year-old). Additionally, you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).
 
 <!-- -->
 > ######## Steel (11 Clarity)
@@ -15542,18 +15542,18 @@ There is no visible text in the image provided. The image appears to show a deco
 
 ###### Troubadour Advancement Table
 
-| Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | Troubadour Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, Troubadour Abilities | Signature, 3, 5           | -                   |
-| 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
-| 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                      | Signature, 3, 5, 7        | 5                   |
-| 5th   | Class Act Feature, 9-Drama Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, Spotlight, Class Act Ability                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, A Muse's Muse, Equal Billing, Skill                                                                    | Signature, 5, 7, 9        | 5, 9                |
-| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 9th   | Roar of the Crowd, Class Act Ability                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, Dramaturgy, Greatest of All Time, Perk, Skill                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                            | Abilities                 | Class Act Abilities |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
+| 1st   | [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) Abilities | Signature, 3, 5           | -                   |
+| 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                                                                                                                                            | Signature, 3, 5           | 5                   |
+| 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                  | Signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                                                                                                                                          | Signature, 3, 5, 7        | 5                   |
+| 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, Spotlight, Class Act Ability                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, A Muse's Muse, Equal Billing, Skill                                                                                                                                                                                        | Signature, 5, 7, 9        | 5, 9                |
+| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | Roar of the Crowd, Class Act Ability                                                                                                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Applause, Characteristic Increase, Dramaturgy, Greatest of All Time, Perk, Skill                                                                                                                                                                    | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -15595,7 +15595,7 @@ Though you can't gain drama outside of combat, you can use your heroic abilities
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
 
 <!-- -->
-> **The Auteur Troubadour**
+> **The Auteur [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX)**
 >
 > Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
@@ -16875,7 +16875,7 @@ You gain one skill of your choice.
 
 # Kits
 
-The knight in shining armor. The warrior priest. The sniper. Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+The knight in [shining armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX). The [warrior priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX). The [sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX). Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit
 
@@ -16958,7 +16958,7 @@ Whip weapons include the standard whip, spiked chains, flails, and any similarly
 
 #### Kits and Treasures
 
-When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](REL_PATH_PREFIXRules/Kits/RangerREL_PATH_SUFFIX) or Shining Armor kits. However, you can't use it with the Cloak and Dagger or Stick and Robe kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
+When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](REL_PATH_PREFIXRules/Kits/RangerREL_PATH_SUFFIX) or [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) kits. However, you can't use it with the [Cloak and Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX) or [Stick and Robe](REL_PATH_PREFIXRules/Kits/Stick%20and%20RobeREL_PATH_SUFFIX) kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
 
 If you find a piece of equipment you really want to use that isn't part of your kit, you can always change your kit as a respite activity.
 
@@ -16986,7 +16986,7 @@ Kits can grant you a bonus to damage with both melee and ranged weapon abilities
 
 Kit damage bonuses increase based on the tier outcome of the power roll for a weapon ability, and are presented as "+X/+Y/+Z." The X bonus is added to a tier 1 outcome, the Y bonus is added to a tier 2 outcome, and the Z bonus is added to a tier 3 outcome.
 
-For example, the Shining Armor kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
+For example, the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
 
 #### Distance Bonus
 
@@ -17017,7 +17017,7 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 
 #### Arcane Archer
 
-The Arcane Archer kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
+The [Arcane Archer](REL_PATH_PREFIXRules/Kits/Arcane%20ArcherREL_PATH_SUFFIX) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
 ##### Equipment
 
@@ -17089,7 +17089,7 @@ You wear light armor and wield a medium weapon.
 
 #### Cloak and Dagger
 
-Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while increasing the effectiveness of your short-range strikes.
+Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
 
 ##### Equipment
 
@@ -17127,7 +17127,7 @@ You wear light armor and wield one or two light weapons.
 
 #### Dual Wielder
 
-The Dual Wielder kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
+The [Dual Wielder](REL_PATH_PREFIXRules/Kits/Dual%20WielderREL_PATH_SUFFIX) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
 
 ##### Equipment
 
@@ -17197,7 +17197,7 @@ You wear medium armor and wield a polearm.
 
 #### Martial Artist
 
-If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
+If you want to be fast in a fight, then [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
 
 ##### Equipment
 
@@ -17453,7 +17453,7 @@ You wear light armor and wield a bow.
 
 #### Retiarius
 
-The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
+The [retiarius](REL_PATH_PREFIXRules/Kits/RetiariusREL_PATH_SUFFIX) is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
 ##### Equipment
 
@@ -17489,7 +17489,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 #### Shining Armor
 
-The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
+The [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
 ##### Equipment
 
@@ -17595,7 +17595,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 #### Stick and Robe
 
-Armed with a simple reach weapon, often a quarterstaff, a character using the Stick and Robe kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
+Armed with a simple reach weapon, often a quarterstaff, a character using the [Stick and Robe](REL_PATH_PREFIXRules/Kits/Stick%20and%20RobeREL_PATH_SUFFIX) kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
 
 ##### Equipment
 
@@ -17667,7 +17667,7 @@ You wear light armor and wield a medium weapon.
 
 #### Sword and Board
 
-The Sword and Board kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+The [Sword and Board](REL_PATH_PREFIXRules/Kits/Sword%20and%20BoardREL_PATH_SUFFIX) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
 ##### Equipment
 
@@ -17701,7 +17701,7 @@ You wear medium armor and wield a shield and a medium weapon.
 
 #### Warrior Priest
 
-The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
+The [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
 
 ##### Equipment
 
@@ -17782,29 +17782,29 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 ###### Kits Table
 
-| Kit                                                                   | Armor          | Weapon             | Stamina per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
-| --------------------------------------------------------------------- | -------------- | ------------------ | ------------------- | ----- | --------- | ------------ | ------------- | -------------- | --------------- | --------- |
-| Arcane Archer                                                         | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
-| [Battlemind](REL_PATH_PREFIXRules/Kits/BattlemindREL_PATH_SUFFIX)     | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| Cloak and Dagger                                                      | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| Dual Wielder                                                          | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Guisarmier](REL_PATH_PREFIXRules/Kits/GuisarmierREL_PATH_SUFFIX)     | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
-| Martial Artist                                                        | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX)         | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
-| [Panther](REL_PATH_PREFIXRules/Kits/PantherREL_PATH_SUFFIX)           | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
-| [Pugilist](REL_PATH_PREFIXRules/Kits/PugilistREL_PATH_SUFFIX)         | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| [Raider](REL_PATH_PREFIXRules/Kits/RaiderREL_PATH_SUFFIX)             | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| [Ranger](REL_PATH_PREFIXRules/Kits/RangerREL_PATH_SUFFIX)             | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| Rapid-Fire                                                            | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |
-| Retiarius                                                             | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
-| Shining Armor                                                         | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX)             | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |
-| [Spellsword](REL_PATH_PREFIXRules/Kits/SpellswordREL_PATH_SUFFIX)     | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| Stick and Robe                                                        | Light          | Polearm            | +3                  | +2    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
-| [Swashbuckler](REL_PATH_PREFIXRules/Kits/SwashbucklerREL_PATH_SUFFIX) | Light          | Medium             | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| Sword and Board                                                       | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
-| Warrior Priest                                                        | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| [Whirlwind](REL_PATH_PREFIXRules/Kits/WhirlwindREL_PATH_SUFFIX)       | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
+| Kit                                                                               | Armor          | Weapon             | Stamina per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
+| --------------------------------------------------------------------------------- | -------------- | ------------------ | ------------------- | ----- | --------- | ------------ | ------------- | -------------- | --------------- | --------- |
+| [Arcane Archer](REL_PATH_PREFIXRules/Kits/Arcane%20ArcherREL_PATH_SUFFIX)         | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
+| [Battlemind](REL_PATH_PREFIXRules/Kits/BattlemindREL_PATH_SUFFIX)                 | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| [Cloak and Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX) | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Dual Wielder](REL_PATH_PREFIXRules/Kits/Dual%20WielderREL_PATH_SUFFIX)           | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Guisarmier](REL_PATH_PREFIXRules/Kits/GuisarmierREL_PATH_SUFFIX)                 | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
+| [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX)       | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX)                     | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
+| [Panther](REL_PATH_PREFIXRules/Kits/PantherREL_PATH_SUFFIX)                       | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
+| [Pugilist](REL_PATH_PREFIXRules/Kits/PugilistREL_PATH_SUFFIX)                     | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| [Raider](REL_PATH_PREFIXRules/Kits/RaiderREL_PATH_SUFFIX)                         | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Ranger](REL_PATH_PREFIXRules/Kits/RangerREL_PATH_SUFFIX)                         | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| Rapid-Fire                                                                        | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |
+| [Retiarius](REL_PATH_PREFIXRules/Kits/RetiariusREL_PATH_SUFFIX)                   | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
+| [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX)         | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX)                         | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |
+| [Spellsword](REL_PATH_PREFIXRules/Kits/SpellswordREL_PATH_SUFFIX)                 | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| [Stick and Robe](REL_PATH_PREFIXRules/Kits/Stick%20and%20RobeREL_PATH_SUFFIX)     | Light          | Polearm            | +3                  | +2    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
+| [Swashbuckler](REL_PATH_PREFIXRules/Kits/SwashbucklerREL_PATH_SUFFIX)             | Light          | Medium             | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Sword and Board](REL_PATH_PREFIXRules/Kits/Sword%20and%20BoardREL_PATH_SUFFIX)   | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
+| [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX)       | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| [Whirlwind](REL_PATH_PREFIXRules/Kits/WhirlwindREL_PATH_SUFFIX)                   | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
 
 # Perks
 
@@ -17959,7 +17959,7 @@ This section presents intrigue perks in alphabetical order.
 
 #### Criminal Contacts
 
-You have access to a network of criminal contacts. As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
+You have access to a network of [criminal contacts](REL_PATH_PREFIXRules/Perks/Intrigue%20Perks/Criminal%20ContactsREL_PATH_SUFFIX). As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
 
 #### Forgettable Face
 
@@ -18032,7 +18032,7 @@ This section presents supernatural perks in alphabetical order.
 You have the following ability.
 
 <!-- -->
-> ######## Arcane Trick
+> ######## [Arcane Trick](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Arcane%20TrickREL_PATH_SUFFIX)
 >
 > *You cast an entertaining spell that creates a minor but impressive magical effect.*
 >
@@ -18047,7 +18047,7 @@ You have the following ability.
 > - You ignite or snuff out (your choice) every mundane light source of 1L or smaller adjacent to you.
 > - You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
 > - Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
-> - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using Arcane Trick.
+> - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using [Arcane Trick](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Arcane%20TrickREL_PATH_SUFFIX).
 > - You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
 
 #### Creature Sense
@@ -18056,35 +18056,35 @@ As a maneuver, choose a creature within 10 squares. If that creature is your lev
 
 #### Familiar
 
-A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.
+A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX)—or to adopt you as their [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX).
 
-The spirit uses the familiar stat block.
+The spirit uses the [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) stat block.
 
-The familiar can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
+The [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your familiar is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
 
 ###### Familiar Statblock
 
 **Familiar**
 
-|      Familiar       |         -         |           Level -            |           -           |         EV -         |
-| :-----------------: | :---------------: | :--------------------------: | :-------------------: | :------------------: |
-|   **1T**<br>Size    |  **5**<br>Speed   | **2x your level**<br>Stamina |  **0**<br>Stability   | **-**<br>Free Strike |
-| **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
-|   **-3**<br>Might   | **+2**<br>Agility |       **0**<br>Reason        |  **0**<br>Intuition   |  **+1**<br>Presence  |
+| [Familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) |         -         |           Level -            |           -           |         EV -         |
+| :---------------------------------------------------------------------------------: | :---------------: | :--------------------------: | :-------------------: | :------------------: |
+|                                   **1T**<br>Size                                    |  **5**<br>Speed   | **2x your level**<br>Stamina |  **0**<br>Stability   | **-**<br>Free Strike |
+|                                 **-**<br>Immunities                                 | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
+|                                   **-3**<br>Might                                   | **+2**<br>Agility |       **0**<br>Reason        |  **0**<br>Intuition   |  **+1**<br>Presence  |
 
 <!-- -->
 > **Telepathic**
 >
-> While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
+> While you and your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
 
 #### Invisible Force
 
 You have the following ability.
 
 <!-- -->
-> ######## Invisible Force
+> ######## [Invisible Force](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Invisible%20ForceREL_PATH_SUFFIX)
 >
 > *You manipulate a tiny object with your mind.*
 >
@@ -18099,7 +18099,7 @@ You have the following ability.
 You have the following ability.
 
 <!-- -->
-> ######## Psychic Whisper
+> ######## [Psychic Whisper](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Psychic%20WhisperREL_PATH_SUFFIX)
 >
 > *You send a one-way telepathic message to a friend.*
 >
@@ -18137,7 +18137,7 @@ Not all complication benefits and drawbacks carry equal weight, but each benefit
 
 ### Modifying the Story
 
-In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose Infernal Contract as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a devil!
+In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX) as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a devil!
 
 Many of the details of each complication are purposefully left vague, so that you can connect the complication to the rest of your backstory. If your complication took place during an attack, accident, or other event, you decide the specific details of those events and any other creatures involved.
 
@@ -18149,163 +18149,163 @@ Complications are presented in alphabetical order.
 
 ###### Complications Table 2-Column
 
-| d100 | Complication                                                                 | d100 | Complication                                                                     |
-| ---- | ---------------------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 1    | Advanced Studies                                                             | 51   | [Loner](REL_PATH_PREFIXRules/Complications/LonerREL_PATH_SUFFIX)                 |
-| 2    | [Amnesia](REL_PATH_PREFIXRules/Complications/AmnesiaREL_PATH_SUFFIX)         | 52   | Lost in Time                                                                     |
-| 3    | Animal Form                                                                  | 53   | Lost Your Head                                                                   |
-| 4    | [Antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX)       | 54   | [Lucky](REL_PATH_PREFIXRules/Complications/LuckyREL_PATH_SUFFIX)                 |
-| 5    | Artifact Bonded                                                              | 55   | Master Chef                                                                      |
-| 6    | [Bereaved](REL_PATH_PREFIXRules/Complications/BereavedREL_PATH_SUFFIX)       | 56   | Meddling Butler                                                                  |
-| 7    | [Betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX)     | 57   | [Medium](REL_PATH_PREFIXRules/Complications/MediumREL_PATH_SUFFIX)               |
-| 8    | Chaos Touched                                                                | 58   | Medusa Blood                                                                     |
-| 9    | Chosen One                                                                   | 59   | [Misunderstood](REL_PATH_PREFIXRules/Complications/MisunderstoodREL_PATH_SUFFIX) |
-| 10   | Consuming Interest                                                           | 60   | [Mundane](REL_PATH_PREFIXRules/Complications/MundaneREL_PATH_SUFFIX)             |
-| 11   | Corrupted Mentor                                                             | 61   | [Outlaw](REL_PATH_PREFIXRules/Complications/OutlawREL_PATH_SUFFIX)               |
-| 12   | [Coward](REL_PATH_PREFIXRules/Complications/CowardREL_PATH_SUFFIX)           | 62   | [Pirate](REL_PATH_PREFIXRules/Complications/PirateREL_PATH_SUFFIX)               |
-| 13   | Crash Landed                                                                 | 63   | [Preacher](REL_PATH_PREFIXRules/Complications/PreacherREL_PATH_SUFFIX)           |
-| 14   | Cult Victim                                                                  | 64   | Primordial Sickness                                                              |
-| 15   | Curse of Caution                                                             | 65   | Prisoner of the Synlirii                                                         |
-| 16   | Curse of Immortality                                                         | 66   | Promising Apprentice                                                             |
-| 17   | Curse of Misfortune                                                          | 67   | Psychic Eruption                                                                 |
-| 18   | Curse of Poverty                                                             | 68   | Raised by Beasts                                                                 |
-| 19   | Curse of Punishment                                                          | 69   | [Refugee](REL_PATH_PREFIXRules/Complications/RefugeeREL_PATH_SUFFIX)             |
-| 20   | Curse of Stone                                                               | 70   | [Rival](REL_PATH_PREFIXRules/Complications/RivalREL_PATH_SUFFIX)                 |
-| 21   | Cursed Weapon                                                                | 71   | Rogue [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)               |
-| 22   | [Disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX)     | 72   | [Runaway](REL_PATH_PREFIXRules/Complications/RunawayREL_PATH_SUFFIX)             |
-| 23   | Dragon Dreams                                                                | 73   | Searching for a Cure                                                             |
-| 24   | Elemental Inside                                                             | 74   | Secret Identity                                                                  |
-| 25   | [Evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX) | 75   | Secret Twin                                                                      |
-| 26   | [Exile](REL_PATH_PREFIXRules/Complications/ExileREL_PATH_SUFFIX)             | 76   | Self-Taught                                                                      |
-| 27   | Fallen Immortal                                                              | 77   | Sewer Folk                                                                       |
-| 28   | Famous Relative                                                              | 78   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Born                |
-| 29   | [Feytouched](REL_PATH_PREFIXRules/Complications/FeytouchedREL_PATH_SUFFIX)   | 79   | Shared Spirit                                                                    |
-| 30   | Fiery Ideal                                                                  | 80   | Shattered Legacy                                                                 |
-| 31   | Fire and Chaos                                                               | 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)     |
-| 32   | Following in the Footsteps                                                   | 82   | Sibling's Shield                                                                 |
-| 33   | Forbidden Romance                                                            | 83   | Silent Sentinel                                                                  |
-| 34   | [Frostheart](REL_PATH_PREFIXRules/Complications/FrostheartREL_PATH_SUFFIX)   | 84   | Slight Case of Lycanthropy                                                       |
-| 35   | Getting Too Old for This                                                     | 85   | Stolen Face                                                                      |
-| 36   | Gnoll-Mauled                                                                 | 86   | Strange Inheritance                                                              |
-| 37   | [Greening](REL_PATH_PREFIXRules/Complications/GreeningREL_PATH_SUFFIX)       | 87   | Stripped of Rank                                                                 |
-| 38   | [Grifter](REL_PATH_PREFIXRules/Complications/GrifterREL_PATH_SUFFIX)         | 88   | Thrill Seeker                                                                    |
-| 39   | [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX)       | 89   | Vampire Scion                                                                    |
-| 40   | Guilty Conscience                                                            | 90   | Voice in Your Head                                                               |
-| 41   | Hawk Rider                                                                   | 91   | Vow of Duty                                                                      |
-| 42   | Host Body                                                                    | 92   | Vow of Honesty                                                                   |
-| 43   | [Hunted](REL_PATH_PREFIXRules/Complications/HuntedREL_PATH_SUFFIX)           | 93   | Waking Dreams                                                                    |
-| 44   | [Hunter](REL_PATH_PREFIXRules/Complications/HunterREL_PATH_SUFFIX)           | 94   | War Dog Collar                                                                   |
-| 45   | [Indebted](REL_PATH_PREFIXRules/Complications/IndebtedREL_PATH_SUFFIX)       | 95   | War of Assassins                                                                 |
-| 46   | Infernal Contract                                                            | 96   | [Ward](REL_PATH_PREFIXRules/Complications/WardREL_PATH_SUFFIX)                   |
-| 47   | Infernal Contract... But, Like, Bad                                          | 97   | [Waterborn](REL_PATH_PREFIXRules/Complications/WaterbornREL_PATH_SUFFIX)         |
-| 48   | Ivory Tower                                                                  | 98   | [Wodewalker](REL_PATH_PREFIXRules/Complications/WodewalkerREL_PATH_SUFFIX)       |
-| 49   | [Lifebonded](REL_PATH_PREFIXRules/Complications/LifebondedREL_PATH_SUFFIX)   | 99   | Wrathful Spirit                                                                  |
-| 50   | Lightning Soul                                                               | 100  | Wrongly Imprisoned                                                               |
+| d100 | Complication                                                                                                     | d100 | Complication                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------- |
+| 1    | [Advanced Studies](REL_PATH_PREFIXRules/Complications/Advanced%20StudiesREL_PATH_SUFFIX)                         | 51   | [Loner](REL_PATH_PREFIXRules/Complications/LonerREL_PATH_SUFFIX)                                                 |
+| 2    | [Amnesia](REL_PATH_PREFIXRules/Complications/AmnesiaREL_PATH_SUFFIX)                                             | 52   | [Lost in Time](REL_PATH_PREFIXRules/Complications/Lost%20in%20TimeREL_PATH_SUFFIX)                               |
+| 3    | [Animal Form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX)                                   | 53   | [Lost Your Head](REL_PATH_PREFIXRules/Complications/Lost%20Your%20HeadREL_PATH_SUFFIX)                           |
+| 4    | [Antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX)                                           | 54   | [Lucky](REL_PATH_PREFIXRules/Complications/LuckyREL_PATH_SUFFIX)                                                 |
+| 5    | [Artifact Bonded](REL_PATH_PREFIXRules/Complications/Artifact%20BondedREL_PATH_SUFFIX)                           | 55   | [Master Chef](REL_PATH_PREFIXRules/Complications/Master%20ChefREL_PATH_SUFFIX)                                   |
+| 6    | [Bereaved](REL_PATH_PREFIXRules/Complications/BereavedREL_PATH_SUFFIX)                                           | 56   | [Meddling Butler](REL_PATH_PREFIXRules/Complications/Meddling%20ButlerREL_PATH_SUFFIX)                           |
+| 7    | [Betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX)                                         | 57   | [Medium](REL_PATH_PREFIXRules/Complications/MediumREL_PATH_SUFFIX)                                               |
+| 8    | [Chaos Touched](REL_PATH_PREFIXRules/Complications/Chaos%20TouchedREL_PATH_SUFFIX)                               | 58   | [Medusa Blood](REL_PATH_PREFIXRules/Complications/Medusa%20BloodREL_PATH_SUFFIX)                                 |
+| 9    | [Chosen One](REL_PATH_PREFIXRules/Complications/Chosen%20OneREL_PATH_SUFFIX)                                     | 59   | [Misunderstood](REL_PATH_PREFIXRules/Complications/MisunderstoodREL_PATH_SUFFIX)                                 |
+| 10   | [Consuming Interest](REL_PATH_PREFIXRules/Complications/Consuming%20InterestREL_PATH_SUFFIX)                     | 60   | [Mundane](REL_PATH_PREFIXRules/Complications/MundaneREL_PATH_SUFFIX)                                             |
+| 11   | [Corrupted Mentor](REL_PATH_PREFIXRules/Complications/Corrupted%20MentorREL_PATH_SUFFIX)                         | 61   | [Outlaw](REL_PATH_PREFIXRules/Complications/OutlawREL_PATH_SUFFIX)                                               |
+| 12   | [Coward](REL_PATH_PREFIXRules/Complications/CowardREL_PATH_SUFFIX)                                               | 62   | [Pirate](REL_PATH_PREFIXRules/Complications/PirateREL_PATH_SUFFIX)                                               |
+| 13   | [Crash Landed](REL_PATH_PREFIXRules/Complications/Crash%20LandedREL_PATH_SUFFIX)                                 | 63   | [Preacher](REL_PATH_PREFIXRules/Complications/PreacherREL_PATH_SUFFIX)                                           |
+| 14   | [Cult Victim](REL_PATH_PREFIXRules/Complications/Cult%20VictimREL_PATH_SUFFIX)                                   | 64   | [Primordial Sickness](REL_PATH_PREFIXRules/Complications/Primordial%20SicknessREL_PATH_SUFFIX)                   |
+| 15   | [Curse of Caution](REL_PATH_PREFIXRules/Complications/Curse%20of%20CautionREL_PATH_SUFFIX)                       | 65   | [Prisoner of the Synlirii](REL_PATH_PREFIXRules/Complications/Prisoner%20of%20the%20SynliriiREL_PATH_SUFFIX)     |
+| 16   | [Curse of Immortality](REL_PATH_PREFIXRules/Complications/Curse%20of%20ImmortalityREL_PATH_SUFFIX)               | 66   | [Promising Apprentice](REL_PATH_PREFIXRules/Complications/Promising%20ApprenticeREL_PATH_SUFFIX)                 |
+| 17   | [Curse of Misfortune](REL_PATH_PREFIXRules/Complications/Curse%20of%20MisfortuneREL_PATH_SUFFIX)                 | 67   | Psychic Eruption                                                                                                 |
+| 18   | [Curse of Poverty](REL_PATH_PREFIXRules/Complications/Curse%20of%20PovertyREL_PATH_SUFFIX)                       | 68   | [Raised by Beasts](REL_PATH_PREFIXRules/Complications/Raised%20by%20BeastsREL_PATH_SUFFIX)                       |
+| 19   | [Curse of Punishment](REL_PATH_PREFIXRules/Complications/Curse%20of%20PunishmentREL_PATH_SUFFIX)                 | 69   | [Refugee](REL_PATH_PREFIXRules/Complications/RefugeeREL_PATH_SUFFIX)                                             |
+| 20   | [Curse of Stone](REL_PATH_PREFIXRules/Complications/Curse%20of%20StoneREL_PATH_SUFFIX)                           | 70   | [Rival](REL_PATH_PREFIXRules/Complications/RivalREL_PATH_SUFFIX)                                                 |
+| 21   | [Cursed Weapon](REL_PATH_PREFIXRules/Complications/Cursed%20WeaponREL_PATH_SUFFIX)                               | 71   | Rogue [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)                                               |
+| 22   | [Disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX)                                         | 72   | [Runaway](REL_PATH_PREFIXRules/Complications/RunawayREL_PATH_SUFFIX)                                             |
+| 23   | [Dragon Dreams](REL_PATH_PREFIXRules/Complications/Dragon%20DreamsREL_PATH_SUFFIX)                               | 73   | [Searching for a Cure](REL_PATH_PREFIXRules/Complications/Searching%20for%20a%20CureREL_PATH_SUFFIX)             |
+| 24   | [Elemental Inside](REL_PATH_PREFIXRules/Complications/Elemental%20InsideREL_PATH_SUFFIX)                         | 74   | [Secret Identity](REL_PATH_PREFIXRules/Complications/Secret%20IdentityREL_PATH_SUFFIX)                           |
+| 25   | [Evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX)                                     | 75   | [Secret Twin](REL_PATH_PREFIXRules/Complications/Secret%20TwinREL_PATH_SUFFIX)                                   |
+| 26   | [Exile](REL_PATH_PREFIXRules/Complications/ExileREL_PATH_SUFFIX)                                                 | 76   | Self-Taught                                                                                                      |
+| 27   | [Fallen Immortal](REL_PATH_PREFIXRules/Complications/Fallen%20ImmortalREL_PATH_SUFFIX)                           | 77   | [Sewer Folk](REL_PATH_PREFIXRules/Complications/Sewer%20FolkREL_PATH_SUFFIX)                                     |
+| 28   | [Famous Relative](REL_PATH_PREFIXRules/Complications/Famous%20RelativeREL_PATH_SUFFIX)                           | 78   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Born                                                |
+| 29   | [Feytouched](REL_PATH_PREFIXRules/Complications/FeytouchedREL_PATH_SUFFIX)                                       | 79   | [Shared Spirit](REL_PATH_PREFIXRules/Complications/Shared%20SpiritREL_PATH_SUFFIX)                               |
+| 30   | [Fiery Ideal](REL_PATH_PREFIXRules/Complications/Fiery%20IdealREL_PATH_SUFFIX)                                   | 80   | [Shattered Legacy](REL_PATH_PREFIXRules/Complications/Shattered%20LegacyREL_PATH_SUFFIX)                         |
+| 31   | [Fire and Chaos](REL_PATH_PREFIXRules/Complications/Fire%20and%20ChaosREL_PATH_SUFFIX)                           | 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)                                     |
+| 32   | [Following in the Footsteps](REL_PATH_PREFIXRules/Complications/Following%20in%20the%20FootstepsREL_PATH_SUFFIX) | 82   | Sibling's Shield                                                                                                 |
+| 33   | [Forbidden Romance](REL_PATH_PREFIXRules/Complications/Forbidden%20RomanceREL_PATH_SUFFIX)                       | 83   | [Silent Sentinel](REL_PATH_PREFIXRules/Complications/Silent%20SentinelREL_PATH_SUFFIX)                           |
+| 34   | [Frostheart](REL_PATH_PREFIXRules/Complications/FrostheartREL_PATH_SUFFIX)                                       | 84   | [Slight Case of Lycanthropy](REL_PATH_PREFIXRules/Complications/Slight%20Case%20of%20LycanthropyREL_PATH_SUFFIX) |
+| 35   | [Getting Too Old for This](REL_PATH_PREFIXRules/Complications/Getting%20Too%20Old%20for%20ThisREL_PATH_SUFFIX)   | 85   | [Stolen Face](REL_PATH_PREFIXRules/Complications/Stolen%20FaceREL_PATH_SUFFIX)                                   |
+| 36   | Gnoll-Mauled                                                                                                     | 86   | [Strange Inheritance](REL_PATH_PREFIXRules/Complications/Strange%20InheritanceREL_PATH_SUFFIX)                   |
+| 37   | [Greening](REL_PATH_PREFIXRules/Complications/GreeningREL_PATH_SUFFIX)                                           | 87   | [Stripped of Rank](REL_PATH_PREFIXRules/Complications/Stripped%20of%20RankREL_PATH_SUFFIX)                       |
+| 38   | [Grifter](REL_PATH_PREFIXRules/Complications/GrifterREL_PATH_SUFFIX)                                             | 88   | [Thrill Seeker](REL_PATH_PREFIXRules/Complications/Thrill%20SeekerREL_PATH_SUFFIX)                               |
+| 39   | [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX)                                           | 89   | [Vampire Scion](REL_PATH_PREFIXRules/Complications/Vampire%20ScionREL_PATH_SUFFIX)                               |
+| 40   | [Guilty Conscience](REL_PATH_PREFIXRules/Complications/Guilty%20ConscienceREL_PATH_SUFFIX)                       | 90   | [Voice in Your Head](REL_PATH_PREFIXRules/Complications/Voice%20in%20Your%20HeadREL_PATH_SUFFIX)                 |
+| 41   | [Hawk Rider](REL_PATH_PREFIXRules/Complications/Hawk%20RiderREL_PATH_SUFFIX)                                     | 91   | [Vow of Duty](REL_PATH_PREFIXRules/Complications/Vow%20of%20DutyREL_PATH_SUFFIX)                                 |
+| 42   | [Host Body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX)                                       | 92   | [Vow of Honesty](REL_PATH_PREFIXRules/Complications/Vow%20of%20HonestyREL_PATH_SUFFIX)                           |
+| 43   | [Hunted](REL_PATH_PREFIXRules/Complications/HuntedREL_PATH_SUFFIX)                                               | 93   | [Waking Dreams](REL_PATH_PREFIXRules/Complications/Waking%20DreamsREL_PATH_SUFFIX)                               |
+| 44   | [Hunter](REL_PATH_PREFIXRules/Complications/HunterREL_PATH_SUFFIX)                                               | 94   | [War Dog Collar](REL_PATH_PREFIXRules/Complications/War%20Dog%20CollarREL_PATH_SUFFIX)                           |
+| 45   | [Indebted](REL_PATH_PREFIXRules/Complications/IndebtedREL_PATH_SUFFIX)                                           | 95   | [War of Assassins](REL_PATH_PREFIXRules/Complications/War%20of%20AssassinsREL_PATH_SUFFIX)                       |
+| 46   | [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX)                       | 96   | [Ward](REL_PATH_PREFIXRules/Complications/WardREL_PATH_SUFFIX)                                                   |
+| 47   | [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX)... But, Like, Bad     | 97   | [Waterborn](REL_PATH_PREFIXRules/Complications/WaterbornREL_PATH_SUFFIX)                                         |
+| 48   | [Ivory Tower](REL_PATH_PREFIXRules/Complications/Ivory%20TowerREL_PATH_SUFFIX)                                   | 98   | [Wodewalker](REL_PATH_PREFIXRules/Complications/WodewalkerREL_PATH_SUFFIX)                                       |
+| 49   | [Lifebonded](REL_PATH_PREFIXRules/Complications/LifebondedREL_PATH_SUFFIX)                                       | 99   | [Wrathful Spirit](REL_PATH_PREFIXRules/Complications/Wrathful%20SpiritREL_PATH_SUFFIX)                           |
+| 50   | [Lightning Soul](REL_PATH_PREFIXRules/Complications/Lightning%20SoulREL_PATH_SUFFIX)                             | 100  | [Wrongly Imprisoned](REL_PATH_PREFIXRules/Complications/Wrongly%20ImprisonedREL_PATH_SUFFIX)                     |
 
 ###### Complications Table
 
-| d100 | Complication                                                                     |
-| ---- | -------------------------------------------------------------------------------- |
-| 1    | Advanced Studies                                                                 |
-| 2    | [Amnesia](REL_PATH_PREFIXRules/Complications/AmnesiaREL_PATH_SUFFIX)             |
-| 3    | Animal Form                                                                      |
-| 4    | [Antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX)           |
-| 5    | Artifact Bonded                                                                  |
-| 6    | [Bereaved](REL_PATH_PREFIXRules/Complications/BereavedREL_PATH_SUFFIX)           |
-| 7    | [Betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX)         |
-| 8    | Chaos Touched                                                                    |
-| 9    | Chosen One                                                                       |
-| 10   | Consuming Interest                                                               |
-| 11   | Corrupted Mentor                                                                 |
-| 12   | [Coward](REL_PATH_PREFIXRules/Complications/CowardREL_PATH_SUFFIX)               |
-| 13   | Crash Landed                                                                     |
-| 14   | Cult Victim                                                                      |
-| 15   | Curse of Caution                                                                 |
-| 16   | Curse of Immortality                                                             |
-| 17   | Curse of Misfortune                                                              |
-| 18   | Curse of Poverty                                                                 |
-| 19   | Curse of Punishment                                                              |
-| 20   | Curse of Stone                                                                   |
-| 21   | Cursed Weapon                                                                    |
-| 22   | [Disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX)         |
-| 23   | Dragon Dreams                                                                    |
-| 24   | Elemental Inside                                                                 |
-| 25   | [Evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX)     |
-| 26   | [Exile](REL_PATH_PREFIXRules/Complications/ExileREL_PATH_SUFFIX)                 |
-| 27   | Fallen Immortal                                                                  |
-| 28   | Famous Relative                                                                  |
-| 29   | [Feytouched](REL_PATH_PREFIXRules/Complications/FeytouchedREL_PATH_SUFFIX)       |
-| 30   | Fiery Ideal                                                                      |
-| 31   | Fire and Chaos                                                                   |
-| 32   | Following in the Footsteps                                                       |
-| 33   | Forbidden Romance                                                                |
-| 34   | [Frostheart](REL_PATH_PREFIXRules/Complications/FrostheartREL_PATH_SUFFIX)       |
-| 35   | Getting Too Old for This                                                         |
-| 36   | Gnoll-Mauled                                                                     |
-| 37   | [Greening](REL_PATH_PREFIXRules/Complications/GreeningREL_PATH_SUFFIX)           |
-| 38   | [Grifter](REL_PATH_PREFIXRules/Complications/GrifterREL_PATH_SUFFIX)             |
-| 39   | [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX)           |
-| 40   | Guilty Conscience                                                                |
-| 41   | Hawk Rider                                                                       |
-| 42   | Host Body                                                                        |
-| 43   | [Hunted](REL_PATH_PREFIXRules/Complications/HuntedREL_PATH_SUFFIX)               |
-| 44   | [Hunter](REL_PATH_PREFIXRules/Complications/HunterREL_PATH_SUFFIX)               |
-| 45   | [Indebted](REL_PATH_PREFIXRules/Complications/IndebtedREL_PATH_SUFFIX)           |
-| 46   | Infernal Contract                                                                |
-| 47   | Infernal Contract... But, Like, Bad                                              |
-| 48   | Ivory Tower                                                                      |
-| 49   | [Lifebonded](REL_PATH_PREFIXRules/Complications/LifebondedREL_PATH_SUFFIX)       |
-| 50   | Lightning Soul                                                                   |
-| 51   | [Loner](REL_PATH_PREFIXRules/Complications/LonerREL_PATH_SUFFIX)                 |
-| 52   | Lost in Time                                                                     |
-| 53   | Lost Your Head                                                                   |
-| 54   | [Lucky](REL_PATH_PREFIXRules/Complications/LuckyREL_PATH_SUFFIX)                 |
-| 55   | Master Chef                                                                      |
-| 56   | Meddling Butler                                                                  |
-| 57   | [Medium](REL_PATH_PREFIXRules/Complications/MediumREL_PATH_SUFFIX)               |
-| 58   | Medusa Blood                                                                     |
-| 59   | [Misunderstood](REL_PATH_PREFIXRules/Complications/MisunderstoodREL_PATH_SUFFIX) |
-| 60   | [Mundane](REL_PATH_PREFIXRules/Complications/MundaneREL_PATH_SUFFIX)             |
-| 61   | [Outlaw](REL_PATH_PREFIXRules/Complications/OutlawREL_PATH_SUFFIX)               |
-| 62   | [Pirate](REL_PATH_PREFIXRules/Complications/PirateREL_PATH_SUFFIX)               |
-| 63   | [Preacher](REL_PATH_PREFIXRules/Complications/PreacherREL_PATH_SUFFIX)           |
-| 64   | Primordial Sickness                                                              |
-| 65   | Prisoner of the Synlirii                                                         |
-| 66   | Promising Apprentice                                                             |
-| 67   | Psychic Eruption                                                                 |
-| 68   | Raised by Beasts                                                                 |
-| 69   | [Refugee](REL_PATH_PREFIXRules/Complications/RefugeeREL_PATH_SUFFIX)             |
-| 70   | [Rival](REL_PATH_PREFIXRules/Complications/RivalREL_PATH_SUFFIX)                 |
-| 71   | Rogue [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)               |
-| 72   | [Runaway](REL_PATH_PREFIXRules/Complications/RunawayREL_PATH_SUFFIX)             |
-| 73   | Searching for a Cure                                                             |
-| 74   | Secret Identity                                                                  |
-| 75   | Secret Twin                                                                      |
-| 76   | Self-Taught                                                                      |
-| 77   | Sewer Folk                                                                       |
-| 78   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Born                |
-| 79   | Shared Spirit                                                                    |
-| 80   | Shattered Legacy                                                                 |
-| 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)     |
-| 82   | Sibling's Shield                                                                 |
-| 83   | Silent Sentinel                                                                  |
-| 84   | Slight Case of Lycanthropy                                                       |
-| 85   | Stolen Face                                                                      |
-| 86   | Strange Inheritance                                                              |
-| 87   | Stripped of Rank                                                                 |
-| 88   | Thrill Seeker                                                                    |
-| 89   | Vampire Scion                                                                    |
-| 90   | Voice in Your Head                                                               |
-| 91   | Vow of Duty                                                                      |
-| 92   | Vow of Honesty                                                                   |
-| 93   | Waking Dreams                                                                    |
-| 94   | War Dog Collar                                                                   |
-| 95   | War of Assassins                                                                 |
-| 96   | [Ward](REL_PATH_PREFIXRules/Complications/WardREL_PATH_SUFFIX)                   |
-| 97   | [Waterborn](REL_PATH_PREFIXRules/Complications/WaterbornREL_PATH_SUFFIX)         |
-| 98   | [Wodewalker](REL_PATH_PREFIXRules/Complications/WodewalkerREL_PATH_SUFFIX)       |
-| 99   | Wrathful Spirit                                                                  |
-| 100  | Wrongly Imprisoned                                                               |
+| d100 | Complication                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------- |
+| 1    | [Advanced Studies](REL_PATH_PREFIXRules/Complications/Advanced%20StudiesREL_PATH_SUFFIX)                         |
+| 2    | [Amnesia](REL_PATH_PREFIXRules/Complications/AmnesiaREL_PATH_SUFFIX)                                             |
+| 3    | [Animal Form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX)                                   |
+| 4    | [Antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX)                                           |
+| 5    | [Artifact Bonded](REL_PATH_PREFIXRules/Complications/Artifact%20BondedREL_PATH_SUFFIX)                           |
+| 6    | [Bereaved](REL_PATH_PREFIXRules/Complications/BereavedREL_PATH_SUFFIX)                                           |
+| 7    | [Betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX)                                         |
+| 8    | [Chaos Touched](REL_PATH_PREFIXRules/Complications/Chaos%20TouchedREL_PATH_SUFFIX)                               |
+| 9    | [Chosen One](REL_PATH_PREFIXRules/Complications/Chosen%20OneREL_PATH_SUFFIX)                                     |
+| 10   | [Consuming Interest](REL_PATH_PREFIXRules/Complications/Consuming%20InterestREL_PATH_SUFFIX)                     |
+| 11   | [Corrupted Mentor](REL_PATH_PREFIXRules/Complications/Corrupted%20MentorREL_PATH_SUFFIX)                         |
+| 12   | [Coward](REL_PATH_PREFIXRules/Complications/CowardREL_PATH_SUFFIX)                                               |
+| 13   | [Crash Landed](REL_PATH_PREFIXRules/Complications/Crash%20LandedREL_PATH_SUFFIX)                                 |
+| 14   | [Cult Victim](REL_PATH_PREFIXRules/Complications/Cult%20VictimREL_PATH_SUFFIX)                                   |
+| 15   | [Curse of Caution](REL_PATH_PREFIXRules/Complications/Curse%20of%20CautionREL_PATH_SUFFIX)                       |
+| 16   | [Curse of Immortality](REL_PATH_PREFIXRules/Complications/Curse%20of%20ImmortalityREL_PATH_SUFFIX)               |
+| 17   | [Curse of Misfortune](REL_PATH_PREFIXRules/Complications/Curse%20of%20MisfortuneREL_PATH_SUFFIX)                 |
+| 18   | [Curse of Poverty](REL_PATH_PREFIXRules/Complications/Curse%20of%20PovertyREL_PATH_SUFFIX)                       |
+| 19   | [Curse of Punishment](REL_PATH_PREFIXRules/Complications/Curse%20of%20PunishmentREL_PATH_SUFFIX)                 |
+| 20   | [Curse of Stone](REL_PATH_PREFIXRules/Complications/Curse%20of%20StoneREL_PATH_SUFFIX)                           |
+| 21   | [Cursed Weapon](REL_PATH_PREFIXRules/Complications/Cursed%20WeaponREL_PATH_SUFFIX)                               |
+| 22   | [Disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX)                                         |
+| 23   | [Dragon Dreams](REL_PATH_PREFIXRules/Complications/Dragon%20DreamsREL_PATH_SUFFIX)                               |
+| 24   | [Elemental Inside](REL_PATH_PREFIXRules/Complications/Elemental%20InsideREL_PATH_SUFFIX)                         |
+| 25   | [Evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX)                                     |
+| 26   | [Exile](REL_PATH_PREFIXRules/Complications/ExileREL_PATH_SUFFIX)                                                 |
+| 27   | [Fallen Immortal](REL_PATH_PREFIXRules/Complications/Fallen%20ImmortalREL_PATH_SUFFIX)                           |
+| 28   | [Famous Relative](REL_PATH_PREFIXRules/Complications/Famous%20RelativeREL_PATH_SUFFIX)                           |
+| 29   | [Feytouched](REL_PATH_PREFIXRules/Complications/FeytouchedREL_PATH_SUFFIX)                                       |
+| 30   | [Fiery Ideal](REL_PATH_PREFIXRules/Complications/Fiery%20IdealREL_PATH_SUFFIX)                                   |
+| 31   | [Fire and Chaos](REL_PATH_PREFIXRules/Complications/Fire%20and%20ChaosREL_PATH_SUFFIX)                           |
+| 32   | [Following in the Footsteps](REL_PATH_PREFIXRules/Complications/Following%20in%20the%20FootstepsREL_PATH_SUFFIX) |
+| 33   | [Forbidden Romance](REL_PATH_PREFIXRules/Complications/Forbidden%20RomanceREL_PATH_SUFFIX)                       |
+| 34   | [Frostheart](REL_PATH_PREFIXRules/Complications/FrostheartREL_PATH_SUFFIX)                                       |
+| 35   | [Getting Too Old for This](REL_PATH_PREFIXRules/Complications/Getting%20Too%20Old%20for%20ThisREL_PATH_SUFFIX)   |
+| 36   | Gnoll-Mauled                                                                                                     |
+| 37   | [Greening](REL_PATH_PREFIXRules/Complications/GreeningREL_PATH_SUFFIX)                                           |
+| 38   | [Grifter](REL_PATH_PREFIXRules/Complications/GrifterREL_PATH_SUFFIX)                                             |
+| 39   | [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX)                                           |
+| 40   | [Guilty Conscience](REL_PATH_PREFIXRules/Complications/Guilty%20ConscienceREL_PATH_SUFFIX)                       |
+| 41   | [Hawk Rider](REL_PATH_PREFIXRules/Complications/Hawk%20RiderREL_PATH_SUFFIX)                                     |
+| 42   | [Host Body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX)                                       |
+| 43   | [Hunted](REL_PATH_PREFIXRules/Complications/HuntedREL_PATH_SUFFIX)                                               |
+| 44   | [Hunter](REL_PATH_PREFIXRules/Complications/HunterREL_PATH_SUFFIX)                                               |
+| 45   | [Indebted](REL_PATH_PREFIXRules/Complications/IndebtedREL_PATH_SUFFIX)                                           |
+| 46   | [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX)                       |
+| 47   | [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX)... But, Like, Bad     |
+| 48   | [Ivory Tower](REL_PATH_PREFIXRules/Complications/Ivory%20TowerREL_PATH_SUFFIX)                                   |
+| 49   | [Lifebonded](REL_PATH_PREFIXRules/Complications/LifebondedREL_PATH_SUFFIX)                                       |
+| 50   | [Lightning Soul](REL_PATH_PREFIXRules/Complications/Lightning%20SoulREL_PATH_SUFFIX)                             |
+| 51   | [Loner](REL_PATH_PREFIXRules/Complications/LonerREL_PATH_SUFFIX)                                                 |
+| 52   | [Lost in Time](REL_PATH_PREFIXRules/Complications/Lost%20in%20TimeREL_PATH_SUFFIX)                               |
+| 53   | [Lost Your Head](REL_PATH_PREFIXRules/Complications/Lost%20Your%20HeadREL_PATH_SUFFIX)                           |
+| 54   | [Lucky](REL_PATH_PREFIXRules/Complications/LuckyREL_PATH_SUFFIX)                                                 |
+| 55   | [Master Chef](REL_PATH_PREFIXRules/Complications/Master%20ChefREL_PATH_SUFFIX)                                   |
+| 56   | [Meddling Butler](REL_PATH_PREFIXRules/Complications/Meddling%20ButlerREL_PATH_SUFFIX)                           |
+| 57   | [Medium](REL_PATH_PREFIXRules/Complications/MediumREL_PATH_SUFFIX)                                               |
+| 58   | [Medusa Blood](REL_PATH_PREFIXRules/Complications/Medusa%20BloodREL_PATH_SUFFIX)                                 |
+| 59   | [Misunderstood](REL_PATH_PREFIXRules/Complications/MisunderstoodREL_PATH_SUFFIX)                                 |
+| 60   | [Mundane](REL_PATH_PREFIXRules/Complications/MundaneREL_PATH_SUFFIX)                                             |
+| 61   | [Outlaw](REL_PATH_PREFIXRules/Complications/OutlawREL_PATH_SUFFIX)                                               |
+| 62   | [Pirate](REL_PATH_PREFIXRules/Complications/PirateREL_PATH_SUFFIX)                                               |
+| 63   | [Preacher](REL_PATH_PREFIXRules/Complications/PreacherREL_PATH_SUFFIX)                                           |
+| 64   | [Primordial Sickness](REL_PATH_PREFIXRules/Complications/Primordial%20SicknessREL_PATH_SUFFIX)                   |
+| 65   | [Prisoner of the Synlirii](REL_PATH_PREFIXRules/Complications/Prisoner%20of%20the%20SynliriiREL_PATH_SUFFIX)     |
+| 66   | [Promising Apprentice](REL_PATH_PREFIXRules/Complications/Promising%20ApprenticeREL_PATH_SUFFIX)                 |
+| 67   | Psychic Eruption                                                                                                 |
+| 68   | [Raised by Beasts](REL_PATH_PREFIXRules/Complications/Raised%20by%20BeastsREL_PATH_SUFFIX)                       |
+| 69   | [Refugee](REL_PATH_PREFIXRules/Complications/RefugeeREL_PATH_SUFFIX)                                             |
+| 70   | [Rival](REL_PATH_PREFIXRules/Complications/RivalREL_PATH_SUFFIX)                                                 |
+| 71   | Rogue [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)                                               |
+| 72   | [Runaway](REL_PATH_PREFIXRules/Complications/RunawayREL_PATH_SUFFIX)                                             |
+| 73   | [Searching for a Cure](REL_PATH_PREFIXRules/Complications/Searching%20for%20a%20CureREL_PATH_SUFFIX)             |
+| 74   | [Secret Identity](REL_PATH_PREFIXRules/Complications/Secret%20IdentityREL_PATH_SUFFIX)                           |
+| 75   | [Secret Twin](REL_PATH_PREFIXRules/Complications/Secret%20TwinREL_PATH_SUFFIX)                                   |
+| 76   | Self-Taught                                                                                                      |
+| 77   | [Sewer Folk](REL_PATH_PREFIXRules/Complications/Sewer%20FolkREL_PATH_SUFFIX)                                     |
+| 78   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Born                                                |
+| 79   | [Shared Spirit](REL_PATH_PREFIXRules/Complications/Shared%20SpiritREL_PATH_SUFFIX)                               |
+| 80   | [Shattered Legacy](REL_PATH_PREFIXRules/Complications/Shattered%20LegacyREL_PATH_SUFFIX)                         |
+| 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)                                     |
+| 82   | Sibling's Shield                                                                                                 |
+| 83   | [Silent Sentinel](REL_PATH_PREFIXRules/Complications/Silent%20SentinelREL_PATH_SUFFIX)                           |
+| 84   | [Slight Case of Lycanthropy](REL_PATH_PREFIXRules/Complications/Slight%20Case%20of%20LycanthropyREL_PATH_SUFFIX) |
+| 85   | [Stolen Face](REL_PATH_PREFIXRules/Complications/Stolen%20FaceREL_PATH_SUFFIX)                                   |
+| 86   | [Strange Inheritance](REL_PATH_PREFIXRules/Complications/Strange%20InheritanceREL_PATH_SUFFIX)                   |
+| 87   | [Stripped of Rank](REL_PATH_PREFIXRules/Complications/Stripped%20of%20RankREL_PATH_SUFFIX)                       |
+| 88   | [Thrill Seeker](REL_PATH_PREFIXRules/Complications/Thrill%20SeekerREL_PATH_SUFFIX)                               |
+| 89   | [Vampire Scion](REL_PATH_PREFIXRules/Complications/Vampire%20ScionREL_PATH_SUFFIX)                               |
+| 90   | [Voice in Your Head](REL_PATH_PREFIXRules/Complications/Voice%20in%20Your%20HeadREL_PATH_SUFFIX)                 |
+| 91   | [Vow of Duty](REL_PATH_PREFIXRules/Complications/Vow%20of%20DutyREL_PATH_SUFFIX)                                 |
+| 92   | [Vow of Honesty](REL_PATH_PREFIXRules/Complications/Vow%20of%20HonestyREL_PATH_SUFFIX)                           |
+| 93   | [Waking Dreams](REL_PATH_PREFIXRules/Complications/Waking%20DreamsREL_PATH_SUFFIX)                               |
+| 94   | [War Dog Collar](REL_PATH_PREFIXRules/Complications/War%20Dog%20CollarREL_PATH_SUFFIX)                           |
+| 95   | [War of Assassins](REL_PATH_PREFIXRules/Complications/War%20of%20AssassinsREL_PATH_SUFFIX)                       |
+| 96   | [Ward](REL_PATH_PREFIXRules/Complications/WardREL_PATH_SUFFIX)                                                   |
+| 97   | [Waterborn](REL_PATH_PREFIXRules/Complications/WaterbornREL_PATH_SUFFIX)                                         |
+| 98   | [Wodewalker](REL_PATH_PREFIXRules/Complications/WodewalkerREL_PATH_SUFFIX)                                       |
+| 99   | [Wrathful Spirit](REL_PATH_PREFIXRules/Complications/Wrathful%20SpiritREL_PATH_SUFFIX)                           |
+| 100  | [Wrongly Imprisoned](REL_PATH_PREFIXRules/Complications/Wrongly%20ImprisonedREL_PATH_SUFFIX)                     |
 
 #### Advanced Studies
 
@@ -18329,19 +18329,19 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. If your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
-**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your animal form. Once the Director has done so, they can't do so again until you have finished a respite.
+**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX). Once the Director has done so, they can't do so again until you have finished a respite.
 
 #### Antihero
 
 You used to be a villain. You're (mostly) reformed now, but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go back. You've made too many enemies on the other side.
 
-**Benefit:** You have 3 antihero tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 antihero token in place of 1 Heroic Resource. Whenever you have fewer than 3 antihero tokens and you would earn a hero token for your party through your deeds, you instead regain 1 antihero token.
+**Benefit:** You have 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) token.
 
-**Drawback:** While you have fewer than 3 antihero tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
+**Drawback:** While you have fewer than 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
 
 #### Artifact Bonded
 
@@ -18436,7 +18436,7 @@ You used to flit around the stars in your own ship. But an ugly run-in with a pi
 
 **Benefit:** You have the Timescape skill (from the lore skill group). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that damage type.
 
-**Drawback:** You take a bane on any test made to know about anything related to the world where you crash landed.
+**Drawback:** You take a bane on any test made to know about anything related to the world where you [crash landed](REL_PATH_PREFIXRules/Complications/Crash%20LandedREL_PATH_SUFFIX).
 
 #### Cult Victim
 
@@ -18500,7 +18500,7 @@ When you were young, you found or were given a magic weapon. Since then, you've 
 
 #### Disgraced
 
-You're a disgraced member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
+You're a [disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX) member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
 
 **Benefit:** You earn 1 Renown, and you have one skill of your choice from the interpersonal or intrigue skill group.
 
@@ -18524,7 +18524,7 @@ When an evil mage threatened someone you loved, you blocked that foe's summoning
 
 #### Evanesceria
 
-You have contracted a rare magical disease called evanesceria. From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
+You have contracted a rare magical disease called [evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX). From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
 
 **Benefit:** At the start of any combat round, you can attempt to absent yourself from reality by rolling a d10. On a 6 or higher, you disappear, then reappear in the space you left or the nearest unoccupied space of your choice when you take your turn. You can't attempt to absent yourself again until you earn 1 or more Victories.
 
@@ -18548,7 +18548,7 @@ You used to be an immortal creature, dispensing justice and doing the bidding of
 
 #### Famous Relative
 
-Sure, you're a promising young hero in your own right—but people always ask you about your famous relative. Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
+Sure, you're a promising young hero in your own right—but people always ask you about your [famous relative](REL_PATH_PREFIXRules/Complications/Famous%20RelativeREL_PATH_SUFFIX). Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
 
 **Benefit:** You have a piece of magic jewelry such as a signet ring. As a maneuver, you can use this item to summon your relative to your aid. Your relative starts with a Renown of 10 but otherwise has the same statistics you do. They make power rolls with an edge but don't gain the benefits of any of your treasures. Your relative does their best to help you out of the current perilous situation, disappearing when the situation is resolved or after 1 hour. Once you summon your relative, you can't do so again until you gain a level.
 
@@ -18586,15 +18586,15 @@ Your personal idol was a mighty hero, and you have modeled yourself after them. 
 
 #### Forbidden Romance
 
-You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, betrothed to another, or has been driven from your side, you are fated to always be apart.
+You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, [betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX) to another, or has been driven from your side, you are fated to always be apart.
 
-**Benefit:** You can secretly call on your betrothed for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
+**Benefit:** You can secretly call on your [betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX) for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
 
 **Drawback:** When your lover is in trouble, they might call on you for help. But if your relationship is discovered, the circumstances that keep you apart will be made worse.
 
 #### Frostheart
 
-At the edge of the world, you were lost in a winter storm and presumed dead. But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [presumed dead](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Presumed%20DeadREL_PATH_SUFFIX). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
 
@@ -18662,13 +18662,13 @@ You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](#p
 
 "Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!"
 
-**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your host body follows all the usual rules for a character and is considered to be alive. At any time while your host body is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new host body, provided the body belongs to a playable ancestry. When you do so, your original host body dies if it was alive. Your new host body gains all your statistics except size, ancestry traits, and other statistics related to your former host body's ancestry, which you instead gain from your new host body. When you inhabit a new host body, you start with 1 Stamina and can immediately spend a Recovery.
+**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX), provided the body belongs to a playable ancestry. When you do so, your original [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX) dies if it was alive. Your new [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX) gains all your statistics except size, ancestry traits, and other statistics related to your former [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX)'s ancestry, which you instead gain from your new [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX). When you inhabit a new [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX), you start with 1 Stamina and can immediately spend a Recovery.
 
 **Drawback:** You have fire weakness 5. Additionally, you take a bane on any test made to read a humanoid creature's emotions or body language.
 
 #### Hunted
 
-You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a revenant, or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
+You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX), or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
 
 **Benefit:** You have one skill of your choice from the intrigue skill group. Additionally, whenever one or more creatures are pursuing you, you can lay low as a respite activity. When you do so, anyone pursuing you loses track of your and your party's location and must start their search again.
 
@@ -18702,11 +18702,11 @@ You made a deal (perhaps unknowingly) with an archdevil that has tied you to tha
 
 **Benefit:** Whenever you are present for a battle in which both sides have creatures who aren't surprised, your side determines who goes first if the d10 roll is a 4 or higher (see [Combat Round](#page-279-1) in [Chapter 10: Combat](#page-288-0)).
 
-**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends devils after you and those you care about.
+**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) after you and those you care about.
 
 #### Infernal Contract... But, Like, Bad
 
-You made a deal with a devil. Not a very good deal, because it wasn't a very good devil. It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the devil to void the deal.
+You made a deal with a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX). Not a very good deal, because it wasn't a very good [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX). It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) to void the deal.
 
 **Benefit:** Choose one of the following benefits:
 
@@ -18734,7 +18734,7 @@ In a sinister ritual, your soul has been bound to that of another creature. This
 
 #### Lightning Soul
 
-You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful elementalist, but you absorbed the lightning into your body. It's always there now, simmering under the surface.
+You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX), but you absorbed the lightning into your body. It's always there now, simmering under the surface.
 
 **Benefit:** Whenever you regain Stamina in combat, you gain 1 surge. Whenever you spend a surge to deal extra damage, you can make that extra damage into lightning damage.
 
@@ -19003,11 +19003,11 @@ You're secretly important—but it's not safe for your true identity to be known
 
 **Benefit:** You have a skill of your choice from the intrigue skill group. Additionally, you can resume your true identity temporarily. While in your true identity, your Renown and Wealth are treated as 2 higher than usual, and you might gain other benefits in consultation with the Director.
 
-**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your secret identity for 1 day.
+**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](REL_PATH_PREFIXRules/Complications/Secret%20IdentityREL_PATH_SUFFIX) for 1 day.
 
 #### Secret Twin
 
-You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your secret twin had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
+You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your [secret twin](REL_PATH_PREFIXRules/Complications/Secret%20TwinREL_PATH_SUFFIX) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
 
 **Benefit:** You have a 1st-echelon trinket of your choice. This was a signature treasure of your twin, and has their name or sigil written, sewn, or emblazoned on it somewhere.
 
@@ -19138,7 +19138,7 @@ A vampire has bitten you. You're not undead—or not yet, anyway—but your conn
 
 #### Voice in Your Head
 
-You occasionally hear a voice in your head, giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
+You occasionally hear a [voice in your head](REL_PATH_PREFIXRules/Complications/Voice%20in%20Your%20HeadREL_PATH_SUFFIX), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
 
 **Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
 
@@ -19260,7 +19260,7 @@ When you want your hero to rifle through a desk and locate a specific document, 
 
 The Director should ask a player to make a test only when the player's hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won't grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can stand up to either try again or walk around the wall. As such, no test is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a test to determine what happens.
 
-The advancement of a story shouldn't be halted by failing a test. For instance, the heroes might need to know the color of a dwarf king's crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful Reason test allows the heroes to recall that lore, but the test shouldn't be their only option to get the information. If the test fails, perhaps the heroes need to go to a flying library to do research, or they might be able to delve into a ruin to find the ancient monarch's portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
+The advancement of a story shouldn't be halted by failing a test. For instance, the heroes might need to know the color of a [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) king's crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful Reason test allows the heroes to recall that lore, but the test shouldn't be their only option to get the information. If the test fails, perhaps the heroes need to go to a flying library to do research, or they might be able to delve into a ruin to find the ancient monarch's portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
 
 #### It Just Works!
 
@@ -19286,7 +19286,7 @@ Though the Director can decide to call for tests in any circumstances, a number 
 
 ##### Might Tests
 
-You make a Might test whenever a risky task calls for the use of physical strength. Might tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
+You make a Might test whenever a risky task calls for the use of physical strength. Might tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, [swimming](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) against a mighty current, and other feats of physical power.
 
 ##### Agility Tests
 
@@ -19395,7 +19395,7 @@ When a hero rolls a failure without a consequence, the Director can offer to let
 
 ##### Success With a Consequence
 
-If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
+If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
 
 Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
 
@@ -19409,7 +19409,7 @@ If you succeed on a test without consequence or reward, you simply achieve whate
 
 If you succeed on a test with a reward, you accomplish whatever you set out to do. But you also gain a little something extra, in the form of momentum or luck that makes the immediate future easier for you or your friends.
 
-The Director determines the reward for a success, which is most often related to the task at hand. For instance, if a hero succeeds with a reward while climbing a wall, they might find a ladder at the top they can lower so that any allies climbing up after them can do so without needing to make a test. A hero trying to sneak by cultists who succeeds with a reward might be able to dose the cultists' nearby water barrel with sleeping poison as they pass by unseen. Succeeding with a reward while bribing a prison guard could mean that the guard unlocks a door for the hero in addition to forgetting they were ever there.
+The Director determines the reward for a success, which is most often related to the task at hand. For instance, if a hero succeeds with a reward while [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) a wall, they might find a ladder at the top they can lower so that any allies [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) up after them can do so without needing to make a test. A hero trying to sneak by cultists who succeeds with a reward might be able to dose the cultists' nearby water barrel with sleeping poison as they pass by unseen. Succeeding with a reward while bribing a prison guard could mean that the guard unlocks a door for the hero in addition to forgetting they were ever there.
 
 As with consequences, the reward that comes with a success doesn't need to be immediate or apparent. For example, a hero succeeds with a reward on an easy test made to cheat at a high-stakes game of cards with a noble. Not only does the hero win the game, but the Director decides that their reward comes from a servant watching the game who's impressed with the character's performance. After the game, the servant approaches the hero, offering magic from the noble's private stash in congratulations and admiration.
 
@@ -19519,15 +19519,15 @@ Sometimes you won't have a skill that applies to a test. That's okay! If your ch
 
 Although certain skills are often paired with one characteristic more than others, a skill can apply to a test made using any characteristic that makes sense. The Director has the final say on which characteristic is used to complete a task, and can call for a different characteristic based on the circumstances.
 
-For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The Intimidate skill can apply to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The Climb skill applies to both of these tests.
+For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The Intimidate skill can apply to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill applies to both of these tests.
 
 #### Many Specific Skills
 
-*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate Climb, Jump, Lift, and Swim skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
+*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), [jumping](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), [swimming](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), and lifting heavy objects, your character might use separate [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), Lift, and [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
 
 Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
-Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
+Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) who has a gymnastic background in [jumping](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
 The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my Climb skill for a +2 bonus to my Presence test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
@@ -19539,7 +19539,7 @@ The rules for skills allow for them to be flexibly applied to any test that is a
 <!-- -->
 > **Are All Skills Equal?**
 >
-> When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the Swim skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: Making a Hero).
+> When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: Making a Hero).
 
 #### Skill Groups
 
@@ -19549,9 +19549,9 @@ Skills are broken down into five skill groups: crafting, exploration, interperso
 
 Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
 
-Rewards for tests made with crafting skills typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
+Rewards for tests made with [crafting skills](REL_PATH_PREFIXRules/Skills/Crafting%20SkillsREL_PATH_SUFFIX) typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
 
-Consequences for tests made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
+Consequences for tests made with [crafting skills](REL_PATH_PREFIXRules/Skills/Crafting%20SkillsREL_PATH_SUFFIX) typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
 
 ###### Crafting Skills Table
 
@@ -19572,32 +19572,32 @@ Consequences for tests made with crafting skills typically include wasting rare 
 
 Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
 
-Rewards for tests made with exploration skills typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
+Rewards for tests made with [exploration skills](REL_PATH_PREFIXRules/Skills/Exploration%20SkillsREL_PATH_SUFFIX) typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
 
-Consequences for tests made with exploration skills include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
+Consequences for tests made with [exploration skills](REL_PATH_PREFIXRules/Skills/Exploration%20SkillsREL_PATH_SUFFIX) include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
 
 ###### Exploration Skills Table
 
-| Skill      | Use                                                             |
-| ---------- | --------------------------------------------------------------- |
-| Climb      | Move up vertical surfaces                                       |
-| Drive      | Control vehicles                                                |
-| Endurance  | Remain engaged in strenuous activity over a long period of time |
-| Gymnastics | Move across unsteady or narrow surfaces; tumble                 |
-| Heal       | Use mundane first aid                                           |
-| Jump       | Leap vertical and horizontal distances                          |
-| Lift       | Pick up, carry, and throw heavy objects                         |
-| Navigate   | Read a map and travel without becoming lost                     |
-| Ride       | Ride and control a nonsapient mount, such as a horse            |
-| Swim       | Move through deep liquid                                        |
+| Skill                                                                   | Use                                                             |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) | Move up vertical surfaces                                       |
+| Drive                                                                   | Control vehicles                                                |
+| Endurance                                                               | Remain engaged in strenuous activity over a long period of time |
+| Gymnastics                                                              | Move across unsteady or narrow surfaces; tumble                 |
+| Heal                                                                    | Use mundane first aid                                           |
+| [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX)               | Leap vertical and horizontal distances                          |
+| Lift                                                                    | Pick up, carry, and throw heavy objects                         |
+| Navigate                                                                | Read a map and travel without becoming lost                     |
+| Ride                                                                    | Ride and control a nonsapient mount, such as a horse            |
+| [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)  | Move through deep liquid                                        |
 
 ##### Interpersonal Skills
 
-Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
+Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use [interpersonal skills](REL_PATH_PREFIXRules/Skills/Interpersonal%20SkillsREL_PATH_SUFFIX) when you attempt to influence creatures who have emotions and who can understand you.
 
-Rewards for tests made with interpersonal skills typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
+Rewards for tests made with [interpersonal skills](REL_PATH_PREFIXRules/Skills/Interpersonal%20SkillsREL_PATH_SUFFIX) typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
 
-Consequences for tests made with interpersonal skills include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
+Consequences for tests made with [interpersonal skills](REL_PATH_PREFIXRules/Skills/Interpersonal%20SkillsREL_PATH_SUFFIX) include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
 
 ###### Interpersonal Skills Table
 
@@ -19623,7 +19623,7 @@ Skills from the intrigue skill group are used in tasks centered around investiga
 
 Rewards for tests made with skills from this group typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, discovering helpful information in addition to what you set out to learn, and performing an extra bit of clandestine activity in addition to what you set out to do.
 
-Consequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
+Consequences for tests made with [intrigue skills](REL_PATH_PREFIXRules/Skills/Intrigue%20SkillsREL_PATH_SUFFIX) include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
 
 ###### Intrigue Skills Table
 
@@ -19646,9 +19646,9 @@ Consequences for tests made with intrigue skills include getting caught in the a
 
 Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
 
-Rewards for tests made with lore skills typically include learning an extra piece of useful information.
+Rewards for tests made with [lore skills](REL_PATH_PREFIXRules/Skills/Lore%20SkillsREL_PATH_SUFFIX) typically include learning an extra piece of useful information.
 
-Consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the [Optional Rule: Secret Reactive Tests](#page-267-3) sidebar earlier in this chapter).
+Consequences for tests made with [lore skills](REL_PATH_PREFIXRules/Skills/Lore%20SkillsREL_PATH_SUFFIX) typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the [Optional Rule: Secret Reactive Tests](#page-267-3) sidebar earlier in this chapter).
 
 ###### Lore Skills Table
 
@@ -19686,7 +19686,7 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
 
-**Alyssa (playing Jorn, a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the Climb skill.*
+**Alyssa (playing Jorn, a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill.*
 
 **Director:** *For sure. Okay, roll it up.*
 
@@ -19922,7 +19922,7 @@ When the test begins, the Director sets the scene. They tell the players that th
 
 Urdoncara, a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
 
-Jorn, a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), wants to make a Reason test using the Climb skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
+Jorn, a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), wants to make a Reason test using the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
 
 Karrel, an [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
 
@@ -20064,7 +20064,7 @@ Boring stuff like opening an unlocked door, picking up an arrow from the ground,
 
 At the Director's discretion, circumstances could make something that is typically boring more impactful and exciting. For instance, if you need to pick a magic arrow up off the ground during a violent earthquake, what would otherwise be a free maneuver could require a maneuver or a main action to accomplish.
 
-Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) ally decked out in the Shining Armor kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
+Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) ally decked out in the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
 
 Any effect that prevents you from using maneuvers also prevents you from using free maneuvers.
 
@@ -20106,31 +20106,31 @@ Creatures in the game can use eight types of movement: [walk](REL_PATH_PREFIXRul
 
 ##### Walk
 
-Walking is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
+[Walking](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX) is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
 ##### Burrow
 
-A creature who has "burrow" in their speed entry, or who gains the temporary ability to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) says otherwise. Similarly, a burrowing creature doesn't leave a tunnel unless the rules say so.
+A creature who has "burrow" in their speed entry, or who gains the temporary ability to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) says otherwise. Similarly, a [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature doesn't leave a tunnel unless the rules say so.
 
 ###### Dig Maneuver
 
 It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a burrowing creature has a creature who is not unconscious [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature has a creature who is not unconscious [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ###### Targeting Burrowing Creatures
 
-If you are on the ground, you have line of effect to a burrowing creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The burrowing creature gains the benefit of cover from you.
+If you are on the ground, you have line of effect to a [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature gains the benefit of cover from you.
 
-If you are completely beneath the ground while burrowing, you don't have line of effect to any creature on the surface unless a rule states otherwise.
+If you are completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), you don't have line of effect to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while burrowing and are adjacent to another creature who is burrowing, you have line of effect to that creature, though you both have cover from each other.
+If you are completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) and are adjacent to another creature who is [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), you have line of effect to that creature, though you both have cover from each other.
 
-You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while burrowing.
+You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX).
 
 ###### Non-Burrowing Creatures
 
-If you are on the ground and adjacent to a creature who is beneath the ground while burrowing, you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+If you are on the ground and adjacent to a creature who is beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
 
 If a creature who can't [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
 
@@ -20148,13 +20148,13 @@ If a creature who can't [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SU
 
 ###### Burrowing Forced Movement
 
-While a creature who is completely beneath the ground while burrowing is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as if it were air.
+While a creature who is completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as if it were air.
 
 ##### Climb or Swim
 
 A creature who has "[climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) in liquid at full speed.
 
-Creatures without those types of movement can still [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
+Creatures without those types of movement can still [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) when a rule allows them to move, but each square of [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swimming](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) costs 2 squares of movement. If a surface is difficult to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
 ###### Climbing Other Creatures
 
@@ -20174,7 +20174,7 @@ While you [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX
 - **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
 - **17+:** You continue to hold on to the creature.
 
-If you are knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) while climbing or riding a creature, you fall and land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) in an adjacent space of your choice, taking damage as usual from the fall.
+If you are knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) while [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or riding a creature, you fall and land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) in an adjacent space of your choice, taking damage as usual from the fall.
 
 ##### Jump
 
@@ -20196,7 +20196,7 @@ If you are [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) (see [C
 
 ##### Fly
 
-A creature who has "fly" in their speed entry, or who gains the temporary ability to [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), can move through the air vertically or horizontally at full speed and remain in midair. If a flying creature is knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
+A creature who has "fly" in their speed entry, or who gains the temporary ability to [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), can move through the air vertically or horizontally at full speed and remain in midair. If a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) creature is knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
 
 ##### Hover
 
@@ -20204,17 +20204,17 @@ A creature who has "hover" in their speed entry (most commonly alongside "[fly](
 
 ##### Teleport
 
-When a creature teleports, they move from one space to another space instantaneously. The following rules apply to teleporting:
+When a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), they move from one space to another space instantaneously. The following rules apply to [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX):
 
-- Teleporting doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.
-- When a creature teleports, they bypass any obstacles between the space they leave and their destination space.
-- A creature teleporting themself must have line of effect to their destination space. A creature teleporting another creature must have line of effect from the space the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature leaves and to their destination space.
-- A teleporting creature's destination space can't be occupied by another creature or object.
+- [Teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.
+- When a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), they bypass any obstacles between the space they leave and their destination space.
+- A creature [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) themself must have line of effect to their destination space. A creature [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) another creature must have line of effect from the space the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature leaves and to their destination space.
+- A [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature's destination space can't be occupied by another creature or object.
 - The effect that lets a creature [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) indicates how far they can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). That distance can be greater than the creature's speed.
 - If a creature can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) as part of their usual movement, they can use the Advance move action to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) a number of squares up to their usual speed, unmodified by conditions or effects.
-- If a creature teleports while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they can be standing when they reach their destination space provided they are able to stand. If a [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature is [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) by another creature, it is up to that creature whether the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature remains [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or stands if they are able.
+- If a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they can be standing when they reach their destination space provided they are able to stand. If a [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature is [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) by another creature, it is up to that creature whether the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature remains [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or stands if they are able.
 - If you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) while affected by the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) or [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) conditions, those conditions end for you.
-- When a creature teleports, they must leave the space where they start and enter a new space. A creature can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to and from the same space.
+- When a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), they must leave the space where they start and enter a new space. A creature can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to and from the same space.
 
 #### Falling
 
@@ -20242,7 +20242,7 @@ Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage 
 
 Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an edge on the power roll against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
 
-A creature can gain this benefit while climbing only if they have "climb" in their speed entry or can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving.
+A creature can gain this benefit while [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) only if they have "climb" in their speed entry or can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving.
 
 #### Forced Movement
 
@@ -20265,7 +20265,7 @@ Forced movement ignores difficult terrain and never provokes opportunity attacks
 
 If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
-If a creature who can't [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is flying is always a vertical forced move, whether or not the effect specifies it.
+If a creature who can't [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is always a vertical forced move, whether or not the effect specifies it.
 
 Though you can't freely push, pull, or slide a target up and down unless that forced movement specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
@@ -20466,7 +20466,7 @@ When a creature takes the Defend main action, ability rolls made against them ha
 
 #### Free Strike
 
-A creature can use this main action to make a free strike (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a flying foe.
+A creature can use this main action to make a free strike (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) foe.
 
 #### Heal
 
@@ -20705,11 +20705,11 @@ The enemy holds a strategically important position and the heroes want it. The e
 
 ##### Stop the Action
 
-Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the devil suddenly becomes the heroes' new objective!
+Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) suddenly becomes the heroes' new objective!
 
 ##### Complete the Action
 
-This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a time raider boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few time raiders actually aboard.
+This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) actually aboard.
 
 #### Dramatic Finish
 
@@ -21056,20 +21056,20 @@ If a hero has enough Renown for their score to influence an NPC during negotiati
 
 ###### NPCs and Impresion Table
 
-| Impression | Example NPC                                                 |
-| ---------- | ----------------------------------------------------------- |
-| 1          | Brigand leader, commoner, shop owner                        |
-| 2          | Knight, local guildmaster, professor                        |
-| 3          | Cult leader, locally known mage, noble lord                 |
-| 4          | Assassin, baron, locally famous entertainer                 |
-| 5          | Captain of the watch in a large city, high priest, viscount |
-| 6          | Count, warlord                                              |
-| 7          | Marquis, world-renowned entertainer                         |
-| 8          | Duke, spymaster                                             |
-| 9          | Archmage, prince                                            |
-| 10         | Demon lord, monarch                                         |
-| 11         | Archdevil, archfey, demigod                                 |
-| 12         | Deity, titan                                                |
+| Impression | Example NPC                                                                                     |
+| ---------- | ----------------------------------------------------------------------------------------------- |
+| 1          | Brigand leader, commoner, shop owner                                                            |
+| 2          | Knight, local guildmaster, professor                                                            |
+| 3          | Cult leader, locally known mage, noble lord                                                     |
+| 4          | Assassin, baron, locally famous entertainer                                                     |
+| 5          | Captain of the watch in a large city, high priest, viscount                                     |
+| 6          | Count, warlord                                                                                  |
+| 7          | Marquis, world-renowned entertainer                                                             |
+| 8          | Duke, spymaster                                                                                 |
+| 9          | Archmage, prince                                                                                |
+| 10         | Demon lord, monarch                                                                             |
+| 11         | Archdevil, archfey, [demigod](REL_PATH_PREFIXRules/Titles/4th%20Echelon/DemigodREL_PATH_SUFFIX) |
+| 12         | Deity, titan                                                                                    |
 
 ##### Influencing Tests
 
@@ -21131,7 +21131,7 @@ If the NPC's interest is 0, the NPC ends the negotiation without accepting a dea
 
 After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital, and is presently gathering forces to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are now attempting to build an army that can stand against Saxton and defeat the tyrant.
 
-The heroes are engaging in a negotiation with Zola Honeycut, the human guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
+The heroes are engaging in a negotiation with Zola Honeycut, the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
 
 #### Zola's Negotiation Stats
 
@@ -21164,7 +21164,7 @@ Zola is glad that people are finally opposing Lord Saxton, but is angry that no 
 
 Here's how the negotiation with Zola might play out.
 
-**Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The human holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
+**Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
 
 **James (playing Korvo, a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) could ask for: Linn, Jorn, and Val."*
 
@@ -21458,7 +21458,7 @@ Time spent traveling between locations on the road is cut in half. Access to res
 
 When you complete this project, you end up with a 3-square-by-3 square teleportation platform activated by a supernatural password. The platform is permanently affixed to the ground in the location where you create it. Any creature with the password can use the teleportation platform to instantly [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) any creatures or objects on the platform to a location they know, including another teleportation platform whose supernatural password they know. You and any creature you designate upon completion of the activity can change the password as a respite activity.
 
-Each time the teleportation platform is used, the chance of it malfunctioning and teleporting creatures or objects on it to a random platform increases by 1 percent (to a maximum of 50 percent). You can restore the platform back to its original condition and reset this chance of malfunction as a respite activity.
+Each time the teleportation platform is used, the chance of it malfunctioning and [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creatures or objects on it to a random platform increases by 1 percent (to a maximum of 50 percent). You can restore the platform back to its original condition and reset this chance of malfunction as a respite activity.
 
 #### Craft Treasure
 
@@ -21499,7 +21499,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 <!-- -->
 > **Clothing as Armor Treasures**
 >
-> A hero who has a kit that provides no armor, such as the Martial Artist or [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) and [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), can also benefit from such treasures.
+> A hero who has a kit that provides no armor, such as the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) or [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) and [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), can also benefit from such treasures.
 
 ###### 1st-Level Armor Enhancement
 
@@ -21570,7 +21570,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 - **12-16:** 12 damage; push 4
 - **17+:** 15 damage; push 5
 
-**Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as flying movement. If you are still in midair at the end of your turn, you fall [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
+**Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) movement. If you are still in midair at the end of your turn, you fall [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
 
 **Magic Resistance II:** Your characteristic scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of magic abilities. This benefit replaces Magic Resistance I.
 
@@ -21612,7 +21612,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Project Goal:** 150
 
-**Devil's Bargain:** You can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). Additionally, if an effect would make you [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) while flying, you can choose to not go [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) by losing Stamina equal to the distance you would have fallen from becoming [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
+**Devil's Bargain:** You can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). Additionally, if an effect would make you [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you can choose to not go [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) by losing Stamina equal to the distance you would have fallen from becoming [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
 
 **Dragon Soul II:** While you are winded, your head transforms into a dragon's head and you have the following ability.
 
@@ -21801,7 +21801,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the Martial Artist and [Pugilist](REL_PATH_PREFIXRules/Kits/PugilistREL_PATH_SUFFIX) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) and [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), can also benefit from such treasures.
+A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) and [Pugilist](REL_PATH_PREFIXRules/Kits/PugilistREL_PATH_SUFFIX) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) and [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 
@@ -21829,21 +21829,21 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and [
 
 **Vengeance I:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 2 damage.
 
-**Wingbane:** Whenever you damage a flying creature using this weapon, that creature is also [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends). While [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) in this way, the creature takes 1 damage per square they [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If the creature starts and ends their turn on the same solid surface, the [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) condition ends.
+**Wingbane:** Whenever you damage a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) creature using this weapon, that creature is also [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends). While [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) in this way, the creature takes 1 damage per square they [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If the creature starts and ends their turn on the same solid surface, the [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) condition ends.
 
 ###### 1st-Level Weapon Enhancements Table
 
-| Enhancement   | Item Prerequisite                                                    | Project Source Language |
-| ------------- | -------------------------------------------------------------------- | ----------------------- |
-| Blood Bargain | The blood of a devil                                                 | Anjali                  |
-| Chilling I    | A piece of ice from Quintessence that never melts                    | Yllyric                 |
-| Disrupting I  | A vial of blood from a living saint                                  | Anjali                  |
-| Hurling       | A magnet made from rare metals                                       | Variac                  |
-| Merciful      | A sprig of dockwart, a rare plant with natural anesthetic properties | Yllyric                 |
-| Terrifying I  | The preserved, intact amygdala of a mindkiller                       | Variac                  |
-| Thundering I  | The heart of a lion, bear, or other large predatory animal           | Low Kuric               |
-| Vengeance I   | The crown of a usurper                                               | Kalliak                 |
-| Wingbane      | The pinfeather of a giant hawk                                       | Yllyric                 |
+| Enhancement   | Item Prerequisite                                                            | Project Source Language |
+| ------------- | ---------------------------------------------------------------------------- | ----------------------- |
+| Blood Bargain | The blood of a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) | Anjali                  |
+| Chilling I    | A piece of ice from Quintessence that never melts                            | Yllyric                 |
+| Disrupting I  | A vial of blood from a living saint                                          | Anjali                  |
+| Hurling       | A magnet made from rare metals                                               | Variac                  |
+| Merciful      | A sprig of dockwart, a rare plant with natural anesthetic properties         | Yllyric                 |
+| Terrifying I  | The preserved, intact amygdala of a mindkiller                               | Variac                  |
+| Thundering I  | The heart of a lion, bear, or other large predatory animal                   | Low Kuric               |
+| Vengeance I   | The crown of a usurper                                                       | Kalliak                 |
+| Wingbane      | The pinfeather of a giant hawk                                               | Yllyric                 |
 
 ###### 5th-Level Weapon Enhancement
 
@@ -21949,17 +21949,17 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and [
 
 ###### 9th-Level Weapon Enhancements
 
-| Enhancement    | Item Prerequisite                                                                                                                     | Project Source Language |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Chilling III   | The weapon must be dipped in the Glacial Forge in the coldest depths of Hell                                                          | Yllyric                 |
-| Disrupting III | Wrappings from a mummy buried at least a century ago                                                                                  | Anjali                  |
-| Draining       | The intact, still-thinking brain of a voiceless talker                                                                                | Voll                    |
-| Imprisoning    | A chain once used to restrain an angel                                                                                                | Anjali                  |
-| Nova           | A piece of metal touched by a sun                                                                                                     | Ullorvic                |
-| Terrifying III | The central eye of an overmind                                                                                                        | Variac                  |
-| Thundering III | An oracle of storms must willingly bless the weapon with lightning while it is being wielded, and its wielder must survive this trial | Low Kuric               |
-| Vengeance III  | The true name of a devil who hunts other devils                                                                                       | Kalliak                 |
-| Windcutting    | A feather from a bird, once thought extinct, who dwells at the eye of an ever-whirling tornado                                        | Yllyric                 |
+| Enhancement    | Item Prerequisite                                                                                                                                               | Project Source Language |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Chilling III   | The weapon must be dipped in the Glacial Forge in the coldest depths of Hell                                                                                    | Yllyric                 |
+| Disrupting III | Wrappings from a mummy buried at least a century ago                                                                                                            | Anjali                  |
+| Draining       | The intact, still-thinking brain of a voiceless talker                                                                                                          | Voll                    |
+| Imprisoning    | A chain once used to restrain an angel                                                                                                                          | Anjali                  |
+| Nova           | A piece of metal touched by a sun                                                                                                                               | Ullorvic                |
+| Terrifying III | The central eye of an overmind                                                                                                                                  | Variac                  |
+| Thundering III | An oracle of storms must willingly bless the weapon with lightning while it is being wielded, and its wielder must survive this trial                           | Low Kuric               |
+| Vengeance III  | The true name of a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) who hunts other [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) | Kalliak                 |
+| Windcutting    | A feather from a bird, once thought extinct, who dwells at the eye of an ever-whirling tornado                                                                  | Yllyric                 |
 
 ### Research Projects
 
@@ -22000,7 +22000,7 @@ Obscure knowledge is known only to specialized sages and is typically of interes
 
 ##### Lost Knowledge
 
-Lost knowledge is so esoteric that even among a field's most dedicated scholars, there might be only one or two individuals who have dug deep enough to know that lore. Lost knowledge could come from a time so long ago that only a single text in a dead language now holds the lore you seek. Such lore often takes more than a week to hunt down. The location of a legendary steel dwarf's workshop is most likely lore that is lost—except for one map hidden in a private collection.
+Lost knowledge is so esoteric that even among a field's most dedicated scholars, there might be only one or two individuals who have dug deep enough to know that lore. Lost knowledge could come from a time so long ago that only a single text in a dead language now holds the lore you seek. Such lore often takes more than a week to hunt down. The location of a legendary steel [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)'s workshop is most likely lore that is lost—except for one map hidden in a private collection.
 
 ##### Forbidden Knowledge
 
@@ -22024,7 +22024,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 23-24  | After the roll, the hero discovers a new bit of knowledge or a technique that allows them to immediately start and finish a second project with a project goal of 50 or lower.                                                                                                                                                                                                                                                                                                                                  |
 | 25-26  | Before the roll, the hero finds that someone has attempted to sabotage their project, resulting in damage to notes, the project source, or crafting components. The damage is negligible, but the creature responsible will strike again to worse effect if not discovered.                                                                                                                                                                                                                                     |
 | 27-28  | Before the roll, the project source is found to hold additional information, letting the hero treat the project roll as an automatic breakthrough. The note could have been left by a helpful visitor, or by someone who wants the hero's work to be finished for their own gain.                                                                                                                                                                                                                               |
-| 29-30  | After the roll, the project draws the attention of a devil, who tries to subtly change the project source from the Seven Cities of Hell. If the hero doesn't notice, the devil is summoned the next time the hero makes a project roll, with goals of the Director's determination.                                                                                                                                                                                                                             |
+| 29-30  | After the roll, the project draws the attention of a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), who tries to subtly change the project source from the Seven Cities of Hell. If the hero doesn't notice, the [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) is summoned the next time the hero makes a project roll, with goals of the Director's determination.                                                                                                             |
 | 31-32  | Before the roll, the hero stumbles upon a tool, expert, or book that helps them with the project, letting them treat the project roll as an automatic breakthrough.                                                                                                                                                                                                                                                                                                                                             |
 | 33-34  | After the roll, the project source suddenly becomes impossible to understand. A psionic NPC has used a mighty power to obscure or corrupt the project source to prevent a potential catastrophe they foresaw. If the heroes can help prevent the catastrophe in another way, the NPC will end the effect.                                                                                                                                                                                                       |
 | 35-36  | After the roll, the hero discovers that the project source contains a piece of helpful knowledge unrelated to the current project.                                                                                                                                                                                                                                                                                                                                                                              |
@@ -22042,7 +22042,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 59-60  | Before the roll, the hero realizes they're at a critical point in the project, and can achieve more if they just shave off a few hours of rest. By choosing to lose some sleep, the character can make two project rolls for the project, but when they end the current respite, they do so with 1 fewer Recoveries than usual.                                                                                                                                                                                 |
 | 61-62  | Before the roll, a sage approaches the hero and offers to help with the project. This NPC isn't really a sage, however—they're an assassin hoping to catch the hero off guard.                                                                                                                                                                                                                                                                                                                                  |
 | 63-64  | Before the roll, a sage approaches the hero and offers to help with the project. This NPC isn't really a sage, however—they're a bard who wishes to compose a song about the hero's deeds. The NPC is to ingratiate themself to the hero while contributing nothing to the actual project.                                                                                                                                                                                                                      |
-| 65-66  | After the roll, a physical project source or a component of the project creates an unstable portal to another world related to the nature of the project. Tiny devils, elementals, or other creatures start clawing their way out of the item and causing mischief.                                                                                                                                                                                                                                             |
+| 65-66  | After the roll, a physical project source or a component of the project creates an unstable portal to another world related to the nature of the project. Tiny [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), elementals, or other creatures start clawing their way out of the item and causing mischief.                                                                                                                                                                                     |
 | 67-68  | After the roll, the hero realizes that the project source also holds information regarding the location of another project source or certain items, which are needed for another project the hero or one of their allies wants to pursue.                                                                                                                                                                                                                                                                       |
 | 69-70  | Before the roll, a group of enemies working for the campaign's villain attacks the hero, intent on destroying as much of the project's source or other resources as possible.                                                                                                                                                                                                                                                                                                                                   |
 | 71-72  | Before the roll, a storm moves into the area that threatens to persist until the project is completed. The closer to completion the hero gets on the project, the more violent the storm becomes. It's possible that the storm is conscious, or that someone is controlling the storm to stand in the hero's way.                                                                                                                                                                                               |
@@ -22232,7 +22232,7 @@ While undertaking this project, you provide help to people in need, doing odd jo
 | d10 | Event                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | After the roll, the hero's service is recognized by the local nobility or authorities. Upon completion of the project, the hero earns 1 Renown.                                                                                                                                                                                                                                                                                  |
-| 2   | Before the roll, a mysterious force hinders the work in an unfortunate way, with tools going missing, tutoring materials vanishing, cleaning supplies turning up already filthy, and so forth. The hero can't continue the project until the culprit—a maligned devil or spirit connected to the hero's past—is identified and dealt with.                                                                                       |
+| 2   | Before the roll, a mysterious force hinders the work in an unfortunate way, with tools going missing, tutoring materials vanishing, cleaning supplies turning up already filthy, and so forth. The hero can't continue the project until the culprit—a maligned [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) or spirit connected to the hero's past—is identified and dealt with.                               |
 | 3   | Before the roll, the community is so excited by the project that they join in to lend a hand. The project gains an automatic breakthrough.                                                                                                                                                                                                                                                                                       |
 | 4   | Before the roll, a sympathetic NPC—perhaps a friend or ally from the community or from the hero's past—offers to assist with the project. The hero gains a +3 bonus to the project roll.                                                                                                                                                                                                                                         |
 | 5   | Before the roll, work on the project unearths a previously lost detail of the community—a lost or hidden section of a settlement, a surprising historical detail, a secret regarding a prominent local, and so forth. The locals take a keen interest in the development, but the revelation threatens to tear the community apart. If the character can't take steps to undo this strife, they take a bane on the project roll. |
@@ -22274,7 +22274,7 @@ Whether for sustenance, relaxation, or bragging rights, you've gone fishing, pro
 | d10 | Event                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | While fishing, the hero reels in a talking fish. The fish informs the hero of any events that have occurred within 10 squares of the body of water where they were caught over the last week, or provides one piece of Forbidden Knowledge (see the Discover Lore project), as the Director determines.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 2   | While fishing, the hero reels in a note in a bottle. The note is written in Anjali and binds the reader into a deal with a powerful devil if read out loud. This gives the devil ownership of the reader's soul in exchange for rolling an additional d10 on all future Fishing project rolls.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 2   | While fishing, the hero reels in a note in a bottle. The note is written in Anjali and binds the reader into a deal with a powerful [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) if read out loud. This gives the [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) ownership of the reader's soul in exchange for rolling an additional d10 on all future Fishing project rolls.                                                                                                                                                                                                                                                                                                                                                                        |
 | 3   | While the hero is fishing, passersby inform them of a rumor of a magic fishing rod that allows the fisher to double the size of the fish they reel in. The Director can decide whether the rumor is true, and if so, where the rod might be found.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 4   | While fishing, the hero reels in an **angulotl daybringer** (see *[Draw Steel:](https://mcdm.gg/DS-Monsters) [Monsters](https://mcdm.gg/DS-Monsters)*). The angulotl is insulted by the hero catching them, and threatens to summon heavy thunderstorms and drown the region in a flood. However, they can be negotiated with, and might provide the hero with one serving of an amazing meal if they stay on good terms. A creature who eats a serving of this meal increases their Recoveries by 1 until the end of their next respite, and gains 25 temporary Stamina that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time. |
 | 5   | While fishing, the hero reels in half of a mysterious ancient treasure of the Director's choice. If the other half is found, both halves magically meld together to restore the treasure.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -22282,7 +22282,7 @@ Whether for sustenance, relaxation, or bragging rights, you've gone fishing, pro
 | 7   | The hero reaches a new fishing milestone, gaining the following title and benefit.<br/>**Master of Reels:** Whenever you deal damage to a target who is 2 or more squares away from you and that target isn't also force moved, you can pull the target a number of squares equal to your Agility, Reason, or Intuition score (your choice).                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 8   | While fishing, the hero engages in relaxing meditation that grants an automatic breakthrough on another project they're working on. Alternatively, they gain insight that grants an automatic breakthrough on another hero's project of their choice.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 9   | While fishing, the hero is pulled into the water by an ancient fish and must make a hard Might test. On a success, the hero reels in a humongous fish worth 100 points. On a failure, they end the current respite with 1 fewer Recoveries than usual. On a success with a complication, the hero obtains both outcomes.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 10  | While fishing, the hero notes what appears to be an underwater cavern. If the cavern is explored, it reveals a treasure of the Director's choice guarded by a revenant knight fulfilling their duty until their captain returns.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 10  | While fishing, the hero notes what appears to be an underwater cavern. If the cavern is explored, it reveals a treasure of the Director's choice guarded by a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX) knight fulfilling their duty until their captain returns.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 #### Spend Time With Loved Ones
 
@@ -22354,7 +22354,7 @@ When a hero finds a treasure, they learn its properties if they examine it for 5
 
 Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items supernaturally resize themselves to fit the creature using them.
 
-Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed time raider to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
+Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
 
 Though body keywords indicate where a treasure is meant to be worn, treasures can still function if worn on other parts of the body. For example, a hero without ears or who just wants to have a different look might wear an earring as a piercing anywhere else they desire.
 
@@ -22368,7 +22368,7 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 ##### Treasures and Kits
 
-To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the Warrior Priest kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
+To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
 If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX)'s Prayer of Soldier's Skill.
 
@@ -22867,7 +22867,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** Whenever you would take damage, you can use a triggered action to tear the card and summon a devil. You avoid the damage and any accompanying effects, and the devil redirects the triggering effect to a target of their choice anywhere on the same manifold. You are treated to a clear vision of whoever suffers the damage. The devil then disappears.
+**Effect:** Whenever you would take damage, you can use a triggered action to tear the card and summon a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX). You avoid the damage and any accompanying effects, and the [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) redirects the triggering effect to a target of their choice anywhere on the same manifold. You are treated to a clear vision of whoever suffers the damage. The [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) then disappears.
 
 ##### Personal Effigy
 
@@ -23169,7 +23169,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are force moved, and any creature [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) by you takes a bane on the test for the Escape Grab maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) unless you are force moved, and any creature [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) by you takes a bane on the test for the Escape Grab maneuver.
 
 ##### Hellcharger Helm
 
@@ -23309,7 +23309,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Head, Psionic
 
-**Item Prerequisite:** The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a devil
+**Item Prerequisite:** The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)
 
 **Project Source:** Texts or lore in Hyrallic
 
@@ -23454,7 +23454,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) to wear this ring. While you do so, the area of your Null Field ability increases by 1.
+**Effect:** You must be a [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) to wear this ring. While you do so, the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1.
 
 Additionally, you have the following ability.
 
@@ -23646,7 +23646,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Keywords:** Medium Armor, Psionic
 
-**Item Prerequisite:** The eyes of a time raider who died valiantly in battle
+**Item Prerequisite:** The eyes of a [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) who died valiantly in battle
 
 **Project Source:** Texts or lore in Voll
 
@@ -23866,11 +23866,11 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 ##### Words Become Wonders at Next Breath
 
-*This ornate high elf tome seems to sigh each time it is opened.*
+*This ornate [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) tome seems to sigh each time it is opened.*
 
 **Keywords:** Implement, Magic
 
-**Item Prerequisite:** Written permission from a high elf magistrate
+**Item Prerequisite:** Written permission from a [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) magistrate
 
 **Project Source:** Texts or lore in Hyrallic
 
@@ -24042,7 +24042,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can shift to any square adjacent to the target after the push.
 
-**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the Charge main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to shift, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) as part of the charge movement or the shift. If you don't end your flying movement on the ground, you fall.
+**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the Charge main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to shift, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) as part of the charge movement or the shift. If you don't end your [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) movement on the ground, you fall.
 
 **9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that forced movement can be vertical.
 
@@ -24186,7 +24186,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **5th Level:** The ring's bonus to Stamina increases to +12. Additionally, you have damage immunity 2.
 
-**9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then teleports into their possession and ceases to be magic.
+**9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) into their possession and ceases to be magic.
 
 ##### Bloody Hand Wraps
 
@@ -24322,7 +24322,7 @@ The [Encepter](REL_PATH_PREFIXRules/Treasures/Artifacts/EncepterREL_PATH_SUFFIX)
 
 **Keywords:** Psionic
 
-Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a shadow capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
+Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
 
 Only one destined for death can contain the power of the Mortal Coil. A mortal creature who carries this artifact serves as its host, gaining an additional main action on each of their turns, aging at ten times the usual rate, and becoming unable to ever regain Stamina. A host with no natural maximum lifespan permanently reduces their Stamina maximum by 10 each year.
 
@@ -24400,7 +24400,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 <!-- -->
 > **For the Director: Planning Titles**
 >
-> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the Demon Slayer or Dragon Blooded titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the [Demigod](REL_PATH_PREFIXRules/Titles/4th%20Echelon/DemigodREL_PATH_SUFFIX) title?
+> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the [Demon Slayer](REL_PATH_PREFIXRules/Titles/3rd%20Echelon/Demon%20SlayerREL_PATH_SUFFIX) or [Dragon Blooded](REL_PATH_PREFIXRules/Titles/3rd%20Echelon/Dragon%20BloodedREL_PATH_SUFFIX) titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the [Demigod](REL_PATH_PREFIXRules/Titles/4th%20Echelon/DemigodREL_PATH_SUFFIX) title?
 
 #### Ancient Loremaster
 
@@ -24495,7 +24495,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 - *Academic Faction:* You find a sage who can make up to three Reason tests to recall lore or make project rolls for research projects on your behalf. The sage has a +5 bonus to these tests. These project rolls take 10 minutes each and don't need to be made during a respite.
 - *Guild Faction:* You find an expert crafter who can make up to three project rolls for crafting projects on your behalf. The crafter has a +5 bonus to these tests. These project rolls take 10 uninterrupted minutes each and don't need to be made during a respite.
-- *Martial Faction:* You recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as **human guards**). These minions follow your orders for a day.
+- *Martial Faction:* You recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as **[human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) guards**). These minions follow your orders for a day.
 - *Spy Faction:* You find an agent who can provide you with three pieces of information about the settlement you're in, such as the location of a hidden person, a secret entrance into a guarded area, or the negotiation motivation or pitfall of an important person.
 
 **Special:** You can gain this title multiple times, once for each faction. You can be stripped of this title if you act against the faction's interests.
@@ -24715,7 +24715,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Foresight:* You don't take a bane when using abilities against creatures with concealment.
-- *Rogue Talent:* Choose one triggered action that the [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
+- *[Rogue Talent](REL_PATH_PREFIXRules/Complications/Rogue%20TalentREL_PATH_SUFFIX):* Choose one triggered action that the [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
 - *Telepathy:* As a maneuver, you communicate telepathically with a creature within 10 squares who understands a language you know. The creature can respond telepathically as part of the same maneuver.
 
 #### Battlefield Commander
@@ -24758,7 +24758,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *Haul down your flag or we'll burn you to the waterline!*
 
-**Prerequisite:** You have the Ship Captain title, and you sink or capture a ship of equal or greater size than your own.
+**Prerequisite:** You have the [Ship Captain](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Ship%20CaptainREL_PATH_SUFFIX) title, and you sink or capture a ship of equal or greater size than your own.
 
 **Effect:** Choose one of the following benefits:
 
@@ -24771,7 +24771,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *If you want or need something, talk to me. I have a certain... influence in these parts.*
 
-**Prerequisite:** You have the Faction Member title, and you greatly advance the faction's goals.
+**Prerequisite:** You have the [Faction Member](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Faction%20MemberREL_PATH_SUFFIX) title, and you greatly advance the faction's goals.
 
 **Effect:** You are given a position of great authority in your faction. Additionally, you gain the following benefits:
 
@@ -24816,7 +24816,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
-- *Up the Beanstalk:* You have the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skill. While you're [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
 
 #### Godsworn
 
@@ -24834,7 +24834,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *Everybody know their assignments? All right, let's go.*
 
-**Prerequisite:** You have the Troupe Leading Player title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
+**Prerequisite:** You have the [Troupe Leading Player](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Troupe%20Leading%20PlayerREL_PATH_SUFFIX) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
 
 **Effect:** Choose one of the following benefits:
 
@@ -24890,7 +24890,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *You want to know the exact coordinates of the **Gem of the Waves** shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you.*
 
-**Prerequisite:** You have the Ancient Loremaster title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
+**Prerequisite:** You have the [Ancient Loremaster](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Ancient%20LoremasterREL_PATH_SUFFIX) title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
 
 **Effect:** Choose one of the following benefits:
 
@@ -24996,13 +24996,13 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *If you can't beat 'em, join 'em.*
 
-**Prerequisite:** You defeat a leader or solo creature with the Devil keyword, such as an archdevil, or you make a deal with a devil.
+**Prerequisite:** You defeat a leader or solo creature with the [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) keyword, such as an archdevil, or you make a deal with a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX).
 
 **Effect:** Choose one of the following benefits:
 
-- *Devil Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible supernatural effects. The potencies of your magic or psionic abilities that target Reason, Intuition, or Presence increase by 1.
-- *Infernal Legacy:* You gain 3 ancestry points to spend on purchased devil ancestry traits (see [Chapter 3](#page-35-0)).
-- *Sly Devil:* You gain the Silver Tongue signature trait from the devil ancestry.
+- *[Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible supernatural effects. The potencies of your magic or psionic abilities that target Reason, Intuition, or Presence increase by 1.
+- *Infernal Legacy:* You gain 3 ancestry points to spend on purchased [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) ancestry traits (see [Chapter 3](#page-35-0)).
+- *Sly [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX):* You gain the Silver Tongue signature trait from the [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) ancestry.
 - *Untouched by Corruption:* Whenever you use a damage-dealing ability, that ability can deal holy damage instead of its usual damage type.
 
 #### Dragon Blooded
@@ -25024,8 +25024,8 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *First Mate:* You have a pirate retainer, such as a **human warrior**, chosen by the Director from *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. This retainer's level increases to your level.
-- *Swashbuckler:* You can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving
+- *First Mate:* You have a pirate retainer, such as a **[human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) warrior**, chosen by the Director from *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. This retainer's level increases to your level.
+- *[Swashbuckler](REL_PATH_PREFIXRules/Kits/SwashbucklerREL_PATH_SUFFIX):* You can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving
 - *Treasure Keeper:* You earn 1 Wealth.
 - *Weather Wizard:* Once per day, you can spend 10 uninterrupted minutes to magically alter mundane weather in a 5-mile radius around you. The weather moves with you and persists for 6 hours or until you dismiss it as a free maneuver. Choose from one of the following weather types:
     - *Calm:* Wind-powered vessels and technology cease working
@@ -25038,15 +25038,15 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.*
 
-**Prerequisite:** You visit the realms of gods, devils, or other immortal beings and hear a note of the Music of Creation.
+**Prerequisite:** You visit the realms of gods, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), or other immortal beings and hear a note of the Music of Creation.
 
 **Effect:** Choose one of the following benefits:
 
 - *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
-- *Devil's Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *[Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
-> ######## The Devil's Chord (9 Heroic Resource)
+> ######## The [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)'s Chord (9 Heroic Resource)
 >
 > *Helloooo Orden!*
 >
@@ -25101,7 +25101,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 - *Prismacore Eyes:* Exposure to prismacore has given your eyes a mirrorlike sheen. You have psychic immunity 10, creatures can't use magic or psionic abilities or other effects to determine your location or read your thoughts unless you allow them to, and you gain a +3 bonus to stability against magic or psionic abilities.
 - *Stellar Knowledge:* You gain the Mechanics skill. If you already have this skill, you instead gain an edge on tests made using the skill. Additionally, you gain the item prerequisite and project source for a psionic trinket.
-- *Time Raider Training:* You gain 2 ancestry points to spend on purchased time raider ancestry traits (see [Chapter 3](#page-35-0)).
+- *[Time Raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) Training:* You gain 2 ancestry points to spend on purchased [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) ancestry traits (see [Chapter 3](#page-35-0)).
 
 #### Scarred
 
@@ -25117,7 +25117,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *Best way to deal with a castle siege? Be on the outside.*
 
-**Prerequisite:** You have the Battlefield Commander title, and you lead the defense of a settlement or fortification.
+**Prerequisite:** You have the [Battlefield Commander](REL_PATH_PREFIXRules/Titles/2nd%20Echelon/Battlefield%20CommanderREL_PATH_SUFFIX) title, and you lead the defense of a settlement or fortification.
 
 **Effect:** Choose one of the following benefits:
 
@@ -25213,7 +25213,7 @@ Additionally, choose one of the following benefits:
 
 #### Peace Bringer
 
-*There goes Diana, peace bringer. She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
+*There goes Diana, [peace bringer](REL_PATH_PREFIXRules/Titles/4th%20Echelon/Peace%20BringerREL_PATH_SUFFIX). She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
 
 **Prerequisite:** You conduct a successful negotiation on which the fate of a nation or a world stands.
 
@@ -25244,7 +25244,7 @@ Additionally, choose one of the following benefits:
 
 *I've read about this tactic in books—it looks fairly straightforward.*
 
-**Prerequisite:** You have the Master Librarian title, and you complete a Learn From a Master project with a project goal of 1,000.
+**Prerequisite:** You have the [Master Librarian](REL_PATH_PREFIXRules/Titles/2nd%20Echelon/Master%20LibrarianREL_PATH_SUFFIX) title, and you complete a Learn From a Master project with a project goal of 1,000.
 
 **Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).
 
@@ -25266,7 +25266,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 *I'll never get away with it? My dear, I already have.*
 
-**Prerequisite:** You have the Heist Hero title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
+**Prerequisite:** You have the [Heist Hero](REL_PATH_PREFIXRules/Titles/2nd%20Echelon/Heist%20HeroREL_PATH_SUFFIX) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
@@ -25373,7 +25373,7 @@ Orden is a fantasy world in which the gods are objectively real. In spite of thi
 
 When a river floods or crops fail, some people may curse the gods, but those people do not all believe a god caused these events. They may curse simply because the gods didn't prevent catastrophe. They do not think, "Why did the gods do that?" They think, "Why did the gods make a world that behaves like this?"
 
-The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of demigod-like status, once mortals, who now serve their patron god in eternity. Many humans call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
+The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](REL_PATH_PREFIXRules/Titles/4th%20Echelon/DemigodREL_PATH_SUFFIX)-like status, once mortals, who now serve their patron god in eternity. Many humans call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
 
 Each god has many saints, some obscure. They sometimes manifest in the world. These encounters are always brief, leading sages and theologians to conclude there must be some limit to how much time or energy these saints and legendary heroes can spend on the prime manifold. Who created or enforces these limits?
 
@@ -25522,7 +25522,7 @@ The Deities and Domains table and the Saints and Domains table summarize each of
 
 **Domains:** Creation, Knowledge, Life, Nature, Protection
 
-Val, the Noble Lord, First Among Equals, is the patron of the elves. He created the celestials—the true elves, second of the five speaking peoples—who then created the younger elves: the high, wode, and shadow elves. His name is the root of the Caelian word "valiant," and the dwarves named the most precious ore in Orden—Valiar, the truemetal—after him.
+Val, the Noble Lord, First Among Equals, is the patron of the elves. He created the celestials—the true elves, second of the five speaking peoples—who then created the younger elves: the high, wode, and shadow elves. His name is the root of the Caelian word "valiant," and the [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) named the most precious ore in Orden—Valiar, the truemetal—after him.
 
 Val holds that the greatest purpose a thinking being can commit themselves to is the creation of art and the appreciation of beauty. He keeps the magical, elf-haunted forests called wodes close to his heart because they represent his vision for Orden. What the world could have been. His growing disgust with the concept of war led him to leave Orden and take up residence in his private manifold, *Arcadia* where all elves hope to someday join their patron.
 
@@ -25530,7 +25530,7 @@ Val holds that the greatest purpose a thinking being can commit themselves to is
 
 The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's saints and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
 
-The high elf heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The wode elf heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
+The [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
 
 ##### A Sea of Suns
 
@@ -25568,7 +25568,7 @@ In the end, her efforts failed, and the elder dragons live no more in this world
 
 Yllin Dyrvis, also known as the Beast Heart, the Wodespeaker, the Warden, witnessed the Composer's first song, and took it upon themselves to communicate with and care for the speaking creatures A Sea of Suns created. The dryads, elgenwights, the giant birds and intelligent fish who populated the ancient wode that once covered all Orden, all came under the Beast Heart's care. Dyrvis learned their speech and taught them who they were.
 
-To this day, many ages of the world later, the wode elves consider themselves the stewards of the speaking creatures, and those creatures rely upon the wode elves for protection.
+To this day, many ages of the world later, the [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) consider themselves the stewards of the speaking creatures, and those creatures rely upon the [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) for protection.
 
 ##### Thyll Hylacae
 
@@ -25630,7 +25630,7 @@ Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, 
 
 Stakros the Engineer, the Machine Mind, the Operator, founder of the Order of Fabrication.
 
-Stakros it was—*not* a steel dwarf—who forged the first strife-engine, a great war-walker manned by thirty [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX). At the battle of Kalas Mithral, the war-walker grappled with the legion of yllindyr the star elves summoned to defeat the walls of the steel dwarf capital.
+Stakros it was—*not* a steel [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)—who forged the first strife-engine, a great war-walker manned by thirty [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX). At the battle of Kalas Mithral, the war-walker grappled with the legion of yllindyr the star elves summoned to defeat the walls of the steel [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) capital.
 
 After the war, Stakros turned his talents to peaceful pursuits. He forged the first magma diver, designed to withstand enormous temperatures and pressures, all the while protecting the operator within. Inside his marvel Stakros personally dove into the great volcano Oxor-myr, returning with marvelous ores never before seen in Orden. His design soon evolved into a variety of armored frames to suit a variety of purposes.
 
@@ -25926,7 +25926,7 @@ Gaed teaches the virtue of being true to one's principles even—especially—wh
 
 Gryffyn the Stout was an infant [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) when his parents' cart was waylaid by bandits who killed his mother and father, stole all their wares, and set fire to the cart. They were unaware of the child nestled within.
 
-A nearby farmer saw the flames and rode out to investigate. When she arrived, she could hear the bawling of the dwarf babe. Though wreathed in flame, the infant's skin was too hardy to feel the heat. In the horse's pack were a pair of tongs the farmer used to extract the child without harming herself, and she took the baby dwarf home to her husband.
+A nearby farmer saw the flames and rode out to investigate. When she arrived, she could hear the bawling of the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) babe. Though wreathed in flame, the infant's skin was too hardy to feel the heat. In the horse's pack were a pair of tongs the farmer used to extract the child without harming herself, and she took the baby [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) home to her husband.
 
 Naming the child Gryffyn, the farmers raised him as one of their own. The boy grew up wanting to be a farmer like his adoptive mother and father, but they encouraged him to take up masonry, believing stonework to be a natural part of his ancestry.
 
@@ -25940,7 +25940,7 @@ The people cried and prepared for death. Gryffyn saw this, and his heart felt li
 
 When the army of Cinis the Pale arrived, the people fled to the ravine, the path being easy as their carts and oxen had worn a clear road. Thinking they would throw themselves into the ravine rather than be eaten by the ghouls, they were astonished to discover... the miracle. A great stone bridge crossing the ravine. It had not existed three days prior, and all agreed it could not have taken less than a year to build.
 
-Fleeing across the bridge, the refugees found the body of Gryffyn, author of this marvel, his fingers bleeding, hammer in his hand, his heart having finally failed. He knew his labors would cost his life. But Gryffyn's Arch still stands, almost a thousand years later.
+Fleeing across the bridge, the refugees found the body of Gryffyn, author of this marvel, his fingers [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX), hammer in his hand, his heart having finally failed. He knew his labors would cost his life. But Gryffyn's Arch still stands, almost a thousand years later.
 
 Saint Gryffyn the Stout teaches that despair is the enemy of action. That unyielding endurance is the cure for impossible odds. That more than sword and spell, hard work is the savior of the people.
 
@@ -25974,7 +25974,7 @@ When Llewellyn slew Ghruk the Trollhag, she cried out, "Follow Melianus!" as she
 
 That night, Llewellyn waited in the stables and, at midnight, Melianus appeared. He mounted his great black warhorse Coalfire and rode. To where, Llewellyn could not guess. But the knight followed the duke as he rode east toward the marsh, he remembered the rumors.
 
-At the edge of the marsh, Coalfire's eyes began to glow with a baleful flame and his mane burst into crimson fire. Llewellyn's breath caught in his throat. "A nightmare!" he realized. The rumors were true! The sorcerer had given Melianus a devil steed.
+At the edge of the marsh, Coalfire's eyes began to glow with a baleful flame and his mane burst into crimson fire. Llewellyn's breath caught in his throat. "A nightmare!" he realized. The rumors were true! The sorcerer had given Melianus a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) steed.
 
 On flaming nightmare hooves was Melianus able to cross the impassable swamp. Llewellyn balked, no one could cross the cursed bog. But Silverheart champed at her bit, pulled on the reins. She would not yield. Placing his trust in his steed, Llewellyn let the reins lie slack, and Silverheart took the lead.
 
@@ -26016,7 +26016,7 @@ Zür believed he could remove the enchantment and rob the Red Sun of their power
 
 The baron could not say no to his closest and most loyal knight, and so Lady Gwenllian, daughter of Morwetha, rode out with Zür the Enchanter. "It will take time to perform the ritual," Zür said. "Once I start, the demon will send creatures to stop me. They will be terrible."
 
-Gwenllian swore to defend the dwarf against all who might come for as long as it might take. In later years, Zür professed he felt the weight of her vow and knew the gods were watching. "How long to work your ritual?" she asked, and she could tell the answer would be dire.
+Gwenllian swore to defend the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) against all who might come for as long as it might take. In later years, Zür professed he felt the weight of her vow and knew the gods were watching. "How long to work your ritual?" she asked, and she could tell the answer would be dire.
 
 "Ten days," Zür said. "Ten days must I work this weaving without pause or rest or food or water." Dour Gwenllian merely nodded. "So be it."
 
@@ -26062,7 +26062,7 @@ Salorna has few [censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), b
 
 **Domains:** Nature, Sun
 
-Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the wode elves had not seen in many ages of the world.
+Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) had not seen in many ages of the world.
 
 The awakened trees were happy to hear news of the world and while it was impossible for her to satiate their endless curiosity ("How fare the steel [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)?"), Draighen provided many services for them. Chief among those—locating the Stone of Hyllc a large flagstone infused with magic, which the derwic used as a kind of altar for communing with their creator. Many traditions had the derwic forsworn after the loss of their symbolic meeting-stone, and they were sore grateful to the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) who took their problems as her own.
 
@@ -26272,9 +26272,9 @@ OV the Wave Pilot, the Navigator, an enigmatic humanoid figure described as masc
 
 Lost ships sometimes find their navigation systems lighting up, a clear path home suddenly visible where no such path was possible before. OV aids those who are lost regardless of their affiliation with law or chaos, and is one of the Lords of Balance. His herald works to stop conflicts by guiding ships around and past routes that might cause them to intercept hostile entities.
 
-OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the time raiders, though none would call him or any other being their "god."
+OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX), though none would call him or any other being their "god."
 
-When a time raider swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
+When a [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
 
 ##### The Calling of Cho'kassa the Time Rider
 
@@ -26286,15 +26286,15 @@ Cho'kassa and her family-clan were prisoners of UNISOL being taken to Ordos, the
 
 Halfway through their journey, the UNISOL corvette was attacked by a protean heavy patrol vessel. The smaller protean ship latched itself onto the hull of the UNISOL corvette, lamprey-like, and its digestive acids quickly burned a hole in the plasteel, allowing the protean boarding party to invade.
 
-Though the rest of her captured clan believed the proteans had, for some reason, come to free them, Cho'kassa was not so optimistic. Eventually, the boarding party made it to the prison deck and opened the cells. They were evidently as surprised to find the imprisoned kuran'zoi as the time raiders were to be rescued by proteans!
+Though the rest of her captured clan believed the proteans had, for some reason, come to free them, Cho'kassa was not so optimistic. Eventually, the boarding party made it to the prison deck and opened the cells. They were evidently as surprised to find the imprisoned kuran'zoi as the [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) were to be rescued by proteans!
 
 "You were prisoners, now you are our thralls. Obey and earn your freedom."
 
-The rest of her clan were unsure of their options, but Cho'kassa grabbed the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were now sure.
+The rest of her clan were unsure of their options, but Cho'kassa [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were now sure.
 
-With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The time raiders stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
+With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
 
-On gaining the bridge, messages blared from every signal receiver. Each side demanding the time raiders join them and defeat their enemies. Many promises and threats were made. The kuran'zoi looked to Cho'kassa.
+On gaining the bridge, messages blared from every signal receiver. Each side demanding the [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) join them and defeat their enemies. Many promises and threats were made. The kuran'zoi looked to Cho'kassa.
 
 "Take the helm and damn them all!" she called out. "There must be a way home!" And in that instant, the navigation screens sprung to life. "Look!" her brother said. A route had already been plotted. One that made no literal sense. Was the ship's logic system malfunctioning?
 
@@ -26451,7 +26451,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) (see [Chapter 3](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX)) so that no one can take [Aristocrat](REL_PATH_PREFIXRules/Careers/AristocratREL_PATH_SUFFIX) or [Politician](REL_PATH_PREFIXRules/Careers/PoliticianREL_PATH_SUFFIX).
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) and [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) (see [Chapter 3](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](REL_PATH_PREFIXRules/Chapters/BackgroundREL_PATH_SUFFIX)) so that no one can take [Aristocrat](REL_PATH_PREFIXRules/Careers/AristocratREL_PATH_SUFFIX) or [Politician](REL_PATH_PREFIXRules/Careers/PoliticianREL_PATH_SUFFIX).
 
 Put any restrictions your campaign has into your pitch!
 
@@ -26530,7 +26530,7 @@ If you're planning on running a long-arc campaign, you might want to make sure t
 
 ##### Adventure of the Week
 
-An adventure-of-the-week campaign lets the heroes face an entirely new threat each time a new adventure kicks off. During their first adventure, they might face cultists bringing an undead horde to life. In the next, they battle a band of pirates hell-bent on taking control of a peaceful island. Then it's a race to catch a group of time raiders before they disappear across the timescape with their kidnapped victims.
+An adventure-of-the-week campaign lets the heroes face an entirely new threat each time a new adventure kicks off. During their first adventure, they might face cultists bringing an undead horde to life. In the next, they battle a band of pirates hell-bent on taking control of a peaceful island. Then it's a race to catch a group of [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) before they disappear across the timescape with their kidnapped victims.
 
 Adventure-of-the-week campaigns can give the heroes plenty of downtime between adventures, since the quests aren't connected. However, they often lack the personal drama that comes from a campaign with recurring threats and villains.
 
@@ -26567,13 +26567,13 @@ Discuss the details of a hero's complication with that hero's player. Complicati
 
 Once you understand a hero's desires for their complication, you can create an echelon outline for the complication to give the hero's backstory some narrative teeth throughout the campaign. Consider the following example.
 
-Matt, playing Linn the [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX), has the Elemental Inside complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX). Sorin wanted to abduct Linn's [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) mentor, a [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
+Matt, playing Linn the [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX), has the [Elemental Inside](REL_PATH_PREFIXRules/Complications/Elemental%20InsideREL_PATH_SUFFIX) complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX). Sorin wanted to abduct Linn's [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) mentor, a [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
 
 Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)'s story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
 
 - **1st Echelon:** After the heroes start riling up Lord Saxton's forces, Sorin offers her services to the tyrant for a chance to face Linn. During the heroes' assault on the keep, Sorin attacks.
 - **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is winded in addition to when she is dying. Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while dying" state as long as she wears it. The crown has other elemental powers too—and is one of the items desired by Ajax.
-- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly high elf named Leaves of the Autumn Wind offers to enhance the crown, allowing the [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
+- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) named Leaves of the Autumn Wind offers to enhance the crown, allowing the [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
 - **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
 
 At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) is likely to return and try to free Bruulv once again!
@@ -26860,7 +26860,7 @@ All activated hazards have some kind of trigger, and the heroes should be allowe
 
 If a hero doesn't think to search for a trigger before stumbling into a hazard, you can still call for a test to let them notice the trigger when the hazard is about to activate, provided it makes sense to do so. If a hero is about to cross over a tripwire that triggers a trap, you might call for an Intuition test to notice the wire at the point when it can be clearly seen. On a failed test, the character walks into the tripwire and activates the trap.
 
-Once a trigger is noticed, the heroes might get a chance to disarm it if that's possible. There's probably nothing to be done short of renovating an old mine to stop it from collapsing when anyone damages its walls, but the characters can try to disable a magic rune in a corridor that teleports any creature moving over it into the middle of an ocean. Just remember that trying and failing to disarm a trigger might trigger the hazard!
+Once a trigger is noticed, the heroes might get a chance to disarm it if that's possible. There's probably nothing to be done short of renovating an old mine to stop it from collapsing when anyone damages its walls, but the characters can try to disable a magic rune in a corridor that [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) any creature moving over it into the middle of an ocean. Just remember that trying and failing to disarm a trigger might trigger the hazard!
 
 ##### Hazard Damage
 
@@ -27130,7 +27130,7 @@ The burgomaster has the following possible pitfalls:
 
 *The virtuoso is the preeminent musician in the land—perhaps a celebrated opera singer or composer. If you need a cause popularized or an enemy's name tarnished, you come to them.*
 
-The virtuoso archetype can be used for any other local celebrity, such as a master crafter, inspired artist, famous gladiator, or world champion.
+The virtuoso archetype can be used for any other local celebrity, such as a [master crafter](REL_PATH_PREFIXRules/Titles/3rd%20Echelon/Master%20CrafterREL_PATH_SUFFIX), inspired artist, famous [gladiator](REL_PATH_PREFIXRules/Careers/GladiatorREL_PATH_SUFFIX), or world champion.
 
 ###### Motivations
 
@@ -27189,7 +27189,7 @@ The duke archetype can be used for any other royal counselor, such as an archmag
 The duke has the following possible motivations:
 
 - **Discovery:** My agents have brought me many whispers, but this is news to me. Who else knows of this?
-- **Higher Authority:** I must do as my liege commands. So tell me how you seek to serve them as well.
+- **Higher Authority:** I must do as my liege commands. [So tell me](REL_PATH_PREFIXRules/Perks/Interpersonal%20Perks/So%20Tell%20MeREL_PATH_SUFFIX) how you seek to serve them as well.
 - **Peace:** We must have stability. I will sacrifice anything—and anyone—for this.
 - **Vengeance:** There is one—I will not speak their name—who thinks I have forgotten what they did to me. Someday they will discover that I have a long memory.
 
@@ -27356,7 +27356,7 @@ The following challenges can be part of the montage test:
 
 - **Bucket Brigades:** Characters can organize the would-be firefighters into disciplined bucket brigades, or can fight the fire directly in some other way. *Suggested* C*haracteristics:* Presence, Reason. *Suggested Skills:* Architecture, Intimidate, Lead.
 - **Clearing a Firebreak:** Preventing the fire from spreading might involve clearing the ground of flammable materials, either by moving it or burning it away under controlled conditions. *Suggested Characteristics:* Might, Reason. *Suggested Skills and Abilities:* Endurance, Lift; abilities that deal fire damage. *Special:* A creature loses a Recovery if they incur a consequence on the test for this challenge.
-- **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Climb, Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge. The heroes can attempt this challenge twice during the montage test.
+- **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge. The heroes can attempt this challenge twice during the montage test.
 - **Find More Firefighters:** By finding groups that aren't fighting the fire, such as fleeing civilians, characters can convince them to help. *Suggested Characteristic:* Presence. *Suggested Skills:* Intimidate, Lead, Persuade.
 - **Free the Horses:** Characters can loose the stabled horses threatened by the fire and lead them to safety. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Handle Animals, Lift, Ride.
 - **Move Burning Rubble:** Shifting burning debris blocking doorways can allow people to escape the blaze. *Suggested Characteristic:* Might. *Suggested Skills:* Endurance, Lift. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge.
@@ -27366,7 +27366,7 @@ The following challenges can be part of the montage test:
 
 At the end of the first montage test round, an emergency crops up. One or more heroes, selected by the players, must deal with the situation before the end of the round. If the heroes successfully deal with the twist, they earn a success for the montage test. Otherwise, they earn a failure.
 
-- **Building Collapse:** While a hero is in or near a blazing building, it starts to collapse. The hero must escape before the building crumbles. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* Climb, Gymnastics, Jump.
+- **Building Collapse:** While a hero is in or near a blazing building, it starts to collapse. The hero must escape before the building crumbles. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Gymnastics, [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX).
 - **Cause of the Fire:** At the end of the first round of the montage test, the hostile cause of the fire appears—a squad of an invading army, a dragon, a team of arsonists, and so forth. The characters must engage in a standard or hard encounter with this threat.
 - **Help!** Townsfolk are about to run into a burning building to save a trapped relative. This twist requires two tests, each of which nets a success or a failure for the montage test. One hero can try to prevent the townspeople from entering the burning building while another rescues the relative. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Lift, Persuade.
 
@@ -27404,7 +27404,7 @@ The first time any hero fails a test made as part of the montage test while the 
 
 The following challenges can be part of the heroes' infiltration:
 
-- **Aerial Route:** Characters can follow a path that leads along catwalks or high ledges. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* Climb, Gymnastics, Jump.
+- **Aerial Route:** Characters can follow a path that leads along catwalks or high ledges. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Gymnastics, [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX).
 - **Avoid Traffic:** By finding the dustiest, least-traveled areas and sticking to them, characters can avoid notice. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Search, Track.
 - **Lie Low:** Once while the alarm level is greater than 0, the heroes can find a place to hide for a bit, reducing the alarm level by 1. This activity doesn't require a test or generate a success or failure.
 - **Make a Diversion:** After causing a ruckus, the characters quickly go the other way. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Alchemy, Perform, Sabotage.
@@ -27470,7 +27470,7 @@ The following challenges can be part of the montage test:
 
 - **Ask Around:** Characters can gather clues from locals or bystanders—or if they have access to the proper magic, from animals or the dead. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Interrogate, Persuade, Rumors.
 - **Follow the Trail:** Looking for tracks or other signs of the fugitive's passage can lead the characters on. *Suggested Characteristic:* Intuition. *Suggested Skills:* Alertness, Search, Track. *Special:* The heroes can attempt this challenge twice during the montage test.
-- **Obtain a Good View:** Characters can climb up high to get the big picture of where the fugitive might have gone. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* Climb, Gymnastics, Jump.
+- **Obtain a Good View:** Characters can [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) up high to get the big picture of where the fugitive might have gone. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Gymnastics, [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX).
 - **Predict the Next Move:** The heroes might have an idea where the quarry is headed. A character gains an edge on the test for this challenge if they know the quarry well. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Read Person, an appropriate skill from the lore skill group (Nature to follow an animal, Criminal Underworld to follow a criminal, and so forth).
 - **Push Ahead:** While the quarry is resting, the heroes have a chance to close in. Suggested Characteristic: Might. Suggested Skills: Drive, Endurance, Navigate, Ride. Special: The hero making the test for this challenge loses a Recovery.
 
@@ -27629,7 +27629,7 @@ The heroes increase their wealth whenever they score a big payday or recover a h
 You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn't earn a hero token. However, the following activities might:
 
 - A hero stands alone against a group of enemies to allow their comrades to escape.
-- A hero willingly jumps into quicksand, into lava, off a cliff, or into similar peril to save another character.
+- A hero willingly [jumps](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) into quicksand, into lava, off a cliff, or into similar peril to save another character.
 - The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the like, but they take the more arduous and honorable path.
 - A hero gives away an important resource, such as a Healing Potion, to help another creature in need.
 

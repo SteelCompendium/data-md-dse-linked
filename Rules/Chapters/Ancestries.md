@@ -16,11 +16,11 @@ type: chapter
 
 # Ancestries
 
-Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), elves, time raiders—and of course [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), whose culture and history dominates many worlds.
+Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), elves, [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)—and of course [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), whose culture and history dominates many worlds.
 
-Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or lore skills, though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
+Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or [lore skills](REL_PATH_PREFIXRules/Skills/Lore%20SkillsREL_PATH_SUFFIX), though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), and [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), you can do that too!
+In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who was raised in a forest among other [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), you can do that! If you want to play a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who was raised in an underground city of [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), and [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX), you can do that too!
 
 This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) for the game:
 
@@ -30,9 +30,9 @@ This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/Ancestrie
 
 **[Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX):** Humanoids with stony skin, [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
 
-**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, wode elves have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
+**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
 
-**High Elf:** Stately and graceful, high elves have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any high elf is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a high elf's tone and smell.
+**High Elf:** Stately and graceful, [high elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX)'s tone and smell.
 
 **[Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX):** Descended from stone giants, the mighty [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) stand over 9 feet tall and have well-muscled bodies made of organic stone. They are the largest ancestry in this book!
 
@@ -46,7 +46,7 @@ This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/Ancestrie
 
 **[Revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX):** No hero starts their life as a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX). Rather, these undead creatures return to the world of the living because they have dire business that must be finished. A character of any ancestry can become a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX).
 
-**[Time Raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX):** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
+**[Time Raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX):** Travelers of the timescape, the [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
 <!-- -->
 > **Other Sections**
@@ -85,7 +85,7 @@ Normally, it doesn't work out that nicely. Even with the best of intentions, thi
 
 The law of unintended consequences applies to the just and the unjust alike.
 
-Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi—the time raiders who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
+Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi—the [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
 
 A perhaps less egregious use of this power is called *quickening*, used when a powerful mage lives in and amongst some clever species just on the cusp of self-awareness. These instances, which are much more numerous than creating a new species from whole cloth, are more like the concept of *uplifting* found in science fiction. The mage or witch or shaman didn't create anything. They just gave these cute, clever, frog-things a little boost. A little nudge. And suddenly there are angulotls walking around having conversations with each other,
 
@@ -123,7 +123,7 @@ Most cultures in Vasloria make a distinction between masculine and feminine name
 
 Among those cultures which do make a distinction between masculine and feminine names, there are always names that *could* refer to a person of any gender. Here in the real world, you can't tell a person's gender just from the name "Shane." This is mostly because which names are considered masculine or feminine changes over time, and when this happens, there's a period—maybe a few generations—where the name could refer to a person of any gender.
 
-Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. High elves sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
+Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. [High elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
 
 #### Authentic or Comedic?
 
@@ -161,7 +161,7 @@ The choice of name is an important one, because it says a lot about you and how 
 
 ##### Wode Elf Names
 
-Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For wode elves, this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
+Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
 
 **Feminine:** Elvyr, Eviarwyc, Illwyv, Iorwyth, Lliarwyn, Meithennyn, Nimuë, Rhegyth, Viarwyn, Ysallwyth
 
@@ -171,7 +171,7 @@ Elves in general have a casual attitude toward gender, it having no direct beari
 
 ##### High Elf Names
 
-High elf names are poetic. They are an attempt to capture a fleeting, often contradictory, impulse, or emotion. They sometimes contain references to the natural world. They are never meant to be taken literally and they are not an attempt to make a character feel heroic.
+[High elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) names are poetic. They are an attempt to capture a fleeting, often contradictory, impulse, or emotion. They sometimes contain references to the natural world. They are never meant to be taken literally and they are not an attempt to make a character feel heroic.
 
 **Examples:** The Anticipation of a Sigh Upon His Lips, A Crown of Starlight on Winter Snow, The Earth Cries the Skies Divide, Echoes of Autumn Heat, Edges of a Leaf Torn by the Wind, Every Flake of Snow a Memory, A Heart That Will Not Yield the Stars, The Last Star Fading With Morning, A Rain of Glass Over a Sea of Dreams, The Sun Reflected in a Lover's Tear
 
@@ -227,7 +227,7 @@ For reasons not well understood, [polders](REL_PATH_PREFIXRules/Ancestries/Polde
 
 ##### Time Raider Names
 
-Kuran'zoi names typically end with an epithet, given when the young time raider comes of age, that reflects their uniquely rebellious nature.
+Kuran'zoi names typically end with an epithet, given when the young [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) comes of age, that reflects their uniquely rebellious nature.
 
 **Feminine:** Ak'karatar, Ip'pritt, Ner'radmok, Orov'vika, Phe'kala, Quix'x, Thes'srika, Thos'sivik, Um'manri, Vir'rikin
 
@@ -252,8 +252,8 @@ How tall is a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)? H
 | [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)                   | 5'0''-6'0''                 | 120-250               | 70-120                        |
 | [Dragon Knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) | 6'0''-7'0''                 | 200-350               | 50-90                         |
 | [Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)                   | 4'0''-4'6''                 | 500-1,000             | 700-1,500                     |
-| Wode Elf                                                                        | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
-| High Elf                                                                        | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| [Wode Elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)           | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| [High Elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX)           | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
 | [Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX)                 | 9'0''-10'0''                | 1,000-2,000           | 300-500                       |
 | [Human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)                   | 5'0''-6'0''                 | 100-300               | 70-120                        |
 | [Memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX)               | 5'0''-6'0''                 | 50-100                | 70-120                        |
@@ -335,7 +335,7 @@ A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stop
 
 "Ah. Um. Hmm."
 
-A young man in a low, stone building saw this exchange, grabbed what looked like a long iron poker, and ran out to confront the new arrival.
+A young man in a low, stone building saw this exchange, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) what looked like a long iron poker, and ran out to confront the new arrival.
 
 "Have at you, [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)!" he said, assuming something like a dueling pose. "I say! Steady on!" The [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) raised his hands.
 
@@ -451,7 +451,7 @@ As one, the people in the tavern turned to look with undisguised awe at the [dra
 
 A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) walked past their table.
 
-The knight moved on, ignoring them. The man reached out and grabbed the massive draconian's arm. The knight wheeled on the peasant, looming over him.
+The knight moved on, ignoring them. The man reached out and [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) the massive draconian's arm. The knight wheeled on the peasant, looming over him.
 
 The man touched his forelock. The two women with him curtseyed. "Begging your pardon, sir, but we been lookin' for you."
 
@@ -509,7 +509,7 @@ The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFF
 
 ### Dragon Knight Traits
 
-Dragon knight heroes have access to the following traits.
+[Dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) heroes have access to the following traits.
 
 #### Signature Trait: Wyrmplate
 
@@ -697,7 +697,7 @@ You can have one rune active at a time, and can change or remove a rune with 10 
 
 #### Purchased Dwarf Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX), Spark Off Your Skin.)
 
 ##### Great Fortitude (2 Points)
 
@@ -721,9 +721,9 @@ You have a magic connection to the earth. When you spend 1 uninterrupted hour si
 
 ## Wode Elf
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) for snatching children who wander too far into the woods. [Humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) *should* fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) for snatching children who wander too far into the woods. [Humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) *should* fear the trees.
 
-The wode elves' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
+The [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) who dwell in cities naturally adept at urban warfare.
 
 ### On Wode Elves
 
@@ -739,11 +739,11 @@ The wode elves' natural ability to mask their presence, called *glamor*, complem
 
 Then, only a few feet from them, a half-dozen figures melded out of the background, as if the trees and bushes and grass had been painted on them to perfectly match the wode. They wore light armor covered in leaves, moss, and vines, and they bristled with weapons.
 
-Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more wode elves, his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
+Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
 The elves were tall, taller than an adult [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
-"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
+"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
 "*Consort!*" An elf before them spoke in Yllyric as he stood from his crouch and bowed. "*We have been tracking these since they entered the wode.*"
 
@@ -767,9 +767,9 @@ The elf smiled at the children. "But have no fear," they said. Their Vaslorian w
 
 Llyander smiled gaily. "I am a song! I contain melodies and harmonies alike," they said. Wenna smiled.
 
-Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other wode elf's garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
+Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)'s garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
 
-Llyander turned to Rhythylthin and the rest of the wode elf band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
+Llyander turned to Rhythylthin and the rest of the [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
 
 In spite of his previous skepticism toward the queen's consort, Rhythylthin straightened and bowed. As one, the elves turned and flowed into the wode. In only a few steps, they melded into the trees and undergrowth.
 
@@ -805,7 +805,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Wode Elf Traits
 
-Wode elf heroes have access to the following traits.
+[Wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) heroes have access to the following traits.
 
 #### Signature Trait: Wode Elf Glamor
 
@@ -855,9 +855,9 @@ You have the following signature ability. Signature abilities can be used at wil
 
 ## High Elf
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, high elf history describes a better age, before the coming of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) history describes a better age, before the coming of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
-In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
+In the millennia since their creators retired to Arcadia, the [high elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
 ### On High Elves
 
@@ -865,7 +865,7 @@ In the millennia since their creators retired to Arcadia, the high elves built a
 
 "It's not that hard," Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
+The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) escort Llyander at their side. Lord Tear, King of the [High Elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
 
 "They seem like..." Meliora said, searching for the words.
 
@@ -905,7 +905,7 @@ Lord Tear glided down the steps until he was standing, as tall as Llyander, befo
 
 "I'm surprised how kind he is," Jeremy said. "He seems a good king." Llyander chuckled. Wenna noticed. She didn't say anything at first, but eventually she couldn't resist. "What?"
 
-Llyander raised an eyebrow, then walked in front of the children so that as the wode elf spoke, their back was to the king.
+Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) spoke, their back was to the king.
 
 "Do you remember when my cousin's soldiers hid in the wode?" they said, their voice low. "How astonished you were?"
 
@@ -927,7 +927,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### High Elf Traits
 
-High elf heroes have access to the following traits.
+[High elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) heroes have access to the following traits.
 
 #### Signature Trait: High Elf Glamor
 
@@ -979,13 +979,13 @@ But the only [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) the
 
 The gate, or door, or whatever it was started to close. With Dazar on the other side of it.
 
-"Embers!" John called out, but the high elf was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
+"Embers!" John called out, but the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
 
 Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his speed.
 
 The rectangular, toothed egress demon was twelve feet tall at least, the giant almost matching its immense size.
 
-In the instant before the maw of teeth and eyeballs shut, the giant grabbed each side of the mouth, and pulled. Muscles the size of hounds bulged. Tendons like ship cables stood taught, quivering with strain. "Not today!" the giant shouted. "Not TODAY!!"
+In the instant before the maw of teeth and eyeballs shut, the giant [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) each side of the mouth, and pulled. Muscles the size of hounds bulged. Tendons like ship cables stood taught, quivering with strain. "Not today!" the giant shouted. "Not TODAY!!"
 
 As the giant forced the maw open, glowing tentacles writhed out of it, wrapping around the giant's arms, legs, neck. "Hahah!" the figure laughed. "You'll find... MY flesh..." the giant's bravado hid the fact that he was at the uttermost limits of his strength. "... too RICH... for your taste!"
 
@@ -1107,7 +1107,7 @@ So, we arrive here at the end of your first semester of [Human](REL_PATH_PREFIXR
 
 I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)?
 
-I am a high elf, as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
+I am a [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
 What do I think of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)? Well, I will tell you.
 
@@ -1437,7 +1437,7 @@ Whenever a creature deals damage to you that leaves you dying, you can make a fr
 
 #### Purchased Orc Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX).)
 
 ##### Bloodfire Rush (1 Point)
 
@@ -1475,7 +1475,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Eh?" the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) before," he said.
+"Oh," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) before," he said.
 
 "Are you kidding me?" Jackson said.
 
@@ -1485,7 +1485,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) before."
 
-Jackson looked at his friend, the high elf void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
+Jackson looked at his friend, the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
 "Well, we're adorable," the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
@@ -1521,7 +1521,7 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) looked at the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
@@ -1533,7 +1533,7 @@ The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) looked at th
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the high elf void mage, then back at the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) void mage, then back at the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
@@ -1585,13 +1585,13 @@ You have the following ability.
 
 ###### Shadowmeld
 
-*You become an actual shadow.*
+*You become an actual [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX).*
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect:** You flatten yourself into a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
@@ -1605,7 +1605,7 @@ You have 4 ancestry points to spend on the following traits. (*Quick Build:* Cor
 
 ##### Corruption Immunity (1 Point)
 
-Your innate shadow magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
+Your innate [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
 
 ##### Fearless (2 Points)
 
@@ -1753,9 +1753,9 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
-Extraordinarily rare in Orden, time raiders thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
+Extraordinarily rare in Orden, [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. Time raiders also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
+In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
 ### On Time Raiders
 
@@ -1763,7 +1763,7 @@ In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them h
 
 "Is it that your brain is so small you must *talk* in order to *think*?" The woman's smile was a sneer.
 
-Lycaon strode toward the alien, grabbed a length of chain around her waist and yanked on it, pulling it taut so the chain around her neck tightened. "You are going to die in any event," he said. "If you wish to deny me the pleasure of hearing you howl and scream for mercy, tell me what I want to know now and my dogs will kill you quickly."
+Lycaon strode toward the alien, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) a length of chain around her waist and yanked on it, pulling it taut so the chain around her neck tightened. "You are going to die in any event," he said. "If you wish to deny me the pleasure of hearing you howl and scream for mercy, tell me what I want to know now and my dogs will kill you quickly."
 
 Up close, she could see the fine stitching along Lycaon's cheeks and forehead, the very slight differences in skin tone that showed his skin was not his own.
 
@@ -1775,7 +1775,7 @@ He struck a casual, jaunty pose. "Where is your worldship?" he said in a more re
 
 The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Like barking *thrazz*, you sound to me. Who holds your leash I wonder? For surely a microbrain such as you could not command any more than these rabble." She nodded her head at the other twenty or so war dogs.
 
-Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was dazed but she shook it off and laughed.
+Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) but she shook it off and laughed.
 
 "Look how easily this one is goaded!" she said. She spat out dark-blue blood and turned to the peasants gathered. "You people! Why do you let yourselves be cowed by these... *bits*? Bits of people kludged together? Even the least of you is worth more than these."
 
@@ -1795,7 +1795,7 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) in working battle plate. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) with his battle-staff tipped with an hourglass. An [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) with a huge battleaxe casually resting on her shoulder. A [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. An unarmed [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) towering over everyone. And a [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX). Of all the motley band, it was the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) in working battle plate. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) with his battle-staff tipped with an hourglass. An [orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) with a huge battleaxe casually resting on her shoulder. A [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) with twin rapiers in his hands. A tall willowy [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) with night-black skin and golden hair. An unarmed [hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX) towering over everyone. And a [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX). Of all the motley band, it was the [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them against the certain fear of their commander.
 
@@ -1813,7 +1813,7 @@ Not the war dogs—they were fanatics.
 
 "Allies of all those who suffer, and seek justice," the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) announced. Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
 
-"A kuran'zoi," the high elf said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
+"A kuran'zoi," the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
 
 John watched the alien. They sneered their approval at Ember's summary. That was enough for Sir John, they could work out the details later. After everything they'd been through before, he trusted Embers explicitly.
 
@@ -1829,9 +1829,9 @@ Lycaon cocked his head at Sir John and took a few foolish steps toward the [tact
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
-Ember's eyes flashed into a starfield. The time raider's chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
+Ember's eyes flashed into a starfield. The [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
 
-The time raider's right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
+The [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
 John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
 
@@ -1865,7 +1865,7 @@ Your senses extend past mundane obscuration and the veil of the future alike. Yo
 
 ##### Four-Armed Athletics (1 Point)
 
-Your unique physiology enhances your movement. You gain an edge on tests that use the Climb, Gymnastics, or Swim skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Gymnastics, or [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) skills when you can use all your arms in the attempt.
 
 ##### Four-Armed Martial Arts (2 Points)
 
@@ -1877,7 +1877,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ###### Concussive Slam
 
-*You slam an invisible force down upon the target.*
+*You slam an [invisible force](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Invisible%20ForceREL_PATH_SUFFIX) down upon the target.*
 
 | **Psionic, Ranged, Strike** | Main action                   |
 | --------------------------- | ----------------------------- |

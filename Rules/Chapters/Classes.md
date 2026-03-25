@@ -154,7 +154,7 @@ If you make a ranged strike while any enemy is adjacent to you (within 1 square)
 
 Some abilities have a melee distance and a ranged distance. When you use such an ability, you choose whether to use it as a melee or a ranged ability.
 
-An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the Cloak and Dagger kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See [Chapter 6: Kits](#page-231-0).)
+An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See [Chapter 6: Kits](#page-231-0).)
 
 ##### Self
 
@@ -340,7 +340,7 @@ Reading the ability this way prevents a lot of back and forth. You don't need to
 
 ##### Adjusting Potencies
 
-Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX)'s Judgment ability and the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)'s Null Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
+Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX)'s Judgment ability and the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)'s [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
 
 ##### Spending Resources on Potencies
 
@@ -379,7 +379,7 @@ Many abilities that require power rolls also have effect entries describing addi
 
 ##### Actions Within Actions
 
-If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)'s Black Ash Teleport ability is a maneuver that allows you to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
+If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)'s Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability is a maneuver that allows you to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
 
 #### Spend Heroic Resource
 
@@ -389,7 +389,7 @@ Some abilities have a "Spend X [Heroic Resource]" entry in the body of the abili
 
 The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest bonus—from each use of the ability applies. The most recently used ability applies for determining duration.
 
-For example, the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)'s Null Field ability reduces the potencies of enemies within the field by 1. If two allied [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) each have their Null Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
+For example, the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)'s [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability reduces the potencies of enemies within the field by 1. If two allied [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) each have their [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
 
 Different effects that impose the same condition (see [Conditions](#page-91-2) below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (imposing a bane on the target's power rolls), the target isn't [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) twice to impose a double bane on those rolls. A character who is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) by an enemy can't be [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their recovery value, the hero's recovery value is halved only once.
 
@@ -463,7 +463,7 @@ A creature who is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFF
 
 A creature who has another creature [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) can use a maneuver to move the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature into an unoccupied space adjacent to them.
 
-A creature can release a creature they have [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at any time to end that condition (no action required). A [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature can attempt to escape being [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature teleports, or if either the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
+A creature can release a creature they have [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at any time to end that condition (no action required). A [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature can attempt to escape being [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), or if either the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 
 A creature can grab only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can grab any creature larger than them with a size equal to or less than their Might score.
 
@@ -471,7 +471,7 @@ Unless otherwise indicated, a creature can grab only one creature at a time.
 
 ##### Prone
 
-While a creature is [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature must [crawl](REL_PATH_PREFIXRules/Movement/CrawlREL_PATH_SUFFIX) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). If they are climbing, flying, or jumping when knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they fall.
+While a creature is [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature must [crawl](REL_PATH_PREFIXRules/Movement/CrawlREL_PATH_SUFFIX) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). If they are [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or [jumping](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) when knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they fall.
 
 Unless the ability or effect that imposed the [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) condition says otherwise, a [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature can stand up using the Stand Up maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)). A creature adjacent to a willing [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature can likewise use the Stand Up maneuver to make that creature stand up.
 
@@ -479,7 +479,7 @@ Unless the ability or effect that imposed the [prone](REL_PATH_PREFIXRules/Condi
 
 A creature who is [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
 
-If a creature teleports while [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX), that condition ends.
+If a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) while [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX), that condition ends.
 
 ##### Slowed
 
@@ -632,7 +632,7 @@ The first time on a turn that you use your Judgment ability to judge a creature,
 
 #### Kit
 
-You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* Warrior Priest.)
+You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX).)
 
 #### My Life for Yours
 
@@ -995,7 +995,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See [Chap
 
 #### 2nd-Level Order Features
 
-Your censor order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 
@@ -1031,7 +1031,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 #### 2nd-Level Order Ability
 
-Your censor order grants your choice of one of two heroic abilities.
+Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Exorcist Ability
 
@@ -1277,7 +1277,7 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ##### Windwalk
 
-While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.
 
 ##### Wode Road
 
@@ -1534,7 +1534,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 <!-- -->
 > ###### Guided to Your Side
 >
-> *You concentrate on a friend and teleport to them.*
+> *You concentrate on a friend and [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to them.*
 >
 > | **Magic, Ranged** |           **Main action** |
 > | ----------------- | ------------------------: |
@@ -1633,7 +1633,7 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, devils, and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 
@@ -1750,7 +1750,7 @@ Choose one of the following abilities.
 > - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 > - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 >
-> **Effect:** This ability gains an edge against demons, devils, undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
+> **Effect:** This ability gains an edge against demons, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
 <!-- -->
 > ###### Terror Manifest (11 Wrath)
@@ -1903,18 +1903,18 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 ###### Conduit Advancement Table
 
-| Level | Features                                                                                                                         | Abilities                     | Domain Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
-| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, Conduit Ward, Conduit Abilities | Two signature, 3, 5           | -                |
-| 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                        | Two signature, 3, 5           | 5                |
-| 3rd   | Minor Miracle, 7-Piety Ability                                                                                                   | Two signature, 3, 5, 7        | 5                |
-| 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                   | Two signature, 3, 5, 7        | 5                |
-| 5th   | Domain Feature, 9-Piety Ability                                                                                                  | Two signature, 3, 5, 7, 9     | 5                |
-| 6th   | Burgeoning Saint, Perk, Domain Ability                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                       | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                           | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                          | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | Avatar, Characteristic Increase, Divine Power, Most Pious, Perk, Skill Increase                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| Level | Features                                                                                                                                                                                                                                       | Abilities                     | Domain Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
+| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Ward, [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Abilities | Two signature, 3, 5           | -                |
+| 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                                                                                                                                      | Two signature, 3, 5           | 5                |
+| 3rd   | Minor Miracle, 7-Piety Ability                                                                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                |
+| 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                |
+| 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9     | 5                |
+| 6th   | Burgeoning Saint, Perk, Domain Ability                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                                                                                                                                        | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | Avatar, Characteristic Increase, Divine Power, Most Pious, Perk, Skill Increase                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -2205,7 +2205,7 @@ Choose one of the following triggered actions. (*Quick Build:* Word of Guidance.
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
 
 ##### Prayer of Destruction
 
@@ -2879,7 +2879,7 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ###### Windwalk
 
-While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.
 
 ###### Wode Road
 
@@ -3203,7 +3203,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 <!-- -->
 > ###### Guided to Your Side
 >
-> *You concentrate on a friend and teleport to them.*
+> *You concentrate on a friend and [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to them.*
 >
 > | **Magic, Ranged** |           **Main action** |
 > | ----------------- | ------------------------: |
@@ -3613,18 +3613,18 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ###### Elementalist Advancement Table
 
-| Level | Features                                                                                                                                                                                            | Abilities                           |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, Elementalist Ward, Elementalist Abilities | Two signature, 3, 5                 |
-| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                 | Two signature, 3, 5, 5              |
-| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
-| 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                   | Two signature, 3, 5, 5, 7           |
-| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
-| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | Characteristic Increase, Mantle of Quintessence, Surging Essence, Skill Increase                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| Level | Features                                                                                                                                                                                                                                                                                                                    | Abilities                           |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward, [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Abilities | Two signature, 3, 5                 |
+| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5              |
+| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7           |
+| 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
+| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7, 9        |
+| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | Characteristic Increase, Mantle of Quintessence, Surging Essence, Skill Increase                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ### 1st-Level Features
 
@@ -3639,7 +3639,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
 - **Rot** is the element of decay. Rot abilities harm and debuff enemies.
-- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.
+- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
 You choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
@@ -3873,7 +3873,7 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
 
 ##### Enchantment of Battle
 
@@ -3960,7 +3960,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ###### Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to teleport.*
+> *You absorb the life energy of another creature and use it to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX).*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |
@@ -4232,13 +4232,13 @@ At the start of a combat encounter, you gain a number of surges equal to your Vi
 
 ##### Disciple of the Green
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
 
-You choose a specific animal and appearance while in animal form. For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an animal form, your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
+You choose a specific animal and appearance while in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
-You can revert back to your true form as a maneuver. You can't enter an animal form unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
+You can revert back to your true form as a maneuver. You can't enter an [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
 
 ###### Green Animal Forms Table
 
@@ -4547,7 +4547,7 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ##### Hide of Tenfold Shields
 
-Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an animal form in combat, which is added to any temporary Stamina provided by the animal form.
+Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) in combat, which is added to any temporary Stamina provided by the [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX).
 
 Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
 
@@ -4701,7 +4701,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 <!-- -->
 > ###### Meteor (9 Essence)
 >
-> *You teleport the target into the air and let the ground and the elemental force of fire do the rest.*
+> *You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the target into the air and let the ground and the elemental force of fire do the rest.*
 >
 > | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 > | ------------------------------------ | ----------------------------: |
@@ -4779,9 +4779,9 @@ Additionally, your Mantle of Essence improves. While in the area of the aura, en
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your Disciple of the Green feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) as a free maneuver the first time you use your Disciple of the Green feature on your turn.
 
-Additionally, whenever you use your Disciple of the Green feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your Disciple of the Green feature, you can select an additional [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
@@ -4826,7 +4826,7 @@ You have the following ability.
 >
 > > **Tunneler**
 > >
-> > When the source burrows, they create a size 2 tunnel.
+> > When the source [burrows](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), they create a size 2 tunnel.
 >
 > > **Earth Harness**
 > >
@@ -5074,22 +5074,22 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **Recoveries:** 10
 
-**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
+**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX), Nature.)
 
 ###### Fury Advancement Table
 
-| Level | Features                                                                                                                        | Abilities                 | Aspect Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, Fury Abilities           | Signature, 3, 5           | -                |
-| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                            | Signature, 3, 5           | 5                |
-| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                              | Signature, 3, 5, 7        | 5                |
-| 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill | Signature, 3, 5, 7        | 5                |
-| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                |
-| 6th   | Marauder of the Primordial Chaos, Perk, Aspect Ability                                                                          | Signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Elemental Form, Greater Ferocity, Growing Ferocity Improvement, Skill                                  | Signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Harbinger of the Primordial Chaos, Aspect Ability                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | Chaos Incarnate, Characteristic Increase, Growing Ferocity Improvement, Perk, Primordial Ferocity, Primordial Power, Skill      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| Level | Features                                                                                                                                                                  | Abilities                 | Aspect Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, [Fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) Abilities | Signature, 3, 5           | -                |
+| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                      | Signature, 3, 5           | 5                |
+| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                        | Signature, 3, 5, 7        | 5                |
+| 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill                                           | Signature, 3, 5, 7        | 5                |
+| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                                                                        | Signature, 3, 5, 7, 9     | 5                |
+| 6th   | Marauder of the Primordial Chaos, Perk, Aspect Ability                                                                                                                    | Signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Elemental Form, Greater Ferocity, Growing Ferocity Improvement, Skill                                                                            | Signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | Harbinger of the Primordial Chaos, Aspect Ability                                                                                                                         | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | Chaos Incarnate, Characteristic Increase, Growing Ferocity Improvement, Perk, Primordial Ferocity, Primordial Power, Skill                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -5215,7 +5215,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 >
 > **Trigger:** You lose Stamina and are not dying.
 >
-> **Effect:** You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.
+> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) or hybrid form.
 >
 > **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
@@ -5637,7 +5637,7 @@ Additionally, you have a bonus to stability equal to your Might score.
 
 You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
 
-When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in animal form (see Stormwight Kits).
+When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) (see Stormwight Kits).
 
 ##### See Through Their Tricks
 
@@ -5833,7 +5833,7 @@ As a 6th-level [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), you gai
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are frightened of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you (save ends).
 
 #### Primordial Portal
 
@@ -6266,9 +6266,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in animal form or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in animal form, you treat your Renown as 2 higher than usual.
+> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), you treat your Renown as 2 higher than usual.
 >
-> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another animal form, into your hybrid form, or back into your true form.
+> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), into your hybrid form, or back into your true form.
 
 ##### Primordial Storm
 
@@ -6280,7 +6280,7 @@ You wear no armor and wield only your unarmed strikes—which become devastating
 
 ##### Kit Bonuses
 
-These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
+These bonuses apply in your true form, your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
 
 ##### Signature Ability
 
@@ -6560,18 +6560,18 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 ###### Null Advancement Table
 
-| Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Null Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Null Speed, Psionic Augmentation, Psionic Martial Arts, Null Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                          | Two signature, 3, 5           | 5                   |
-| 3rd   | Psionic Leap, Reorder, 7-Discipline Ability                                                                                                         | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced Null Field, Perk, Regenerative Field, Skill                                       | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Elemental Absorption, Elemental Buffer, Perk, Tradition Ability                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, Discipline Mastery Improvement, Psi Boost, Improved Body, Skill                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | I Am the Weapon, Tradition Ability                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, Discipline Mastery Improvement, Manifold Body, Manifold Resonance, Order, Perk, Skill                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                            | Abilities                     | Tradition Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Tradition, Discipline, [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field, Inertial Shield, Discipline Mastery, [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Speed, Psionic Augmentation, Psionic Martial Arts, [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5           | 5                   |
+| 3rd   | Psionic Leap, Reorder, 7-Discipline Ability                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field, Perk, Regenerative Field, Skill                                                                                                                                                                                                   | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Elemental Absorption, Elemental Buffer, Perk, Tradition Ability                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, Discipline Mastery Improvement, Psi Boost, Improved Body, Skill                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | I Am the Weapon, Tradition Ability                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Characteristic Increase, Discipline Mastery Improvement, Manifold Body, Manifold Resonance, Order, Perk, Skill                                                                                                                                                                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -6595,7 +6595,7 @@ As your mastery of your body and tradition grows, it imbues you with a Heroic Re
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your Victories. At the start of each of your turns during combat, you gain 2 discipline.
 
-Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
+Additionally, the first time each combat round that an enemy in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
 
 You lose any remaining discipline at the end of the encounter.
 
@@ -6620,7 +6620,7 @@ You project a psionic field of order around your body, dampening the effects of 
 >
 > **Effect:** Each target reduces their potencies by 1.
 >
-> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your Null Field one of the following additional effects until the start of your next turn:
+> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field one of the following additional effects until the start of your next turn:
 >
 > - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 > - Inertial Anchor: Any target who starts their turn in the area can't shift.
@@ -6678,14 +6678,14 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 
 ###### Cryokinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                   |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 2 surges.                                                  |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                       |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.       |
+| Discipline      | Benefit                                                                                                                                                                                              |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead.    |
+| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 1 surge.  |
+| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                |
+| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 2 surges. |
+| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                          |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.          |
 
 ##### Metakinetic Mastery
 
@@ -6898,7 +6898,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > | ----------------- | ----------------------------: |
 > | **📏 2 burst**    | **🎯 Each enemy in the area** |
 >
-> **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your Null Field ability increases by 1. At the end of your current turn, each enemy in the area of your Null Field ability takes psychic damage equal to your Intuition score.
+> **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability takes psychic damage equal to your Intuition score.
 
 <!-- -->
 > ###### Relentless Nemesis (3 Discipline)
@@ -7100,7 +7100,7 @@ Choose one of the following heroic abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+> **Effect:** Until the start of your next turn, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
 
 ##### 2nd-Level Metakinetic Ability
 
@@ -7148,7 +7148,7 @@ You can long [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) and high 
 
 #### Reorder
 
-At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your Null Field ability.
+At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability.
 
 #### 7-Discipline Ability
 
@@ -7157,13 +7157,13 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 <!-- -->
 > ###### Absorption Field (7 Discipline)
 >
-> *Your null field absorbs kinetic energy.*
+> *Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) field absorbs kinetic energy.*
 >
 > | **Psionic** | **Maneuver** |
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+> **Effect:** Until the end of the encounter, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
 
 <!-- -->
 > ###### Molecular Rearrangement Field (7 Discipline)
@@ -7174,7 +7174,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+> **Effect:** Until the end of the encounter, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 <!-- -->
 > ###### Stabilizing Field (7 Discipline)
@@ -7185,18 +7185,18 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
+> **Effect:** Until the end of the encounter, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
 
 <!-- -->
 > ###### Synapse Field (7 Discipline)
 >
-> *Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.*
+> *Attacks made by allies in your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) field disrupt your enemies' thoughts, causing psychic pain.*
 >
 > | **Psionic** | **Maneuver** |
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+> **Effect:** Until the end of the encounter, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
 
 ### 4th-Level Features
 
@@ -7212,7 +7212,7 @@ Your Discipline Mastery feature provides additional benefits when you have 8 or 
 
 #### Enhanced Null Field
 
-While using your Null Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
+While using your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
 
 #### Perk
 
@@ -7220,7 +7220,7 @@ You gain one perk of your choice.
 
 #### Regenerative Field
 
-The first time each combat round that an enemy in the area of your Null Field ability uses a main action, you gain 2 discipline instead of 1.
+The first time each combat round that an enemy in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability uses a main action, you gain 2 discipline instead of 1.
 
 #### Skill
 
@@ -7248,7 +7248,7 @@ You steel yourself for imminent danger by tapping into your body's cold energy. 
 
 #### Inertial Fulcrum
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your Null Field ability equal to your Intuition score.
+Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability equal to your Intuition score.
 
 #### Instant Action
 
@@ -7303,7 +7303,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > | ----------- | ----------: |
 > | **📏 Self** | **🎯 Self** |
 >
-> **Effect:** You [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+> **Effect:** You [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 <!-- -->
 > ###### Synaptic Reset (9 Discipline)
@@ -7506,15 +7506,15 @@ Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants y
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your Null Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 
-When you take the Disengage move action, one ally in the area of your Null Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the Disengage move action, one ally in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.
+As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability also gains this benefit.
 
 #### 11-Discipline Ability
 
@@ -7523,7 +7523,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 <!-- -->
 > ###### Arcane Purge (11 Discipline)
 >
-> *You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
+> *You focus your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) field into a pressure point strike that prevents your foe from channeling sorcery.*
 >
 > | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 > | ---------------------------------- | ------------------: |
@@ -7578,7 +7578,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 > | ---------------------- | --------------------------: |
 > | **📏 Self; see below** | **🎯 Self or one creature** |
 >
-> **Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
+> **Trigger:** The target takes damage from another creature's ability while in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability.
 >
 > **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends). While the triggering creature is [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
@@ -7720,15 +7720,15 @@ When you gain discipline at the start of each of your turns during combat, you g
 
 #### Manifold Resonance
 
-Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your Null Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
+Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your Psi Boost feature to that ability. Additionally, you and allies in the area of your Null Field ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your Psi Boost feature to that ability. Additionally, you and allies in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability ignore banes and double banes on your power rolls.
 
 #### Order
 
 You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.
 
-At the start of a combat encounter, you can spend 1 order to increase the size of your Null Field by 1 until the end of the encounter.
+At the start of a combat encounter, you can spend 1 order to increase the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field by 1 until the end of the encounter.
 
 Order remains until you spend it.
 
@@ -7742,7 +7742,7 @@ You gain one skill of your choice.
 
 ## Shadow
 
-Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
+Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
 
 **As a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 
@@ -7773,18 +7773,18 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ###### Shadow Advancement Table
 
-| Level | Features                                                                                                            | Abilities                 | College Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| 1st   | Shadow College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, Shadow Abilities  | Signature, 3, 5           | -                 |
-| 2nd   | College Feature, Perk, College Ability                                                                              | Signature, 3, 5           | 5                 |
-| 3rd   | Careful Observation, 7-Insight Ability                                                                              | Signature, 3, 5, 7        | 5                 |
-| 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                   | Signature, 3, 5, 7        | 5                 |
-| 5th   | College Feature, 9-Insight Ability                                                                                  | Signature, 3, 5, 7, 9     | 5                 |
-| 6th   | Perk, Umbral Form, College Ability                                                                                  | Signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | Characteristic Increase, Keen Insight, Skill, Careful Observation Improvement, Ventriloquist                        | Signature, 3, 5, 7, 9     | 5, 9              |
-| 8th   | College Feature, Perk, 11-Insight Ability                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9              |
-| 9th   | Gloom Squad, College Ability                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | Characteristic Increase, Death Pool, Perk, Skill, Careful Observation Improvement, Improved Umbral Form, Subterfuge | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| Level | Features                                                                                                                                                                                                                       | Abilities                 | College Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----------------- |
+| 1st   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Abilities | Signature, 3, 5           | -                 |
+| 2nd   | College Feature, Perk, College Ability                                                                                                                                                                                         | Signature, 3, 5           | 5                 |
+| 3rd   | Careful Observation, 7-Insight Ability                                                                                                                                                                                         | Signature, 3, 5, 7        | 5                 |
+| 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                                                                                                                              | Signature, 3, 5, 7        | 5                 |
+| 5th   | College Feature, 9-Insight Ability                                                                                                                                                                                             | Signature, 3, 5, 7, 9     | 5                 |
+| 6th   | Perk, Umbral Form, College Ability                                                                                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9              |
+| 7th   | Characteristic Increase, Keen Insight, Skill, Careful Observation Improvement, Ventriloquist                                                                                                                                   | Signature, 3, 5, 7, 9     | 5, 9              |
+| 8th   | College Feature, Perk, 11-Insight Ability                                                                                                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9              |
+| 9th   | Gloom Squad, College Ability                                                                                                                                                                                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | Characteristic Increase, Death Pool, Perk, Skill, Careful Observation Improvement, Improved Umbral Form, Subterfuge                                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
 ### 1st-Level Features
 
@@ -7965,7 +7965,7 @@ You have the following ability.
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Cloak and Dagger.)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](REL_PATH_PREFIXRules/Kits/Cloak%20and%20DaggerREL_PATH_SUFFIX).)
 
 #### Shadow Abilities
 
@@ -8071,7 +8071,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 <!-- -->
 > ###### Eviscerate (3 Insight)
 >
-> *You leave your foe bleeding out after a devastating attack.*
+> *You leave your foe [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) out after a devastating attack.*
 >
 > | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 > | --------------------------------- | ------------------: |
@@ -8467,7 +8467,7 @@ If the creature is the same size as you, you can disguise yourself as them using
 
 ##### Trail of Cinders
 
-Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash Teleport ability.
+Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability.
 
 Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The creature appears in an unoccupied space adjacent to the space into which you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). If no such space exists, they can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with you.
 
@@ -8475,7 +8475,7 @@ Additionally, you can now bring an adjacent willing creature along with you when
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not flying, you fall.
+Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
 
 #### 9-Insight Ability
 
@@ -8484,7 +8484,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 <!-- -->
 > ###### Blackout (9 Insight)
 >
-> *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
+> *You cause a plume of [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) to erupt from your eyes and create a cloud of darkness.*
 >
 > | **Area, Magic** |   **Maneuver** |
 > | --------------- | -------------: |
@@ -8553,7 +8553,7 @@ You gain one perk of your choice.
 
 #### Umbral Form
 
-As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
+As a maneuver, you lose control of yourself, becoming a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
 - You can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
@@ -8591,13 +8591,13 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Cinderstorm (9 Insight)
 >
-> *You teleport your friends in a burst of ash and fire.*
+> *You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) your friends in a burst of ash and fire.*
 >
 > | **Magic**      |                          **Maneuver** |
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+> **Effect:** Each target can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. For each target in addition to you who [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -8745,7 +8745,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Assassinate (11 Insight)
 >
-> *A practiced attack will instantly kill an already weakened foe.*
+> *A practiced attack will instantly kill an already [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) foe.*
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
@@ -8762,7 +8762,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Shadowgrasp (11 Insight)
 >
-> *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
+> *The shadows around you give way, allowing the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) creature within you to grasp at your foes.*
 >
 > | **Area, Magic** |               **Main action** |
 > | --------------- | ----------------------------: |
@@ -8821,7 +8821,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Cacophony of Cinders (11 Insight)
 >
-> *You tumble through the battle, stabbing foes and teleporting allies.*
+> *You tumble through the battle, stabbing foes and [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) allies.*
 >
 > | **Magic, Melee, Weapon** | **Main action** |
 > | ------------------------ | --------------: |
@@ -8948,9 +8948,9 @@ You can target three creatures simultaneously with your Careful Observation abil
 
 #### Improved Umbral Form
 
-You gain full control over the shadow creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to unoccupied spaces of your choice within that location. Each creature who teleports this way is invisible for 1 hour or until they use an ability.
+While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to unoccupied spaces of your choice within that location. Each creature who [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) this way is invisible for 1 hour or until they use an ability.
 
 #### Subterfuge
 
@@ -8995,18 +8995,18 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 ###### Tactician Advancement Table
 
-| Level | Features                                                                                                                    | Abilities      | Doctrine Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
-| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5           | -                  |
-| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                    | 3, 5           | 5                  |
-| 3rd   | Out of Position, 7-Focus Ability                                                                                            | 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                       | 3, 5, 7        | 5                  |
-| 5th   | Doctrine Feature, 9-Focus Ability                                                                                           | 3, 5, 7, 9     | 5                  |
-| 6th   | Master of Arms, Perk, Doctrine Ability                                                                                      | 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, Heightened Focus, Seize the Initiative, Skill, Doctrine Feature                                    | 3, 5, 7, 9     | 5, 9               |
-| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                    | 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | Grandmaster of Arms, Doctrine Ability                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Command, Perk, Skill, True Focus, Warmaster                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| Level | Features                                                                                                                                                                             | Abilities      | Doctrine Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------ |
+| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, [Tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) Abilities | 3, 5           | -                  |
+| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                                                                             | 3, 5           | 5                  |
+| 3rd   | Out of Position, 7-Focus Ability                                                                                                                                                     | 3, 5, 7        | 5                  |
+| 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                                                                                | 3, 5, 7        | 5                  |
+| 5th   | Doctrine Feature, 9-Focus Ability                                                                                                                                                    | 3, 5, 7, 9     | 5                  |
+| 6th   | Master of Arms, Perk, Doctrine Ability                                                                                                                                               | 3, 5, 7, 9     | 5, 9               |
+| 7th   | Characteristic Increase, Heightened Focus, Seize the Initiative, Skill, Doctrine Feature                                                                                             | 3, 5, 7, 9     | 5, 9               |
+| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                                                                             | 3, 5, 7, 9, 11 | 5, 9               |
+| 9th   | Grandmaster of Arms, Doctrine Ability                                                                                                                                                | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | Characteristic Increase, Command, Perk, Skill, True Focus, Warmaster                                                                                                                 | 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ### 1st-Level Features
 
@@ -9041,7 +9041,7 @@ Though you can't gain focus outside of combat, you can use your heroic abilities
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), but they might appear in future products.)
 
 <!-- -->
-> **Tactician Abilities Explained**
+> **[Tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) Abilities Explained**
 >
 > Many of the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s abilities are the actual commands they give their friends!
 
@@ -9144,11 +9144,11 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 
 #### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* Shining Armor, [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX).)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX), [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX).)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the Shining Armor and [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) and [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1
@@ -9159,7 +9159,7 @@ For example, if you take the Shining Armor and [Sniper](REL_PATH_PREFIXRules/Kit
 - Disengage Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit's damage bonus, then the Battle Grace signature ability from the Martial Artist kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit to deal 3/6/13 damage.
+Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit to deal 3/6/13 damage.
 
 #### Mark
 
@@ -9927,7 +9927,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Squad! Hit and Run! (11 Focus)
 >
-> *I had to pry this secret from the shadow colleges.*
+> *I had to pry this secret from the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) colleges.*
 >
 > | **Ranged**       |            **Main action** |
 > | ---------------- | -------------------------: |
@@ -10089,18 +10089,18 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ###### Talent Advancement Table
 
-| Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Talent Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, Talent Ward, Telepathic Speech, Tradition Features, Talent Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
-| 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                         | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                         | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, Psi Boost, Tradition Ability                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Skill, Vision                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                       | Abilities                     | Tradition Abilities |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Ward, Telepathic Speech, Tradition Features, [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                     | Two signature, 3, 5           | 5                   |
+| 3rd   | Scan, 7-Clarity Ability                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                                                                                                                                                                                           | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, Psi Boost, Tradition Ability                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill                                                                                                                                                                                                                                 | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Skill, Vision                                                                                                                                                                                                                                   | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -10168,7 +10168,7 @@ You have the following ability, which can be used as a ranged free strike.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
 
 ##### Battle Augmentation
 
@@ -10235,7 +10235,7 @@ You have the following ability.
 <!-- -->
 > ###### Accelerate
 >
-> *To your ally, it seems as though the world has slowed down.*
+> *To your ally, it seems as though the world has [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) down.*
 >
 > | **Psionic, Ranged** |                **Maneuver** |
 > | ------------------- | --------------------------: |
@@ -10797,7 +10797,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 >
-> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a human). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
 <!-- -->
 > ###### Force Orbs (7 Clarity)
@@ -10836,7 +10836,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 <!-- -->
 > ###### Soul Burn (7 Clarity)
 >
-> *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
+> *You blast their soul out of their body, leaving it to helplessly float back to a [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) husk.*
 >
 > | **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |
 > | ------------------------------------------- | ------------------: |
@@ -10882,9 +10882,9 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### Suspensor Field
 
-You can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). While flying, your stability is reduced to 0 and can't be increased. If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while flying instead.
+You can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). While [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), your stability is reduced to 0 and can't be increased. If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.
 
-If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.
+If you are strained while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) and are force moved, the forced movement distance gains a +2 bonus.
 
 ### 5th-Level Features
 
@@ -11229,7 +11229,7 @@ You have the following ability.
 > | ----------------- | ---------------------------: |
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), a target's stability is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -11321,7 +11321,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 > - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 >
-> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).
+> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) years, to the minimum of an 18-year-old). Additionally, you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).
 
 <!-- -->
 > ###### Steel (11 Clarity)
@@ -11544,18 +11544,18 @@ There is no visible text in the image provided. The image appears to show a deco
 
 ###### Troubadour Advancement Table
 
-| Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | Troubadour Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, Troubadour Abilities | Signature, 3, 5           | -                   |
-| 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
-| 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                      | Signature, 3, 5, 7        | 5                   |
-| 5th   | Class Act Feature, 9-Drama Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, Spotlight, Class Act Ability                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, A Muse's Muse, Equal Billing, Skill                                                                    | Signature, 5, 7, 9        | 5, 9                |
-| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 9th   | Roar of the Crowd, Class Act Ability                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, Dramaturgy, Greatest of All Time, Perk, Skill                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                            | Abilities                 | Class Act Abilities |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
+| 1st   | [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) Abilities | Signature, 3, 5           | -                   |
+| 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                                                                                                                                            | Signature, 3, 5           | 5                   |
+| 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                  | Signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                                                                                                                                          | Signature, 3, 5, 7        | 5                   |
+| 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, Spotlight, Class Act Ability                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, A Muse's Muse, Equal Billing, Skill                                                                                                                                                                                        | Signature, 5, 7, 9        | 5, 9                |
+| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | Roar of the Crowd, Class Act Ability                                                                                                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Applause, Characteristic Increase, Dramaturgy, Greatest of All Time, Perk, Skill                                                                                                                                                                    | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -11597,7 +11597,7 @@ Though you can't gain drama outside of combat, you can use your heroic abilities
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
 
 <!-- -->
-> **The Auteur Troubadour**
+> **The Auteur [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX)**
 >
 > Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >

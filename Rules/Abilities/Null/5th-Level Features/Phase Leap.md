@@ -66,7 +66,8 @@ effects:
       turn, a static afterimage of you remains in the space you left, and any
       enemy adjacent to your afterimage takes a bane on ability rolls. You can
       use your abilities from your own space or from the space of your
-      afterimage as if you were still there. Additionally, if your Null Field
-      ability is active, your afterimage also projects the aura from that
-      ability, which you control as if you were in the afterimage's space.
+      afterimage as if you were still there. Additionally, if your
+      [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability is
+      active, your afterimage also projects the aura from that ability, which
+      you control as if you were in the afterimage's space.
 ```

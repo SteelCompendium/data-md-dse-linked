@@ -342,20 +342,20 @@ If a hero has enough Renown for their score to influence an NPC during negotiati
 
 ###### NPCs and Impresion Table
 
-| Impression | Example NPC                                                 |
-| ---------- | ----------------------------------------------------------- |
-| 1          | Brigand leader, commoner, shop owner                        |
-| 2          | Knight, local guildmaster, professor                        |
-| 3          | Cult leader, locally known mage, noble lord                 |
-| 4          | Assassin, baron, locally famous entertainer                 |
-| 5          | Captain of the watch in a large city, high priest, viscount |
-| 6          | Count, warlord                                              |
-| 7          | Marquis, world-renowned entertainer                         |
-| 8          | Duke, spymaster                                             |
-| 9          | Archmage, prince                                            |
-| 10         | Demon lord, monarch                                         |
-| 11         | Archdevil, archfey, demigod                                 |
-| 12         | Deity, titan                                                |
+| Impression | Example NPC                                                                                     |
+| ---------- | ----------------------------------------------------------------------------------------------- |
+| 1          | Brigand leader, commoner, shop owner                                                            |
+| 2          | Knight, local guildmaster, professor                                                            |
+| 3          | Cult leader, locally known mage, noble lord                                                     |
+| 4          | Assassin, baron, locally famous entertainer                                                     |
+| 5          | Captain of the watch in a large city, high priest, viscount                                     |
+| 6          | Count, warlord                                                                                  |
+| 7          | Marquis, world-renowned entertainer                                                             |
+| 8          | Duke, spymaster                                                                                 |
+| 9          | Archmage, prince                                                                                |
+| 10         | Demon lord, monarch                                                                             |
+| 11         | Archdevil, archfey, [demigod](REL_PATH_PREFIXRules/Titles/4th%20Echelon/DemigodREL_PATH_SUFFIX) |
+| 12         | Deity, titan                                                                                    |
 
 ##### Influencing Tests
 
@@ -417,7 +417,7 @@ If the NPC's interest is 0, the NPC ends the negotiation without accepting a dea
 
 After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital, and is presently gathering forces to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are now attempting to build an army that can stand against Saxton and defeat the tyrant.
 
-The heroes are engaging in a negotiation with Zola Honeycut, the human guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
+The heroes are engaging in a negotiation with Zola Honeycut, the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
 
 #### Zola's Negotiation Stats
 
@@ -450,7 +450,7 @@ Zola is glad that people are finally opposing Lord Saxton, but is angry that no 
 
 Here's how the negotiation with Zola might play out.
 
-**Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The human holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
+**Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
 
 **James (playing Korvo, a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) could ask for: Linn, Jorn, and Val."*
 

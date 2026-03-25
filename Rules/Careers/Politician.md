@@ -31,7 +31,7 @@ You gain the following career benefits:
 
 **Wealth:** +1
 
-**Perk:** One interpersonal perk (*Quick Build:* Engrossing Monologue.)
+**Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](REL_PATH_PREFIXRules/Perks/Interpersonal%20Perks/Engrossing%20MonologueREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

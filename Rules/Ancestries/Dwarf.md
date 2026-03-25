@@ -134,7 +134,7 @@ You can have one rune active at a time, and can change or remove a rune with 10 
 
 #### Purchased Dwarf Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX), Spark Off Your Skin.)
 
 ##### Great Fortitude (2 Points)
 

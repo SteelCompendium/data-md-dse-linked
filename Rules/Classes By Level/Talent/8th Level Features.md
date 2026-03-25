@@ -49,7 +49,7 @@ You have the following ability.
 > | ----------------- | ---------------------------: |
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), a target's stability is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -141,7 +141,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 > - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 >
-> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).
+> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) years, to the minimum of an 18-year-old). Additionally, you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends).
 
 <!-- -->
 > ###### Steel (11 Clarity)

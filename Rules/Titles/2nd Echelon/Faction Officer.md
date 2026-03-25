@@ -17,7 +17,7 @@ type: title/2nd-echelon
 
 *If you want or need something, talk to me. I have a certain... influence in these parts.*
 
-**Prerequisite:** You have the Faction Member title, and you greatly advance the faction's goals.
+**Prerequisite:** You have the [Faction Member](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Faction%20MemberREL_PATH_SUFFIX) title, and you greatly advance the faction's goals.
 
 **Effect:** You are given a position of great authority in your faction. Additionally, you gain the following benefits:
 

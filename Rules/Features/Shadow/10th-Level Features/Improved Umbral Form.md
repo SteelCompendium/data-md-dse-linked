@@ -38,11 +38,12 @@ metadata:
   type: feature/trait/shadow/10th-level-feature
 effects:
   - effect: >-
-      You gain full control over the shadow creature you become with your Umbral
-      Form feature, and you can end the transformation at will (no action
-      required). Additionally, you are always wreathed in darkness that grants
-      you concealment while in this form, and creatures no longer gain an edge
-      on strikes against you.
+      You gain full control over the
+      [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) creature you
+      become with your Umbral Form feature, and you can end the transformation
+      at will (no action required). Additionally, you are always wreathed in
+      darkness that grants you concealment while in this form, and creatures no
+      longer gain an edge on strikes against you.
 
 
       While you are in your umbral form, you can spend 1 uninterrupted minute
@@ -50,6 +51,6 @@ effects:
       minute, you and each willing creature of your choice within 10 squares of
       you can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
       to unoccupied spaces of your choice within that location. Each creature
-      who teleports this way is invisible for 1 hour or until they use an
-      ability.
+      who [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
+      this way is invisible for 1 hour or until they use an ability.
 ```

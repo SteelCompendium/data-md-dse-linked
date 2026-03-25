@@ -108,7 +108,7 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ###### Windwalk
 
-While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). If you can already [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you have a +2 bonus to speed while [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) instead.
 
 ###### Wode Road
 

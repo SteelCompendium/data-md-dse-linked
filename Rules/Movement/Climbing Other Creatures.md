@@ -30,4 +30,4 @@ While you [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX
 - **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
 - **17+:** You continue to hold on to the creature.
 
-If you are knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) while climbing or riding a creature, you fall and land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) in an adjacent space of your choice, taking damage as usual from the fall.
+If you are knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) while [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or riding a creature, you fall and land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) in an adjacent space of your choice, taking damage as usual from the fall.

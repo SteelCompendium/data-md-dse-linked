@@ -46,5 +46,6 @@ effects:
 
       Additionally, your Defensive Roll ability now allows you to shift up to 5
       squares, including shifting vertically. If you don't end this shift on
-      solid ground and are not flying, you fall.
+      solid ground and are not
+      [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
 ```

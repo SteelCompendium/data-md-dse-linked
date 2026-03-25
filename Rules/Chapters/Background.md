@@ -30,7 +30,7 @@ For our purposes, a hero's culture represents people, not a place. Yes, you migh
 
 Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find the right place for that culture within the world of the campaign.
 
-In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily wode elves. However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) raised in the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
+In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) raised in the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
 
 You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. ([Revenants](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX) are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
 
@@ -41,14 +41,14 @@ You can build your culture one aspect at a time, or you can use the following ta
 | [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)                   | Anjali      | Urban       | Bureaucratic | Academic   |
 | [Dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) | Vastariax   | Secluded    | Bureaucratic | Martial    |
 | [Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)                   | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| Wode elf                                                                        | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| High elf                                                                        | Hyrallic    | Secluded    | Bureaucratic | Martial    |
+| [Wode elf](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)           | Yllyric     | Wilderness  | Bureaucratic | Martial    |
+| [High elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX)           | Hyrallic    | Secluded    | Bureaucratic | Martial    |
 | [Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX)                 | Vhoric      | Rural       | Communal     | Labor      |
 | [Human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)                   | Vaslorian   | Urban       | Communal     | Labor      |
 | [Memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX)               | Axiomatic   | Nomadic     | Communal     | Academic   |
 | [Orc](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX)                       | Kalliak     | Wilderness  | Communal     | Creative   |
 | [Polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)                 | Khoursirian | Urban       | Communal     | Creative   |
-| Time raider                                                                     | Voll        | Nomadic     | Communal     | Martial    |
+| [Time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)     | Voll        | Nomadic     | Communal     | Martial    |
 
 ###### Archetypical Cultures Table
 
@@ -151,7 +151,7 @@ A communal culture is a place where all members of the culture are considered eq
 
 Many communal cultures operate outside settled lands, sticking to the wilds, a specific district in a larger settlement, city sewers, forgotten ruins, or other isolated places. For even when such cultures are harmless, their members know that outsiders might try to impose rules upon them if they live in the same place. As such, many folks in communal cultures focus on fending for themselves while avoiding the danger that other groups can represent.
 
-**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* Jump.)
+**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX).)
 
 #### Upbringing
 
@@ -187,7 +187,7 @@ Your hero grew up among folk who performed activities that other people—whethe
 
 A hero with a martial upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 
-**Skill Options:** One of the following: Blacksmithing or Fletching from the crafting skill group; Climb, Endurance, or Ride from the exploration group; Intimidate from the interpersonal group; Alertness or Track from the intrigue group; or Monsters or Strategy from the lore skill group (*Quick Build:* Intimidate.)
+**Skill Options:** One of the following: Blacksmithing or Fletching from the crafting skill group; [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Endurance, or Ride from the exploration group; Intimidate from the interpersonal group; Alertness or Track from the intrigue group; or Monsters or Strategy from the lore skill group (*Quick Build:* Intimidate.)
 
 ##### Noble
 
@@ -247,7 +247,7 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Caelian                 | Orden denizens                                                                                                                  | Common language of Orden                                                         |
 | Filliaric               | Angulotls                                                                                                                       |                                                                                  |
 | The First<br/> Language | Elder dragons                                                                                                                   | Language of magic                                                                |
-| Hyrallic                | High elves                                                                                                                      | Language of interspecies diplomacy                                               |
+| Hyrallic                | [High elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX)                                                         | Language of interspecies diplomacy                                               |
 | Illyvric                | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) elves                                                              |                                                                                  |
 | Kalliak                 | [Orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX)                                                                      | Offshoot of Zaliac                                                               |
 | Kethaic                 | Kobolds                                                                                                                         | Patois of Vastariax and Caelian                                                  |
@@ -263,16 +263,16 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Variac                  | Olothec, trolls,<br/> voiceless talkers                                                                                         | Common language of the World Below                                               |
 | Vastariax               | Dragons, dragon<br/> knights                                                                                                    |                                                                                  |
 | Vhoric                  | [Hakaan](REL_PATH_PREFIXRules/Ancestries/HakaanREL_PATH_SUFFIX)                                                                 | Offshoot of the stone giant dialect of High<br/> Kuric                           |
-| Voll                    | Time raiders                                                                                                                    |                                                                                  |
-| Yllyric                 | Wode elves                                                                                                                      | Language of druids                                                               |
+| Voll                    | [Time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX)                                                    |                                                                                  |
+| Yllyric                 | [Wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX)                                                         | Language of druids                                                               |
 | Za'hariax               | Overminds                                                                                                                       |                                                                                  |
 | Zaliac                  | [Dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)                                                                 | Language of engineering                                                          |
 
 ##### Language Usage
 
-**Hyrallic** is the primary language of the high elves in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX). As a result, while anyone who lives near or trades with a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) culture probably speaks at least a little Caelian, most nobles across all [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
+**Hyrallic** is the primary language of the [high elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX). As a result, while anyone who lives near or trades with a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) culture probably speaks at least a little Caelian, most nobles across all [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX) make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
-**Yllyric** is the cultural language of wode elves, and also the common language among those who defend and protect the natural forests of Orden.
+**Yllyric** is the cultural language of [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX), and also the common language among those who defend and protect the natural forests of Orden.
 
 Within any document concerning the workings of machines, masonry, or geology, you are likely to find a healthy supply of jargon using **Zaliac**, the most popular [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) language. Even when such texts aren't fully written in Zaliac, they use a lot of [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) language when describing esoteric, complex ideas.
 
@@ -292,17 +292,17 @@ The Dead Languages table shows some of the dead languages of Orden, and the mode
 
 ###### Dead Languages Table
 
-| Language     | Ancestry                   | Related Languages  | Common Topics                            |
-| ------------ | -------------------------- | ------------------ | ---------------------------------------- |
-| Ananjali     | Old hobgoblin              | Anjali             | Zodiakol, the bloodmetal                 |
-| High Rhyvian | Sun elf                    | Hyrallic, Yllyric  | Liannar, the sunmetal                    |
-| Khamish      | Beast lord                 | Khoursirian        | Beast magic                              |
-| Kheltivari   | Old fae                    | Yllyric, Khelt     | Using a wode to travel<br/> through time |
-| Low Rhyvian  | Sky elf                    | Hyrallic           | Flying castles                           |
-| Old Variac   | Olothec, voiceless talkers | Variac             | Kollar, the sinmetal                     |
-| Phorialtic   | Old elemental              | Low and High Kuric | Moving between<br/> manifolds            |
-| Rallarian    | Steel dwarf                | Zaliac             | Valiar, the truemetal                    |
-| Ullorvic     | Star elf                   | Hyrallic, Yllyric  | Rovion, the starmetal                    |
+| Language     | Ancestry                                                            | Related Languages  | Common Topics                            |
+| ------------ | ------------------------------------------------------------------- | ------------------ | ---------------------------------------- |
+| Ananjali     | Old hobgoblin                                                       | Anjali             | Zodiakol, the bloodmetal                 |
+| High Rhyvian | Sun elf                                                             | Hyrallic, Yllyric  | Liannar, the sunmetal                    |
+| Khamish      | Beast lord                                                          | Khoursirian        | Beast magic                              |
+| Kheltivari   | Old fae                                                             | Yllyric, Khelt     | Using a wode to travel<br/> through time |
+| Low Rhyvian  | Sky elf                                                             | Hyrallic           | Flying castles                           |
+| Old Variac   | Olothec, voiceless talkers                                          | Variac             | Kollar, the sinmetal                     |
+| Phorialtic   | Old elemental                                                       | Low and High Kuric | Moving between<br/> manifolds            |
+| Rallarian    | Steel [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) | Zaliac             | Valiar, the truemetal                    |
+| Ullorvic     | Star elf                                                            | Hyrallic, Yllyric  | Rovion, the starmetal                    |
 
 Khamish is still spoken by lizardfolk and other creatures connected to the beast lords. However, the forms spoken today only vaguely resemble their original tongues and have been adapted for use within their speakers' own circles.
 
@@ -377,7 +377,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One intrigue perk (*Quick Build:* Forgettable Face.)
+**Perk:** One intrigue perk (*Quick Build:* [Forgettable Face](REL_PATH_PREFIXRules/Perks/Intrigue%20Perks/Forgettable%20FaceREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -435,7 +435,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One crafting perk (*Quick Build:* Area of Expertise.)
+**Perk:** One crafting perk (*Quick Build:* [Area of Expertise](REL_PATH_PREFIXRules/Perks/Crafting%20Perks/Area%20of%20ExpertiseREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -461,7 +461,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One interpersonal perk (*Quick Build:* Spot the Tell.)
+**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](REL_PATH_PREFIXRules/Perks/Interpersonal%20Perks/Spot%20the%20TellREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -489,7 +489,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One intrigue perk (*Quick Build:* Criminal Contacts.)
+**Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](REL_PATH_PREFIXRules/Perks/Intrigue%20Perks/Criminal%20ContactsREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -538,11 +538,11 @@ You ventured into uncharted areas and made your living as a cartographer, resear
 
 You gain the following career benefits:
 
-**Skills:** The Navigate skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* Climb, Heal, Navigate.)
+**Skills:** The Navigate skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Heal, Navigate.)
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* Wood Wise.)
+**Perk:** One exploration perk (*Quick Build:* [Wood Wise](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Wood%20WiseREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -570,7 +570,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* Monster Whisperer.)
+**Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Monster%20WhispererREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -586,19 +586,19 @@ You gain the following career benefits:
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
 - What led you to this life of violent entertainment?
-- What was your gladiator name and persona?
+- What was your [gladiator](REL_PATH_PREFIXRules/Careers/GladiatorREL_PATH_SUFFIX) name and persona?
 - Who was your biggest rival?
 - What happened during your most famous match?
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the exploration skill group (*Quick Build:* Gymnastics, Jump.)
+**Skills:** Two skills from the exploration skill group (*Quick Build:* Gymnastics, [Jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX).)
 
 **Languages:** One language
 
 **Renown:** +2
 
-**Perk:** One exploration perk (*Quick Build:* Friend Catapult.)
+**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Friend%20CatapultREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -654,16 +654,16 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One supernatural perk (*Quick Build:* Arcane Trick.)
+**Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Arcane%20TrickREL_PATH_SUFFIX).)
 
-| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Forgotten Memories:** While practicing a spell, your inexperience caused the magic to backfire and your memories were wiped, leaving you with only fragments of who you once were. Determined to recall your past, you now dedicate yourself to helping others, hoping your actions will spark some remembrance or lead you to a way to reverse the magic.                                                                                                                  |
-| 2   | **Magic of Friendship:** As a sign of your status as a star pupil, your mentor gifted you a familiar as a magic pet. Another jealous apprentice captured the familiar and slipped away in the night. Haunted by your pet's absence, you adventure to find your kidnapped friend and prevent others from feeling your loss.                                                                                                                                                    |
-| 3   | **Missing Mage:** One day you woke up and the mage you worked for was gone. They didn't take any of their belongings and there was no sign of any foul play-only the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                                                                                      |
-| 4   | **Nightmares Made Flesh:** Your attempts at magic have always been unpredictable. A powerful mage promised to help you gain control. During your training, a terrible nightmare caused your body to flare with magic and pull the monster of your nightmare into the waking world. The horror escaped. You left, seeking to vanquish their vileness.                                                                                                                          |
-| 5   | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is!                                                                                                                                                                                                                |
-| 6   | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
+| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Forgotten Memories:** While practicing a spell, your inexperience caused the magic to backfire and your memories were wiped, leaving you with only fragments of who you once were. Determined to recall your past, you now dedicate yourself to helping others, hoping your actions will spark some remembrance or lead you to a way to reverse the magic.                                                                                                                     |
+| 2   | **Magic of Friendship:** As a sign of your status as a star pupil, your mentor gifted you a [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) as a magic pet. Another jealous apprentice captured the [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) and slipped away in the night. Haunted by your pet's absence, you adventure to find your kidnapped friend and prevent others from feeling your loss. |
+| 3   | **Missing Mage:** One day you woke up and the mage you worked for was gone. They didn't take any of their belongings and there was no sign of any foul play-only the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                                                                                         |
+| 4   | **Nightmares Made Flesh:** Your attempts at magic have always been unpredictable. A powerful mage promised to help you gain control. During your training, a terrible nightmare caused your body to flare with magic and pull the monster of your nightmare into the waking world. The horror escaped. You left, seeking to vanquish their vileness.                                                                                                                             |
+| 5   | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is!                                                                                                                                                                                                                   |
+| 6   | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day.    |
 
 #### Performer
 
@@ -710,7 +710,7 @@ You gain the following career benefits:
 
 **Wealth:** +1
 
-**Perk:** One interpersonal perk (*Quick Build:* Engrossing Monologue.)
+**Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](REL_PATH_PREFIXRules/Perks/Interpersonal%20Perks/Engrossing%20MonologueREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -760,11 +760,11 @@ You worked on a ship, whether a merchant cog, a mercenary or military craft, or 
 
 You gain the following career benefits:
 
-**Skills:** Swim (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* Climb, Gymnastics, Swim.)
+**Skills:** [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Gymnastics, [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX).)
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* Put Your Back Into It!)
+**Perk:** One exploration perk (*Quick Build:* [Put Your Back Into It](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Put%20Your%20Back%20Into%20ItREL_PATH_SUFFIX)!)
 
 | d6  | Inciting Incident |
 | --- | ----------------- |
@@ -816,7 +816,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* Camouflage Hunter.)
+**Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Camouflage%20HunterREL_PATH_SUFFIX).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -843,13 +843,13 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* Team Leader.)
+**Perk:** One exploration perk (*Quick Build:* [Team Leader](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Team%20LeaderREL_PATH_SUFFIX).)
 
-| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                     |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Bigger Fish:** You grew bored and disillusioned with chasing down petty thieves and imprisoning folks just trying to survive. Surely there are greater threats in the world. You will find that evil wherever it may lurk, and you'll be the one to stop it.                                                                                                                                                        |
-| 2   | **Corruption Within:** You joined the force to help the helpless and bring justice to those wronged. You weren't prepared for the rampant corruption reaching the top of your organization. You refused to cover for your fellow officers and were told in no uncertain terms to leave town or face the consequences. Now you travel as a hero, acting as the protector you always wanted to be.                      |
-| 3   | **Frame Job:** Your partner was murdered. That much is irrefutable. But you didn't do it, despite what the evidence implies. When it became clear you'd take the fall, you fled, leaving everything behind. Not content to cower in the shadows, you decided to adventure under a new name while you work to clear your own.                                                                                          |
-| 4   | **Missing Mentor:** You learned everything you know about the job from someone you always looked up to in a corrupt organization. One night, they sent you a cryptic message saying they had discovered "something big," but before you could find out more, they disappeared. No longer sure who you could trust, you slipped away and sought a new life. Now you do what good you can and search to find the truth. |
-| 5   | **One That Got Away:** A violent or depraved criminal began targeting you- perhaps stealing something personal or hurting someone you love—after slipping through your grasp. You left your career to pursue the criminal, but the trail has gone cold... for now. Might as well help folk in the meantime.                                                                                                           |
-| 6   | **Powerful Enemies:** You made it your responsibility to root out and bring down the region's foremost crime syndicate. They sent goons to burn down your home and teach you a lesson, leaving you bleeding in the street with nothing left except your life. You've since taken on the life of a hero to gain the power and influence you need to destroy the syndicate once and for all.                            |
+| d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Bigger Fish:** You grew bored and disillusioned with chasing down petty thieves and imprisoning folks just trying to survive. Surely there are greater threats in the world. You will find that evil wherever it may lurk, and you'll be the one to stop it.                                                                                                                                                                                        |
+| 2   | **Corruption Within:** You joined the force to help the helpless and bring justice to those wronged. You weren't prepared for the rampant corruption reaching the top of your organization. You refused to cover for your fellow officers and were told in no uncertain terms to leave town or face the consequences. Now you travel as a hero, acting as the protector you always wanted to be.                                                      |
+| 3   | **Frame Job:** Your partner was murdered. That much is irrefutable. But you didn't do it, despite what the evidence implies. When it became clear you'd take the fall, you fled, leaving everything behind. Not content to cower in the shadows, you decided to adventure under a new name while you work to clear your own.                                                                                                                          |
+| 4   | **Missing Mentor:** You learned everything you know about the job from someone you always looked up to in a corrupt organization. One night, they sent you a cryptic message saying they had discovered "something big," but before you could find out more, they disappeared. No longer sure who you could trust, you slipped away and sought a new life. Now you do what good you can and search to find the truth.                                 |
+| 5   | **One That Got Away:** A violent or depraved criminal began targeting you- perhaps stealing something personal or hurting someone you love—after slipping through your grasp. You left your career to pursue the criminal, but the trail has gone cold... for now. Might as well help folk in the meantime.                                                                                                                                           |
+| 6   | **Powerful Enemies:** You made it your responsibility to root out and bring down the region's foremost crime syndicate. They sent goons to burn down your home and teach you a lesson, leaving you [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) in the street with nothing left except your life. You've since taken on the life of a hero to gain the power and influence you need to destroy the syndicate once and for all. |

@@ -8,8 +8,8 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Meteor
 file_dpath: Abilities/Elementalist/6th-Level Features
-flavor: You teleport the target into the air and let the ground and the elemental
-  force of fire do the rest.
+flavor: You [teleport](scc:mcdm.heroes.v1:movement:teleport) the target into the air
+  and let the ground and the elemental force of fire do the rest.
 item_id: meteor-9-essence
 item_index: '01'
 item_name: Meteor (9 Essence)
@@ -34,8 +34,9 @@ type: feature
 feature_type: ability
 name: Meteor
 cost: 9 Essence
-flavor: You teleport the target into the air and let the ground and the
-  elemental force of fire do the rest.
+flavor: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
+  the target into the air and let the ground and the elemental force of fire do
+  the rest.
 keywords:
   - Earth
   - Fire
@@ -55,8 +56,8 @@ metadata:
   feature_type: ability
   file_basename: Meteor
   file_dpath: Abilities/Elementalist/6th-Level Features
-  flavor: You teleport the target into the air and let the ground and the
-    elemental force of fire do the rest.
+  flavor: You [teleport](scc:mcdm.heroes.v1:movement:teleport) the target into the
+    air and let the ground and the elemental force of fire do the rest.
   item_id: meteor-9-essence
   item_index: "01"
   item_name: Meteor (9 Essence)

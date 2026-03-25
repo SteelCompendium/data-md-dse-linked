@@ -41,7 +41,8 @@ metadata:
 effects:
   - effect: >-
       Whenever you reduce a non-minion creature to 0 Stamina, you can
-      immediately use a free maneuver to use your Black Ash Teleport ability.
+      immediately use a free maneuver to use your Black Ash
+      [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability.
 
 
       Additionally, you can now bring an adjacent willing creature along with

@@ -16,4 +16,4 @@ type: condition
 
 A creature who is [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
 
-If a creature teleports while [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX), that condition ends.
+If a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) while [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX), that condition ends.

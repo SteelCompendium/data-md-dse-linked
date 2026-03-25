@@ -42,7 +42,8 @@ effects:
       - type: feature
         feature_type: ability
         name: Accelerate
-        flavor: To your ally, it seems as though the world has slowed down.
+        flavor: To your ally, it seems as though the world has
+          [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) down.
         keywords:
           - Psionic
           - Ranged

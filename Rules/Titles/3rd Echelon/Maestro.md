@@ -17,15 +17,15 @@ type: title/3rd-echelon
 
 *When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.*
 
-**Prerequisite:** You visit the realms of gods, devils, or other immortal beings and hear a note of the Music of Creation.
+**Prerequisite:** You visit the realms of gods, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), or other immortal beings and hear a note of the Music of Creation.
 
 **Effect:** Choose one of the following benefits:
 
 - *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
-- *Devil's Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *[Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
-> ###### The Devil's Chord (9 Heroic Resource)
+> ###### The [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)'s Chord (9 Heroic Resource)
 >
 > *Helloooo Orden!*
 >

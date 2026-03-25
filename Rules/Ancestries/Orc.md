@@ -146,7 +146,7 @@ Whenever a creature deals damage to you that leaves you dying, you can make a fr
 
 #### Purchased Orc Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX).)
 
 ##### Bloodfire Rush (1 Point)
 

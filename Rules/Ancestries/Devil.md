@@ -72,7 +72,7 @@ A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stop
 
 "Ah. Um. Hmm."
 
-A young man in a low, stone building saw this exchange, grabbed what looked like a long iron poker, and ran out to confront the new arrival.
+A young man in a low, stone building saw this exchange, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) what looked like a long iron poker, and ran out to confront the new arrival.
 
 "Have at you, [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)!" he said, assuming something like a dueling pose. "I say! Steady on!" The [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) raised his hands.
 

@@ -51,7 +51,8 @@ effects:
     features:
       - type: feature
         feature_type: trait
-        name: The Auteur Troubadour
+        name: The Auteur [Troubadour]
+        ability_type: REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX
         effects:
           - effect: >-
               Abilities like Guest Star, Missed Cue, and Twist at the End allow

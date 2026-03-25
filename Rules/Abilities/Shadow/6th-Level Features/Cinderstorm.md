@@ -8,7 +8,8 @@ distance: 4 burst
 feature_type: ability
 file_basename: Cinderstorm
 file_dpath: Abilities/Shadow/6th-Level Features
-flavor: You teleport your friends in a burst of ash and fire.
+flavor: You [teleport](scc:mcdm.heroes.v1:movement:teleport) your friends in a burst
+  of ash and fire.
 item_id: cinderstorm-9-insight
 item_index: '02'
 item_name: Cinderstorm (9 Insight)
@@ -30,7 +31,8 @@ type: feature
 feature_type: ability
 name: Cinderstorm
 cost: 9 Insight
-flavor: You teleport your friends in a burst of ash and fire.
+flavor: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
+  your friends in a burst of ash and fire.
 keywords:
   - Magic
 usage: Maneuver
@@ -46,7 +48,8 @@ metadata:
   feature_type: ability
   file_basename: Cinderstorm
   file_dpath: Abilities/Shadow/6th-Level Features
-  flavor: You teleport your friends in a burst of ash and fire.
+  flavor: You [teleport](scc:mcdm.heroes.v1:movement:teleport) your friends in a
+    burst of ash and fire.
   item_id: cinderstorm-9-insight
   item_index: "02"
   item_name: Cinderstorm (9 Insight)
@@ -65,8 +68,10 @@ effects:
   - name: Effect
     effect: Each target can
       [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5
-      squares. For each target in addition to you who teleports away from or
-      into a space adjacent to an enemy, that enemy takes fire damage equal to
-      your Agility score. Additionally, a target who ends this movement in
-      concealment or cover can use the Hide maneuver even if they are observed.
+      squares. For each target in addition to you who
+      [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away
+      from or into a space adjacent to an enemy, that enemy takes fire damage
+      equal to your Agility score. Additionally, a target who ends this movement
+      in concealment or cover can use the Hide maneuver even if they are
+      observed.
 ```

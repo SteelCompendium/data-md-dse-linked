@@ -282,7 +282,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Flanking:** When two or more allied creatures are adjacent to and on opposite sides of an enemy, those creatures are flanking that enemy. A creature flanking an enemy gains an edge on melee strikes against that enemy.
 
-**[Fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX):** A movement mode available to creatures with "[fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX)" in their speed entry, or who gain the capability to temporarily [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a flying creature is made [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or has their speed reduced to 0, they fall.
+**[Fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX):** A movement mode available to creatures with "[fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX)" in their speed entry, or who gain the capability to temporarily [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) creature is made [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or has their speed reduced to 0, they fall.
 
 **Focus:** The [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s Heroic Resource.
 
@@ -404,7 +404,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Objective:** A goal the heroes have during a combat encounter that must be achieved to end an encounter victoriously.
 
-**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or teleporting, the creature can make a melee free strike as an opportunity attack against the enemy.
+**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), the creature can make a melee free strike as an opportunity attack against the enemy.
 
 **Opposed Power Roll:** Two creatures with opposed goals each make a test to see who wins out. The test totals are compared, and the higher total succeeds while the lower fails.
 
@@ -540,7 +540,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Target:** A creature or object affected by an ability or other effect. The target of an enemy's ability typically takes damage, has a condition or harmful effect imposed on them, or both. The target of an ally's ability typically gains some beneficial effect.
 
-**[Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX):** Moving from one location to another instantaneously. Teleporting requires line of effect to the space where a creature ends up, bypasses obstacles, and doesn't provoke opportunity attacks or other effects triggered by moving.
+**[Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX):** Moving from one location to another instantaneously. [Teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) requires line of effect to the space where a creature ends up, bypasses obstacles, and doesn't provoke opportunity attacks or other effects triggered by moving.
 
 **Temporary Stamina:** An additional pool of Stamina that decreases first when a creature takes damage, and which disappears at the end of an encounter if not already lost.
 
@@ -566,7 +566,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Trinket:** A treasure that can be used at will without any reduction in its power.
 
-**[Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX):** A class for a hero who is a storytelling swashbuckler.
+**[Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX):** A class for a hero who is a storytelling [swashbuckler](REL_PATH_PREFIXRules/Kits/SwashbucklerREL_PATH_SUFFIX).
 
 **Turn:** A creature's turn in combat consists of a main action, a maneuver, and a move action.
 
@@ -582,7 +582,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Victories:** A measure of a hero's increasing power over the course of an adventure, earned by triumphing in battles and overcoming other challenges.
 
-**[Walk](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX):** The most common movement type, used to move over solid ground. Walking can incorporate ambulating on legs, rolling, slithering, or any other default method of movement.
+**[Walk](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX):** The most common movement type, used to move over solid ground. [Walking](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX) can incorporate ambulating on legs, rolling, slithering, or any other default method of movement.
 
 **Wall:** When an ability or other effect creates a wall, that area is expressed as "X wall." The number X is how many squares are used to make the wall. Each square must share at least one side (not just a corner) with another square of the wall. A wall effect has a duration specified by the effect, or it lasts indefinitely or until destroyed.
 

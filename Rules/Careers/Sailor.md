@@ -23,11 +23,11 @@ You worked on a ship, whether a merchant cog, a mercenary or military craft, or 
 
 You gain the following career benefits:
 
-**Skills:** Swim (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* Climb, Gymnastics, Swim.)
+**Skills:** [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), Gymnastics, [Swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX).)
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* Put Your Back Into It!)
+**Perk:** One exploration perk (*Quick Build:* [Put Your Back Into It](REL_PATH_PREFIXRules/Perks/Exploration%20Perks/Put%20Your%20Back%20Into%20ItREL_PATH_SUFFIX)!)
 
 | d6  | Inciting Incident |
 | --- | ----------------- |

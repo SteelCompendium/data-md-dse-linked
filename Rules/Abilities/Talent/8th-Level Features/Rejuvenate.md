@@ -83,8 +83,9 @@ effects:
       of the encounter.
   - name: Strained
     effect: You and the target both permanently grow visibly younger (the equivalent
-      of 20 human years, to the minimum of an 18-year-old). Additionally, you
-      are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
-      and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
+      of 20 [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) years,
+      to the minimum of an 18-year-old). Additionally, you are
+      [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and
+      [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save
       ends).
 ```

@@ -44,7 +44,8 @@ effects:
 
 
       At the start of a combat encounter, you can spend 1 order to increase the
-      size of your Null Field by 1 until the end of the encounter.
+      size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)
+      Field by 1 until the end of the encounter.
 
       Order remains until you spend it.
 ```

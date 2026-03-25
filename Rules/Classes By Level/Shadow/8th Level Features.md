@@ -66,7 +66,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Assassinate (11 Insight)
 >
-> *A practiced attack will instantly kill an already weakened foe.*
+> *A practiced attack will instantly kill an already [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) foe.*
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
@@ -83,7 +83,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Shadowgrasp (11 Insight)
 >
-> *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
+> *The shadows around you give way, allowing the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) creature within you to grasp at your foes.*
 >
 > | **Area, Magic** |               **Main action** |
 > | --------------- | ----------------------------: |

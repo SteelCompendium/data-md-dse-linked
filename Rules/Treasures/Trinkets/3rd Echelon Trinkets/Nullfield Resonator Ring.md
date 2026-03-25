@@ -28,7 +28,7 @@ type: treasure/trinkets/3rd-echelon
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) to wear this ring. While you do so, the area of your Null Field ability increases by 1.
+**Effect:** You must be a [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) to wear this ring. While you do so, the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1.
 
 Additionally, you have the following ability.
 

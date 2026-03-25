@@ -41,7 +41,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 >
-> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a human). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
 <!-- -->
 > ###### Force Orbs (7 Clarity)
@@ -80,7 +80,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 <!-- -->
 > ###### Soul Burn (7 Clarity)
 >
-> *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
+> *You blast their soul out of their body, leaving it to helplessly float back to a [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) husk.*
 >
 > | **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |
 > | ------------------------------------------- | ------------------: |

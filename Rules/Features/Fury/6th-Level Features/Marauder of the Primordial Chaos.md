@@ -51,5 +51,7 @@ effects:
       usual. This stacks with the increase to your effective Renown provided by
       the Nature's Knight aspect feature (see 3rd-Level Features). When any
       elemental first becomes aware of you in combat, if they have P < AVERAGE,
-      they are frightened of you (save ends).
+      they are
+      [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of
+      you (save ends).
 ```

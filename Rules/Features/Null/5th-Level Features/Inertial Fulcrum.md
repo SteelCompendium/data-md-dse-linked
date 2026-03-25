@@ -41,6 +41,7 @@ metadata:
 effects:
   - effect: Whenever you use an ability to reduce damage dealt to you or to reduce
       the distance of forced movement imposed upon you, you can deal damage to
-      one enemy in the area of your Null Field ability equal to your Intuition
-      score.
+      one enemy in the area of your
+      [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability
+      equal to your Intuition score.
 ```

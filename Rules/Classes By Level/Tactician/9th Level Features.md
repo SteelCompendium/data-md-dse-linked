@@ -31,7 +31,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Squad! Hit and Run! (11 Focus)
 >
-> *I had to pry this secret from the shadow colleges.*
+> *I had to pry this secret from the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) colleges.*
 >
 > | **Ranged**       |            **Main action** |
 > | ---------------- | -------------------------: |

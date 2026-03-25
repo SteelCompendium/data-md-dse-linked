@@ -9,7 +9,7 @@ feature_type: ability
 file_basename: Soul Burn
 file_dpath: Abilities/Talent/3rd-Level Features
 flavor: You blast their soul out of their body, leaving it to helplessly float back
-  to a weakened husk.
+  to a [weakened](scc:mcdm.heroes.v1:condition:weakened) husk.
 item_id: soul-burn-7-clarity
 item_index: '02'
 item_name: Soul Burn (7 Clarity)
@@ -34,7 +34,8 @@ feature_type: ability
 name: Soul Burn
 cost: 7 Clarity
 flavor: You blast their soul out of their body, leaving it to helplessly float
-  back to a weakened husk.
+  back to a [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
+  husk.
 keywords:
   - Animapathy
   - Psionic
@@ -54,7 +55,7 @@ metadata:
   file_basename: Soul Burn
   file_dpath: Abilities/Talent/3rd-Level Features
   flavor: You blast their soul out of their body, leaving it to helplessly float
-    back to a weakened husk.
+    back to a [weakened](scc:mcdm.heroes.v1:condition:weakened) husk.
   item_id: soul-burn-7-clarity
   item_index: "02"
   item_name: Soul Burn (7 Clarity)

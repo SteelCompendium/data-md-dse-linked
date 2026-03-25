@@ -41,8 +41,10 @@ metadata:
 effects:
   - effect: >-
       Your animal forms become hardier. You gain temporary Stamina equal to your
-      level when you enter an animal form in combat, which is added to any
-      temporary Stamina provided by the animal form.
+      level when you enter an [animal
+      form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) in
+      combat, which is added to any temporary Stamina provided by the [animal
+      form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX).
 
 
       Additionally, an adjacent ally can use a maneuver to pet you. If they do

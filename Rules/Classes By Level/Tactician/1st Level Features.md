@@ -45,7 +45,7 @@ Though you can't gain focus outside of combat, you can use your heroic abilities
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), but they might appear in future products.)
 
 <!-- -->
-> **Tactician Abilities Explained**
+> **[Tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) Abilities Explained**
 >
 > Many of the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s abilities are the actual commands they give their friends!
 
@@ -148,11 +148,11 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 
 #### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* Shining Armor, [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX).)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX), [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX).)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the Shining Armor and [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) and [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1
@@ -163,7 +163,7 @@ For example, if you take the Shining Armor and [Sniper](REL_PATH_PREFIXRules/Kit
 - Disengage Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit's damage bonus, then the Battle Grace signature ability from the Martial Artist kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit to deal 3/6/13 damage.
+Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit to deal 3/6/13 damage.
 
 #### Mark
 

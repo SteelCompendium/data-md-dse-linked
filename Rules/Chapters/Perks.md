@@ -167,7 +167,7 @@ This section presents intrigue perks in alphabetical order.
 
 #### Criminal Contacts
 
-You have access to a network of criminal contacts. As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
+You have access to a network of [criminal contacts](REL_PATH_PREFIXRules/Perks/Intrigue%20Perks/Criminal%20ContactsREL_PATH_SUFFIX). As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
 
 #### Forgettable Face
 
@@ -240,7 +240,7 @@ This section presents supernatural perks in alphabetical order.
 You have the following ability.
 
 <!-- -->
-> ###### Arcane Trick
+> ###### [Arcane Trick](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Arcane%20TrickREL_PATH_SUFFIX)
 >
 > *You cast an entertaining spell that creates a minor but impressive magical effect.*
 >
@@ -255,7 +255,7 @@ You have the following ability.
 > - You ignite or snuff out (your choice) every mundane light source of 1L or smaller adjacent to you.
 > - You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
 > - Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
-> - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using Arcane Trick.
+> - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using [Arcane Trick](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Arcane%20TrickREL_PATH_SUFFIX).
 > - You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
 
 #### Creature Sense
@@ -264,35 +264,35 @@ As a maneuver, choose a creature within 10 squares. If that creature is your lev
 
 #### Familiar
 
-A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.
+A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX)—or to adopt you as their [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX).
 
-The spirit uses the familiar stat block.
+The spirit uses the [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) stat block.
 
-The familiar can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
+The [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your familiar is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
 
 ###### Familiar Statblock
 
 **Familiar**
 
-|       Familiar        |          -          |            Level -             |            -            |          EV -          |
-| :-------------------: | :-----------------: | :----------------------------: | :---------------------: | :--------------------: |
-|   **1T**<br/> Size    |  **5**<br/> Speed   | **2x your level**<br/> Stamina |  **0**<br/> Stability   | **-**<br/> Free Strike |
-| **-**<br/> Immunities | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|   **-3**<br/> Might   | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
+| [Familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) |          -          |            Level -             |            -            |          EV -          |
+| :---------------------------------------------------------------------------------: | :-----------------: | :----------------------------: | :---------------------: | :--------------------: |
+|                                  **1T**<br/> Size                                   |  **5**<br/> Speed   | **2x your level**<br/> Stamina |  **0**<br/> Stability   | **-**<br/> Free Strike |
+|                                **-**<br/> Immunities                                | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|                                  **-3**<br/> Might                                  | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
 > **Telepathic**
 >
-> While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
+> While you and your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
 
 #### Invisible Force
 
 You have the following ability.
 
 <!-- -->
-> ###### Invisible Force
+> ###### [Invisible Force](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Invisible%20ForceREL_PATH_SUFFIX)
 >
 > *You manipulate a tiny object with your mind.*
 >
@@ -307,7 +307,7 @@ You have the following ability.
 You have the following ability.
 
 <!-- -->
-> ###### Psychic Whisper
+> ###### [Psychic Whisper](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Psychic%20WhisperREL_PATH_SUFFIX)
 >
 > *You send a one-way telepathic message to a friend.*
 >

@@ -14,7 +14,7 @@ type: movement
 
 ###### Non-Burrowing Creatures
 
-If you are on the ground and adjacent to a creature who is beneath the ground while burrowing, you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+If you are on the ground and adjacent to a creature who is beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
 
 If a creature who can't [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
 

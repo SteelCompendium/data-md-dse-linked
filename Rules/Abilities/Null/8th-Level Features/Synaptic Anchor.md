@@ -38,7 +38,8 @@ usage: Free triggered
 distance: Self; see below
 target: Self or one creature
 trigger: The target takes damage from another creature's ability while in the
-  area of your Null Field ability.
+  area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field
+  ability.
 metadata:
   action_type: Free triggered
   class: "null"

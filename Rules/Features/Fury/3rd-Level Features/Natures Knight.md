@@ -48,5 +48,7 @@ effects:
       When you are in a negotiation with an animal or elemental, you treat your
       Renown as 1 higher than usual. This stacks with the increase to your
       effective Renown in a negotiation with an animal of your type while in
-      animal form (see Stormwight Kits).
+      [animal
+      form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX)
+      (see Stormwight Kits).
 ```

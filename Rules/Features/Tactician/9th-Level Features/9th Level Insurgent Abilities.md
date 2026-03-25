@@ -43,7 +43,8 @@ effects:
         feature_type: ability
         name: Squad! Hit and Run!
         cost: 11 Focus
-        flavor: I had to pry this secret from the shadow colleges.
+        flavor: I had to pry this secret from the
+          [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) colleges.
         keywords:
           - Ranged
         usage: Main action

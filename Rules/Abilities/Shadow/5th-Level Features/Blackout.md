@@ -8,8 +8,8 @@ distance: 3 burst
 feature_type: ability
 file_basename: Blackout
 file_dpath: Abilities/Shadow/5th-Level Features
-flavor: You cause a plume of shadow to erupt from your eyes and create a cloud of
-  darkness.
+flavor: You cause a plume of [shadow](scc:mcdm.heroes.v1:class:shadow) to erupt from
+  your eyes and create a cloud of darkness.
 item_id: blackout-9-insight
 item_index: '04'
 item_name: Blackout (9 Insight)
@@ -31,8 +31,9 @@ type: feature
 feature_type: ability
 name: Blackout
 cost: 9 Insight
-flavor: You cause a plume of shadow to erupt from your eyes and create a cloud
-  of darkness.
+flavor: You cause a plume of
+  [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) to erupt from
+  your eyes and create a cloud of darkness.
 keywords:
   - Area
   - Magic
@@ -49,8 +50,8 @@ metadata:
   feature_type: ability
   file_basename: Blackout
   file_dpath: Abilities/Shadow/5th-Level Features
-  flavor: You cause a plume of shadow to erupt from your eyes and create a cloud
-    of darkness.
+  flavor: You cause a plume of [shadow](scc:mcdm.heroes.v1:class:shadow) to erupt
+    from your eyes and create a cloud of darkness.
   item_id: blackout-9-insight
   item_index: "04"
   item_name: Blackout (9 Insight)

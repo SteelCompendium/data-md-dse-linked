@@ -46,7 +46,9 @@ effects:
       - type: feature
         feature_type: ability
         name: Guided to Your Side
-        flavor: You concentrate on a friend and teleport to them.
+        flavor: You concentrate on a friend and
+          [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to
+          them.
         keywords:
           - Magic
           - Ranged

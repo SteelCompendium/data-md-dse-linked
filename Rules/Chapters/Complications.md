@@ -28,7 +28,7 @@ Not all complication benefits and drawbacks carry equal weight, but each benefit
 
 ### Modifying the Story
 
-In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose Infernal Contract as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a devil!
+In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX) as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a devil!
 
 Many of the details of each complication are purposefully left vague, so that you can connect the complication to the rest of your backstory. If your complication took place during an attack, accident, or other event, you decide the specific details of those events and any other creatures involved.
 
@@ -40,163 +40,163 @@ Complications are presented in alphabetical order.
 
 ###### Complications Table 2-Column
 
-| d100 | Complication                                                                 | d100 | Complication                                                                     |
-| ---- | ---------------------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
-| 1    | Advanced Studies                                                             | 51   | [Loner](REL_PATH_PREFIXRules/Complications/LonerREL_PATH_SUFFIX)                 |
-| 2    | [Amnesia](REL_PATH_PREFIXRules/Complications/AmnesiaREL_PATH_SUFFIX)         | 52   | Lost in Time                                                                     |
-| 3    | Animal Form                                                                  | 53   | Lost Your Head                                                                   |
-| 4    | [Antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX)       | 54   | [Lucky](REL_PATH_PREFIXRules/Complications/LuckyREL_PATH_SUFFIX)                 |
-| 5    | Artifact Bonded                                                              | 55   | Master Chef                                                                      |
-| 6    | [Bereaved](REL_PATH_PREFIXRules/Complications/BereavedREL_PATH_SUFFIX)       | 56   | Meddling Butler                                                                  |
-| 7    | [Betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX)     | 57   | [Medium](REL_PATH_PREFIXRules/Complications/MediumREL_PATH_SUFFIX)               |
-| 8    | Chaos Touched                                                                | 58   | Medusa Blood                                                                     |
-| 9    | Chosen One                                                                   | 59   | [Misunderstood](REL_PATH_PREFIXRules/Complications/MisunderstoodREL_PATH_SUFFIX) |
-| 10   | Consuming Interest                                                           | 60   | [Mundane](REL_PATH_PREFIXRules/Complications/MundaneREL_PATH_SUFFIX)             |
-| 11   | Corrupted Mentor                                                             | 61   | [Outlaw](REL_PATH_PREFIXRules/Complications/OutlawREL_PATH_SUFFIX)               |
-| 12   | [Coward](REL_PATH_PREFIXRules/Complications/CowardREL_PATH_SUFFIX)           | 62   | [Pirate](REL_PATH_PREFIXRules/Complications/PirateREL_PATH_SUFFIX)               |
-| 13   | Crash Landed                                                                 | 63   | [Preacher](REL_PATH_PREFIXRules/Complications/PreacherREL_PATH_SUFFIX)           |
-| 14   | Cult Victim                                                                  | 64   | Primordial Sickness                                                              |
-| 15   | Curse of Caution                                                             | 65   | Prisoner of the Synlirii                                                         |
-| 16   | Curse of Immortality                                                         | 66   | Promising Apprentice                                                             |
-| 17   | Curse of Misfortune                                                          | 67   | Psychic Eruption                                                                 |
-| 18   | Curse of Poverty                                                             | 68   | Raised by Beasts                                                                 |
-| 19   | Curse of Punishment                                                          | 69   | [Refugee](REL_PATH_PREFIXRules/Complications/RefugeeREL_PATH_SUFFIX)             |
-| 20   | Curse of Stone                                                               | 70   | [Rival](REL_PATH_PREFIXRules/Complications/RivalREL_PATH_SUFFIX)                 |
-| 21   | Cursed Weapon                                                                | 71   | Rogue [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)               |
-| 22   | [Disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX)     | 72   | [Runaway](REL_PATH_PREFIXRules/Complications/RunawayREL_PATH_SUFFIX)             |
-| 23   | Dragon Dreams                                                                | 73   | Searching for a Cure                                                             |
-| 24   | Elemental Inside                                                             | 74   | Secret Identity                                                                  |
-| 25   | [Evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX) | 75   | Secret Twin                                                                      |
-| 26   | [Exile](REL_PATH_PREFIXRules/Complications/ExileREL_PATH_SUFFIX)             | 76   | Self-Taught                                                                      |
-| 27   | Fallen Immortal                                                              | 77   | Sewer Folk                                                                       |
-| 28   | Famous Relative                                                              | 78   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Born                |
-| 29   | [Feytouched](REL_PATH_PREFIXRules/Complications/FeytouchedREL_PATH_SUFFIX)   | 79   | Shared Spirit                                                                    |
-| 30   | Fiery Ideal                                                                  | 80   | Shattered Legacy                                                                 |
-| 31   | Fire and Chaos                                                               | 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)     |
-| 32   | Following in the Footsteps                                                   | 82   | Sibling's Shield                                                                 |
-| 33   | Forbidden Romance                                                            | 83   | Silent Sentinel                                                                  |
-| 34   | [Frostheart](REL_PATH_PREFIXRules/Complications/FrostheartREL_PATH_SUFFIX)   | 84   | Slight Case of Lycanthropy                                                       |
-| 35   | Getting Too Old for This                                                     | 85   | Stolen Face                                                                      |
-| 36   | Gnoll-Mauled                                                                 | 86   | Strange Inheritance                                                              |
-| 37   | [Greening](REL_PATH_PREFIXRules/Complications/GreeningREL_PATH_SUFFIX)       | 87   | Stripped of Rank                                                                 |
-| 38   | [Grifter](REL_PATH_PREFIXRules/Complications/GrifterREL_PATH_SUFFIX)         | 88   | Thrill Seeker                                                                    |
-| 39   | [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX)       | 89   | Vampire Scion                                                                    |
-| 40   | Guilty Conscience                                                            | 90   | Voice in Your Head                                                               |
-| 41   | Hawk Rider                                                                   | 91   | Vow of Duty                                                                      |
-| 42   | Host Body                                                                    | 92   | Vow of Honesty                                                                   |
-| 43   | [Hunted](REL_PATH_PREFIXRules/Complications/HuntedREL_PATH_SUFFIX)           | 93   | Waking Dreams                                                                    |
-| 44   | [Hunter](REL_PATH_PREFIXRules/Complications/HunterREL_PATH_SUFFIX)           | 94   | War Dog Collar                                                                   |
-| 45   | [Indebted](REL_PATH_PREFIXRules/Complications/IndebtedREL_PATH_SUFFIX)       | 95   | War of Assassins                                                                 |
-| 46   | Infernal Contract                                                            | 96   | [Ward](REL_PATH_PREFIXRules/Complications/WardREL_PATH_SUFFIX)                   |
-| 47   | Infernal Contract... But, Like, Bad                                          | 97   | [Waterborn](REL_PATH_PREFIXRules/Complications/WaterbornREL_PATH_SUFFIX)         |
-| 48   | Ivory Tower                                                                  | 98   | [Wodewalker](REL_PATH_PREFIXRules/Complications/WodewalkerREL_PATH_SUFFIX)       |
-| 49   | [Lifebonded](REL_PATH_PREFIXRules/Complications/LifebondedREL_PATH_SUFFIX)   | 99   | Wrathful Spirit                                                                  |
-| 50   | Lightning Soul                                                               | 100  | Wrongly Imprisoned                                                               |
+| d100 | Complication                                                                                                     | d100 | Complication                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------- |
+| 1    | [Advanced Studies](REL_PATH_PREFIXRules/Complications/Advanced%20StudiesREL_PATH_SUFFIX)                         | 51   | [Loner](REL_PATH_PREFIXRules/Complications/LonerREL_PATH_SUFFIX)                                                 |
+| 2    | [Amnesia](REL_PATH_PREFIXRules/Complications/AmnesiaREL_PATH_SUFFIX)                                             | 52   | [Lost in Time](REL_PATH_PREFIXRules/Complications/Lost%20in%20TimeREL_PATH_SUFFIX)                               |
+| 3    | [Animal Form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX)                                   | 53   | [Lost Your Head](REL_PATH_PREFIXRules/Complications/Lost%20Your%20HeadREL_PATH_SUFFIX)                           |
+| 4    | [Antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX)                                           | 54   | [Lucky](REL_PATH_PREFIXRules/Complications/LuckyREL_PATH_SUFFIX)                                                 |
+| 5    | [Artifact Bonded](REL_PATH_PREFIXRules/Complications/Artifact%20BondedREL_PATH_SUFFIX)                           | 55   | [Master Chef](REL_PATH_PREFIXRules/Complications/Master%20ChefREL_PATH_SUFFIX)                                   |
+| 6    | [Bereaved](REL_PATH_PREFIXRules/Complications/BereavedREL_PATH_SUFFIX)                                           | 56   | [Meddling Butler](REL_PATH_PREFIXRules/Complications/Meddling%20ButlerREL_PATH_SUFFIX)                           |
+| 7    | [Betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX)                                         | 57   | [Medium](REL_PATH_PREFIXRules/Complications/MediumREL_PATH_SUFFIX)                                               |
+| 8    | [Chaos Touched](REL_PATH_PREFIXRules/Complications/Chaos%20TouchedREL_PATH_SUFFIX)                               | 58   | [Medusa Blood](REL_PATH_PREFIXRules/Complications/Medusa%20BloodREL_PATH_SUFFIX)                                 |
+| 9    | [Chosen One](REL_PATH_PREFIXRules/Complications/Chosen%20OneREL_PATH_SUFFIX)                                     | 59   | [Misunderstood](REL_PATH_PREFIXRules/Complications/MisunderstoodREL_PATH_SUFFIX)                                 |
+| 10   | [Consuming Interest](REL_PATH_PREFIXRules/Complications/Consuming%20InterestREL_PATH_SUFFIX)                     | 60   | [Mundane](REL_PATH_PREFIXRules/Complications/MundaneREL_PATH_SUFFIX)                                             |
+| 11   | [Corrupted Mentor](REL_PATH_PREFIXRules/Complications/Corrupted%20MentorREL_PATH_SUFFIX)                         | 61   | [Outlaw](REL_PATH_PREFIXRules/Complications/OutlawREL_PATH_SUFFIX)                                               |
+| 12   | [Coward](REL_PATH_PREFIXRules/Complications/CowardREL_PATH_SUFFIX)                                               | 62   | [Pirate](REL_PATH_PREFIXRules/Complications/PirateREL_PATH_SUFFIX)                                               |
+| 13   | [Crash Landed](REL_PATH_PREFIXRules/Complications/Crash%20LandedREL_PATH_SUFFIX)                                 | 63   | [Preacher](REL_PATH_PREFIXRules/Complications/PreacherREL_PATH_SUFFIX)                                           |
+| 14   | [Cult Victim](REL_PATH_PREFIXRules/Complications/Cult%20VictimREL_PATH_SUFFIX)                                   | 64   | [Primordial Sickness](REL_PATH_PREFIXRules/Complications/Primordial%20SicknessREL_PATH_SUFFIX)                   |
+| 15   | [Curse of Caution](REL_PATH_PREFIXRules/Complications/Curse%20of%20CautionREL_PATH_SUFFIX)                       | 65   | [Prisoner of the Synlirii](REL_PATH_PREFIXRules/Complications/Prisoner%20of%20the%20SynliriiREL_PATH_SUFFIX)     |
+| 16   | [Curse of Immortality](REL_PATH_PREFIXRules/Complications/Curse%20of%20ImmortalityREL_PATH_SUFFIX)               | 66   | [Promising Apprentice](REL_PATH_PREFIXRules/Complications/Promising%20ApprenticeREL_PATH_SUFFIX)                 |
+| 17   | [Curse of Misfortune](REL_PATH_PREFIXRules/Complications/Curse%20of%20MisfortuneREL_PATH_SUFFIX)                 | 67   | Psychic Eruption                                                                                                 |
+| 18   | [Curse of Poverty](REL_PATH_PREFIXRules/Complications/Curse%20of%20PovertyREL_PATH_SUFFIX)                       | 68   | [Raised by Beasts](REL_PATH_PREFIXRules/Complications/Raised%20by%20BeastsREL_PATH_SUFFIX)                       |
+| 19   | [Curse of Punishment](REL_PATH_PREFIXRules/Complications/Curse%20of%20PunishmentREL_PATH_SUFFIX)                 | 69   | [Refugee](REL_PATH_PREFIXRules/Complications/RefugeeREL_PATH_SUFFIX)                                             |
+| 20   | [Curse of Stone](REL_PATH_PREFIXRules/Complications/Curse%20of%20StoneREL_PATH_SUFFIX)                           | 70   | [Rival](REL_PATH_PREFIXRules/Complications/RivalREL_PATH_SUFFIX)                                                 |
+| 21   | [Cursed Weapon](REL_PATH_PREFIXRules/Complications/Cursed%20WeaponREL_PATH_SUFFIX)                               | 71   | Rogue [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)                                               |
+| 22   | [Disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX)                                         | 72   | [Runaway](REL_PATH_PREFIXRules/Complications/RunawayREL_PATH_SUFFIX)                                             |
+| 23   | [Dragon Dreams](REL_PATH_PREFIXRules/Complications/Dragon%20DreamsREL_PATH_SUFFIX)                               | 73   | [Searching for a Cure](REL_PATH_PREFIXRules/Complications/Searching%20for%20a%20CureREL_PATH_SUFFIX)             |
+| 24   | [Elemental Inside](REL_PATH_PREFIXRules/Complications/Elemental%20InsideREL_PATH_SUFFIX)                         | 74   | [Secret Identity](REL_PATH_PREFIXRules/Complications/Secret%20IdentityREL_PATH_SUFFIX)                           |
+| 25   | [Evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX)                                     | 75   | [Secret Twin](REL_PATH_PREFIXRules/Complications/Secret%20TwinREL_PATH_SUFFIX)                                   |
+| 26   | [Exile](REL_PATH_PREFIXRules/Complications/ExileREL_PATH_SUFFIX)                                                 | 76   | Self-Taught                                                                                                      |
+| 27   | [Fallen Immortal](REL_PATH_PREFIXRules/Complications/Fallen%20ImmortalREL_PATH_SUFFIX)                           | 77   | [Sewer Folk](REL_PATH_PREFIXRules/Complications/Sewer%20FolkREL_PATH_SUFFIX)                                     |
+| 28   | [Famous Relative](REL_PATH_PREFIXRules/Complications/Famous%20RelativeREL_PATH_SUFFIX)                           | 78   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Born                                                |
+| 29   | [Feytouched](REL_PATH_PREFIXRules/Complications/FeytouchedREL_PATH_SUFFIX)                                       | 79   | [Shared Spirit](REL_PATH_PREFIXRules/Complications/Shared%20SpiritREL_PATH_SUFFIX)                               |
+| 30   | [Fiery Ideal](REL_PATH_PREFIXRules/Complications/Fiery%20IdealREL_PATH_SUFFIX)                                   | 80   | [Shattered Legacy](REL_PATH_PREFIXRules/Complications/Shattered%20LegacyREL_PATH_SUFFIX)                         |
+| 31   | [Fire and Chaos](REL_PATH_PREFIXRules/Complications/Fire%20and%20ChaosREL_PATH_SUFFIX)                           | 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)                                     |
+| 32   | [Following in the Footsteps](REL_PATH_PREFIXRules/Complications/Following%20in%20the%20FootstepsREL_PATH_SUFFIX) | 82   | Sibling's Shield                                                                                                 |
+| 33   | [Forbidden Romance](REL_PATH_PREFIXRules/Complications/Forbidden%20RomanceREL_PATH_SUFFIX)                       | 83   | [Silent Sentinel](REL_PATH_PREFIXRules/Complications/Silent%20SentinelREL_PATH_SUFFIX)                           |
+| 34   | [Frostheart](REL_PATH_PREFIXRules/Complications/FrostheartREL_PATH_SUFFIX)                                       | 84   | [Slight Case of Lycanthropy](REL_PATH_PREFIXRules/Complications/Slight%20Case%20of%20LycanthropyREL_PATH_SUFFIX) |
+| 35   | [Getting Too Old for This](REL_PATH_PREFIXRules/Complications/Getting%20Too%20Old%20for%20ThisREL_PATH_SUFFIX)   | 85   | [Stolen Face](REL_PATH_PREFIXRules/Complications/Stolen%20FaceREL_PATH_SUFFIX)                                   |
+| 36   | Gnoll-Mauled                                                                                                     | 86   | [Strange Inheritance](REL_PATH_PREFIXRules/Complications/Strange%20InheritanceREL_PATH_SUFFIX)                   |
+| 37   | [Greening](REL_PATH_PREFIXRules/Complications/GreeningREL_PATH_SUFFIX)                                           | 87   | [Stripped of Rank](REL_PATH_PREFIXRules/Complications/Stripped%20of%20RankREL_PATH_SUFFIX)                       |
+| 38   | [Grifter](REL_PATH_PREFIXRules/Complications/GrifterREL_PATH_SUFFIX)                                             | 88   | [Thrill Seeker](REL_PATH_PREFIXRules/Complications/Thrill%20SeekerREL_PATH_SUFFIX)                               |
+| 39   | [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX)                                           | 89   | [Vampire Scion](REL_PATH_PREFIXRules/Complications/Vampire%20ScionREL_PATH_SUFFIX)                               |
+| 40   | [Guilty Conscience](REL_PATH_PREFIXRules/Complications/Guilty%20ConscienceREL_PATH_SUFFIX)                       | 90   | [Voice in Your Head](REL_PATH_PREFIXRules/Complications/Voice%20in%20Your%20HeadREL_PATH_SUFFIX)                 |
+| 41   | [Hawk Rider](REL_PATH_PREFIXRules/Complications/Hawk%20RiderREL_PATH_SUFFIX)                                     | 91   | [Vow of Duty](REL_PATH_PREFIXRules/Complications/Vow%20of%20DutyREL_PATH_SUFFIX)                                 |
+| 42   | [Host Body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX)                                       | 92   | [Vow of Honesty](REL_PATH_PREFIXRules/Complications/Vow%20of%20HonestyREL_PATH_SUFFIX)                           |
+| 43   | [Hunted](REL_PATH_PREFIXRules/Complications/HuntedREL_PATH_SUFFIX)                                               | 93   | [Waking Dreams](REL_PATH_PREFIXRules/Complications/Waking%20DreamsREL_PATH_SUFFIX)                               |
+| 44   | [Hunter](REL_PATH_PREFIXRules/Complications/HunterREL_PATH_SUFFIX)                                               | 94   | [War Dog Collar](REL_PATH_PREFIXRules/Complications/War%20Dog%20CollarREL_PATH_SUFFIX)                           |
+| 45   | [Indebted](REL_PATH_PREFIXRules/Complications/IndebtedREL_PATH_SUFFIX)                                           | 95   | [War of Assassins](REL_PATH_PREFIXRules/Complications/War%20of%20AssassinsREL_PATH_SUFFIX)                       |
+| 46   | [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX)                       | 96   | [Ward](REL_PATH_PREFIXRules/Complications/WardREL_PATH_SUFFIX)                                                   |
+| 47   | [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX)... But, Like, Bad     | 97   | [Waterborn](REL_PATH_PREFIXRules/Complications/WaterbornREL_PATH_SUFFIX)                                         |
+| 48   | [Ivory Tower](REL_PATH_PREFIXRules/Complications/Ivory%20TowerREL_PATH_SUFFIX)                                   | 98   | [Wodewalker](REL_PATH_PREFIXRules/Complications/WodewalkerREL_PATH_SUFFIX)                                       |
+| 49   | [Lifebonded](REL_PATH_PREFIXRules/Complications/LifebondedREL_PATH_SUFFIX)                                       | 99   | [Wrathful Spirit](REL_PATH_PREFIXRules/Complications/Wrathful%20SpiritREL_PATH_SUFFIX)                           |
+| 50   | [Lightning Soul](REL_PATH_PREFIXRules/Complications/Lightning%20SoulREL_PATH_SUFFIX)                             | 100  | [Wrongly Imprisoned](REL_PATH_PREFIXRules/Complications/Wrongly%20ImprisonedREL_PATH_SUFFIX)                     |
 
 ###### Complications Table
 
-| d100 | Complication                                                                     |
-| ---- | -------------------------------------------------------------------------------- |
-| 1    | Advanced Studies                                                                 |
-| 2    | [Amnesia](REL_PATH_PREFIXRules/Complications/AmnesiaREL_PATH_SUFFIX)             |
-| 3    | Animal Form                                                                      |
-| 4    | [Antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX)           |
-| 5    | Artifact Bonded                                                                  |
-| 6    | [Bereaved](REL_PATH_PREFIXRules/Complications/BereavedREL_PATH_SUFFIX)           |
-| 7    | [Betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX)         |
-| 8    | Chaos Touched                                                                    |
-| 9    | Chosen One                                                                       |
-| 10   | Consuming Interest                                                               |
-| 11   | Corrupted Mentor                                                                 |
-| 12   | [Coward](REL_PATH_PREFIXRules/Complications/CowardREL_PATH_SUFFIX)               |
-| 13   | Crash Landed                                                                     |
-| 14   | Cult Victim                                                                      |
-| 15   | Curse of Caution                                                                 |
-| 16   | Curse of Immortality                                                             |
-| 17   | Curse of Misfortune                                                              |
-| 18   | Curse of Poverty                                                                 |
-| 19   | Curse of Punishment                                                              |
-| 20   | Curse of Stone                                                                   |
-| 21   | Cursed Weapon                                                                    |
-| 22   | [Disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX)         |
-| 23   | Dragon Dreams                                                                    |
-| 24   | Elemental Inside                                                                 |
-| 25   | [Evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX)     |
-| 26   | [Exile](REL_PATH_PREFIXRules/Complications/ExileREL_PATH_SUFFIX)                 |
-| 27   | Fallen Immortal                                                                  |
-| 28   | Famous Relative                                                                  |
-| 29   | [Feytouched](REL_PATH_PREFIXRules/Complications/FeytouchedREL_PATH_SUFFIX)       |
-| 30   | Fiery Ideal                                                                      |
-| 31   | Fire and Chaos                                                                   |
-| 32   | Following in the Footsteps                                                       |
-| 33   | Forbidden Romance                                                                |
-| 34   | [Frostheart](REL_PATH_PREFIXRules/Complications/FrostheartREL_PATH_SUFFIX)       |
-| 35   | Getting Too Old for This                                                         |
-| 36   | Gnoll-Mauled                                                                     |
-| 37   | [Greening](REL_PATH_PREFIXRules/Complications/GreeningREL_PATH_SUFFIX)           |
-| 38   | [Grifter](REL_PATH_PREFIXRules/Complications/GrifterREL_PATH_SUFFIX)             |
-| 39   | [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX)           |
-| 40   | Guilty Conscience                                                                |
-| 41   | Hawk Rider                                                                       |
-| 42   | Host Body                                                                        |
-| 43   | [Hunted](REL_PATH_PREFIXRules/Complications/HuntedREL_PATH_SUFFIX)               |
-| 44   | [Hunter](REL_PATH_PREFIXRules/Complications/HunterREL_PATH_SUFFIX)               |
-| 45   | [Indebted](REL_PATH_PREFIXRules/Complications/IndebtedREL_PATH_SUFFIX)           |
-| 46   | Infernal Contract                                                                |
-| 47   | Infernal Contract... But, Like, Bad                                              |
-| 48   | Ivory Tower                                                                      |
-| 49   | [Lifebonded](REL_PATH_PREFIXRules/Complications/LifebondedREL_PATH_SUFFIX)       |
-| 50   | Lightning Soul                                                                   |
-| 51   | [Loner](REL_PATH_PREFIXRules/Complications/LonerREL_PATH_SUFFIX)                 |
-| 52   | Lost in Time                                                                     |
-| 53   | Lost Your Head                                                                   |
-| 54   | [Lucky](REL_PATH_PREFIXRules/Complications/LuckyREL_PATH_SUFFIX)                 |
-| 55   | Master Chef                                                                      |
-| 56   | Meddling Butler                                                                  |
-| 57   | [Medium](REL_PATH_PREFIXRules/Complications/MediumREL_PATH_SUFFIX)               |
-| 58   | Medusa Blood                                                                     |
-| 59   | [Misunderstood](REL_PATH_PREFIXRules/Complications/MisunderstoodREL_PATH_SUFFIX) |
-| 60   | [Mundane](REL_PATH_PREFIXRules/Complications/MundaneREL_PATH_SUFFIX)             |
-| 61   | [Outlaw](REL_PATH_PREFIXRules/Complications/OutlawREL_PATH_SUFFIX)               |
-| 62   | [Pirate](REL_PATH_PREFIXRules/Complications/PirateREL_PATH_SUFFIX)               |
-| 63   | [Preacher](REL_PATH_PREFIXRules/Complications/PreacherREL_PATH_SUFFIX)           |
-| 64   | Primordial Sickness                                                              |
-| 65   | Prisoner of the Synlirii                                                         |
-| 66   | Promising Apprentice                                                             |
-| 67   | Psychic Eruption                                                                 |
-| 68   | Raised by Beasts                                                                 |
-| 69   | [Refugee](REL_PATH_PREFIXRules/Complications/RefugeeREL_PATH_SUFFIX)             |
-| 70   | [Rival](REL_PATH_PREFIXRules/Complications/RivalREL_PATH_SUFFIX)                 |
-| 71   | Rogue [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)               |
-| 72   | [Runaway](REL_PATH_PREFIXRules/Complications/RunawayREL_PATH_SUFFIX)             |
-| 73   | Searching for a Cure                                                             |
-| 74   | Secret Identity                                                                  |
-| 75   | Secret Twin                                                                      |
-| 76   | Self-Taught                                                                      |
-| 77   | Sewer Folk                                                                       |
-| 78   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Born                |
-| 79   | Shared Spirit                                                                    |
-| 80   | Shattered Legacy                                                                 |
-| 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)     |
-| 82   | Sibling's Shield                                                                 |
-| 83   | Silent Sentinel                                                                  |
-| 84   | Slight Case of Lycanthropy                                                       |
-| 85   | Stolen Face                                                                      |
-| 86   | Strange Inheritance                                                              |
-| 87   | Stripped of Rank                                                                 |
-| 88   | Thrill Seeker                                                                    |
-| 89   | Vampire Scion                                                                    |
-| 90   | Voice in Your Head                                                               |
-| 91   | Vow of Duty                                                                      |
-| 92   | Vow of Honesty                                                                   |
-| 93   | Waking Dreams                                                                    |
-| 94   | War Dog Collar                                                                   |
-| 95   | War of Assassins                                                                 |
-| 96   | [Ward](REL_PATH_PREFIXRules/Complications/WardREL_PATH_SUFFIX)                   |
-| 97   | [Waterborn](REL_PATH_PREFIXRules/Complications/WaterbornREL_PATH_SUFFIX)         |
-| 98   | [Wodewalker](REL_PATH_PREFIXRules/Complications/WodewalkerREL_PATH_SUFFIX)       |
-| 99   | Wrathful Spirit                                                                  |
-| 100  | Wrongly Imprisoned                                                               |
+| d100 | Complication                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------- |
+| 1    | [Advanced Studies](REL_PATH_PREFIXRules/Complications/Advanced%20StudiesREL_PATH_SUFFIX)                         |
+| 2    | [Amnesia](REL_PATH_PREFIXRules/Complications/AmnesiaREL_PATH_SUFFIX)                                             |
+| 3    | [Animal Form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX)                                   |
+| 4    | [Antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX)                                           |
+| 5    | [Artifact Bonded](REL_PATH_PREFIXRules/Complications/Artifact%20BondedREL_PATH_SUFFIX)                           |
+| 6    | [Bereaved](REL_PATH_PREFIXRules/Complications/BereavedREL_PATH_SUFFIX)                                           |
+| 7    | [Betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX)                                         |
+| 8    | [Chaos Touched](REL_PATH_PREFIXRules/Complications/Chaos%20TouchedREL_PATH_SUFFIX)                               |
+| 9    | [Chosen One](REL_PATH_PREFIXRules/Complications/Chosen%20OneREL_PATH_SUFFIX)                                     |
+| 10   | [Consuming Interest](REL_PATH_PREFIXRules/Complications/Consuming%20InterestREL_PATH_SUFFIX)                     |
+| 11   | [Corrupted Mentor](REL_PATH_PREFIXRules/Complications/Corrupted%20MentorREL_PATH_SUFFIX)                         |
+| 12   | [Coward](REL_PATH_PREFIXRules/Complications/CowardREL_PATH_SUFFIX)                                               |
+| 13   | [Crash Landed](REL_PATH_PREFIXRules/Complications/Crash%20LandedREL_PATH_SUFFIX)                                 |
+| 14   | [Cult Victim](REL_PATH_PREFIXRules/Complications/Cult%20VictimREL_PATH_SUFFIX)                                   |
+| 15   | [Curse of Caution](REL_PATH_PREFIXRules/Complications/Curse%20of%20CautionREL_PATH_SUFFIX)                       |
+| 16   | [Curse of Immortality](REL_PATH_PREFIXRules/Complications/Curse%20of%20ImmortalityREL_PATH_SUFFIX)               |
+| 17   | [Curse of Misfortune](REL_PATH_PREFIXRules/Complications/Curse%20of%20MisfortuneREL_PATH_SUFFIX)                 |
+| 18   | [Curse of Poverty](REL_PATH_PREFIXRules/Complications/Curse%20of%20PovertyREL_PATH_SUFFIX)                       |
+| 19   | [Curse of Punishment](REL_PATH_PREFIXRules/Complications/Curse%20of%20PunishmentREL_PATH_SUFFIX)                 |
+| 20   | [Curse of Stone](REL_PATH_PREFIXRules/Complications/Curse%20of%20StoneREL_PATH_SUFFIX)                           |
+| 21   | [Cursed Weapon](REL_PATH_PREFIXRules/Complications/Cursed%20WeaponREL_PATH_SUFFIX)                               |
+| 22   | [Disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX)                                         |
+| 23   | [Dragon Dreams](REL_PATH_PREFIXRules/Complications/Dragon%20DreamsREL_PATH_SUFFIX)                               |
+| 24   | [Elemental Inside](REL_PATH_PREFIXRules/Complications/Elemental%20InsideREL_PATH_SUFFIX)                         |
+| 25   | [Evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX)                                     |
+| 26   | [Exile](REL_PATH_PREFIXRules/Complications/ExileREL_PATH_SUFFIX)                                                 |
+| 27   | [Fallen Immortal](REL_PATH_PREFIXRules/Complications/Fallen%20ImmortalREL_PATH_SUFFIX)                           |
+| 28   | [Famous Relative](REL_PATH_PREFIXRules/Complications/Famous%20RelativeREL_PATH_SUFFIX)                           |
+| 29   | [Feytouched](REL_PATH_PREFIXRules/Complications/FeytouchedREL_PATH_SUFFIX)                                       |
+| 30   | [Fiery Ideal](REL_PATH_PREFIXRules/Complications/Fiery%20IdealREL_PATH_SUFFIX)                                   |
+| 31   | [Fire and Chaos](REL_PATH_PREFIXRules/Complications/Fire%20and%20ChaosREL_PATH_SUFFIX)                           |
+| 32   | [Following in the Footsteps](REL_PATH_PREFIXRules/Complications/Following%20in%20the%20FootstepsREL_PATH_SUFFIX) |
+| 33   | [Forbidden Romance](REL_PATH_PREFIXRules/Complications/Forbidden%20RomanceREL_PATH_SUFFIX)                       |
+| 34   | [Frostheart](REL_PATH_PREFIXRules/Complications/FrostheartREL_PATH_SUFFIX)                                       |
+| 35   | [Getting Too Old for This](REL_PATH_PREFIXRules/Complications/Getting%20Too%20Old%20for%20ThisREL_PATH_SUFFIX)   |
+| 36   | Gnoll-Mauled                                                                                                     |
+| 37   | [Greening](REL_PATH_PREFIXRules/Complications/GreeningREL_PATH_SUFFIX)                                           |
+| 38   | [Grifter](REL_PATH_PREFIXRules/Complications/GrifterREL_PATH_SUFFIX)                                             |
+| 39   | [Grounded](REL_PATH_PREFIXRules/Complications/GroundedREL_PATH_SUFFIX)                                           |
+| 40   | [Guilty Conscience](REL_PATH_PREFIXRules/Complications/Guilty%20ConscienceREL_PATH_SUFFIX)                       |
+| 41   | [Hawk Rider](REL_PATH_PREFIXRules/Complications/Hawk%20RiderREL_PATH_SUFFIX)                                     |
+| 42   | [Host Body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX)                                       |
+| 43   | [Hunted](REL_PATH_PREFIXRules/Complications/HuntedREL_PATH_SUFFIX)                                               |
+| 44   | [Hunter](REL_PATH_PREFIXRules/Complications/HunterREL_PATH_SUFFIX)                                               |
+| 45   | [Indebted](REL_PATH_PREFIXRules/Complications/IndebtedREL_PATH_SUFFIX)                                           |
+| 46   | [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX)                       |
+| 47   | [Infernal Contract](REL_PATH_PREFIXRules/Complications/Infernal%20ContractREL_PATH_SUFFIX)... But, Like, Bad     |
+| 48   | [Ivory Tower](REL_PATH_PREFIXRules/Complications/Ivory%20TowerREL_PATH_SUFFIX)                                   |
+| 49   | [Lifebonded](REL_PATH_PREFIXRules/Complications/LifebondedREL_PATH_SUFFIX)                                       |
+| 50   | [Lightning Soul](REL_PATH_PREFIXRules/Complications/Lightning%20SoulREL_PATH_SUFFIX)                             |
+| 51   | [Loner](REL_PATH_PREFIXRules/Complications/LonerREL_PATH_SUFFIX)                                                 |
+| 52   | [Lost in Time](REL_PATH_PREFIXRules/Complications/Lost%20in%20TimeREL_PATH_SUFFIX)                               |
+| 53   | [Lost Your Head](REL_PATH_PREFIXRules/Complications/Lost%20Your%20HeadREL_PATH_SUFFIX)                           |
+| 54   | [Lucky](REL_PATH_PREFIXRules/Complications/LuckyREL_PATH_SUFFIX)                                                 |
+| 55   | [Master Chef](REL_PATH_PREFIXRules/Complications/Master%20ChefREL_PATH_SUFFIX)                                   |
+| 56   | [Meddling Butler](REL_PATH_PREFIXRules/Complications/Meddling%20ButlerREL_PATH_SUFFIX)                           |
+| 57   | [Medium](REL_PATH_PREFIXRules/Complications/MediumREL_PATH_SUFFIX)                                               |
+| 58   | [Medusa Blood](REL_PATH_PREFIXRules/Complications/Medusa%20BloodREL_PATH_SUFFIX)                                 |
+| 59   | [Misunderstood](REL_PATH_PREFIXRules/Complications/MisunderstoodREL_PATH_SUFFIX)                                 |
+| 60   | [Mundane](REL_PATH_PREFIXRules/Complications/MundaneREL_PATH_SUFFIX)                                             |
+| 61   | [Outlaw](REL_PATH_PREFIXRules/Complications/OutlawREL_PATH_SUFFIX)                                               |
+| 62   | [Pirate](REL_PATH_PREFIXRules/Complications/PirateREL_PATH_SUFFIX)                                               |
+| 63   | [Preacher](REL_PATH_PREFIXRules/Complications/PreacherREL_PATH_SUFFIX)                                           |
+| 64   | [Primordial Sickness](REL_PATH_PREFIXRules/Complications/Primordial%20SicknessREL_PATH_SUFFIX)                   |
+| 65   | [Prisoner of the Synlirii](REL_PATH_PREFIXRules/Complications/Prisoner%20of%20the%20SynliriiREL_PATH_SUFFIX)     |
+| 66   | [Promising Apprentice](REL_PATH_PREFIXRules/Complications/Promising%20ApprenticeREL_PATH_SUFFIX)                 |
+| 67   | Psychic Eruption                                                                                                 |
+| 68   | [Raised by Beasts](REL_PATH_PREFIXRules/Complications/Raised%20by%20BeastsREL_PATH_SUFFIX)                       |
+| 69   | [Refugee](REL_PATH_PREFIXRules/Complications/RefugeeREL_PATH_SUFFIX)                                             |
+| 70   | [Rival](REL_PATH_PREFIXRules/Complications/RivalREL_PATH_SUFFIX)                                                 |
+| 71   | Rogue [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)                                               |
+| 72   | [Runaway](REL_PATH_PREFIXRules/Complications/RunawayREL_PATH_SUFFIX)                                             |
+| 73   | [Searching for a Cure](REL_PATH_PREFIXRules/Complications/Searching%20for%20a%20CureREL_PATH_SUFFIX)             |
+| 74   | [Secret Identity](REL_PATH_PREFIXRules/Complications/Secret%20IdentityREL_PATH_SUFFIX)                           |
+| 75   | [Secret Twin](REL_PATH_PREFIXRules/Complications/Secret%20TwinREL_PATH_SUFFIX)                                   |
+| 76   | Self-Taught                                                                                                      |
+| 77   | [Sewer Folk](REL_PATH_PREFIXRules/Complications/Sewer%20FolkREL_PATH_SUFFIX)                                     |
+| 78   | [Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) Born                                                |
+| 79   | [Shared Spirit](REL_PATH_PREFIXRules/Complications/Shared%20SpiritREL_PATH_SUFFIX)                               |
+| 80   | [Shattered Legacy](REL_PATH_PREFIXRules/Complications/Shattered%20LegacyREL_PATH_SUFFIX)                         |
+| 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)                                     |
+| 82   | Sibling's Shield                                                                                                 |
+| 83   | [Silent Sentinel](REL_PATH_PREFIXRules/Complications/Silent%20SentinelREL_PATH_SUFFIX)                           |
+| 84   | [Slight Case of Lycanthropy](REL_PATH_PREFIXRules/Complications/Slight%20Case%20of%20LycanthropyREL_PATH_SUFFIX) |
+| 85   | [Stolen Face](REL_PATH_PREFIXRules/Complications/Stolen%20FaceREL_PATH_SUFFIX)                                   |
+| 86   | [Strange Inheritance](REL_PATH_PREFIXRules/Complications/Strange%20InheritanceREL_PATH_SUFFIX)                   |
+| 87   | [Stripped of Rank](REL_PATH_PREFIXRules/Complications/Stripped%20of%20RankREL_PATH_SUFFIX)                       |
+| 88   | [Thrill Seeker](REL_PATH_PREFIXRules/Complications/Thrill%20SeekerREL_PATH_SUFFIX)                               |
+| 89   | [Vampire Scion](REL_PATH_PREFIXRules/Complications/Vampire%20ScionREL_PATH_SUFFIX)                               |
+| 90   | [Voice in Your Head](REL_PATH_PREFIXRules/Complications/Voice%20in%20Your%20HeadREL_PATH_SUFFIX)                 |
+| 91   | [Vow of Duty](REL_PATH_PREFIXRules/Complications/Vow%20of%20DutyREL_PATH_SUFFIX)                                 |
+| 92   | [Vow of Honesty](REL_PATH_PREFIXRules/Complications/Vow%20of%20HonestyREL_PATH_SUFFIX)                           |
+| 93   | [Waking Dreams](REL_PATH_PREFIXRules/Complications/Waking%20DreamsREL_PATH_SUFFIX)                               |
+| 94   | [War Dog Collar](REL_PATH_PREFIXRules/Complications/War%20Dog%20CollarREL_PATH_SUFFIX)                           |
+| 95   | [War of Assassins](REL_PATH_PREFIXRules/Complications/War%20of%20AssassinsREL_PATH_SUFFIX)                       |
+| 96   | [Ward](REL_PATH_PREFIXRules/Complications/WardREL_PATH_SUFFIX)                                                   |
+| 97   | [Waterborn](REL_PATH_PREFIXRules/Complications/WaterbornREL_PATH_SUFFIX)                                         |
+| 98   | [Wodewalker](REL_PATH_PREFIXRules/Complications/WodewalkerREL_PATH_SUFFIX)                                       |
+| 99   | [Wrathful Spirit](REL_PATH_PREFIXRules/Complications/Wrathful%20SpiritREL_PATH_SUFFIX)                           |
+| 100  | [Wrongly Imprisoned](REL_PATH_PREFIXRules/Complications/Wrongly%20ImprisonedREL_PATH_SUFFIX)                     |
 
 #### Advanced Studies
 
@@ -220,19 +220,19 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. If your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
-**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your animal form. Once the Director has done so, they can't do so again until you have finished a respite.
+**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX). Once the Director has done so, they can't do so again until you have finished a respite.
 
 #### Antihero
 
 You used to be a villain. You're (mostly) reformed now, but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go back. You've made too many enemies on the other side.
 
-**Benefit:** You have 3 antihero tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 antihero token in place of 1 Heroic Resource. Whenever you have fewer than 3 antihero tokens and you would earn a hero token for your party through your deeds, you instead regain 1 antihero token.
+**Benefit:** You have 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) token.
 
-**Drawback:** While you have fewer than 3 antihero tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
+**Drawback:** While you have fewer than 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
 
 #### Artifact Bonded
 
@@ -327,7 +327,7 @@ You used to flit around the stars in your own ship. But an ugly run-in with a pi
 
 **Benefit:** You have the Timescape skill (from the lore skill group). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that damage type.
 
-**Drawback:** You take a bane on any test made to know about anything related to the world where you crash landed.
+**Drawback:** You take a bane on any test made to know about anything related to the world where you [crash landed](REL_PATH_PREFIXRules/Complications/Crash%20LandedREL_PATH_SUFFIX).
 
 #### Cult Victim
 
@@ -391,7 +391,7 @@ When you were young, you found or were given a magic weapon. Since then, you've 
 
 #### Disgraced
 
-You're a disgraced member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
+You're a [disgraced](REL_PATH_PREFIXRules/Complications/DisgracedREL_PATH_SUFFIX) member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
 
 **Benefit:** You earn 1 Renown, and you have one skill of your choice from the interpersonal or intrigue skill group.
 
@@ -415,7 +415,7 @@ When an evil mage threatened someone you loved, you blocked that foe's summoning
 
 #### Evanesceria
 
-You have contracted a rare magical disease called evanesceria. From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
+You have contracted a rare magical disease called [evanesceria](REL_PATH_PREFIXRules/Complications/EvanesceriaREL_PATH_SUFFIX). From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
 
 **Benefit:** At the start of any combat round, you can attempt to absent yourself from reality by rolling a d10. On a 6 or higher, you disappear, then reappear in the space you left or the nearest unoccupied space of your choice when you take your turn. You can't attempt to absent yourself again until you earn 1 or more Victories.
 
@@ -439,7 +439,7 @@ You used to be an immortal creature, dispensing justice and doing the bidding of
 
 #### Famous Relative
 
-Sure, you're a promising young hero in your own right—but people always ask you about your famous relative. Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
+Sure, you're a promising young hero in your own right—but people always ask you about your [famous relative](REL_PATH_PREFIXRules/Complications/Famous%20RelativeREL_PATH_SUFFIX). Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
 
 **Benefit:** You have a piece of magic jewelry such as a signet ring. As a maneuver, you can use this item to summon your relative to your aid. Your relative starts with a Renown of 10 but otherwise has the same statistics you do. They make power rolls with an edge but don't gain the benefits of any of your treasures. Your relative does their best to help you out of the current perilous situation, disappearing when the situation is resolved or after 1 hour. Once you summon your relative, you can't do so again until you gain a level.
 
@@ -477,15 +477,15 @@ Your personal idol was a mighty hero, and you have modeled yourself after them. 
 
 #### Forbidden Romance
 
-You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, betrothed to another, or has been driven from your side, you are fated to always be apart.
+You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, [betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX) to another, or has been driven from your side, you are fated to always be apart.
 
-**Benefit:** You can secretly call on your betrothed for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
+**Benefit:** You can secretly call on your [betrothed](REL_PATH_PREFIXRules/Complications/BetrothedREL_PATH_SUFFIX) for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
 
 **Drawback:** When your lover is in trouble, they might call on you for help. But if your relationship is discovered, the circumstances that keep you apart will be made worse.
 
 #### Frostheart
 
-At the edge of the world, you were lost in a winter storm and presumed dead. But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [presumed dead](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Presumed%20DeadREL_PATH_SUFFIX). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
 
@@ -553,13 +553,13 @@ You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](#p
 
 "Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!"
 
-**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your host body follows all the usual rules for a character and is considered to be alive. At any time while your host body is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new host body, provided the body belongs to a playable ancestry. When you do so, your original host body dies if it was alive. Your new host body gains all your statistics except size, ancestry traits, and other statistics related to your former host body's ancestry, which you instead gain from your new host body. When you inhabit a new host body, you start with 1 Stamina and can immediately spend a Recovery.
+**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX), provided the body belongs to a playable ancestry. When you do so, your original [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX) dies if it was alive. Your new [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX) gains all your statistics except size, ancestry traits, and other statistics related to your former [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX)'s ancestry, which you instead gain from your new [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX). When you inhabit a new [host body](REL_PATH_PREFIXRules/Complications/Host%20BodyREL_PATH_SUFFIX), you start with 1 Stamina and can immediately spend a Recovery.
 
 **Drawback:** You have fire weakness 5. Additionally, you take a bane on any test made to read a humanoid creature's emotions or body language.
 
 #### Hunted
 
-You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a revenant, or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
+You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX), or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
 
 **Benefit:** You have one skill of your choice from the intrigue skill group. Additionally, whenever one or more creatures are pursuing you, you can lay low as a respite activity. When you do so, anyone pursuing you loses track of your and your party's location and must start their search again.
 
@@ -593,11 +593,11 @@ You made a deal (perhaps unknowingly) with an archdevil that has tied you to tha
 
 **Benefit:** Whenever you are present for a battle in which both sides have creatures who aren't surprised, your side determines who goes first if the d10 roll is a 4 or higher (see [Combat Round](#page-279-1) in [Chapter 10: Combat](#page-288-0)).
 
-**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends devils after you and those you care about.
+**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) after you and those you care about.
 
 #### Infernal Contract... But, Like, Bad
 
-You made a deal with a devil. Not a very good deal, because it wasn't a very good devil. It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the devil to void the deal.
+You made a deal with a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX). Not a very good deal, because it wasn't a very good [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX). It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) to void the deal.
 
 **Benefit:** Choose one of the following benefits:
 
@@ -625,7 +625,7 @@ In a sinister ritual, your soul has been bound to that of another creature. This
 
 #### Lightning Soul
 
-You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful elementalist, but you absorbed the lightning into your body. It's always there now, simmering under the surface.
+You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX), but you absorbed the lightning into your body. It's always there now, simmering under the surface.
 
 **Benefit:** Whenever you regain Stamina in combat, you gain 1 surge. Whenever you spend a surge to deal extra damage, you can make that extra damage into lightning damage.
 
@@ -894,11 +894,11 @@ You're secretly important—but it's not safe for your true identity to be known
 
 **Benefit:** You have a skill of your choice from the intrigue skill group. Additionally, you can resume your true identity temporarily. While in your true identity, your Renown and Wealth are treated as 2 higher than usual, and you might gain other benefits in consultation with the Director.
 
-**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your secret identity for 1 day.
+**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](REL_PATH_PREFIXRules/Complications/Secret%20IdentityREL_PATH_SUFFIX) for 1 day.
 
 #### Secret Twin
 
-You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your secret twin had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
+You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your [secret twin](REL_PATH_PREFIXRules/Complications/Secret%20TwinREL_PATH_SUFFIX) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
 
 **Benefit:** You have a 1st-echelon trinket of your choice. This was a signature treasure of your twin, and has their name or sigil written, sewn, or emblazoned on it somewhere.
 
@@ -1029,7 +1029,7 @@ A vampire has bitten you. You're not undead—or not yet, anyway—but your conn
 
 #### Voice in Your Head
 
-You occasionally hear a voice in your head, giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
+You occasionally hear a [voice in your head](REL_PATH_PREFIXRules/Complications/Voice%20in%20Your%20HeadREL_PATH_SUFFIX), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
 
 **Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
 

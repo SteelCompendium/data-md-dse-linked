@@ -39,5 +39,6 @@ effects:
       fails. For instance, a
       [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) who has no other
       options for ranged strikes might use the Ranged Weapon Free Strike ability
-      with an improvised weapon when battling a flying foe.
+      with an improvised weapon when battling a
+      [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) foe.
 ```

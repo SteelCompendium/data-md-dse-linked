@@ -14,7 +14,7 @@ type: kit
 
 #### Dual Wielder
 
-The Dual Wielder kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
+The [Dual Wielder](REL_PATH_PREFIXRules/Kits/Dual%20WielderREL_PATH_SUFFIX) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
 
 ##### Equipment
 

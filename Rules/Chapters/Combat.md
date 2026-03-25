@@ -132,7 +132,7 @@ Boring stuff like opening an unlocked door, picking up an arrow from the ground,
 
 At the Director's discretion, circumstances could make something that is typically boring more impactful and exciting. For instance, if you need to pick a magic arrow up off the ground during a violent earthquake, what would otherwise be a free maneuver could require a maneuver or a main action to accomplish.
 
-Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) ally decked out in the Shining Armor kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
+Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) ally decked out in the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
 
 Any effect that prevents you from using maneuvers also prevents you from using free maneuvers.
 
@@ -174,31 +174,31 @@ Creatures in the game can use eight types of movement: [walk](REL_PATH_PREFIXRul
 
 ##### Walk
 
-Walking is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
+[Walking](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX) is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
 ##### Burrow
 
-A creature who has "burrow" in their speed entry, or who gains the temporary ability to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) says otherwise. Similarly, a burrowing creature doesn't leave a tunnel unless the rules say so.
+A creature who has "burrow" in their speed entry, or who gains the temporary ability to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) says otherwise. Similarly, a [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature doesn't leave a tunnel unless the rules say so.
 
 ###### Dig Maneuver
 
 It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a burrowing creature has a creature who is not unconscious [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature has a creature who is not unconscious [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ###### Targeting Burrowing Creatures
 
-If you are on the ground, you have line of effect to a burrowing creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The burrowing creature gains the benefit of cover from you.
+If you are on the ground, you have line of effect to a [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) creature gains the benefit of cover from you.
 
-If you are completely beneath the ground while burrowing, you don't have line of effect to any creature on the surface unless a rule states otherwise.
+If you are completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), you don't have line of effect to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while burrowing and are adjacent to another creature who is burrowing, you have line of effect to that creature, though you both have cover from each other.
+If you are completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) and are adjacent to another creature who is [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), you have line of effect to that creature, though you both have cover from each other.
 
-You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while burrowing.
+You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX).
 
 ###### Non-Burrowing Creatures
 
-If you are on the ground and adjacent to a creature who is beneath the ground while burrowing, you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+If you are on the ground and adjacent to a creature who is beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
 
 If a creature who can't [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
 
@@ -216,13 +216,13 @@ If a creature who can't [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SU
 
 ###### Burrowing Forced Movement
 
-While a creature who is completely beneath the ground while burrowing is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as if it were air.
+While a creature who is completely beneath the ground while [burrowing](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as if it were air.
 
 ##### Climb or Swim
 
 A creature who has "[climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) in liquid at full speed.
 
-Creatures without those types of movement can still [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
+Creatures without those types of movement can still [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) when a rule allows them to move, but each square of [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swimming](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) costs 2 squares of movement. If a surface is difficult to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
 ###### Climbing Other Creatures
 
@@ -242,7 +242,7 @@ While you [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX
 - **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
 - **17+:** You continue to hold on to the creature.
 
-If you are knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) while climbing or riding a creature, you fall and land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) in an adjacent space of your choice, taking damage as usual from the fall.
+If you are knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) while [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or riding a creature, you fall and land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) in an adjacent space of your choice, taking damage as usual from the fall.
 
 ##### Jump
 
@@ -264,7 +264,7 @@ If you are [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) (see [C
 
 ##### Fly
 
-A creature who has "fly" in their speed entry, or who gains the temporary ability to [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), can move through the air vertically or horizontally at full speed and remain in midair. If a flying creature is knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
+A creature who has "fly" in their speed entry, or who gains the temporary ability to [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), can move through the air vertically or horizontally at full speed and remain in midair. If a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) creature is knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
 
 ##### Hover
 
@@ -272,17 +272,17 @@ A creature who has "hover" in their speed entry (most commonly alongside "[fly](
 
 ##### Teleport
 
-When a creature teleports, they move from one space to another space instantaneously. The following rules apply to teleporting:
+When a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), they move from one space to another space instantaneously. The following rules apply to [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX):
 
-- Teleporting doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.
-- When a creature teleports, they bypass any obstacles between the space they leave and their destination space.
-- A creature teleporting themself must have line of effect to their destination space. A creature teleporting another creature must have line of effect from the space the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature leaves and to their destination space.
-- A teleporting creature's destination space can't be occupied by another creature or object.
+- [Teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.
+- When a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), they bypass any obstacles between the space they leave and their destination space.
+- A creature [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) themself must have line of effect to their destination space. A creature [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) another creature must have line of effect from the space the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature leaves and to their destination space.
+- A [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature's destination space can't be occupied by another creature or object.
 - The effect that lets a creature [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) indicates how far they can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). That distance can be greater than the creature's speed.
 - If a creature can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) as part of their usual movement, they can use the Advance move action to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) a number of squares up to their usual speed, unmodified by conditions or effects.
-- If a creature teleports while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they can be standing when they reach their destination space provided they are able to stand. If a [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature is [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) by another creature, it is up to that creature whether the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature remains [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or stands if they are able.
+- If a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they can be standing when they reach their destination space provided they are able to stand. If a [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature is [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) by another creature, it is up to that creature whether the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature remains [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or stands if they are able.
 - If you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) while affected by the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) or [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) conditions, those conditions end for you.
-- When a creature teleports, they must leave the space where they start and enter a new space. A creature can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to and from the same space.
+- When a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), they must leave the space where they start and enter a new space. A creature can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to and from the same space.
 
 #### Falling
 
@@ -310,7 +310,7 @@ Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage 
 
 Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an edge on the power roll against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
 
-A creature can gain this benefit while climbing only if they have "climb" in their speed entry or can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving.
+A creature can gain this benefit while [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) only if they have "climb" in their speed entry or can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving.
 
 #### Forced Movement
 
@@ -333,7 +333,7 @@ Forced movement ignores difficult terrain and never provokes opportunity attacks
 
 If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
-If a creature who can't [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is flying is always a vertical forced move, whether or not the effect specifies it.
+If a creature who can't [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is always a vertical forced move, whether or not the effect specifies it.
 
 Though you can't freely push, pull, or slide a target up and down unless that forced movement specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
@@ -534,7 +534,7 @@ When a creature takes the Defend main action, ability rolls made against them ha
 
 #### Free Strike
 
-A creature can use this main action to make a free strike (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a flying foe.
+A creature can use this main action to make a free strike (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) foe.
 
 #### Heal
 
@@ -773,11 +773,11 @@ The enemy holds a strategically important position and the heroes want it. The e
 
 ##### Stop the Action
 
-Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the devil suddenly becomes the heroes' new objective!
+Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) suddenly becomes the heroes' new objective!
 
 ##### Complete the Action
 
-This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a time raider boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few time raiders actually aboard.
+This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) actually aboard.
 
 #### Dramatic Finish
 

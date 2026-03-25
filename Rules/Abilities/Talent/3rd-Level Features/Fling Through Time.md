@@ -90,6 +90,7 @@ effects:
       the nearest unoccupied space.
   - name: Strained
     effect: You take 2d6 damage and permanently grow visibly older (the equivalent
-      of 10 years for a human). If you obtain a tier 3 outcome on the power
-      roll, you gain 2 clarity.
+      of 10 years for a
+      [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)). If you
+      obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 ```
