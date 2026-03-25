@@ -18,15 +18,15 @@ As a 3rd-level [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), you gai
 
 #### 3rd-Level Aspect Feature
 
-Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Features table.
+Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
 ###### 3rd-Level Aspect Features Table
 
-| Aspect     | Feature                  |
-| ---------- | ------------------------ |
-| Berserker  | Immovable Object         |
-| Reaver     | See Through Their Tricks |
-| Stormwight | Nature's Knight          |
+| Aspect     | Feature                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Berserker  | [Immovable Object](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/Immovable%20ObjectREL_PATH_SUFFIX)                     |
+| Reaver     | [See Through Their Tricks](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/See%20Through%20Their%20TricksREL_PATH_SUFFIX) |
+| Stormwight | Nature's Knight                                                                                                          |
 
 ##### Immovable Object
 

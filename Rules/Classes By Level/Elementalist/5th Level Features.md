@@ -22,12 +22,12 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ###### 5th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                      |
-| -------------- | ---------------------------- |
-| Earth          | The Mountain Does Not Move   |
-| Fire           | Smoldering Step              |
-| Green          | Hide of Tenfold Shields      |
-| Void           | Pierce the Veil of Substance |
+| Specialization | Feature                                                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [The Mountain Does Not Move](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/The%20Mountain%20Does%20Not%20MoveREL_PATH_SUFFIX)     |
+| Fire           | [Smoldering Step](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/Smoldering%20StepREL_PATH_SUFFIX)                                 |
+| Green          | [Hide of Tenfold Shields](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/Hide%20of%20Tenfold%20ShieldsREL_PATH_SUFFIX)             |
+| Void           | [Pierce the Veil of Substance](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/Pierce%20the%20Veil%20of%20SubstanceREL_PATH_SUFFIX) |
 
 ##### Hide of Tenfold Shields
 
@@ -39,7 +39,7 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 You stand firm and magnetize your allies to stay grounded. Your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) increases by your level.
 
-Additionally, whenever an ally within distance of your Hurl Element ability is force moved, you can use a free triggered action to decrease your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) down to a minimum of 0, then increase the ally's [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) by an amount equal to the [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability is force moved, you can use a free triggered action to decrease your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) down to a minimum of 0, then increase the ally's [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) by an amount equal to the [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) you lost. This change lasts until the end of the round.
 
 ##### Pierce the Veil of Substance
 

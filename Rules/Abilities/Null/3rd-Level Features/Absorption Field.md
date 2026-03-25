@@ -8,7 +8,7 @@ distance: Self
 feature_type: ability
 file_basename: Absorption Field
 file_dpath: Abilities/Null/3rd-Level Features
-flavor: Your [null](scc:mcdm.heroes.v1:class:null) field absorbs kinetic energy.
+flavor: Your null field absorbs kinetic energy.
 item_id: absorption-field-7-discipline
 item_index: '01'
 item_name: Absorption Field (7 Discipline)
@@ -29,8 +29,7 @@ type: feature
 feature_type: ability
 name: Absorption Field
 cost: 7 Discipline
-flavor: Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) field
-  absorbs kinetic energy.
+flavor: Your null field absorbs kinetic energy.
 keywords:
   - Psionic
 usage: Maneuver
@@ -46,7 +45,7 @@ metadata:
   feature_type: ability
   file_basename: Absorption Field
   file_dpath: Abilities/Null/3rd-Level Features
-  flavor: Your [null](scc:mcdm.heroes.v1:class:null) field absorbs kinetic energy.
+  flavor: Your null field absorbs kinetic energy.
   item_id: absorption-field-7-discipline
   item_index: "01"
   item_name: Absorption Field (7 Discipline)

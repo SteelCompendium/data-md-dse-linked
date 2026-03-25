@@ -39,12 +39,8 @@ metadata:
   subclass: Death
   type: feature/trait/conduit/7th-level-feature
 effects:
-  - effect: >-
-      You can stop death from taking your allies. When an ally within distance
-      of your Healing Grace ability dies and you are not dying, you can use a
-      free triggered action to instead have that ally fall unconscious until
-      they regain Stamina.
-
+  - effect: |-
+      You can stop death from taking your allies. When an ally within distance of your [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
       Additionally, your abilities deal an extra 5 damage to winded creatures.
 ```

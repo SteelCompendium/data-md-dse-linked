@@ -8,8 +8,8 @@ distance: Melee 1
 feature_type: ability
 file_basename: Arcane Purge
 file_dpath: Abilities/Null/8th-Level Features
-flavor: You focus your [null](scc:mcdm.heroes.v1:class:null) field into a pressure
-  point strike that prevents your foe from channeling sorcery.
+flavor: You focus your null field into a pressure point strike that prevents your
+  foe from channeling sorcery.
 item_id: arcane-purge-11-discipline
 item_index: '04'
 item_name: Arcane Purge (11 Discipline)
@@ -33,9 +33,8 @@ type: feature
 feature_type: ability
 name: Arcane Purge
 cost: 11 Discipline
-flavor: You focus your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)
-  field into a pressure point strike that prevents your foe from channeling
-  sorcery.
+flavor: You focus your null field into a pressure point strike that prevents
+  your foe from channeling sorcery.
 keywords:
   - Melee
   - Psionic
@@ -54,8 +53,8 @@ metadata:
   feature_type: ability
   file_basename: Arcane Purge
   file_dpath: Abilities/Null/8th-Level Features
-  flavor: You focus your [null](scc:mcdm.heroes.v1:class:null) field into a
-    pressure point strike that prevents your foe from channeling sorcery.
+  flavor: You focus your null field into a pressure point strike that prevents
+    your foe from channeling sorcery.
   item_id: arcane-purge-11-discipline
   item_index: "04"
   item_name: Arcane Purge (11 Discipline)

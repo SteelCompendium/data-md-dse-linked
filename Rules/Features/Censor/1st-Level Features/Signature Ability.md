@@ -38,8 +38,8 @@ metadata:
   type: feature/trait/censor/1st-level-feature
 effects:
   - effect: Choose one signature ability from the following options. Signature
-      abilities can be used at will. (*Quick Build:* Your Allies Cannot Save
-      You!)
+      abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save
+      You](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/Your%20Allies%20Cannot%20Save%20YouREL_PATH_SUFFIX)!)
     features:
       - type: feature
         feature_type: ability

@@ -47,14 +47,14 @@ You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Drama%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Artful%20FlourishREL_PATH_SUFFIX), you can use it as if you had spent an amount of drama equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX)**
 >
-> Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like Guest Star, [Missed Cue](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/Missed%20CueREL_PATH_SUFFIX), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
 > This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
@@ -76,7 +76,7 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
-You start off with the Choreography and Revitalizing Limerick performance abilities. Your choice of class act grants you additional performances.
+You start off with the Choreography and [Revitalizing Limerick](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Revitalizing%20LimerickREL_PATH_SUFFIX) performance abilities. Your choice of class act grants you additional performances.
 
 <!-- -->
 > ###### Choreography
@@ -106,15 +106,15 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                           |
-| --------- | ---------------------------------- |
-| Auteur    | Blocking, Dramatic Monologue       |
-| Duelist   | Acrobatics, Star Power             |
-| Virtuoso  | Power Chord, Virtuoso Performances |
+| Class Act | Features                                                                                                                                                                                                                         |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)                                                                                               |
+| Duelist   | Acrobatics, [Star Power](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Star%20PowerREL_PATH_SUFFIX)                                                                                                                       |
+| Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Power%20ChordREL_PATH_SUFFIX), [Virtuoso Performances](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Virtuoso%20PerformancesREL_PATH_SUFFIX) |
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your Routines feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### Acrobatics
@@ -129,7 +129,7 @@ You have the following performance ability, which is usable with your Routines f
 
 ##### Blocking
 
-You have the following performance ability, which is usable with your Routines feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### Blocking
@@ -201,7 +201,7 @@ You have the following ability.
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your Routines feature.
+You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### "Thunder Mother"
@@ -237,11 +237,11 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 
 ###### Class Act Triggered Action Table
 
-| Class Act | Triggered Action       |
-| --------- | ---------------------- |
-| Auteur    | Turnabout Is Fair Play |
-| Duelist   | Riposte                |
-| Virtuoso  | Harmonize              |
+| Class Act | Triggered Action                                                                                                                     |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | [Turnabout Is Fair Play](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Turnabout%20Is%20Fair%20PlayREL_PATH_SUFFIX) |
+| Duelist   | [Riposte](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/RiposteREL_PATH_SUFFIX)                                     |
+| Virtuoso  | Harmonize                                                                                                                            |
 
 <!-- -->
 > ###### Harmonize (3 Drama)
@@ -292,7 +292,7 @@ Your performance centers around maneuvering through the scene of battle, maintai
 
 #### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Witty Banter.)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Witty%20BanterREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Artful Flourish

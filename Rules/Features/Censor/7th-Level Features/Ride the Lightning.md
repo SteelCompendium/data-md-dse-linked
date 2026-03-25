@@ -44,7 +44,9 @@ effects:
       damage equal to your Presence score. Additionally, if you use an ability
       that force moves a creature, the forced movement distance gains a bonus
       equal to your Presence score. While you are under the effect of your
-      Windwalk feature, lightning enhances your locomotion to grant you a bonus
-      to speed equal to your Might score. If Windwalk already grants you a bonus
-      to speed, this bonus adds to that.
+      [Windwalk](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/WindwalkREL_PATH_SUFFIX)
+      feature, lightning enhances your locomotion to grant you a bonus to speed
+      equal to your Might score. If
+      [Windwalk](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/WindwalkREL_PATH_SUFFIX)
+      already grants you a bonus to speed, this bonus adds to that.
 ```

@@ -24,7 +24,7 @@ After the Director sets the scene, each player describes how their character int
 
 **Alyssa (playing Jorn, a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)):** *I'm going to hang out at the back of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
 
-**Matt (playing Linn, a [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)):** *Linn uses her Minor Telekinesis ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
+**Matt (playing Linn, a [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)):** *Linn uses her [Minor Telekinesis](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Minor%20TelekinesisREL_PATH_SUFFIX) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
 
 **James (playing Korvo, a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
 
@@ -112,7 +112,7 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 #### Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
+The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) uses their [Brutal Slam](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Brutal%20SlamREL_PATH_SUFFIX) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
 A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) might not have an ability that lets them [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) up the face of a cliff, so [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) is an activity they can attempt with a test. An [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](REL_PATH_PREFIXRules/Chapters/TestsREL_PATH_SUFFIX) for more information.
 
@@ -232,13 +232,13 @@ If you're not sure what to do when two rules come into conflict with each other,
 
 ### Always Round Down
 
-Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) takes 7 damage and uses the Parry ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
+Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) takes 7 damage and uses the [Parry](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/ParryREL_PATH_SUFFIX) ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
 
 ### Creatures and Objects
 
 *Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
-When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) can't use their Return to Formlessness ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
+When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) can't use their [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 
 #### Unattended Objects
 
@@ -323,7 +323,7 @@ The standard 8-or-so hours of sleep one gets at night doesn't count as a respite
 
 The core gameplay experience of *Draw Steel* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world—maybe even across all worlds know the names of their saviors!
 
-Since this game encompasses power levels from hometown heroes to demigods, the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
+Since this game encompasses power levels from hometown heroes to [demigods](REL_PATH_PREFIXRules/Titles/4th%20Echelon/DemigodREL_PATH_SUFFIX), the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
 
 #### 1st Echelon (1st to 3rd Level)
 

@@ -39,5 +39,7 @@ metadata:
 effects:
   - effect: The flow of psionic power through you allows you to achieve high
       velocity. You gain a bonus to speed and to the number of squares you can
-      shift when you take the Disengage move action equal to your Agility score.
+      shift when you take the
+      [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX)
+      move action equal to your Agility score.
 ```

@@ -70,8 +70,7 @@ effects:
         feature_type: ability
         name: Cinderstorm
         cost: 9 Insight
-        flavor: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
-          your friends in a burst of ash and fire.
+        flavor: You teleport your friends in a burst of ash and fire.
         keywords:
           - Magic
         usage: Maneuver

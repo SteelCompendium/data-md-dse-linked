@@ -31,9 +31,11 @@ metadata:
   source: mcdm.heroes.v1
   type: common-ability/move-action
 effects:
-  - effect: When a creature takes the Disengage move action, they can shift 1
-      square. Certain class features, kits, and other rules allow a creature to
-      shift more than 1 square when they disengage. A creature who does so can
-      break up their shift with their maneuver and main action however they
-      wish.
+  - effect: When a creature takes the
+      [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX)
+      move action, they can shift 1 square. Certain class features, kits, and
+      other rules allow a creature to shift more than 1 square when they
+      [disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX).
+      A creature who does so can break up their shift with their maneuver and
+      main action however they wish.
 ```

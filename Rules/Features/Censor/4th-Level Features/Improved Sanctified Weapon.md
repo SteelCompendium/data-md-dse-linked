@@ -39,6 +39,7 @@ metadata:
   subclass: War
   type: feature/trait/censor/4th-level-feature
 effects:
-  - effect: The weapon improved by your Sanctified Weapon feature grants a +3 bonus
-      to rolled damage instead of +1.
+  - effect: The weapon improved by your [Sanctified
+      Weapon](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Sanctified%20WeaponREL_PATH_SUFFIX)
+      feature grants a +3 bonus to rolled damage instead of +1.
 ```

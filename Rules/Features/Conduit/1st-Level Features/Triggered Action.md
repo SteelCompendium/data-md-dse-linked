@@ -37,8 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/conduit/1st-level-feature
 effects:
-  - effect: Choose one of the following triggered actions. (*Quick Build:* Word of
-      Guidance.)
+  - effect: Choose one of the following triggered actions. (*Quick Build:* [Word of
+      Guidance](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Word%20of%20GuidanceREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability

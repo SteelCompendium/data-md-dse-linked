@@ -31,9 +31,10 @@ metadata:
   source: mcdm.heroes.v1
   type: common-ability/main-action
 effects:
-  - effect: A creature who uses the Heal main action employs medicine or inspiring
-      words to make an adjacent creature feel better and stay in the fight. The
-      target creature can spend a Recovery to regain Stamina, or can make a
-      saving throw against one effect they are suffering that is ended by a
-      saving throw.
+  - effect: A creature who uses the
+      [Heal](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/HealREL_PATH_SUFFIX)
+      main action employs medicine or inspiring words to make an adjacent
+      creature feel better and stay in the fight. The target creature can spend
+      a Recovery to regain Stamina, or can make a saving throw against one
+      effect they are suffering that is ended by a saving throw.
 ```

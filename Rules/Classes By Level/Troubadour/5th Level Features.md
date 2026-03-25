@@ -26,11 +26,11 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX), [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX), [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX), or [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX) ability. Choose one of the following conditions on the target: [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX), [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX), [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX), or [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) can stand up.
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your Routines feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### Take Two!
@@ -53,7 +53,7 @@ Once on each of your turns while the target of your Foil feature is adjacent to 
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your Routines feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### We Can't Be Upstaged!
@@ -76,7 +76,7 @@ Once on each of your turns, you can use a free maneuver to exchange words with a
 
 ###### Medley
 
-You can maintain two performances at a time using your Routines feature.
+You can maintain two performances at a time using your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 #### 9-Drama Ability
 

@@ -22,11 +22,11 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ###### 5th-Level Order Features Table
 
-| Order    | Feature       |
-| -------- | ------------- |
-| Exorcist | Evil Revealed |
-| Oracle   | Prophecy      |
-| Paragon  | Stand Fast!   |
+| Order    | Feature                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------ |
+| Exorcist | [Evil Revealed](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/Evil%20RevealedREL_PATH_SUFFIX) |
+| Oracle   | Prophecy                                                                                         |
+| Paragon  | [Stand Fast](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/Stand%20FastREL_PATH_SUFFIX)!      |
 
 ##### Evil Revealed
 

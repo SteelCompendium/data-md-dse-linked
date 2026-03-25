@@ -22,7 +22,7 @@ Your mastery of elemental forces protects and emboldens you. If you are a berser
 
 When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you (save ends).
 
-Additionally, when you use Primordial Strike, you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.
+Additionally, when you use [Primordial Strike](REL_PATH_PREFIXRules/Fury/4th-Level%20Features/Primordial%20StrikeREL_PATH_SUFFIX), you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.
 
 #### Characteristic Increase
 
@@ -30,7 +30,7 @@ Your Might and Agility scores each increase to 5.
 
 #### Growing Ferocity Improvement
 
-Your Growing Ferocity feature provides additional benefits when you have 12 or more ferocity.
+Your [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) feature provides additional benefits when you have 12 or more ferocity.
 
 #### Perk
 
@@ -42,13 +42,13 @@ The first time you take damage each combat round, you gain 3 ferocity instead of
 
 #### Primordial Power
 
-You have an epic resource called primordial power. Each time you finish a respite, you gain primordial power equal to the XP you gain. You can spend primordial power on your abilities as if it were ferocity.
+You have an epic resource called [primordial power](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX). Each time you finish a respite, you gain [primordial power](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) equal to the XP you gain. You can spend [primordial power](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) on your abilities as if it were ferocity.
 
-Additionally, you can spend any amount of primordial power as a free maneuver, ending one effect on you for each primordial power spent.
+Additionally, you can spend any amount of [primordial power](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) as a free maneuver, ending one effect on you for each [primordial power](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) spent.
 
-You can also spend 3 primordial power to create a portal to Quintessence without needing a source of elemental power.
+You can also spend 3 [primordial power](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) to create a portal to Quintessence without needing a source of elemental power.
 
-Primordial power remains until you spend it.
+[Primordial power](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) remains until you spend it.
 
 #### Skill
 

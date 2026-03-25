@@ -48,18 +48,18 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ###### Elementalist Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                    | Abilities                           |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward, [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Abilities | Two signature, 3, 5                 |
-| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5              |
-| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7           |
-| 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
-| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7, 9        |
-| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | Characteristic Increase, Mantle of Quintessence, Surging Essence, Skill Increase                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Abilities                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| 1st   | Elemental Specialization, Essence, [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX), [Persistent Magic](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Persistent%20MagicREL_PATH_SUFFIX), [Practical Magic](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Practical%20MagicREL_PATH_SUFFIX), Specialization Feature, Specialization Triggered Action, Enchantment, [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward, [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Abilities | Two signature, 3, 5                 |
+| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 5              |
+| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 5, 7           |
+| 4th   | Characteristic Increase, [Font of Essence](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Font%20of%20EssenceREL_PATH_SUFFIX), Mantle of Essence, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7           |
+| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 5, 7, 9        |
+| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | Characteristic Increase, [Mantle of Quintessence](REL_PATH_PREFIXRules/Elementalist/7th-Level%20Features/Mantle%20of%20QuintessenceREL_PATH_SUFFIX), [Surging Essence](REL_PATH_PREFIXRules/Elementalist/7th-Level%20Features/Surging%20EssenceREL_PATH_SUFFIX), Skill Increase                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | [Grand Wyrding](REL_PATH_PREFIXRules/Elementalist/9th-Level%20Features/Grand%20WyrdingREL_PATH_SUFFIX), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | Characteristic Increase, Breath, [Essential Being](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Essential%20BeingREL_PATH_SUFFIX), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ### 1st-Level Features
 
@@ -85,7 +85,7 @@ You harness the flow of earth magic to become harder to move. Whenever you use a
 
 ##### Fire: Acolyte of Fire
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your Hurl Element ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability (see below) also gains this bonus when you use it to deal fire damage.
 
 ##### Green: Acolyte of the Green
 
@@ -109,9 +109,9 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Essence%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see Persistent Magic below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Persistent%20MagicREL_PATH_SUFFIX) below), you can maintain it for a number of rounds equal to your Victories.
 
 When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.
 
@@ -161,8 +161,8 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
-> - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+> - You use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability, and you use Reason instead of Might for the power roll.
+> - You choose a creature within the distance of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
 > - You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
@@ -171,12 +171,12 @@ Your elemental specialization grants you a feature, as shown on the 1st-Level El
 
 ###### 1st-Level Elemental Specialization Features Table
 
-| Specialization | Feature                    |
-| -------------- | -------------------------- |
-| Earth          | Motivate Earth             |
-| Fire           | Return to Formlessness     |
-| Green          | It Is the Soul Which Hears |
-| Void           | A Beyonding of Vision      |
+| Specialization | Feature                                                                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Motivate Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Motivate%20EarthREL_PATH_SUFFIX)                       |
+| Fire           | [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX)     |
+| Green          | [It Is the Soul Which Hears](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/It%20Is%20the%20Soul%20Which%20HearsREL_PATH_SUFFIX) |
+| Void           | [A Beyonding of Vision](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/A%20Beyonding%20of%20VisionREL_PATH_SUFFIX)               |
 
 ##### A Beyonding of Vision
 
@@ -193,7 +193,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/A%20Beyonding%20of%20VisionREL_PATH_SUFFIX) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20SenseREL_PATH_SUFFIX) ability.
 
 ##### It Is the Soul Which Hears
 
@@ -239,12 +239,12 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 ###### Elemental Specialization Triggered Actions Table
 
-| Specialization | Triggered Action          |
-| -------------- | ------------------------- |
-| Earth          | Skin Like Castle Walls    |
-| Fire           | Explosive Assistance      |
-| Green          | Breath of Dawn Remembered |
-| Void           | Subtle Relocation         |
+| Specialization | Triggered Action                                                                                                                             |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Skin Like Castle Walls](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Skin%20Like%20Castle%20WallsREL_PATH_SUFFIX)       |
+| Fire           | [Explosive Assistance](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Explosive%20AssistanceREL_PATH_SUFFIX)               |
+| Green          | [Breath of Dawn Remembered](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Breath%20of%20Dawn%20RememberedREL_PATH_SUFFIX) |
+| Void           | [Subtle Relocation](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Subtle%20RelocationREL_PATH_SUFFIX)                     |
 
 <!-- -->
 > ###### Breath of Dawn Remembered
@@ -308,7 +308,7 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Enchantment%20of%20DestructionREL_PATH_SUFFIX).)
 
 ##### Enchantment of Battle
 
@@ -318,7 +318,7 @@ If you have a kit, you can't take this enchantment.
 
 ##### Enchantment of Celerity
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action.
 
 ##### Enchantment of Destruction
 
@@ -334,7 +334,7 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* Ward of Surprising Reactivity.)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Ward%20of%20Surprising%20ReactivityREL_PATH_SUFFIX).)
 
 ##### Ward of Delightful Consequences
 
@@ -358,7 +358,7 @@ Your understanding of elemental magic grants you unique abilities, letting you d
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Bifurcated Incineration, Viscous Fire.)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Bifurcated%20IncinerationREL_PATH_SUFFIX), [Viscous Fire](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Viscous%20FireREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Afflict a Bountiful Decay
@@ -395,7 +395,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ###### Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX).*
+> *You absorb the life energy of another creature and use it to teleport.*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |
@@ -648,12 +648,12 @@ Your elemental specialization grants you a feature, as shown on the 2nd-Level El
 
 ###### 2nd-Level Elemental Specialization Features Table
 
-| Specialization | Feature                   |
-| -------------- | ------------------------- |
-| Earth          | Disciple of Earth         |
-| Fire           | Disciple of Fire          |
-| Green          | Disciple of the Green     |
-| Void           | There Is No Space Between |
+| Specialization | Feature                                                                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Disciple of Earth](REL_PATH_PREFIXRules/Elementalist/2nd-Level%20Features/Disciple%20of%20EarthREL_PATH_SUFFIX)                               |
+| Fire           | [Disciple of Fire](REL_PATH_PREFIXRules/Elementalist/2nd-Level%20Features/Disciple%20of%20FireREL_PATH_SUFFIX)                                 |
+| Green          | Disciple of the Green                                                                                                                          |
+| Void           | [There Is No Space Between](REL_PATH_PREFIXRules/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20BetweenREL_PATH_SUFFIX) |
 
 ##### Disciple of Earth
 
@@ -797,12 +797,12 @@ Your elemental specialization grants you a feature, as shown on the 3rd-Level El
 
 ###### 3rd-Level Elemental Specialization Features Table
 
-| Specialization | Feature                          |
-| -------------- | -------------------------------- |
-| Earth          | Earth Accepts Me                 |
-| Fire           | A Conversation With Fire         |
-| Green          | Remember Growth and Sun and Rain |
-| Void           | Distance Is Only Memory          |
+| Specialization | Feature                                                                                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Earth Accepts Me](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20MeREL_PATH_SUFFIX)                                       |
+| Fire           | [A Conversation With Fire](REL_PATH_PREFIXRules/Elementalist/3rd-Level%20Features/A%20Conversation%20With%20FireREL_PATH_SUFFIX)                               |
+| Green          | [Remember Growth and Sun and Rain](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20RainREL_PATH_SUFFIX) |
+| Void           | [Distance Is Only Memory](REL_PATH_PREFIXRules/Elementalist/3rd-Level%20Features/Distance%20Is%20Only%20MemoryREL_PATH_SUFFIX)                                 |
 
 ##### A Conversation With Fire
 
@@ -932,12 +932,12 @@ While you have 3 or more essence and are not dying, you exude an aura of magic w
 
 ###### Mantle of Essence Specialization Effects Table
 
-| Specialization | Feature         |
-| -------------- | --------------- |
-| Earth          | Quaking Earth   |
-| Fire           | Burning Grounds |
-| Green          | Flowering Bed   |
-| Void           | Veiling Bed     |
+| Specialization | Feature                                                                                                    |
+| -------------- | ---------------------------------------------------------------------------------------------------------- |
+| Earth          | [Quaking Earth](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Quaking%20EarthREL_PATH_SUFFIX)     |
+| Fire           | [Burning Grounds](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Burning%20GroundsREL_PATH_SUFFIX) |
+| Green          | [Flowering Bed](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Flowering%20BedREL_PATH_SUFFIX)     |
+| Void           | [Veiling Bed](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Veiling%20BedREL_PATH_SUFFIX)         |
 
 ##### Burning Grounds
 
@@ -973,12 +973,12 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ###### 5th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                      |
-| -------------- | ---------------------------- |
-| Earth          | The Mountain Does Not Move   |
-| Fire           | Smoldering Step              |
-| Green          | Hide of Tenfold Shields      |
-| Void           | Pierce the Veil of Substance |
+| Specialization | Feature                                                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [The Mountain Does Not Move](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/The%20Mountain%20Does%20Not%20MoveREL_PATH_SUFFIX)     |
+| Fire           | [Smoldering Step](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/Smoldering%20StepREL_PATH_SUFFIX)                                 |
+| Green          | [Hide of Tenfold Shields](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/Hide%20of%20Tenfold%20ShieldsREL_PATH_SUFFIX)             |
+| Void           | [Pierce the Veil of Substance](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/Pierce%20the%20Veil%20of%20SubstanceREL_PATH_SUFFIX) |
 
 ##### Hide of Tenfold Shields
 
@@ -990,7 +990,7 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 You stand firm and magnetize your allies to stay grounded. Your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) increases by your level.
 
-Additionally, whenever an ally within distance of your Hurl Element ability is force moved, you can use a free triggered action to decrease your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) down to a minimum of 0, then increase the ally's [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) by an amount equal to the [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability is force moved, you can use a free triggered action to decrease your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) down to a minimum of 0, then increase the ally's [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) by an amount equal to the [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) you lost. This change lasts until the end of the round.
 
 ##### Pierce the Veil of Substance
 
@@ -1136,7 +1136,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 <!-- -->
 > ###### Meteor (9 Essence)
 >
-> *You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the target into the air and let the ground and the elemental force of fire do the rest.*
+> *You teleport the target into the air and let the ground and the elemental force of fire do the rest.*
 >
 > | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 > | ------------------------------------ | ----------------------------: |
@@ -1199,16 +1199,16 @@ Your elemental specialization grants you a feature, as shown on the 8th-Level El
 
 ###### 8th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                |
-| -------------- | ---------------------- |
-| Earth          | Summon Source of Earth |
-| Fire           | The Flame Primordial   |
-| Green          | Chimeric Manifestation |
-| Void           | Black Hole Star        |
+| Specialization | Feature                                                                                                                                |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Summon Source of Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20EarthREL_PATH_SUFFIX) |
+| Fire           | [The Flame Primordial](REL_PATH_PREFIXRules/Elementalist/8th-Level%20Features/The%20Flame%20PrimordialREL_PATH_SUFFIX)                 |
+| Green          | [Chimeric Manifestation](REL_PATH_PREFIXRules/Elementalist/8th-Level%20Features/Chimeric%20ManifestationREL_PATH_SUFFIX)               |
+| Void           | [Black Hole Star](REL_PATH_PREFIXRules/Elementalist/8th-Level%20Features/Black%20Hole%20StarREL_PATH_SUFFIX)                           |
 
 ##### Black Hole Star
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your Hurl Element ability and [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull that target up to 5 squares. If their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability and [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull that target up to 5 squares. If their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) for your allies.
 
 Additionally, your Mantle of Essence improves. While in the area of the aura, enemies and objects have their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduced by an amount equal to your level.
 
@@ -1222,7 +1222,7 @@ You can only combine animal forms whose levels add up to 12 or less. For example
 
 ##### The Flame Primordial
 
-You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your Return to Formlessness ability instead.
+You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX) ability instead.
 
 Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.
 
@@ -1265,7 +1265,7 @@ You have the following ability.
 >
 > > **Earth Harness**
 > >
-> > A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
+> > A creature that has the [Earth Accepts Me](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20MeREL_PATH_SUFFIX) ability can use it as a free action to meld into the source.
 >
 > > **Boulder Bash**
 > >
@@ -1437,12 +1437,12 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 ###### One Specialization Features Table
 
-| Specialization | Feature         |
-| -------------- | --------------- |
-| Earth          | Master of Earth |
-| Fire           | Master of Fire  |
-| Green          | Master of Green |
-| Void           | Master of Void  |
+| Specialization | Feature                                                                                                       |
+| -------------- | ------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Master of Earth](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20EarthREL_PATH_SUFFIX) |
+| Fire           | [Master of Fire](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20FireREL_PATH_SUFFIX)   |
+| Green          | [Master of Green](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20GreenREL_PATH_SUFFIX) |
+| Void           | [Master of Void](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20VoidREL_PATH_SUFFIX)   |
 
 ##### Master of Earth
 
@@ -1454,7 +1454,7 @@ Additionally, as a respite activity, you can shape the mundane earth around you 
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your Return to Formlessness ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
+Additionally, your [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
 
 ##### Master of Green
 

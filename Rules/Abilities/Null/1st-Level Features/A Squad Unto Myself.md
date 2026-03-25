@@ -71,6 +71,7 @@ effects:
     tier2: 9 damage
     tier3: 13 damage
   - name: Effect
-    effect: You can take the Disengage move action as a free maneuver before or
-      after you use this ability.
+    effect: You can take the
+      [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX)
+      move action as a free maneuver before or after you use this ability.
 ```

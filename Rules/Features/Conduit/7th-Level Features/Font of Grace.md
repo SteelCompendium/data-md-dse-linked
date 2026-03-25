@@ -39,8 +39,11 @@ metadata:
   subclass: Life
   type: feature/trait/conduit/7th-level-feature
 effects:
-  - effect: Each time you use your Healing Grace ability, you gain 1 piety that can
-      be spent only on that ability during the same turn. If you don't use this
-      piety, it is lost. Additionally, you can use your Minor Miracle feature to
-      return a creature to life even if you don't have their remains.
+  - effect: Each time you use your [Healing
+      Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX)
+      ability, you gain 1 piety that can be spent only on that ability during
+      the same turn. If you don't use this piety, it is lost. Additionally, you
+      can use your [Minor
+      Miracle](REL_PATH_PREFIXRules/Conduit/3rd-Level%20Features/Minor%20MiracleREL_PATH_SUFFIX)
+      feature to return a creature to life even if you don't have their remains.
 ```

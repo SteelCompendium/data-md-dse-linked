@@ -5,8 +5,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Accelerate
 file_dpath: Abilities/Talent/1st-Level Features
-flavor: To your ally, it seems as though the world has [slowed](scc:mcdm.heroes.v1:condition:slowed)
-  down.
+flavor: To your ally, it seems as though the world has slowed down.
 item_id: accelerate
 item_index: '12'
 item_name: Accelerate
@@ -28,8 +27,7 @@ type: feature/ability/talent/1st-level-feature
 type: feature
 feature_type: ability
 name: Accelerate
-flavor: To your ally, it seems as though the world has
-  [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) down.
+flavor: To your ally, it seems as though the world has slowed down.
 keywords:
   - Psionic
   - Ranged
@@ -43,8 +41,7 @@ metadata:
   feature_type: ability
   file_basename: Accelerate
   file_dpath: Abilities/Talent/1st-Level Features
-  flavor: To your ally, it seems as though the world has
-    [slowed](scc:mcdm.heroes.v1:condition:slowed) down.
+  flavor: To your ally, it seems as though the world has slowed down.
   item_id: accelerate
   item_index: "12"
   item_name: Accelerate

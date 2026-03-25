@@ -95,9 +95,8 @@ effects:
         feature_type: ability
         name: Meteor
         cost: 9 Essence
-        flavor: You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
-          the target into the air and let the ground and the elemental force of
-          fire do the rest.
+        flavor: You teleport the target into the air and let the ground and the
+          elemental force of fire do the rest.
         keywords:
           - Earth
           - Fire

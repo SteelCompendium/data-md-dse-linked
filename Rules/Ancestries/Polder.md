@@ -138,7 +138,7 @@ You have the following ability.
 
 ###### Shadowmeld
 
-*You become an actual [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX).*
+*You become an actual shadow.*
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
@@ -166,7 +166,7 @@ Courage is all you know. You can't be made [frightened](REL_PATH_PREFIXRules/Con
 
 ##### Graceful Retreat (1 Point)
 
-Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
+Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action.
 
 ##### Nimblestep (2 Points)
 

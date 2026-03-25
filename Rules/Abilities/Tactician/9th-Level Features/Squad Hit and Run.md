@@ -8,8 +8,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Squad Hit and Run
 file_dpath: Abilities/Tactician/9th-Level Features
-flavor: I had to pry this secret from the [shadow](scc:mcdm.heroes.v1:class:shadow)
-  colleges.
+flavor: I had to pry this secret from the shadow colleges.
 item_id: squad-hit-and-run-11-focus
 item_index: '06'
 item_name: Squad! Hit and Run! (11 Focus)
@@ -31,8 +30,7 @@ type: feature
 feature_type: ability
 name: Squad! Hit and Run!
 cost: 11 Focus
-flavor: I had to pry this secret from the
-  [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) colleges.
+flavor: I had to pry this secret from the shadow colleges.
 keywords:
   - Ranged
 usage: Main action
@@ -48,8 +46,7 @@ metadata:
   feature_type: ability
   file_basename: Squad Hit and Run
   file_dpath: Abilities/Tactician/9th-Level Features
-  flavor: I had to pry this secret from the
-    [shadow](scc:mcdm.heroes.v1:class:shadow) colleges.
+  flavor: I had to pry this secret from the shadow colleges.
   item_id: squad-hit-and-run-11-focus
   item_index: "06"
   item_name: Squad! Hit and Run! (11 Focus)

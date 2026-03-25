@@ -38,13 +38,18 @@ metadata:
   type: feature/trait/tactician/1st-level-feature
 effects:
   - effect: Warfare is as old as civilization—and perhaps even older. As battle
-      became ever more complex, military leaders invented tactical doctrine,
+      became ever more complex, military leaders invented [tactical
+      doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX),
       outlining how combatants should be structured, used, and deployed.
       Doctrine can be learned at war colleges passing on ancient martial
       traditions, or directly through blood and sweat on the battlefield.
       Whatever path brought you to your mastery of historically proven tactics,
-      you choose a tactical doctrine from the following options, each of which
-      grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
-  - effect: Your tactical doctrine is your subclass, and your choice of doctrine
-      determines many of the features you'll gain as you gain new levels.
+      you choose a [tactical
+      doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX)
+      from the following options, each of which grants you a skill. (*Quick
+      Build:* Vanguard and the Intimidate skill.)
+  - effect: Your [tactical
+      doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX)
+      is your subclass, and your choice of doctrine determines many of the
+      features you'll gain as you gain new levels.
 ```

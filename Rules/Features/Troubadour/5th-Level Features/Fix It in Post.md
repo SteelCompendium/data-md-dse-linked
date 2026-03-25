@@ -40,8 +40,10 @@ metadata:
   type: feature/trait/troubadour/5th-level-feature
 effects:
   - effect: "Once on each of your turns, you can use a free maneuver to change one
-      condition affecting a creature within distance of your Dramatic Monologue
-      ability. Choose one of the following conditions on the target:
+      condition affecting a creature within distance of your [Dramatic
+      Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features\
+      /Dramatic%20MonologueREL_PATH_SUFFIX) ability. Choose one of the following
+      conditions on the target:
       [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX),
       [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX),
       [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX),

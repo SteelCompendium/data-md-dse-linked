@@ -38,5 +38,7 @@ metadata:
   type: feature/trait/talent/1st-level-feature
 effects:
   - effect: You gain a +1 bonus to speed and to the distance you can shift when you
-      take the Disengage move action.
+      take the
+      [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX)
+      move action.
 ```

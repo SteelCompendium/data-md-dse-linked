@@ -39,5 +39,7 @@ metadata:
   subclass: Virtuoso
   type: feature/trait/troubadour/5th-level-feature
 effects:
-  - effect: You can maintain two performances at a time using your Routines feature.
+  - effect: You can maintain two performances at a time using your
+      [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX)
+      feature.
 ```

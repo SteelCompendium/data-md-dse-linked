@@ -38,8 +38,7 @@ metadata:
   type: feature/trait/shadow/6th-level-feature
 effects:
   - effect: >-
-      As a maneuver, you lose control of yourself, becoming a
-      [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) creature
+      As a maneuver, you lose control of yourself, becoming a shadow creature
       dripping with ash. This transformation lasts until the end of the
       encounter, until you are dying, or after 1 uninterrupted hour of quiet
       focus outside of combat. You gain the following effects while in this

@@ -36,12 +36,12 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 ###### One Specialization Features Table
 
-| Specialization | Feature         |
-| -------------- | --------------- |
-| Earth          | Master of Earth |
-| Fire           | Master of Fire  |
-| Green          | Master of Green |
-| Void           | Master of Void  |
+| Specialization | Feature                                                                                                       |
+| -------------- | ------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Master of Earth](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20EarthREL_PATH_SUFFIX) |
+| Fire           | [Master of Fire](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20FireREL_PATH_SUFFIX)   |
+| Green          | [Master of Green](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20GreenREL_PATH_SUFFIX) |
+| Void           | [Master of Void](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20VoidREL_PATH_SUFFIX)   |
 
 ##### Master of Earth
 
@@ -53,7 +53,7 @@ Additionally, as a respite activity, you can shape the mundane earth around you 
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your Return to Formlessness ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
+Additionally, your [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
 
 ##### Master of Green
 

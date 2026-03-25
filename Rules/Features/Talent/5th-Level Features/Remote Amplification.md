@@ -40,6 +40,7 @@ metadata:
   type: feature/trait/talent/5th-level-feature
 effects:
   - effect: The distance of your ranged psionic abilities increases by 5.
-      Additionally, the range of your Telepathic Speech feature increases to 1
-      mile.
+      Additionally, the range of your [Telepathic
+      Speech](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX)
+      feature increases to 1 mile.
 ```

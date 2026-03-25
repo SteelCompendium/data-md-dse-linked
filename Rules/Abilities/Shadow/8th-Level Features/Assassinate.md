@@ -8,8 +8,7 @@ distance: Melee 1
 feature_type: ability
 file_basename: Assassinate
 file_dpath: Abilities/Shadow/8th-Level Features
-flavor: A practiced attack will instantly kill an already [weakened](scc:mcdm.heroes.v1:condition:weakened)
-  foe.
+flavor: A practiced attack will instantly kill an already weakened foe.
 item_id: assassinate-11-insight
 item_index: '04'
 item_name: Assassinate (11 Insight)
@@ -32,8 +31,7 @@ type: feature
 feature_type: ability
 name: Assassinate
 cost: 11 Insight
-flavor: A practiced attack will instantly kill an already
-  [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) foe.
+flavor: A practiced attack will instantly kill an already weakened foe.
 keywords:
   - Melee
   - Strike
@@ -51,8 +49,7 @@ metadata:
   feature_type: ability
   file_basename: Assassinate
   file_dpath: Abilities/Shadow/8th-Level Features
-  flavor: A practiced attack will instantly kill an already
-    [weakened](scc:mcdm.heroes.v1:condition:weakened) foe.
+  flavor: A practiced attack will instantly kill an already weakened foe.
   item_id: assassinate-11-insight
   item_index: "04"
   item_name: Assassinate (11 Insight)

@@ -39,7 +39,10 @@ metadata:
   subclass: Auteur
   type: feature/trait/troubadour/8th-level-feature
 effects:
-  - effect: Whenever a creature within distance of your Dramatic Monologue ability
-      makes a power roll, you can spend 1 drama as a free triggered action to
-      use Dramatic Monologue, targeting only one creature.
+  - effect: Whenever a creature within distance of your [Dramatic
+      Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)
+      ability makes a power roll, you can spend 1 drama as a free triggered
+      action to use [Dramatic
+      Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX),
+      targeting only one creature.
 ```

@@ -105,8 +105,9 @@ effects:
         feature_type: trait
         name: Earth Harness
         effects:
-          - effect: A creature that has the Earth Accepts Me ability can use it as a free
-              action to meld into the source.
+          - effect: A creature that has the [Earth Accepts
+              Me](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20MeREL_PATH_SUFFIX)
+              ability can use it as a free action to meld into the source.
       - type: feature
         feature_type: ability
         name: Boulder Bash

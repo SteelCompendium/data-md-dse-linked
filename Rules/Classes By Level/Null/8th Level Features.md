@@ -26,11 +26,11 @@ Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants y
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature           |
-| ------------- | ----------------- |
-| Chronokinetic | Shared Momentum   |
-| Cryokinetic   | Synaptic Triage   |
-| Metakinetic   | Inertial Dampener |
+| Tradition     | Feature                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| Chronokinetic | [Shared Momentum](REL_PATH_PREFIXRules/Null/8th-Level%20Features/Shared%20MomentumREL_PATH_SUFFIX)     |
+| Cryokinetic   | [Synaptic Triage](REL_PATH_PREFIXRules/Null/8th-Level%20Features/Synaptic%20TriageREL_PATH_SUFFIX)     |
+| Metakinetic   | [Inertial Dampener](REL_PATH_PREFIXRules/Null/8th-Level%20Features/Inertial%20DampenerREL_PATH_SUFFIX) |
 
 ##### Inertial Dampener
 
@@ -38,7 +38,7 @@ You and each creature or object of your choice in the area of your [Null](REL_PA
 
 ##### Shared Momentum
 
-When you take the Disengage move action, one ally in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action, one ally in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability can also take the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
@@ -51,7 +51,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 <!-- -->
 > ###### Arcane Purge (11 Discipline)
 >
-> *You focus your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) field into a pressure point strike that prevents your foe from channeling sorcery.*
+> *You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
 >
 > | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 > | ---------------------------------- | ------------------: |

@@ -39,10 +39,12 @@ metadata:
   subclass: Protection
   type: feature/trait/conduit/1st-level-feature
 effects:
-  - effect: You can spend 10 uninterrupted minutes to create a protective circle on
-      the ground large enough to hold one size 1 creature. The circle lasts for
-      24 hours, until you create another, or until you dismiss it (no action
+  - effect: You can spend 10 uninterrupted minutes to create a [protective
+      circle](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Protective%20CircleREL_PATH_SUFFIX)
+      on the ground large enough to hold one size 1 creature. The circle lasts
+      for 24 hours, until you create another, or until you dismiss it (no action
       required). Only creatures you designate at the time of drawing the circle
-      can enter and exit the area. While in the protective circle, a creature
-      can't be targeted by strikes.
+      can enter and exit the area. While in the [protective
+      circle](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Protective%20CircleREL_PATH_SUFFIX),
+      a creature can't be targeted by strikes.
 ```

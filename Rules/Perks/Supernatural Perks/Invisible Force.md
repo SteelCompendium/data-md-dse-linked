@@ -17,7 +17,7 @@ type: perk/supernatural
 You have the following ability.
 
 <!-- -->
-> ###### [Invisible Force](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Invisible%20ForceREL_PATH_SUFFIX)
+> ###### Invisible Force
 >
 > *You manipulate a tiny object with your mind.*
 >

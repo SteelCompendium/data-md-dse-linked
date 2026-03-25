@@ -63,6 +63,10 @@ metadata:
 effects:
   - name: Effect
     effect: For each Victory you have, you can target one creature. Each target
-      gains the benefit of your A Beyonding of Vision feature until the end of
-      your next turn, but doesn't gain the use of the Shared Void Sense ability.
+      gains the benefit of your [A Beyonding of
+      Vision](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/A%20Beyonding%20of%20VisionREL_PATH_SUFFIX)
+      feature until the end of your next turn, but doesn't gain the use of the
+      [Shared Void
+      Sense](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20SenseREL_PATH_SUFFIX)
+      ability.
 ```

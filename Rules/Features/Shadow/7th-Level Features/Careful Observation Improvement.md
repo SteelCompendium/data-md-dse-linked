@@ -37,7 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/shadow/7th-level-feature
 effects:
-  - effect: You can target two creatures simultaneously with your Careful
-      Observation ability, observing both simultaneously. Making a strike
-      against one target doesn't end your observation of the other target.
+  - effect: You can target two creatures simultaneously with your [Careful
+      Observation](REL_PATH_PREFIXRules/Abilities/Shadow/3rd-Level%20Features/Careful%20ObservationREL_PATH_SUFFIX)
+      ability, observing both simultaneously. Making a strike against one target
+      doesn't end your observation of the other target.
 ```

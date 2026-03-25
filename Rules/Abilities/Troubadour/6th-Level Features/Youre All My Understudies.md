@@ -67,7 +67,9 @@ metadata:
 effects:
   - name: Effect
     effect: Until the end of the encounter, each target gains the speed bonus,
-      weapon distance bonus, disengage bonus, and
+      weapon distance bonus,
+      [disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX)
+      bonus, and
       [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) bonus
       of your currently equipped kit in addition to their own kit's bonuses.
 ```

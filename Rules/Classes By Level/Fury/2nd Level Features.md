@@ -22,15 +22,15 @@ You gain one crafting, exploration, or intrigue perk of your choice. See [Chapte
 
 #### 2nd-Level Aspect Feature
 
-Your primordial aspect grants you a feature, as shown on the 2nd-Level Aspect Features table.
+Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
 ###### 2nd-Level Aspect Features Table
 
-| Aspect     | Feature           |
-| ---------- | ----------------- |
-| Berserker  | Unstoppable Force |
-| Reaver     | Inescapable Wrath |
-| Stormwight | Tooth and Claw    |
+| Aspect     | Feature                                                                                                |
+| ---------- | ------------------------------------------------------------------------------------------------------ |
+| Berserker  | [Unstoppable Force](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/Unstoppable%20ForceREL_PATH_SUFFIX) |
+| Reaver     | [Inescapable Wrath](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/Inescapable%20WrathREL_PATH_SUFFIX) |
+| Stormwight | [Tooth and Claw](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/Tooth%20and%20ClawREL_PATH_SUFFIX)     |
 
 ##### Inescapable Wrath
 
@@ -46,7 +46,7 @@ Whenever you use the Charge main action, you can use a strike signature ability 
 
 #### 2nd-Level Aspect Ability
 
-Your primordial aspect grants your choice of one of two heroic abilities.
+Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Berserker Ability
 

@@ -43,9 +43,7 @@ effects:
         feature_type: ability
         name: Cacophony of Cinders
         cost: 11 Insight
-        flavor: You tumble through the battle, stabbing foes and
-          [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX)
-          allies.
+        flavor: You tumble through the battle, stabbing foes and teleporting allies.
         keywords:
           - Magic
           - Melee

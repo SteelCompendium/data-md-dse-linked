@@ -22,11 +22,11 @@ Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants y
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition     | Feature            |
-| ------------- | ------------------ |
-| Chronokinetic | Instant Action     |
-| Cryokinetic   | Chilling Readiness |
-| Metakinetic   | Inertial Fulcrum   |
+| Tradition     | Feature                                                                                                  |
+| ------------- | -------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Instant Action](REL_PATH_PREFIXRules/Null/5th-Level%20Features/Instant%20ActionREL_PATH_SUFFIX)         |
+| Cryokinetic   | [Chilling Readiness](REL_PATH_PREFIXRules/Null/5th-Level%20Features/Chilling%20ReadinessREL_PATH_SUFFIX) |
+| Metakinetic   | [Inertial Fulcrum](REL_PATH_PREFIXRules/Null/5th-Level%20Features/Inertial%20FulcrumREL_PATH_SUFFIX)     |
 
 #### Chilling Readiness
 

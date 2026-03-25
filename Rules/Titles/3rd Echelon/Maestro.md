@@ -25,7 +25,7 @@ type: title/3rd-echelon
 - *[Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
-> ###### The [Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)'s Chord (9 Heroic Resource)
+> ###### The Devil's Chord (9 Heroic Resource)
 >
 > *Helloooo Orden!*
 >

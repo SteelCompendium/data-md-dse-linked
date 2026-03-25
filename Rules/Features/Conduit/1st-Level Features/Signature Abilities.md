@@ -38,8 +38,10 @@ metadata:
   type: feature/trait/conduit/1st-level-feature
 effects:
   - effect: Choose two signature abilities from the following options. Signature
-      abilities can be used at will. (*Quick Build:* Blessed Light, Staggering
-      Curse.)
+      abilities can be used at will. (*Quick Build:* [Blessed
+      Light](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Blessed%20LightREL_PATH_SUFFIX),
+      [Staggering
+      Curse](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Staggering%20CurseREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability

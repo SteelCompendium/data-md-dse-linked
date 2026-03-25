@@ -38,7 +38,8 @@ metadata:
   type: feature/trait/troubadour/6th-level-feature
 effects:
   - effect: You have the following performance ability, which is usable with your
-      Routines feature.
+      [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX)
+      feature.
     features:
       - type: feature
         feature_type: ability

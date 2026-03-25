@@ -5,8 +5,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Guided to Your Side
 file_dpath: Abilities/Censor/7th-Level Features
-flavor: You concentrate on a friend and [teleport](scc:mcdm.heroes.v1:movement:teleport)
-  to them.
+flavor: You concentrate on a friend and teleport to them.
 item_id: guided-to-your-side
 item_index: '01'
 item_name: Guided to Your Side
@@ -28,8 +27,7 @@ type: feature/ability/censor/7th-level-feature
 type: feature
 feature_type: ability
 name: Guided to Your Side
-flavor: You concentrate on a friend and
-  [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to them.
+flavor: You concentrate on a friend and teleport to them.
 keywords:
   - Magic
   - Ranged
@@ -43,8 +41,7 @@ metadata:
   feature_type: ability
   file_basename: Guided to Your Side
   file_dpath: Abilities/Censor/7th-Level Features
-  flavor: You concentrate on a friend and
-    [teleport](scc:mcdm.heroes.v1:movement:teleport) to them.
+  flavor: You concentrate on a friend and teleport to them.
   item_id: guided-to-your-side
   item_index: "01"
   item_name: Guided to Your Side
@@ -65,6 +62,8 @@ effects:
     effect: Each target is
       [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to
       unoccupied spaces within 5 squares of a willing creature who you are
-      bonded to with your Invocation of the Heart feature. You don't need line
-      of effect to the bonded creature but you must be on the same world.
+      bonded to with your [Invocation of the
+      Heart](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)
+      feature. You don't need line of effect to the bonded creature but you must
+      be on the same world.
 ```

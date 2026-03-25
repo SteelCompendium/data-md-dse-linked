@@ -20,7 +20,7 @@ As a 9th-level [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFF
 
 You are empowered by your audience, near and far. You can't be made [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX), and if you are [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), you can stand up as a free maneuver.
 
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your Scene Partner feature + either your Victories or the number of players in your game (whichever is higher).
+Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Scene%20PartnerREL_PATH_SUFFIX) feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 

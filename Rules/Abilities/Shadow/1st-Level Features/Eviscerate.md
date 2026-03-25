@@ -8,8 +8,7 @@ distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Eviscerate
 file_dpath: Abilities/Shadow/1st-Level Features
-flavor: You leave your foe [bleeding](scc:mcdm.heroes.v1:condition:bleeding) out after
-  a devastating attack.
+flavor: You leave your foe bleeding out after a devastating attack.
 item_id: eviscerate-3-insight
 item_index: '02'
 item_name: Eviscerate (3 Insight)
@@ -33,9 +32,7 @@ type: feature
 feature_type: ability
 name: Eviscerate
 cost: 3 Insight
-flavor: You leave your foe
-  [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) out after
-  a devastating attack.
+flavor: You leave your foe bleeding out after a devastating attack.
 keywords:
   - Melee
   - Ranged
@@ -54,8 +51,7 @@ metadata:
   feature_type: ability
   file_basename: Eviscerate
   file_dpath: Abilities/Shadow/1st-Level Features
-  flavor: You leave your foe [bleeding](scc:mcdm.heroes.v1:condition:bleeding) out
-    after a devastating attack.
+  flavor: You leave your foe bleeding out after a devastating attack.
   item_id: eviscerate-3-insight
   item_index: "02"
   item_name: Eviscerate (3 Insight)

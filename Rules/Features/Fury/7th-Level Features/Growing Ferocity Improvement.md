@@ -37,6 +37,7 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/fury/7th-level-feature
 effects:
-  - effect: Your Growing Ferocity feature provides additional benefits when you have
-      10 or more ferocity.
+  - effect: Your [Growing
+      Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX)
+      feature provides additional benefits when you have 10 or more ferocity.
 ```

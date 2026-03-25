@@ -37,19 +37,10 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/tactician/1st-level-feature
 effects:
-  - effect: >-
-      Though you can't gain focus outside of combat, you can use your heroic
-      abilities and effects that cost focus without spending it. Whenever you
-      use an ability or effect outside of combat that costs focus, you can't use
-      that same ability or effect outside of combat again until you earn 1 or
-      more Victories or finish a respite.
+  - effect: |-
+      Though you can't gain [focus outside of combat](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Focus%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-
-      When you use an ability outside of combat that lets you spend unlimited
-      focus on its effect, you can use it as if you had spent an amount of focus
-      equal to your Victories. (Such abilities aren't part of the core rules for
-      the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX),
-      but they might appear in future products.)
+      When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), but they might appear in future products.)
     features:
       - type: feature
         feature_type: trait

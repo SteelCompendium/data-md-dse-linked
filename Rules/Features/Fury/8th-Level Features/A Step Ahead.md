@@ -41,6 +41,8 @@ metadata:
 effects:
   - effect: You move with legendary grace. Whenever you make an Agility test, you
       can roll three dice and choose which two to use. Additionally, whenever
-      you use the Disengage move action, the distance you can shift gains a
-      bonus equal to your Agility score.
+      you use the
+      [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX)
+      move action, the distance you can shift gains a bonus equal to your
+      Agility score.
 ```

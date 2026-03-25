@@ -41,8 +41,12 @@ effects:
       civilization, older than most of the world. You have undergone a rite of
       passage that revealed the building blocks of the timescape—the Primordial
       Chaos—and that left an aspect of that chaos inside you. You choose a
-      primordial aspect from the following options, each of which grants you a
-      skill. (*Quick Build:* Berserker.)
-  - effect: Your primordial aspect is your subclass, and your choice of aspect
-      determines many of the features you'll gain as you gain new levels.
+      [primordial
+      aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX)
+      from the following options, each of which grants you a skill. (*Quick
+      Build:* Berserker.)
+  - effect: Your [primordial
+      aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX)
+      is your subclass, and your choice of aspect determines many of the
+      features you'll gain as you gain new levels.
 ```
