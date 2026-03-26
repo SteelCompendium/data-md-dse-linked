@@ -62,7 +62,7 @@ As a [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), you're at you
 | 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Focused%20WrathREL_PATH_SUFFIX), Skill                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5, 9                 |
 | 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
 | 9th   | [Improved Implement of Wrath](REL_PATH_PREFIXRules/Censor/9th-Level%20Features/Improved%20Implement%20of%20WrathREL_PATH_SUFFIX), Order Ability                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
-| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, [Wrath of the Gods](REL_PATH_PREFIXRules/Censor/10th-Level%20Features/Wrath%20of%20the%20GodsREL_PATH_SUFFIX)                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| 10th  | Characteristic Increase, Perk, Skill, [Templar](REL_PATH_PREFIXRules/Censor/10th-Level%20Features/TemplarREL_PATH_SUFFIX), Virtue, [Wrath of the Gods](REL_PATH_PREFIXRules/Censor/10th-Level%20Features/Wrath%20of%20the%20GodsREL_PATH_SUFFIX)                                                                                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
 
 ### 1st-Level Features
 
@@ -718,7 +718,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](R
 | Domain     | Feature                                                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
-| Death      | Seance                                                                                                                              |
+| Death      | [Seance](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/SeanceREL_PATH_SUFFIX)                                                    |
 | Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Oracular%20WarningREL_PATH_SUFFIX)                             |
 | Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
 | Life       | [Blessing of Life](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
@@ -804,7 +804,7 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 | Order    | Feature                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------ |
 | Exorcist | [Evil Revealed](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/Evil%20RevealedREL_PATH_SUFFIX) |
-| Oracle   | Prophecy                                                                                         |
+| Oracle   | [Prophecy](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/ProphecyREL_PATH_SUFFIX)             |
 | Paragon  | [Stand Fast](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/Stand%20FastREL_PATH_SUFFIX)!      |
 
 ##### Evil Revealed
@@ -1135,9 +1135,9 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 | Order    | Feature                                                                                                        |
 | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Exorcist | Demonologist                                                                                                   |
+| Exorcist | [Demonologist](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/DemonologistREL_PATH_SUFFIX)                   |
 | Oracle   | [Their Past Revealed](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/Their%20Past%20RevealedREL_PATH_SUFFIX) |
-| Paragon  | Vow                                                                                                            |
+| Paragon  | [Vow](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/VowREL_PATH_SUFFIX)                                     |
 
 ##### Demonologist
 

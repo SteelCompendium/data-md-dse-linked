@@ -39,10 +39,11 @@ metadata:
   subclass: Duelist
   type: feature/trait/troubadour/5th-level-feature
 effects:
-  - effect: Once on each of your turns while the target of your Foil feature is
-      adjacent to you, you can use a free maneuver to exchange words with them.
-      Make an opposed Presence test with the target. Whoever gets the higher
-      result can make a [free
+  - effect: Once on each of your turns while the target of your
+      [Foil](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/FoilREL_PATH_SUFFIX)
+      feature is adjacent to you, you can use a free maneuver to exchange words
+      with them. Make an opposed Presence test with the target. Whoever gets the
+      higher result can make a [free
       strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX),
       which deals psychic damage instead of its usual damage.
 ```

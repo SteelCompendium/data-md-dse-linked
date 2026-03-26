@@ -40,7 +40,7 @@ effects:
   - effect: |-
       Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
-      ###### Class Act Triggered Action Table
+      ###### Class Act Triggered Actions Table
       | Class Act | Triggered Action                                                                                                                     |
       | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
       | Auteur    | [Turnabout Is Fair Play](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Turnabout%20Is%20Fair%20PlayREL_PATH_SUFFIX) |

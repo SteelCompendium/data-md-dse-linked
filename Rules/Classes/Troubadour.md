@@ -57,7 +57,7 @@ There is no visible text in the image provided. The image appears to show a deco
 | 7th   | Characteristic Increase, [A Muse's Muse](REL_PATH_PREFIXRules/Troubadour/7th-Level%20Features/A%20Muses%20MuseREL_PATH_SUFFIX), [Equal Billing](REL_PATH_PREFIXRules/Troubadour/7th-Level%20Features/Equal%20BillingREL_PATH_SUFFIX), Skill                                                                                                                                                                                | Signature, 5, 7, 9        | 5, 9                |
 | 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 9th   | [Roar of the Crowd](REL_PATH_PREFIXRules/Troubadour/9th-Level%20Features/Roar%20of%20the%20CrowdREL_PATH_SUFFIX), Class Act Ability                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, Dramaturgy, [Greatest of All Time](REL_PATH_PREFIXRules/Troubadour/10th-Level%20Features/Greatest%20of%20All%20TimeREL_PATH_SUFFIX), Perk, Skill                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Applause, Characteristic Increase, [Dramaturgy](REL_PATH_PREFIXRules/Troubadour/10th-Level%20Features/DramaturgyREL_PATH_SUFFIX), [Greatest of All Time](REL_PATH_PREFIXRules/Troubadour/10th-Level%20Features/Greatest%20of%20All%20TimeREL_PATH_SUFFIX), Perk, Skill                                                                                                                                                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -155,7 +155,7 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 
 | Class Act | Features                                                                                                                                                                                                                         |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)                                                                                               |
+| Auteur    | [Blocking](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/BlockingREL_PATH_SUFFIX), [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)               |
 | Duelist   | Acrobatics, [Star Power](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Star%20PowerREL_PATH_SUFFIX)                                                                                                                       |
 | Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Power%20ChordREL_PATH_SUFFIX), [Virtuoso Performances](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Virtuoso%20PerformancesREL_PATH_SUFFIX) |
 
@@ -282,7 +282,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
-###### Class Act Triggered Action Table
+###### Class Act Triggered Actions Table
 
 | Class Act | Triggered Action                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -690,12 +690,12 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 | Class Act | Features                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------- |
 | Auteur    | [Missed Cue](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/Missed%20CueREL_PATH_SUFFIX)     |
-| Duelist   | Foil                                                                                               |
+| Duelist   | [Foil](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/FoilREL_PATH_SUFFIX)                   |
 | Virtuoso  | [Second Album](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/Second%20AlbumREL_PATH_SUFFIX) |
 
 ##### Foil
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/FoilREL_PATH_SUFFIX) at the start of the next combat round.
 
 ##### Missed Cue
 
@@ -880,7 +880,7 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your [Foil](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/FoilREL_PATH_SUFFIX) feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
@@ -1125,7 +1125,7 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 | Class Act | Feature                                                                                                  |
 | --------- | -------------------------------------------------------------------------------------------------------- |
 | Auteur    | [Deleted Scene](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/Deleted%20SceneREL_PATH_SUFFIX)     |
-| Duelist   | Masterwork                                                                                               |
+| Duelist   | [Masterwork](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/MasterworkREL_PATH_SUFFIX)             |
 | Virtuoso  | [Crowd Favorites](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/Crowd%20FavoritesREL_PATH_SUFFIX) |
 
 ##### Crowd Favorites

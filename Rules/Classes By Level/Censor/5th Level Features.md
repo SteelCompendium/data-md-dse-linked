@@ -25,7 +25,7 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 | Order    | Feature                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------ |
 | Exorcist | [Evil Revealed](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/Evil%20RevealedREL_PATH_SUFFIX) |
-| Oracle   | Prophecy                                                                                         |
+| Oracle   | [Prophecy](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/ProphecyREL_PATH_SUFFIX)             |
 | Paragon  | [Stand Fast](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/Stand%20FastREL_PATH_SUFFIX)!      |
 
 ##### Evil Revealed

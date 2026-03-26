@@ -29,7 +29,7 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 | Class Act | Feature                                                                                                  |
 | --------- | -------------------------------------------------------------------------------------------------------- |
 | Auteur    | [Deleted Scene](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/Deleted%20SceneREL_PATH_SUFFIX)     |
-| Duelist   | Masterwork                                                                                               |
+| Duelist   | [Masterwork](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/MasterworkREL_PATH_SUFFIX)             |
 | Virtuoso  | [Crowd Favorites](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/Crowd%20FavoritesREL_PATH_SUFFIX) |
 
 ##### Crowd Favorites

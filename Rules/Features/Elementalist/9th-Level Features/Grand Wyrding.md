@@ -37,12 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/elementalist/9th-level-feature
 effects:
-  - effect: >-
-      You have mastered the magic of shaping a wyrd, and can use your Wyrding
-      feature as a main action.
+  - effect: |-
+      You have mastered the magic of shaping a wyrd, and can use your [Wyrding](REL_PATH_PREFIXRules/Elementalist/6th-Level%20Features/WyrdingREL_PATH_SUFFIX) feature as a main action.
 
-
-      Additionally, when you have 5 or more Victories, choose one of the
-      following damage types: acid, cold, corruption, fire, lightning, poison,
-      or sonic. You have immunity all to that type.
+      Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 ```

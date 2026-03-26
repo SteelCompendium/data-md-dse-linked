@@ -25,12 +25,12 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 | Class Act | Features                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------- |
 | Auteur    | [Missed Cue](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/Missed%20CueREL_PATH_SUFFIX)     |
-| Duelist   | Foil                                                                                               |
+| Duelist   | [Foil](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/FoilREL_PATH_SUFFIX)                   |
 | Virtuoso  | [Second Album](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/Second%20AlbumREL_PATH_SUFFIX) |
 
 ##### Foil
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/FoilREL_PATH_SUFFIX) at the start of the next combat round.
 
 ##### Missed Cue
 

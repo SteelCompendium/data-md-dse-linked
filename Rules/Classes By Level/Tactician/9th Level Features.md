@@ -29,7 +29,7 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 Choose one of the following abilities.
 
 <!-- -->
-> ###### Squad! [Hit and Run](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Hit%20and%20RunREL_PATH_SUFFIX)! (11 Focus)
+> ###### Squad! Hit and Run! (11 Focus)
 >
 > *I had to pry this secret from the shadow colleges.*
 >

@@ -25,8 +25,8 @@ Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition gran
 | Tradition   | Features                                                                                                                                                                                                               |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Chronopathy | [Distortion Temporal](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Distortion%20TemporalREL_PATH_SUFFIX), [Speed of Thought](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Speed%20of%20ThoughtREL_PATH_SUFFIX) |
-| Telekinesis | [Kinetic Amplifier](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Kinetic%20AmplifierREL_PATH_SUFFIX), Triangulate                                                                                                  |
-| Telepathy   | Compulsion, [Remote Amplification](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Remote%20AmplificationREL_PATH_SUFFIX)                                                                                             |
+| Telekinesis | [Kinetic Amplifier](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Kinetic%20AmplifierREL_PATH_SUFFIX), [Triangulate](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/TriangulateREL_PATH_SUFFIX)                   |
+| Telepathy   | [Compulsion](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/CompulsionREL_PATH_SUFFIX), [Remote Amplification](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Remote%20AmplificationREL_PATH_SUFFIX)               |
 
 ##### Compulsion
 

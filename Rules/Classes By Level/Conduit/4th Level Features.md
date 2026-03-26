@@ -41,7 +41,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Domain     | Feature                                                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
-| Death      | Seance                                                                                                                              |
+| Death      | [Seance](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/SeanceREL_PATH_SUFFIX)                                                    |
 | Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Oracular%20WarningREL_PATH_SUFFIX)                             |
 | Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
 | Life       | [Blessing of Life](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |

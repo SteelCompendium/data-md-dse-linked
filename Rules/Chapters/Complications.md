@@ -73,7 +73,7 @@ Complications are presented in alphabetical order.
 | 29   | [Feytouched](REL_PATH_PREFIXRules/Complications/FeytouchedREL_PATH_SUFFIX)                                       | 79   | [Shared Spirit](REL_PATH_PREFIXRules/Complications/Shared%20SpiritREL_PATH_SUFFIX)                               |
 | 30   | [Fiery Ideal](REL_PATH_PREFIXRules/Complications/Fiery%20IdealREL_PATH_SUFFIX)                                   | 80   | [Shattered Legacy](REL_PATH_PREFIXRules/Complications/Shattered%20LegacyREL_PATH_SUFFIX)                         |
 | 31   | [Fire and Chaos](REL_PATH_PREFIXRules/Complications/Fire%20and%20ChaosREL_PATH_SUFFIX)                           | 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)                                     |
-| 32   | [Following in the Footsteps](REL_PATH_PREFIXRules/Complications/Following%20in%20the%20FootstepsREL_PATH_SUFFIX) | 82   | Sibling's Shield                                                                                                 |
+| 32   | [Following in the Footsteps](REL_PATH_PREFIXRules/Complications/Following%20in%20the%20FootstepsREL_PATH_SUFFIX) | 82   | [Sibling's Shield](REL_PATH_PREFIXRules/Complications/Siblings%20ShieldREL_PATH_SUFFIX)                          |
 | 33   | [Forbidden Romance](REL_PATH_PREFIXRules/Complications/Forbidden%20RomanceREL_PATH_SUFFIX)                       | 83   | [Silent Sentinel](REL_PATH_PREFIXRules/Complications/Silent%20SentinelREL_PATH_SUFFIX)                           |
 | 34   | [Frostheart](REL_PATH_PREFIXRules/Complications/FrostheartREL_PATH_SUFFIX)                                       | 84   | [Slight Case of Lycanthropy](REL_PATH_PREFIXRules/Complications/Slight%20Case%20of%20LycanthropyREL_PATH_SUFFIX) |
 | 35   | [Getting Too Old for This](REL_PATH_PREFIXRules/Complications/Getting%20Too%20Old%20for%20ThisREL_PATH_SUFFIX)   | 85   | [Stolen Face](REL_PATH_PREFIXRules/Complications/Stolen%20FaceREL_PATH_SUFFIX)                                   |
@@ -167,7 +167,7 @@ Complications are presented in alphabetical order.
 | 68   | [Raised by Beasts](REL_PATH_PREFIXRules/Complications/Raised%20by%20BeastsREL_PATH_SUFFIX)                       |
 | 69   | [Refugee](REL_PATH_PREFIXRules/Complications/RefugeeREL_PATH_SUFFIX)                                             |
 | 70   | [Rival](REL_PATH_PREFIXRules/Complications/RivalREL_PATH_SUFFIX)                                                 |
-| 71   | Rogue [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)                                               |
+| 71   | [Rogue Talent](REL_PATH_PREFIXRules/Complications/Rogue%20TalentREL_PATH_SUFFIX)                                 |
 | 72   | [Runaway](REL_PATH_PREFIXRules/Complications/RunawayREL_PATH_SUFFIX)                                             |
 | 73   | [Searching for a Cure](REL_PATH_PREFIXRules/Complications/Searching%20for%20a%20CureREL_PATH_SUFFIX)             |
 | 74   | [Secret Identity](REL_PATH_PREFIXRules/Complications/Secret%20IdentityREL_PATH_SUFFIX)                           |
@@ -178,7 +178,7 @@ Complications are presented in alphabetical order.
 | 79   | [Shared Spirit](REL_PATH_PREFIXRules/Complications/Shared%20SpiritREL_PATH_SUFFIX)                               |
 | 80   | [Shattered Legacy](REL_PATH_PREFIXRules/Complications/Shattered%20LegacyREL_PATH_SUFFIX)                         |
 | 81   | [Shipwrecked](REL_PATH_PREFIXRules/Complications/ShipwreckedREL_PATH_SUFFIX)                                     |
-| 82   | Sibling's Shield                                                                                                 |
+| 82   | [Sibling's Shield](REL_PATH_PREFIXRules/Complications/Siblings%20ShieldREL_PATH_SUFFIX)                          |
 | 83   | [Silent Sentinel](REL_PATH_PREFIXRules/Complications/Silent%20SentinelREL_PATH_SUFFIX)                           |
 | 84   | [Slight Case of Lycanthropy](REL_PATH_PREFIXRules/Complications/Slight%20Case%20of%20LycanthropyREL_PATH_SUFFIX) |
 | 85   | [Stolen Face](REL_PATH_PREFIXRules/Complications/Stolen%20FaceREL_PATH_SUFFIX)                                   |
@@ -952,7 +952,7 @@ You are the sole survivor of a shipwreck that left you stranded on a remote and 
 
 You were tasked with delivering a ceremonial shield to your older sibling, a celebrated warrior, for their years of service. When you arrived at their homestead, you found them dead on their doorstep with their own sword lodged in their back. To find out who did this to them—and why—you decided to step into their shoes. It will take a while to match up to your sibling's legacy, though.
 
-**Benefit:** While you wear your sibling's shield on your back, you can't be flanked.
+**Benefit:** While you wear your [sibling's shield](REL_PATH_PREFIXRules/Complications/Siblings%20ShieldREL_PATH_SUFFIX) on your back, you can't be flanked.
 
 **Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer Recoveries than usual when you finish the respite.
 
