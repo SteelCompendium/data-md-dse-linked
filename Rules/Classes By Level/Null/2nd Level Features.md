@@ -26,11 +26,11 @@ Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants y
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                        |
-| ------------- | -------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/Rapid%20ProcessingREL_PATH_SUFFIX)           |
-| Cryokinetic   | [Entropic Adaptability](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/Entropic%20AdaptabilityREL_PATH_SUFFIX) |
-| Metakinetic   | [Inertial Sink](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/Inertial%20SinkREL_PATH_SUFFIX)                 |
+| Tradition     | Feature                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| Chronokinetic | [Rapid Processing](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:rapid-processing)           |
+| Cryokinetic   | [Entropic Adaptability](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability) |
+| Metakinetic   | [Inertial Sink](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:inertial-sink)                 |
 
 ##### Entropic Adaptability
 

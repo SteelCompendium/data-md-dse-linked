@@ -26,11 +26,11 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 
 ###### 2nd-Level College Features Table
 
-| College         | Feature                                                                                                |
-| --------------- | ------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [Burning Ash](REL_PATH_PREFIXRules/Shadow/2nd-Level%20Features/Burning%20AshREL_PATH_SUFFIX)           |
-| Caustic Alchemy | [Trained Assassin](REL_PATH_PREFIXRules/Shadow/2nd-Level%20Features/Trained%20AssassinREL_PATH_SUFFIX) |
-| Harlequin Mask  | Friend!                                                                                                |
+| College         | Feature                                                                                        |
+| --------------- | ---------------------------------------------------------------------------------------------- |
+| Black Ash       | [Burning Ash](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:burning-ash)           |
+| Caustic Alchemy | [Trained Assassin](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:trained-assassin) |
+| Harlequin Mask  | Friend!                                                                                        |
 
 ##### Burning Ash
 

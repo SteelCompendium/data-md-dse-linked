@@ -54,7 +54,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 | 3rd   | Scan, 7-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7        | 5                   |
 | 4th   | Characteristic Increase, [Mind Projection](REL_PATH_PREFIXRules/Talent/4th-Level%20Features/Mind%20ProjectionREL_PATH_SUFFIX), [Mind Recovery](REL_PATH_PREFIXRules/Talent/4th-Level%20Features/Mind%20RecoveryREL_PATH_SUFFIX), Perk, Skill [Suspensor Field](REL_PATH_PREFIXRules/Talent/4th-Level%20Features/Suspensor%20FieldREL_PATH_SUFFIX)                                                                                                                                               | Two signature, 3, 5, 7        | 5                   |
 | 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Psi Boost](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 6th   | Perk, [Psi Boost](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
 | 7th   | [Ancestral Memory](REL_PATH_PREFIXRules/Talent/7th-Level%20Features/Ancestral%20MemoryREL_PATH_SUFFIX), [Cascading Strain](REL_PATH_PREFIXRules/Talent/7th-Level%20Features/Cascading%20StrainREL_PATH_SUFFIX), Characteristic Increase, [Lucid Mind](REL_PATH_PREFIXRules/Talent/7th-Level%20Features/Lucid%20MindREL_PATH_SUFFIX), Skill                                                                                                                                                      | Two signature, 3, 5, 7, 9     | 5, 9                |
 | 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
 | 9th   | [Fortress of Perfect Thought](REL_PATH_PREFIXRules/Talent/9th-Level%20Features/Fortress%20of%20Perfect%20ThoughtREL_PATH_SUFFIX), Tradition Ability                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
@@ -97,7 +97,7 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 ##### Clarity Outside of Combat
 
-Though you can't gain [clarity outside of combat](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Clarity%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [clarity outside of combat](scc:mcdm.heroes.v1:feature.trait.talent.1st-level-feature:clarity-outside-of-combat), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
@@ -126,7 +126,7 @@ You have the following ability, which can be used as a ranged [free strike](REL_
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Force%20AugmentationREL_PATH_SUFFIX).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](scc:mcdm.heroes.v1:feature.trait.talent.1st-level-feature:force-augmentation).)
 
 ##### Battle Augmentation
 
@@ -152,7 +152,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 #### Talent Ward
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and psionic augmentation (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Repulsive%20WardREL_PATH_SUFFIX).)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and psionic augmentation (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](scc:mcdm.heroes.v1:feature.trait.talent.1st-level-feature:repulsive-ward).)
 
 ##### Entropy Ward
 
@@ -584,11 +584,11 @@ Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition gran
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition   | Features                                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Ease the Hours](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/Ease%20the%20HoursREL_PATH_SUFFIX)   |
-| Telekinesis | [Ease Their Fall](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/Ease%20Their%20FallREL_PATH_SUFFIX) |
-| Telepathy   | [Ease the Mind](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/Ease%20the%20MindREL_PATH_SUFFIX)     |
+| Tradition   | Features                                                                                     |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| Chronopathy | [Ease the Hours](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-hours)   |
+| Telekinesis | [Ease Their Fall](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-their-fall) |
+| Telepathy   | [Ease the Mind](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-mind)     |
 
 ##### Ease the Hours
 
@@ -854,11 +854,11 @@ Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition gran
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                               |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Distortion Temporal](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Distortion%20TemporalREL_PATH_SUFFIX), [Speed of Thought](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Speed%20of%20ThoughtREL_PATH_SUFFIX) |
-| Telekinesis | [Kinetic Amplifier](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Kinetic%20AmplifierREL_PATH_SUFFIX), [Triangulate](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/TriangulateREL_PATH_SUFFIX)                   |
-| Telepathy   | [Compulsion](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/CompulsionREL_PATH_SUFFIX), [Remote Amplification](REL_PATH_PREFIXRules/Talent/5th-Level%20Features/Remote%20AmplificationREL_PATH_SUFFIX)               |
+| Tradition   | Features                                                                                                                                                                                             |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Distortion Temporal](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:distortion-temporal), [Speed of Thought](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:speed-of-thought) |
+| Telekinesis | [Kinetic Amplifier](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:kinetic-amplifier), [Triangulate](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:triangulate)               |
+| Telepathy   | [Compulsion](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:compulsion), [Remote Amplification](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:remote-amplification)           |
 
 ##### Compulsion
 
@@ -968,7 +968,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to it and enhance its effects. A [psi boost](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to it and enhance its effects. A [psi boost](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ##### Dynamic Power (1 Clarity)
 
@@ -1164,11 +1164,11 @@ Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition gran
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                       |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Doubling the Hours](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/Doubling%20the%20HoursREL_PATH_SUFFIX), [Stasis Shield](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/Stasis%20ShieldREL_PATH_SUFFIX) |
-| Telekinesis | [Levitation Field](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/Levitation%20FieldREL_PATH_SUFFIX), [Low Gravity](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/Low%20GravityREL_PATH_SUFFIX) |
-| Telepathy   | [Mindlink](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/MindlinkREL_PATH_SUFFIX), [Universal Connection](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/Universal%20ConnectionREL_PATH_SUFFIX)           |
+| Tradition   | Features                                                                                                                                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chronopathy | [Doubling the Hours](scc:mcdm.heroes.v1:feature.trait.talent.8th-level-feature:doubling-the-hours), [Stasis Shield](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/Stasis%20ShieldREL_PATH_SUFFIX)   |
+| Telekinesis | [Levitation Field](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/Levitation%20FieldREL_PATH_SUFFIX), [Low Gravity](scc:mcdm.heroes.v1:feature.trait.talent.8th-level-feature:low-gravity) |
+| Telepathy   | [Mindlink](scc:mcdm.heroes.v1:feature.trait.talent.8th-level-feature:mindlink), [Universal Connection](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/Universal%20ConnectionREL_PATH_SUFFIX)         |
 
 ##### Doubling the Hours
 

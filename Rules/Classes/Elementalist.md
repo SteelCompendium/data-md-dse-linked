@@ -109,7 +109,7 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Essence%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:essence-outside-of-combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use a persistent ability outside of combat (see [Persistent Magic](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Persistent%20MagicREL_PATH_SUFFIX) below), you can maintain it for a number of rounds equal to your Victories.
 
@@ -171,12 +171,12 @@ Your elemental specialization grants you a feature, as shown on the 1st-Level El
 
 ###### 1st-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                  |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Motivate%20EarthREL_PATH_SUFFIX)                       |
-| Fire           | [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX)     |
-| Green          | [It Is the Soul Which Hears](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/It%20Is%20the%20Soul%20Which%20HearsREL_PATH_SUFFIX) |
-| Void           | [A Beyonding of Vision](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/A%20Beyonding%20of%20VisionREL_PATH_SUFFIX)               |
+| Specialization | Feature                                                                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [Motivate Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Motivate%20EarthREL_PATH_SUFFIX)                   |
+| Fire           | [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX) |
+| Green          | [It Is the Soul Which Hears](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:it-is-the-soul-which-hears)             |
+| Void           | [A Beyonding of Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision)                       |
 
 ##### A Beyonding of Vision
 
@@ -193,7 +193,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/A%20Beyonding%20of%20VisionREL_PATH_SUFFIX) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20SenseREL_PATH_SUFFIX) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20SenseREL_PATH_SUFFIX) ability.
 
 ##### It Is the Soul Which Hears
 
@@ -308,7 +308,7 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Enchantment%20of%20DestructionREL_PATH_SUFFIX).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:enchantment-of-destruction).)
 
 ##### Enchantment of Battle
 
@@ -334,7 +334,7 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Ward%20of%20Surprising%20ReactivityREL_PATH_SUFFIX).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:ward-of-surprising-reactivity).)
 
 ##### Ward of Delightful Consequences
 
@@ -650,8 +650,8 @@ Your elemental specialization grants you a feature, as shown on the 2nd-Level El
 
 | Specialization | Feature                                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Disciple of Earth](REL_PATH_PREFIXRules/Elementalist/2nd-Level%20Features/Disciple%20of%20EarthREL_PATH_SUFFIX)                               |
-| Fire           | [Disciple of Fire](REL_PATH_PREFIXRules/Elementalist/2nd-Level%20Features/Disciple%20of%20FireREL_PATH_SUFFIX)                                 |
+| Earth          | [Disciple of Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-earth)                                         |
+| Fire           | [Disciple of Fire](scc:mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-fire)                                           |
 | Green          | Disciple of the Green                                                                                                                          |
 | Void           | [There Is No Space Between](REL_PATH_PREFIXRules/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20BetweenREL_PATH_SUFFIX) |
 
@@ -800,9 +800,9 @@ Your elemental specialization grants you a feature, as shown on the 3rd-Level El
 | Specialization | Feature                                                                                                                                                        |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Earth          | [Earth Accepts Me](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20MeREL_PATH_SUFFIX)                                       |
-| Fire           | [A Conversation With Fire](REL_PATH_PREFIXRules/Elementalist/3rd-Level%20Features/A%20Conversation%20With%20FireREL_PATH_SUFFIX)                               |
+| Fire           | [A Conversation With Fire](scc:mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:a-conversation-with-fire)                                           |
 | Green          | [Remember Growth and Sun and Rain](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20RainREL_PATH_SUFFIX) |
-| Void           | [Distance Is Only Memory](REL_PATH_PREFIXRules/Elementalist/3rd-Level%20Features/Distance%20Is%20Only%20MemoryREL_PATH_SUFFIX)                                 |
+| Void           | [Distance Is Only Memory](scc:mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:distance-is-only-memory)                                             |
 
 ##### A Conversation With Fire
 
@@ -932,12 +932,12 @@ While you have 3 or more essence and are not dying, you exude an aura of magic w
 
 ###### Mantle of Essence Specialization Effects Table
 
-| Specialization | Feature                                                                                                    |
-| -------------- | ---------------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Quaking%20EarthREL_PATH_SUFFIX)     |
-| Fire           | [Burning Grounds](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Burning%20GroundsREL_PATH_SUFFIX) |
-| Green          | [Flowering Bed](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Flowering%20BedREL_PATH_SUFFIX)     |
-| Void           | [Veiling Bed](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Veiling%20BedREL_PATH_SUFFIX)         |
+| Specialization | Feature                                                                                            |
+| -------------- | -------------------------------------------------------------------------------------------------- |
+| Earth          | [Quaking Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:quaking-earth)     |
+| Fire           | [Burning Grounds](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:burning-grounds) |
+| Green          | [Flowering Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:flowering-bed)     |
+| Void           | [Veiling Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:veiling-bed)         |
 
 ##### Burning Grounds
 
@@ -973,12 +973,12 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ###### 5th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                    |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Earth          | [The Mountain Does Not Move](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/The%20Mountain%20Does%20Not%20MoveREL_PATH_SUFFIX)     |
-| Fire           | [Smoldering Step](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/Smoldering%20StepREL_PATH_SUFFIX)                                 |
-| Green          | [Hide of Tenfold Shields](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/Hide%20of%20Tenfold%20ShieldsREL_PATH_SUFFIX)             |
-| Void           | [Pierce the Veil of Substance](REL_PATH_PREFIXRules/Elementalist/5th-Level%20Features/Pierce%20the%20Veil%20of%20SubstanceREL_PATH_SUFFIX) |
+| Specialization | Feature                                                                                                                      |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [The Mountain Does Not Move](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:the-mountain-does-not-move)     |
+| Fire           | [Smoldering Step](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:smoldering-step)                           |
+| Green          | [Hide of Tenfold Shields](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:hide-of-tenfold-shields)           |
+| Void           | [Pierce the Veil of Substance](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:pierce-the-veil-of-substance) |
 
 ##### Hide of Tenfold Shields
 
@@ -1202,9 +1202,9 @@ Your elemental specialization grants you a feature, as shown on the 8th-Level El
 | Specialization | Feature                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Earth          | [Summon Source of Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20EarthREL_PATH_SUFFIX) |
-| Fire           | [The Flame Primordial](REL_PATH_PREFIXRules/Elementalist/8th-Level%20Features/The%20Flame%20PrimordialREL_PATH_SUFFIX)                 |
-| Green          | [Chimeric Manifestation](REL_PATH_PREFIXRules/Elementalist/8th-Level%20Features/Chimeric%20ManifestationREL_PATH_SUFFIX)               |
-| Void           | [Black Hole Star](REL_PATH_PREFIXRules/Elementalist/8th-Level%20Features/Black%20Hole%20StarREL_PATH_SUFFIX)                           |
+| Fire           | [The Flame Primordial](scc:mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:the-flame-primordial)                           |
+| Green          | [Chimeric Manifestation](scc:mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:chimeric-manifestation)                       |
+| Void           | [Black Hole Star](scc:mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:black-hole-star)                                     |
 
 ##### Black Hole Star
 
@@ -1437,12 +1437,12 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 ###### One Specialization Features Table
 
-| Specialization | Feature                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Master of Earth](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20EarthREL_PATH_SUFFIX) |
-| Fire           | [Master of Fire](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20FireREL_PATH_SUFFIX)   |
-| Green          | [Master of Green](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20GreenREL_PATH_SUFFIX) |
-| Void           | [Master of Void](REL_PATH_PREFIXRules/Elementalist/10th-Level%20Features/Master%20of%20VoidREL_PATH_SUFFIX)   |
+| Specialization | Feature                                                                                             |
+| -------------- | --------------------------------------------------------------------------------------------------- |
+| Earth          | [Master of Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-earth) |
+| Fire           | [Master of Fire](scc:mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-fire)   |
+| Green          | [Master of Green](scc:mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-green) |
+| Void           | [Master of Void](scc:mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-void)   |
 
 ##### Master of Earth
 

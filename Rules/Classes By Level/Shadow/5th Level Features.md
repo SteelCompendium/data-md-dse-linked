@@ -22,11 +22,11 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 
 ###### 5th-Level College Features Table
 
-| College         | Feature                                                                                                  |
-| --------------- | -------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Trail of Cinders](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/Trail%20of%20CindersREL_PATH_SUFFIX) |
-| Caustic Alchemy | [Volatile Reagents](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/Volatile%20ReagentsREL_PATH_SUFFIX) |
-| Harlequin Mask  | [Harlequin Gambit](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/Harlequin%20GambitREL_PATH_SUFFIX)   |
+| College         | Feature                                                                                          |
+| --------------- | ------------------------------------------------------------------------------------------------ |
+| Black Ash       | [Trail of Cinders](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders)   |
+| Caustic Alchemy | [Volatile Reagents](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:volatile-reagents) |
+| Harlequin Mask  | [Harlequin Gambit](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit)   |
 
 ##### Harlequin Gambit
 

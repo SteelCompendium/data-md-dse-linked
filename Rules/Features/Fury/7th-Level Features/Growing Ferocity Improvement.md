@@ -38,6 +38,6 @@ metadata:
   type: feature/trait/fury/7th-level-feature
 effects:
   - effect: Your [Growing
-      Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX)
+      Ferocity](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX)
       feature provides additional benefits when you have 10 or more ferocity.
 ```

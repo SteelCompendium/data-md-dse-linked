@@ -26,11 +26,11 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordi
 
 ###### 2nd-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                |
-| ---------- | ------------------------------------------------------------------------------------------------------ |
-| Berserker  | [Unstoppable Force](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/Unstoppable%20ForceREL_PATH_SUFFIX) |
-| Reaver     | [Inescapable Wrath](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/Inescapable%20WrathREL_PATH_SUFFIX) |
-| Stormwight | [Tooth and Claw](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/Tooth%20and%20ClawREL_PATH_SUFFIX)     |
+| Aspect     | Feature                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------- |
+| Berserker  | [Unstoppable Force](scc:mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:unstoppable-force) |
+| Reaver     | [Inescapable Wrath](scc:mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:inescapable-wrath) |
+| Stormwight | [Tooth and Claw](scc:mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:tooth-and-claw)       |
 
 ##### Inescapable Wrath
 

@@ -26,11 +26,11 @@ Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition gran
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition   | Features                                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Ease the Hours](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/Ease%20the%20HoursREL_PATH_SUFFIX)   |
-| Telekinesis | [Ease Their Fall](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/Ease%20Their%20FallREL_PATH_SUFFIX) |
-| Telepathy   | [Ease the Mind](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/Ease%20the%20MindREL_PATH_SUFFIX)     |
+| Tradition   | Features                                                                                     |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| Chronopathy | [Ease the Hours](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-hours)   |
+| Telekinesis | [Ease Their Fall](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-their-fall) |
+| Telepathy   | [Ease the Mind](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-mind)     |
 
 ##### Ease the Hours
 

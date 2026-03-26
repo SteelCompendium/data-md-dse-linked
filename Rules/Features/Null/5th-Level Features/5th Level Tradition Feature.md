@@ -1,0 +1,49 @@
+---
+action_type: feature
+class: 'null'
+feature_type: trait
+file_basename: 5th Level Tradition Feature
+file_dpath: Null/5th-Level Features
+item_id: 5th-level-tradition-feature
+item_index: '03'
+item_name: 5th-Level Tradition Feature
+level: 5
+scc:
+- mcdm.heroes.v1:feature.trait.null.5th-level-feature:5th-level-tradition-feature
+scdc:
+- 1.1.1:11.1.6.5:03
+source: mcdm.heroes.v1
+type: feature/trait/null/5th-level-feature
+---
+
+```ds-feature
+type: feature
+feature_type: trait
+name: 5th-Level Tradition Feature
+metadata:
+  action_type: feature
+  class: "null"
+  feature_type: trait
+  file_basename: 5th Level Tradition Feature
+  file_dpath: Null/5th-Level Features
+  item_id: 5th-level-tradition-feature
+  item_index: "03"
+  item_name: 5th-Level Tradition Feature
+  level: 5
+  scc:
+    - mcdm.heroes.v1:feature.trait.null.5th-level-feature:5th-level-tradition-feature
+  scdc:
+    - 1.1.1:11.1.6.5:03
+  source: mcdm.heroes.v1
+  type: feature/trait/null/5th-level-feature
+effects:
+  - effect: |-
+      Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+
+      ###### 5th-Level Tradition Features Table
+      | Tradition     | Feature                                                                                                  |
+      | ------------- | -------------------------------------------------------------------------------------------------------- |
+      | Chronokinetic | [Instant Action](REL_PATH_PREFIXRules/Null/5th-Level%20Features/Instant%20ActionREL_PATH_SUFFIX)         |
+      | Cryokinetic   | [Chilling Readiness](REL_PATH_PREFIXRules/Null/5th-Level%20Features/Chilling%20ReadinessREL_PATH_SUFFIX) |
+      | Metakinetic   | [Inertial Fulcrum](REL_PATH_PREFIXRules/Null/5th-Level%20Features/Inertial%20FulcrumREL_PATH_SUFFIX)     |
+```

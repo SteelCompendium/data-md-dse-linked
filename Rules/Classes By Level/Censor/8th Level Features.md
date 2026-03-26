@@ -26,11 +26,11 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ###### 8th-Level Order Features Table
 
-| Order    | Feature                                                                                                        |
-| -------- | -------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Demonologist](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/DemonologistREL_PATH_SUFFIX)                   |
-| Oracle   | [Their Past Revealed](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/Their%20Past%20RevealedREL_PATH_SUFFIX) |
-| Paragon  | [Vow](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/VowREL_PATH_SUFFIX)                                     |
+| Order    | Feature                                                                                              |
+| -------- | ---------------------------------------------------------------------------------------------------- |
+| Exorcist | [Demonologist](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:demonologist)               |
+| Oracle   | [Their Past Revealed](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:their-past-revealed) |
+| Paragon  | [Vow](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:vow)                                 |
 
 ##### Demonologist
 

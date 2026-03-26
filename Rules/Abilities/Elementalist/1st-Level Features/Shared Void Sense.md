@@ -64,7 +64,7 @@ effects:
   - name: Effect
     effect: For each Victory you have, you can target one creature. Each target
       gains the benefit of your [A Beyonding of
-      Vision](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/A%20Beyonding%20of%20VisionREL_PATH_SUFFIX)
+      Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision)
       feature until the end of your next turn, but doesn't gain the use of the
       [Shared Void
       Sense](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20SenseREL_PATH_SUFFIX)

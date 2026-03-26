@@ -63,7 +63,7 @@ effects:
       [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to
       unoccupied spaces within 5 squares of a willing creature who you are
       bonded to with your [Invocation of the
-      Heart](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)
+      Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart)
       feature. You don't need line of effect to the bonded creature but you must
       be on the same world.
 ```
