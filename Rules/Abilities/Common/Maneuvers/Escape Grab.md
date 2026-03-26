@@ -47,7 +47,9 @@ effects:
         effects:
           - roll: Power Roll + Might or Agility
             tier1: No effect.
-            tier2: You can escape the grab, but if you do, a creature who has you
+            tier2: You can escape the
+              [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX),
+              but if you do, a creature who has you
               [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
               can make a melee [free
               strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)

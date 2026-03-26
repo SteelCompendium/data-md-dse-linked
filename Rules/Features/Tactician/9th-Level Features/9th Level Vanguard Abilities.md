@@ -45,7 +45,8 @@ effects:
         cost: 11 Focus
         flavor: Nothing will stop you from reaching your foe.
         keywords:
-          - Charge
+          - "[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Char\
+            geREL_PATH_SUFFIX)"
           - Melee
           - Strike
           - Weapon
@@ -60,10 +61,13 @@ effects:
             tier2: 16 + M damage
             tier3: 21 + M damage
           - name: Effect
-            effect: If you use this ability as part of the Charge main action, enemies'
-              spaces don't count as difficult terrain for your movement.
-              Additionally, if you move through any creature's space, you can
-              slide that creature 1 square out of the path of your charge.
+            effect: If you use this ability as part of the
+              [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
+              main action, enemies' spaces don't count as difficult terrain for
+              your movement. Additionally, if you move through any creature's
+              space, you can slide that creature 1 square out of the path of
+              your
+              [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX).
       - type: feature
         feature_type: ability
         name: That One Is Mine!

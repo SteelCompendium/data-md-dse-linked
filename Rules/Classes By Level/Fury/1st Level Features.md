@@ -33,7 +33,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other [classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) has them using the Grab or [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) has them using the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) or [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 

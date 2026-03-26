@@ -45,7 +45,8 @@ effects:
         cost: 11 Drama
         flavor: If you can land the strike, the crowd goes wild.
         keywords:
-          - Charge
+          - "[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Char\
+            geREL_PATH_SUFFIX)"
           - Melee
           - Strike
           - Weapon

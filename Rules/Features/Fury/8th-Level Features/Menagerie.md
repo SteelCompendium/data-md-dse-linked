@@ -41,8 +41,9 @@ metadata:
 effects:
   - effect: You can use all stormwight kits. During a respite, you can choose to
       swap your stormwight kit and still take another respite activity. Your
-      Nature's Knight feature now lets you automatically sense the presence of
-      animals within 1 mile of you. Additionally, whenever you make a test to
-      track another creature, you can roll three dice and choose which two to
-      use.
+      [Nature's
+      Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/Natures%20KnightREL_PATH_SUFFIX)
+      feature now lets you automatically sense the presence of animals within 1
+      mile of you. Additionally, whenever you make a test to track another
+      creature, you can roll three dice and choose which two to use.
 ```

@@ -104,14 +104,14 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action either before or after the maneuver. |
 | 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                                                                                                 |
-| 6               | You gain an edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                                                           |
+| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                    |
 | 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                                                                                                                |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                                                     |
+| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                              |
 | 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                                                 |
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the Grab maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver as a free triggered action.
 
 Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the Cryokinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -120,10 +120,10 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 | Discipline      | Benefit                                                                                                                                                                                                                                                                       |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 1 surge.                                                                           |
-| 6               | You gain an edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 2 surges.                                                                          |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                       |
+| 4               | The first time on a turn that you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 1 surge.    |
+| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                      |
+| 8 (4th level)   | The first time on a turn that you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 2 surges.   |
+| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                |
 | 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                   |
 
 ##### Metakinetic Mastery
@@ -134,14 +134,14 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 
 ###### Metakinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Intuition score. |
-| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                     |
-| 6               | You gain an edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                              |
-| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                    |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                        |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.    |
+| Discipline      | Benefit                                                                                                                                                                                                        |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
+| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                                     |
+| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.       |
+| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                                    |
+| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers. |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                    |
 
 #### Null Speed
 
@@ -165,7 +165,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 #### Psionic Martial Arts
 
-Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) or Grab maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) or [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can choose to slide the target instead of pushing them.
 
 #### Null Abilities
 

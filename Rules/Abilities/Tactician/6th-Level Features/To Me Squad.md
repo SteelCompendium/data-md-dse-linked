@@ -13,7 +13,7 @@ item_id: to-me-squad-9-focus
 item_index: '06'
 item_name: To Me Squad! (9 Focus)
 keywords:
-- Charge
+- '[Charge](scc:mcdm.heroes.v1:common-ability.main-action:charge)'
 - Melee
 - Strike
 - Weapon
@@ -35,7 +35,8 @@ name: To Me Squad!
 cost: 9 Focus
 flavor: You lead your allies in a charge.
 keywords:
-  - Charge
+  - "[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PA\
+    TH_SUFFIX)"
   - Melee
   - Strike
   - Weapon
@@ -57,7 +58,7 @@ metadata:
   item_index: "06"
   item_name: To Me Squad! (9 Focus)
   keywords:
-    - Charge
+    - "[Charge](scc:mcdm.heroes.v1:common-ability.main-action:charge)"
     - Melee
     - Strike
     - Weapon
@@ -72,21 +73,27 @@ metadata:
   type: feature/ability/tactician/6th-level-feature
 effects:
   - roll: Power Roll + Might
-    tier1: 6 + M damage; one ally within 10 squares can use the Charge main action
-      as a free triggered action, and can use a melee strike signature ability
-      instead of a [free
+    tier1: 6 + M damage; one ally within 10 squares can use the
+      [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
+      main action as a free triggered action, and can use a melee strike
+      signature ability instead of a [free
       strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
-      for the charge
-    tier2: 9 + M damage; one ally within 10 squares can use the Charge main action
-      as a free triggered action, and can use a melee strike signature ability
-      that gains an edge instead of a [free
-      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
-      for the charge
-    tier3: 13 + M damage; two allies within 10 squares can use the Charge main
-      action as a free triggered action, and can each use a melee strike
+      for the
+      [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
+    tier2: 9 + M damage; one ally within 10 squares can use the
+      [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
+      main action as a free triggered action, and can use a melee strike
       signature ability that gains an edge instead of a [free
       strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
-      for the charge
+      for the
+      [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
+    tier3: 13 + M damage; two allies within 10 squares can use the
+      [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
+      main action as a free triggered action, and can each use a melee strike
+      signature ability that gains an edge instead of a [free
+      strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
+      for the
+      [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
   - name: Effect
     effect: If the target is hit with two or more strikes as part of this ability
       and they have R < STRONG, they are

@@ -42,7 +42,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). Additionally, you can [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) as part of your charge.
+Whenever you use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). Additionally, you can [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) as part of your [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX).
 
 #### 2nd-Level Aspect Ability
 

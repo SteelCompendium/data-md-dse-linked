@@ -40,7 +40,8 @@ metadata:
   type: feature/trait/censor/2nd-level-feature
 effects:
   - effect: You have honed your ability to detect sin and can use it to find those
-      who hide from justice. Any creature judged by you can't use the Hide
+      who hide from justice. Any creature judged by you can't use the
+      [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX)
       maneuver. Additionally, you gain an edge when searching for hidden
       creatures. If you find a hidden creature, you can use your Judgment
       ability against them as a free triggered action.

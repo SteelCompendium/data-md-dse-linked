@@ -112,9 +112,9 @@ See [Free Strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20S
 
 ###### Melee Weapon Free Strike
 
-| **Charge, Melee, Strike, Weapon** |               **Main action** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 1**                    | **🎯 One creature or object** |
+| **[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX), Melee, Strike, Weapon** |               **Main action** |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+| **📏 Melee 1**                                                                                                  | **🎯 One creature or object** |
 
 **Power Roll + Might or Agility:**
 

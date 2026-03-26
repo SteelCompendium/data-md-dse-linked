@@ -14,4 +14,4 @@ type: perk/exploration
 
 #### Friend Catapult
 
-As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
+As a maneuver, you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a willing adjacent ally or object of your size or smaller, then [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.

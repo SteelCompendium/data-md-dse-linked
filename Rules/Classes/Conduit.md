@@ -56,9 +56,9 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 | 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7        | 5                |
 | 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5                |
 | 6th   | [Burgeoning Saint](REL_PATH_PREFIXRules/Conduit/6th-Level%20Features/Burgeoning%20SaintREL_PATH_SUFFIX), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Domain Feature, [Faithful's Reward](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Faithfuls%20RewardREL_PATH_SUFFIX), Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
 | 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 9th   | Domain Ability, [Faith's Sword](REL_PATH_PREFIXRules/Conduit/9th-Level%20Features/Faiths%20SwordREL_PATH_SUFFIX), Ordained                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 | 10th  | Avatar, Characteristic Increase, Divine Power, [Most Pious](REL_PATH_PREFIXRules/Conduit/10th-Level%20Features/Most%20PiousREL_PATH_SUFFIX), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
@@ -89,7 +89,7 @@ You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX), you can use it as if you had spent an amount of piety equal to your Victories.
 
@@ -151,7 +151,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX) or Hide maneuver.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX) or [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver.
 - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) level.
 
 ###### War Domain Piety and Effect
@@ -196,7 +196,9 @@ Each time you finish a respite, you can decide the weather conditions within 100
 
 **Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide skill. **Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
+**Foggy:** You and your allies gain an edge on tests that use the Hide skill.
+
+**Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
 
 **Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.
 
@@ -959,7 +961,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
 | Death      | Seance                                                                                                                              |
 | Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Oracular%20WarningREL_PATH_SUFFIX)                             |
-| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
 | Life       | [Blessing of Life](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
 | Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
 | Nature     | [Wode Road](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Wode%20RoadREL_PATH_SUFFIX)                                           |
@@ -1008,7 +1010,7 @@ As a main action, you forge a bond of love and friendship with a willing creatur
 
 ###### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ###### Oracular Warning
 
@@ -1327,12 +1329,12 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
 | Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
 | Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
-| Knowledge  | Gods' Library                                                                                                                       |
+| Knowledge  | [Gods' Library](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Gods%20LibraryREL_PATH_SUFFIX)                                    |
 | Life       | [Font of Grace](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
 | Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
-| Nature     | Nature's Bounty                                                                                                                     |
+| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Natures%20BountyREL_PATH_SUFFIX)                                |
 | Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
-| Storm      | Thunderstruck                                                                                                                       |
+| Storm      | [Thunderstruck](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/ThunderstruckREL_PATH_SUFFIX)                                     |
 | Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
 | Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
 | War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |

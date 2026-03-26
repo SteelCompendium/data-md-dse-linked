@@ -32,7 +32,7 @@ type: title/2nd-echelon
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can use the Charge main action.
+> **Effect:** Each target can use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
 - *Student of War:* Choose a 1st-level doctrine feature from the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) class. You gain that feature even if you don't have the [Tactical Doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) feature.

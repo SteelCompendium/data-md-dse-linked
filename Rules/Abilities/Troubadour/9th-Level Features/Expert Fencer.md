@@ -13,7 +13,7 @@ item_id: expert-fencer-11-drama
 item_index: '02'
 item_name: Expert Fencer (11 Drama)
 keywords:
-- Charge
+- '[Charge](scc:mcdm.heroes.v1:common-ability.main-action:charge)'
 - Melee
 - Strike
 - Weapon
@@ -35,7 +35,8 @@ name: Expert Fencer
 cost: 11 Drama
 flavor: If you can land the strike, the crowd goes wild.
 keywords:
-  - Charge
+  - "[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PA\
+    TH_SUFFIX)"
   - Melee
   - Strike
   - Weapon
@@ -57,7 +58,7 @@ metadata:
   item_index: "02"
   item_name: Expert Fencer (11 Drama)
   keywords:
-    - Charge
+    - "[Charge](scc:mcdm.heroes.v1:common-ability.main-action:charge)"
     - Melee
     - Strike
     - Weapon

@@ -41,7 +41,8 @@ effects:
     features:
       - type: feature
         feature_type: ability
-        name: Squad! Hit and Run!
+        name: Squad! [Hit and
+          Run](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Hit%20and%20RunREL_PATH_SUFFIX)!
         cost: 11 Focus
         flavor: I had to pry this secret from the shadow colleges.
         keywords:

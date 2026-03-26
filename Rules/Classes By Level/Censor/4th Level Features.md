@@ -43,7 +43,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](R
 | Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
 | Death      | Seance                                                                                                                              |
 | Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Oracular%20WarningREL_PATH_SUFFIX)                             |
-| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
 | Life       | [Blessing of Life](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
 | Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
 | Nature     | [Wode Road](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Wode%20RoadREL_PATH_SUFFIX)                                           |
@@ -92,7 +92,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 ##### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ##### Oracular Warning
 

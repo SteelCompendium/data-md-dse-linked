@@ -14,7 +14,7 @@ item_index: '04'
 item_name: Hypersonic (9 Clarity)
 keywords:
 - Area
-- Charge
+- '[Charge](scc:mcdm.heroes.v1:common-ability.main-action:charge)'
 - Psionic
 - Telekinesis
 level: 5
@@ -35,7 +35,8 @@ cost: 9 Clarity
 flavor: You move fast enough to turn around and watch your foes feel the aftermath.
 keywords:
   - Area
-  - Charge
+  - "[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PA\
+    TH_SUFFIX)"
   - Psionic
   - Telekinesis
 usage: Main action
@@ -57,7 +58,7 @@ metadata:
   item_name: Hypersonic (9 Clarity)
   keywords:
     - Area
-    - Charge
+    - "[Charge](scc:mcdm.heroes.v1:common-ability.main-action:charge)"
     - Psionic
     - Telekinesis
   level: 5

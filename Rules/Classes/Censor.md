@@ -507,11 +507,11 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                                             |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | Saint's Vigilance, [A Sense for Truth](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/A%20Sense%20for%20TruthREL_PATH_SUFFIX)                                                                                      |
-| Oracle   | [It Was Foretold](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/It%20Was%20ForetoldREL_PATH_SUFFIX), [Judge of Character](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Judge%20of%20CharacterREL_PATH_SUFFIX) |
-| Paragon  | [Lead by Example](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Lead%20by%20ExampleREL_PATH_SUFFIX), [Stalwart Icon](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Stalwart%20IconREL_PATH_SUFFIX)             |
+| Order    | Features                                                                                                                                                                                                              |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Saint's Vigilance](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Saints%20VigilanceREL_PATH_SUFFIX), [A Sense for Truth](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/A%20Sense%20for%20TruthREL_PATH_SUFFIX) |
+| Oracle   | [It Was Foretold](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/It%20Was%20ForetoldREL_PATH_SUFFIX), [Judge of Character](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Judge%20of%20CharacterREL_PATH_SUFFIX)  |
+| Paragon  | [Lead by Example](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Lead%20by%20ExampleREL_PATH_SUFFIX), [Stalwart Icon](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Stalwart%20IconREL_PATH_SUFFIX)              |
 
 ##### It Was Foretold
 
@@ -527,7 +527,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ##### Saint's Vigilance
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
 
 ##### A Sense for Truth
 
@@ -720,7 +720,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](R
 | Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
 | Death      | Seance                                                                                                                              |
 | Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Oracular%20WarningREL_PATH_SUFFIX)                             |
-| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
 | Life       | [Blessing of Life](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
 | Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
 | Nature     | [Wode Road](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Wode%20RoadREL_PATH_SUFFIX)                                           |
@@ -769,7 +769,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 ##### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ##### Oracular Warning
 
@@ -1016,20 +1016,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](R
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
-| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
-| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
-| Knowledge  | Gods' Library                                                                                                                       |
-| Life       | [Font of Grace](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
-| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
-| Nature     | Nature's Bounty                                                                                                                     |
-| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
-| Storm      | [Ride the Lightning](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Ride%20the%20LightningREL_PATH_SUFFIX)                        |
-| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
-| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
-| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
+| Domain     | Feature                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
+| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
+| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
+| Knowledge  | [Gods' Library](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Gods%20LibraryREL_PATH_SUFFIX)                                    |
+| Life       | [Font of Grace](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
+| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
+| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Natures%20BountyREL_PATH_SUFFIX)                                |
+| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
+| Storm      | [Ride the Lightning](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Ride%20the%20LightningREL_PATH_SUFFIX)                       |
+| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
+| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
+| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
 
 ##### Blessing of Iron
 

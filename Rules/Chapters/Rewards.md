@@ -73,7 +73,7 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
-If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX)'s Prayer of Soldier's Skill.
+If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX)'s [Prayer of Soldier's Skill](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Prayer%20of%20Soldiers%20SkillREL_PATH_SUFFIX).
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
@@ -396,7 +396,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the Charge main action, the target of your strike is gored upon your horns and [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX). While [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) this way, the creature is [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
+**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action, the target of your strike is gored upon your horns and [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX). While [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) this way, the creature is [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX). You can also [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
 ##### Chocolate of Immovability
 
@@ -428,7 +428,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the Hide maneuver even while you are observed.
+**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even while you are observed.
 
 ##### Float Powder
 
@@ -838,7 +838,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the Grab maneuver at a distance. If the target is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver at a distance. If the target is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX), or you call upon the vine to release the target (no action required).
 
 ##### Flameshade Gloves
 
@@ -888,7 +888,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the Charge main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver as a free maneuver, regardless of the target creature's size.
+**Effect:** Whenever you use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver as a free maneuver, regardless of the target creature's size.
 
 ##### Mask of the Many
 
@@ -1457,7 +1457,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the Grab maneuver against that enemy. You can have any number of enemies [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) in this way.
+**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver against that enemy. You can have any number of enemies [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) in this way.
 
 **5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver while [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) this way takes a bane on the test.
 
@@ -1745,7 +1745,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can shift to any square adjacent to the target after the push.
 
-**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the Charge main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to shift, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) as part of the charge movement or the shift. If you don't end your [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) movement on the ground, you fall.
+**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action and use an ability with the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) keyword, or whenever you use an ability that allows you to shift, you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) as part of the [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) movement or the shift. If you don't end your [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) movement on the ground, you fall.
 
 **9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that forced movement can be [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX).
 
@@ -1763,7 +1763,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) in this way takes a bane when using the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) the target. A target [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) in this way takes a bane when using the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver.
 
 **5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver.
 
@@ -1905,11 +1905,11 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the Grab maneuver (no action required).
+**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver (no action required).
 
-**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) (no action required). On your turn, you can use the wraps' melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) option or Grab maneuver option, but only one.
+**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) (no action required). On your turn, you can use the wraps' melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) option or [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver option, but only one.
 
-**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) option, or Grab maneuver option, but only one.
+**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) option, or [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver option, but only one.
 
 ##### Lightning Treads
 
@@ -2338,9 +2338,9 @@ The Director chooses one of the following benefits, based on the fate your capto
 **Effect:** Choose one of the following benefits:
 
 - *Flying Circus:* When you are adjacent to a willing ally on their turn, you can use a triggered action to push them up to 2 squares if their size is the same as yours, or 4 squares if they are smaller. If this push causes the ally to fall, they can use a maneuver before they fall to reduce the height of the fall by 2.
-- *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or hide, they take a bane on tests made to perform any action secretly, and they gain an edge on tests made using the Lead, Music, or Perform skills.
+- *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX), they take a bane on tests made to perform any action secretly, and they gain an edge on tests made using the Lead, Music, or Perform skills.
 - *Supporting Player:* You gain an edge on group tests using Presence and on tests made to assist another creature with a Presence test.
-- *Work the Crowd:* While any of your allies is playing music or performing, you gain an edge on tests made to conceal objects, hide, pick pockets, or sneak.
+- *Work the Crowd:* While any of your allies is playing music or performing, you gain an edge on tests made to conceal objects, [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX), pick pockets, or sneak.
 
 #### Wanted Dead or Alive
 
@@ -2440,7 +2440,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can use the Charge main action.
+> **Effect:** Each target can use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
 - *Student of War:* Choose a 1st-level doctrine feature from the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) class. You gain that feature even if you don't have the [Tactical Doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) feature.
@@ -2468,7 +2468,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Artillerist:* You gain a +5 damage bonus when using a ship's weapons
 - *Black Flag:* You have a recognizable flag that strikes terror on the high seas. While your flag is flying from your ship, crewmembers of other ships who have line of effect to the flag take a bane on strikes made against your ship or its crew.
 - *Fearsome Reputation:* You earn 1 Renown.
-- *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a test to influence another ship up to 5 miles away whose crewmembers have line of effect to you, and you gain an edge when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or Hide or Sneak to let your ship avoid notice.
+- *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a test to influence another ship up to 5 miles away whose crewmembers have line of effect to you, and you gain an edge when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) or Sneak to let your ship avoid notice.
 
 #### Faction Officer
 
@@ -2554,7 +2554,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Trigger:** An ally makes a test to lie to, pick the pocket of, hide from, or sneak by the target and doesn't like the outcome.
+> **Trigger:** An ally makes a test to lie to, pick the pocket of, [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) from, or sneak by the target and doesn't like the outcome.
 >
 > **Effect:** You momentarily attract the target's notice to let your ally reroll their test. Once you use this ability, you can't use it again against the same target for 1 hour.
 
@@ -2657,7 +2657,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
 - *Furious Attack:* Choose one signature ability from the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
-- *Furious Charge:* When you use the Charge action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
+- *Furious Charge:* When you use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX).
 
 ### 3rd-Echelon Titles
 

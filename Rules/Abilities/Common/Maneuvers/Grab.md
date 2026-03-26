@@ -32,7 +32,8 @@ metadata:
   type: common-ability/maneuver
 effects:
   - effect: A creature seeking to keep a foe close and locked down can attempt to
-      grab a creature using the following ability.
+      [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX)
+      a creature using the following ability.
     features:
       - type: feature
         feature_type: ability
@@ -46,7 +47,9 @@ effects:
         effects:
           - roll: Power Roll + Might
             tier1: No effect.
-            tier2: You can grab the target, but if you do, the target can make a melee [free
+            tier2: You can
+              [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX)
+              the target, but if you do, the target can make a melee [free
               strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX)
               against you before they are
               [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
@@ -57,13 +60,8 @@ effects:
             effect: You can usually target only creatures of your size or smaller. If your
               Might score is 2 or higher, you can target any creature with a
               size equal to or less than your Might score.
-  - effect: >-
-      Unless otherwise indicated, a creature can grab only one creature at a
-      time.
+  - effect: |-
+      Unless otherwise indicated, a creature can [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) only one creature at a time.
 
-
-      See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for
-      information on the
-      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
-      condition.
+      See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) condition.
 ```

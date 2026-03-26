@@ -59,8 +59,9 @@ effects:
   - name: Effect
     effect: You take half the triggering damage, then can shift up to 2 squares
       after the triggering effect resolves. If you end this shift with
-      concealment or cover, you can use the Hide maneuver even if you are
-      observed.
+      concealment or cover, you can use the
+      [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX)
+      maneuver even if you are observed.
   - cost: Spend 1 Insight
     effect: The potency of any effects associated with the damage are reduced by 1
       for you.

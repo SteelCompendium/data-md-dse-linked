@@ -443,7 +443,7 @@ A creature who is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFF
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) can make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against you before you are no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
+> - **12-16:** You can escape the [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX), but if you do, a creature who has you [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) can make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against you before you are no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 > - **17+:** You are no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 >
 > **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
@@ -452,7 +452,7 @@ See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information
 
 #### Grab
 
-A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
+A creature seeking to keep a foe close and locked down can attempt to [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature using the following ability.
 
 <!-- -->
 > ###### Grab
@@ -464,18 +464,18 @@ A creature seeking to keep a foe close and locked down can attempt to grab a cre
 > **Power Roll + Might:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can grab the target, but if you do, the target can make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against you before they are [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
+> - **12-16:** You can [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) the target, but if you do, the target can make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against you before they are [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 > - **17+:** The target is [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) by you.
 >
 > **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 
-Unless otherwise indicated, a creature can grab only one creature at a time.
+Unless otherwise indicated, a creature can [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) only one creature at a time.
 
 See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) condition.
 
 #### Hide
 
-Using the Hide maneuver, a creature attempts to hide from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
+Using the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver, a creature attempts to [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
 
 #### Knockback
 
@@ -518,15 +518,15 @@ Unless otherwise noted in its description, a creature can activate a consumable 
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to help another creature regain Stamina, charge into battle, defend yourself, or make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
+You can also use your main action to help another creature regain Stamina, [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) into battle, defend yourself, or make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 You can convert your main action into a maneuver or a move action, allowing you to take two maneuvers or move actions on your turn.
 
 #### Charge
 
-When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
+When a creature takes the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action, they move up to their speed in a straight line, then make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) keyword, they can use that ability against the target instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
-A creature can't move through difficult terrain or shift when they charge. They can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) or [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) as part of the Charge main action if they have that movement available to them, but they can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) while charging unless they can automatically use that movement at full speed.
+A creature can't move through difficult terrain or shift when they [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX). They can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) or [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) as part of the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action if they have that movement available to them, but they can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) while charging unless they can automatically use that movement at full speed.
 
 #### Defend
 
@@ -542,7 +542,7 @@ A creature who uses the [Heal](REL_PATH_PREFIXRules/Abilities/Common/Main%20Acti
 
 ### Free Strikes
 
-Every creature can use a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) when the rules call for it. Specific rules let you use [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) as part of an action that allows you to also do something else impactful, such as how the Charge main action lets you move and use a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) in one main action (see Charge above).
+Every creature can use a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) when the rules call for it. Specific rules let you use [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) as part of an action that allows you to also do something else impactful, such as how the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action lets you move and use a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) in one main action (see [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) above).
 
 Many rules and abilities allow heroes to make [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) when it isn't their turn, such as the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s [Overwatch](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/OverwatchREL_PATH_SUFFIX) ability. As well, all characters can make an opportunity attack [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
@@ -564,9 +564,9 @@ A melee weapon [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Action
 
 ###### Melee Weapon Free Strike
 
-| **Charge, Melee, Stike, Weapon** |               **Main action** |
-| -------------------------------- | ----------------------------: |
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX), Melee, Stike, Weapon** |               **Main action** |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+| **📏 Melee 1**                                                                                                 | **🎯 One creature or object** |
 
 **Power Roll + Might or Agility:**
 

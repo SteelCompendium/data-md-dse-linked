@@ -220,7 +220,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX), Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. If your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX), [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. If your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -262,7 +262,7 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
-**Benefit:** You gain an edge on the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX), Grab, and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers. Additionally, you can hold an additional item even when your hands are full.
+**Benefit:** You gain an edge on the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX), [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX), and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
 **Drawback:** While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
 
@@ -1141,4 +1141,4 @@ You spent many years imprisoned for a crime you didn't commit. During your long 
 
 **Benefit:** You have two skills of your choice, neither of which can be from the interpersonal skill group.
 
-**Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to hide or sneak.
+**Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) or sneak.

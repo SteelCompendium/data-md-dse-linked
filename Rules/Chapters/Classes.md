@@ -44,7 +44,7 @@ Each class also has a number of subclasses presented in this book. Your subclass
 
 ### Abilities
 
-Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) and maneuvers such as Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) (see Maneuvers in [Chapter 10: Combat](#page-288-0)). But your class, ancestry (see [Chapter 3](#page-35-1)), kit ([Chapter 6](#page-231-1)), titles and treasures ([Chapter 13: Rewards](#page-327-1)), and other heroic options give you access to more powerful abilities that make your hero stand out.
+Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) and maneuvers such as [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) (see Maneuvers in [Chapter 10: Combat](#page-288-0)). But your class, ancestry (see [Chapter 3](#page-35-1)), kit ([Chapter 6](#page-231-1)), titles and treasures ([Chapter 13: Rewards](#page-327-1)), and other heroic options give you access to more powerful abilities that make your hero stand out.
 
 Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's power roll (if it has one) and effects.
 
@@ -57,7 +57,7 @@ Abilities are presented in a special format that first describes the ability, th
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
-The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX)'s Impaled ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
+The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX)'s Impaled ability allows you to [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
 #### Heroic Resource Cost
 
@@ -95,7 +95,7 @@ Abilities with the Area keyword create an area of effect. Many area abilities de
 
 ##### Charge
 
-Abilities with the Charge keyword can be used with the Charge main action instead of a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). (The Charge main action is described in Main [Actions](#page-288-0) in [Chapter 10: Combat](#page-288-0).)
+Abilities with the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) keyword can be used with the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action instead of a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). (The [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action is described in Main [Actions](#page-288-0) in [Chapter 10: Combat](#page-288-0).)
 
 ##### Magic
 
@@ -197,7 +197,7 @@ You can stack squares on top of each other to make the wall higher. Unless other
 >
 > Talking about a straight line area of effect on an encounter map doesn't mean the line can only be a straight [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) or horizontal line of contiguous squares. It means each square in the line's length must move in the same direction without bending back in an opposite direction. To make a line area quickly, pick your line's origin square, then pick each subsquent square in the line one at a time in a single direction without bending back in an opposite direction.
 >
-> Likewise, abilities and effects that require a creature to move in a straight line, such as the Charge main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
+> Likewise, abilities and effects that require a creature to move in a straight line, such as the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
 
 #### Target
 
@@ -379,7 +379,7 @@ Many abilities that require power rolls also have effect entries describing addi
 
 ##### Actions Within Actions
 
-If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)'s Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability is a maneuver that allows you to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
+If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)'s Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability is a maneuver that allows you to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) and then use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver as its overall effect. Using the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
 
 #### Spend Heroic Resource
 
@@ -465,9 +465,9 @@ A creature who has another creature [grabbed](REL_PATH_PREFIXRules/Conditions/Gr
 
 A creature can release a creature they have [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at any time to end that condition (no action required). A [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature can attempt to escape being [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) using the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), or if either the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
 
-A creature can grab only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can grab any creature larger than them with a size equal to or less than their Might score.
+A creature can [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) any creature larger than them with a size equal to or less than their Might score.
 
-Unless otherwise indicated, a creature can grab only one creature at a time.
+Unless otherwise indicated, a creature can [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) only one creature at a time.
 
 ##### Prone
 
@@ -999,11 +999,11 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                                             |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | Saint's Vigilance, [A Sense for Truth](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/A%20Sense%20for%20TruthREL_PATH_SUFFIX)                                                                                      |
-| Oracle   | [It Was Foretold](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/It%20Was%20ForetoldREL_PATH_SUFFIX), [Judge of Character](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Judge%20of%20CharacterREL_PATH_SUFFIX) |
-| Paragon  | [Lead by Example](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Lead%20by%20ExampleREL_PATH_SUFFIX), [Stalwart Icon](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Stalwart%20IconREL_PATH_SUFFIX)             |
+| Order    | Features                                                                                                                                                                                                              |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Saint's Vigilance](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Saints%20VigilanceREL_PATH_SUFFIX), [A Sense for Truth](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/A%20Sense%20for%20TruthREL_PATH_SUFFIX) |
+| Oracle   | [It Was Foretold](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/It%20Was%20ForetoldREL_PATH_SUFFIX), [Judge of Character](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Judge%20of%20CharacterREL_PATH_SUFFIX)  |
+| Paragon  | [Lead by Example](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Lead%20by%20ExampleREL_PATH_SUFFIX), [Stalwart Icon](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/Stalwart%20IconREL_PATH_SUFFIX)              |
 
 ##### It Was Foretold
 
@@ -1019,7 +1019,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ##### Saint's Vigilance
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
 
 ##### A Sense for Truth
 
@@ -1212,7 +1212,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](R
 | Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
 | Death      | Seance                                                                                                                              |
 | Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Oracular%20WarningREL_PATH_SUFFIX)                             |
-| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
 | Life       | [Blessing of Life](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
 | Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
 | Nature     | [Wode Road](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Wode%20RoadREL_PATH_SUFFIX)                                           |
@@ -1261,7 +1261,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 ##### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ##### Oracular Warning
 
@@ -1508,20 +1508,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](R
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
-| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
-| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
-| Knowledge  | Gods' Library                                                                                                                       |
-| Life       | [Font of Grace](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
-| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
-| Nature     | Nature's Bounty                                                                                                                     |
-| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
-| Storm      | [Ride the Lightning](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Ride%20the%20LightningREL_PATH_SUFFIX)                        |
-| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
-| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
-| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
+| Domain     | Feature                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
+| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
+| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
+| Knowledge  | [Gods' Library](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Gods%20LibraryREL_PATH_SUFFIX)                                    |
+| Life       | [Font of Grace](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
+| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
+| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Natures%20BountyREL_PATH_SUFFIX)                                |
+| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
+| Storm      | [Ride the Lightning](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Ride%20the%20LightningREL_PATH_SUFFIX)                       |
+| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
+| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
+| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
 
 ##### Blessing of Iron
 
@@ -1911,9 +1911,9 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 | 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7        | 5                |
 | 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5                |
 | 6th   | [Burgeoning Saint](REL_PATH_PREFIXRules/Conduit/6th-Level%20Features/Burgeoning%20SaintREL_PATH_SUFFIX), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Domain Feature, [Faithful's Reward](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Faithfuls%20RewardREL_PATH_SUFFIX), Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
 | 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 9th   | Domain Ability, [Faith's Sword](REL_PATH_PREFIXRules/Conduit/9th-Level%20Features/Faiths%20SwordREL_PATH_SUFFIX), Ordained                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 | 10th  | Avatar, Characteristic Increase, Divine Power, [Most Pious](REL_PATH_PREFIXRules/Conduit/10th-Level%20Features/Most%20PiousREL_PATH_SUFFIX), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
@@ -1944,7 +1944,7 @@ You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX), you can use it as if you had spent an amount of piety equal to your Victories.
 
@@ -2006,7 +2006,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX) or Hide maneuver.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX) or [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver.
 - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) level.
 
 ###### War Domain Piety and Effect
@@ -2051,7 +2051,9 @@ Each time you finish a respite, you can decide the weather conditions within 100
 
 **Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide skill. **Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
+**Foggy:** You and your allies gain an edge on tests that use the Hide skill.
+
+**Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
 
 **Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.
 
@@ -2814,7 +2816,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
 | Death      | Seance                                                                                                                              |
 | Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Oracular%20WarningREL_PATH_SUFFIX)                             |
-| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
 | Life       | [Blessing of Life](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
 | Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
 | Nature     | [Wode Road](REL_PATH_PREFIXRules/Conduit/4th-Level%20Features/Wode%20RoadREL_PATH_SUFFIX)                                           |
@@ -2863,7 +2865,7 @@ As a main action, you forge a bond of love and friendship with a willing creatur
 
 ###### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ###### Oracular Warning
 
@@ -3182,12 +3184,12 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
 | Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
 | Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
-| Knowledge  | Gods' Library                                                                                                                       |
+| Knowledge  | [Gods' Library](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Gods%20LibraryREL_PATH_SUFFIX)                                    |
 | Life       | [Font of Grace](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
 | Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
-| Nature     | Nature's Bounty                                                                                                                     |
+| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Natures%20BountyREL_PATH_SUFFIX)                                |
 | Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
-| Storm      | Thunderstruck                                                                                                                       |
+| Storm      | [Thunderstruck](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/ThunderstruckREL_PATH_SUFFIX)                                     |
 | Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
 | Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
 | War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
@@ -4242,28 +4244,28 @@ You can revert back to your true form as a maneuver. You can't enter an [animal 
 
 ###### Green Animal Forms Table
 
-| Animal Type           | Level | Temporary Stamina | Speed                                                                           | Size | [Stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| --------------------- | ----- | ----------------- | ------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Canine                | 2nd   | 5                 | 7                                                                               | 1M   | +0                                                                        | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Fish                  | 2nd   | 0                 | 5 ([swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) only) | 1T   | +0                                                                        | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Rodent                | 2nd   | 0                 | 5 ([climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))     | 1T   | +0                                                                        | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Bird                  | 3rd   | 0                 | 5 ([fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX))                     | 1T   | +0                                                                        | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Great cat             | 3rd   | 5                 | 6 ([climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))     | 2    | +0                                                                        | +1/+1/+1           | As a maneuver, you can [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), and you can<br/> make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against them (no action required).                                                                                                                                                |
-| Giant frog            | 4th   | 5                 | 5 ([swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))      | 2    | +0                                                                        | +0/+0/+0           | Your melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) has a distance of melee 3. When you take the Advance<br/> move action, you can high [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) or long [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to half your speed. This<br/> [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) can allow you to move more squares than your speed.                                                                                                     |
-| Horse                 | 4th   | 5                 | 8                                                                               | 2    | +1                                                                        | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br/> main actions on the same turn.                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Mohler                | 4th   | 0                 | 7 ([burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX))               | 1S   | +1                                                                        | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Bear                  | 5th   | 10                | 5 ([climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))     | 2    | +1                                                                        | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Giant bird            | 5th   | 0                 | 7 ([fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX))                     | 2    | +0                                                                        | +1/+1/+1           | After making a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                                                                                                                                                                                                                          |
-| Giant<br/> salamander | 6th   | 5                 | 5                                                                               | 1L   | +3                                                                        | +2/+2/+2           | Your melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) deals fire damage. Additionally, you have fire immunity<br/> 3.                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Giant spider          | 6th   | 0                 | 5 ([climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))     | 2    | +0                                                                        | +0/+1/+2           | You have a double edge on melee [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against creatures you are hidden<br/> from.                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Giant snake           | 7th   | 5                 | 5                                                                               | 3    | +0                                                                        | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), you<br/> can automatically grab the target. While [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) this way, the target takes 2<br/> damage at the start of each of their turns.                                                                                                                                                                                                                  |
-| Kangaroo              | 7th   | 0                 | 7                                                                               | 1L   | +1                                                                        | +0/+0/+4           | When you score a critical hit with a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), the target is [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save<br/> ends). When you take the Advance move action, you can high [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) or long<br/> [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to half your speed. This [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) can allow you to move more squares<br/> than your speed. |
-| Spiny armadillo       | 7th   | 10                | 5                                                                               | 1M   | +2                                                                        | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br/> creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Ostrich               | 8th   | 0                 | 10                                                                              | 2    | +0                                                                        | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Shark                 | 8th   | 0                 | 8 ([swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) only) | 2    | +0                                                                        | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) or winded.                                                                                                                                                                                                                                                                                                                                                                |
-| Giant octopus         | 9th   | 5                 | 5 ([swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))      | 3    | +2                                                                        | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), you can automatically grab the target. You can have up to<br/> eight creatures [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).                                                      |
-| Rhinoceros            | 9th   | 10                | 8                                                                               | 2    | +5                                                                        | +2/+2/+2           | Whenever you make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) as part of the Charge action, that<br/> strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                       |
-| King terror lizard    | 10th  | 20                | 5                                                                               | 4    | +3                                                                        | +2/+2/+2           | Your melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Animal Type           | Level | Temporary Stamina | Speed                                                                           | Size | [Stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --------------------- | ----- | ----------------- | ------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Canine                | 2nd   | 5                 | 7                                                                               | 1M   | +0                                                                        | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Fish                  | 2nd   | 0                 | 5 ([swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) only) | 1T   | +0                                                                        | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Rodent                | 2nd   | 0                 | 5 ([climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))     | 1T   | +0                                                                        | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Bird                  | 3rd   | 0                 | 5 ([fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX))                     | 1T   | +0                                                                        | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Great cat             | 3rd   | 5                 | 6 ([climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))     | 2    | +0                                                                        | +1/+1/+1           | As a maneuver, you can [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), and you can<br/> make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against them (no action required).                                                                                                                                                                  |
+| Giant frog            | 4th   | 5                 | 5 ([swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))      | 2    | +0                                                                        | +0/+0/+0           | Your melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) has a distance of melee 3. When you take the Advance<br/> move action, you can high [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) or long [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to half your speed. This<br/> [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) can allow you to move more squares than your speed.                                                                                                                       |
+| Horse                 | 4th   | 5                 | 8                                                                               | 2    | +1                                                                        | +0/+0/+0           | You can use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action as a maneuver. You can't use two [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)<br/> main actions on the same turn.                                                                                                                                                                                                                                                                                                                       |
+| Mohler                | 4th   | 0                 | 7 ([burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX))               | 1S   | +1                                                                        | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Bear                  | 5th   | 10                | 5 ([climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))     | 2    | +1                                                                        | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Giant bird            | 5th   | 0                 | 7 ([fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX))                     | 2    | +0                                                                        | +1/+1/+1           | After making a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Giant<br/> salamander | 6th   | 5                 | 5                                                                               | 1L   | +3                                                                        | +2/+2/+2           | Your melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) deals fire damage. Additionally, you have fire immunity<br/> 3.                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Giant spider          | 6th   | 0                 | 5 ([climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))     | 2    | +0                                                                        | +0/+1/+2           | You have a double edge on melee [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against creatures you are hidden<br/> from.                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Giant snake           | 7th   | 5                 | 5                                                                               | 3    | +0                                                                        | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), you<br/> can automatically [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) the target. While [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) this way, the target takes 2<br/> damage at the start of each of their turns.                                                                                                                                                             |
+| Kangaroo              | 7th   | 0                 | 7                                                                               | 1L   | +1                                                                        | +0/+0/+4           | When you score a critical hit with a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), the target is [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save<br/> ends). When you take the Advance move action, you can high [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) or long<br/> [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) up to half your speed. This [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) can allow you to move more squares<br/> than your speed.                   |
+| Spiny armadillo       | 7th   | 10                | 5                                                                               | 1M   | +2                                                                        | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br/> creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Ostrich               | 8th   | 0                 | 10                                                                              | 2    | +0                                                                        | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Shark                 | 8th   | 0                 | 8 ([swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) only) | 2    | +0                                                                        | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) or winded.                                                                                                                                                                                                                                                                                                                                                                                  |
+| Giant octopus         | 9th   | 5                 | 5 ([swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX))      | 3    | +2                                                                        | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), you can automatically [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) the target. You can have up to<br/> eight creatures [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX). |
+| Rhinoceros            | 9th   | 10                | 8                                                                               | 2    | +5                                                                        | +2/+2/+2           | Whenever you make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) as part of the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) action, that<br/> strike gains an edge.                                                                                                                                                                                                                                                                                                                           |
+| King terror lizard    | 10th  | 20                | 5                                                                               | 4    | +3                                                                        | +2/+2/+2           | Your melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ##### There Is No Space Between
 
@@ -5112,7 +5114,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other [classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) has them using the Grab or [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) has them using the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) or [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -5497,7 +5499,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). Additionally, you can [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) as part of your charge.
+Whenever you use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). Additionally, you can [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) as part of your [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX).
 
 #### 2nd-Level Aspect Ability
 
@@ -5625,7 +5627,7 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordi
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Berserker  | [Immovable Object](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/Immovable%20ObjectREL_PATH_SUFFIX)                     |
 | Reaver     | [See Through Their Tricks](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/See%20Through%20Their%20TricksREL_PATH_SUFFIX) |
-| Stormwight | Nature's Knight                                                                                                          |
+| Stormwight | [Nature's Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/Natures%20KnightREL_PATH_SUFFIX)                        |
 
 ##### Immovable Object
 
@@ -5833,7 +5835,7 @@ As a 6th-level [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), you gai
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/Natures%20KnightREL_PATH_SUFFIX) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you (save ends).
 
 #### Primordial Portal
 
@@ -6005,7 +6007,7 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordi
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/Natures%20KnightREL_PATH_SUFFIX) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 
@@ -6341,10 +6343,10 @@ As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocit
 | Ferocity        | Benefit                                                                                                                                                                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | You can have up to two creatures [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), you gain 1 surge.             |
-| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                                                                                     |
-| 6               | You gain an edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                                   |
-| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                                       |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                             |
+| 4               | The first time you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature on a turn, you gain 1 surge.                                                                                                                                              |
+| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                            |
+| 8 (4th level)   | The first time you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                |
+| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                      |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
@@ -6357,7 +6359,7 @@ You gain an edge on tests made to hide and sneak. Additionally, whenever you fal
 
 ##### Animal Form: Crow
 
-While you are in your crow form, your size is 1T and you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your crow form, your size is 1T and you can [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX). You can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver as a free maneuver, and you can use your allies as cover when you [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX). You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Crow
 
@@ -6417,7 +6419,7 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. You can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver as a free maneuver, you can use your allies as cover when you [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX), and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 
@@ -6665,14 +6667,14 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action either before or after the maneuver. |
 | 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                                                                                                 |
-| 6               | You gain an edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                                                           |
+| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                    |
 | 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                                                                                                                |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                                                     |
+| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                              |
 | 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                                                 |
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the Grab maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver as a free triggered action.
 
 Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the Cryokinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -6681,10 +6683,10 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 | Discipline      | Benefit                                                                                                                                                                                                                                                                       |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 1 surge.                                                                           |
-| 6               | You gain an edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 2 surges.                                                                          |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                                                       |
+| 4               | The first time on a turn that you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 1 surge.    |
+| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                      |
+| 8 (4th level)   | The first time on a turn that you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature or an enemy moves 1 or more squares in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability, you gain 2 surges.   |
+| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                |
 | 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                   |
 
 ##### Metakinetic Mastery
@@ -6695,14 +6697,14 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 
 ###### Metakinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Intuition score. |
-| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                     |
-| 6               | You gain an edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                              |
-| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                    |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                        |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.    |
+| Discipline      | Benefit                                                                                                                                                                                                        |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
+| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                                     |
+| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.       |
+| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                                    |
+| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers. |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                    |
 
 #### Null Speed
 
@@ -6726,7 +6728,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 #### Psionic Martial Arts
 
-Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) or Grab maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) or [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can choose to slide the target instead of pushing them.
 
 #### Null Abilities
 
@@ -7830,7 +7832,7 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 
 | College         | Feature                                                                                                                                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | Black Ash Teleport                                                                                                                                                                                         |
+| Black Ash       | [Black Ash Teleport](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20TeleportREL_PATH_SUFFIX)                                                                                     |
 | Caustic Alchemy | [Coat the Blade](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coat%20the%20BladeREL_PATH_SUFFIX), [Smoke Bomb](REL_PATH_PREFIXRules/Shadow/1st-Level%20Features/Smoke%20BombREL_PATH_SUFFIX) |
 | Harlequin Mask  | I'm No Threat                                                                                                                                                                                              |
 
@@ -7847,7 +7849,7 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if you are observed. If you successfully [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) using this maneuver, you gain 1 surge.
 >
 > **Spend 1+ Insight:** You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) 1 additional square for each insight spent.
 
@@ -7889,7 +7891,7 @@ You have the following ability.
 
 ##### Smoke Bomb
 
-You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 #### College Triggered Action
 
@@ -7927,7 +7929,7 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 >
 > **Trigger:** Another creature damages you.
 >
-> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.
+> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if you are observed.
 >
 > **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
@@ -8597,7 +8599,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. For each target in addition to you who [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+> **Effect:** Each target can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. For each target in addition to you who [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -9499,7 +9501,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
+> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 <!-- -->
 > ###### Hit 'Em Hard! (7 Focus)
@@ -9580,7 +9582,7 @@ You have learned to be more preemptive on the battlefield, thinking more steps a
 
 ##### Distracted
 
-You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
+You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX), any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
 
 ##### I Predicted That
 
@@ -9596,7 +9598,7 @@ As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a tes
 
 ##### Tactical Offensive
 
-When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
+When you use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 #### 9-Focus Ability
 
@@ -9758,15 +9760,15 @@ Choose one of the following abilities.
 >
 > *You lead your allies in a charge.*
 >
-> | **Charge, Melee, Strike, Weapon** |     **Main action** |
-> | --------------------------------- | ------------------: |
-> | **📏 Melee 1**                    | **🎯 One creature** |
+> | **[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX), Melee, Strike, Weapon** |     **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ------------------: |
+> | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) for the charge
-> - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) for the charge
-> - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) for the charge
+> - **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) for the [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
+> - **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) for the [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
+> - **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) for the [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX)
 >
 > **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
@@ -9838,7 +9840,7 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 
 You have trained your squad to be silent ambushers.
 
-**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike shift up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.
+**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike shift up to a number of squares equal to your Reason score and use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.
 
 ##### Pincer Movement
 
@@ -9925,7 +9927,7 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 Choose one of the following abilities.
 
 <!-- -->
-> ###### Squad! Hit and Run! (11 Focus)
+> ###### Squad! [Hit and Run](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Hit%20and%20RunREL_PATH_SUFFIX)! (11 Focus)
 >
 > *I had to pry this secret from the shadow colleges.*
 >
@@ -9987,9 +9989,9 @@ Choose one of the following abilities.
 >
 > *Nothing will stop you from reaching your foe.*
 >
-> | **Charge, Melee, Strike, Weapon** |     **Main action** |
-> | --------------------------------- | ------------------: |
-> | **📏 Melee 1**                    | **🎯 One creature** |
+> | **[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX), Melee, Strike, Weapon** |     **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ------------------: |
+> | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
 > **Effect:** You mark the target.
 >
@@ -9999,7 +10001,7 @@ Choose one of the following abilities.
 > - **12-16:** 16 + M damage
 > - **17+:** 21 + M damage
 >
-> **Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+> **Effect:** If you use this ability as part of the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX).
 
 <!-- -->
 > ###### That One Is Mine! (11 Focus)
@@ -10948,9 +10950,9 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > *You move fast enough to turn around and watch your foes feel the aftermath.*
 >
-> | **Area, Charge, Psionic, Telekinesis** |               **Main action** |
-> | -------------------------------------- | ----------------------------: |
-> | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
+> | **Area, [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX), Psionic, Telekinesis** |               **Main action** |
+> | -------------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+> | **📏 5 x 2 line within 1**                                                                                           | **🎯 Each enemy in the area** |
 >
 > **Effect:** You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to a square on the opposite side of the area before making the power roll.
 >
@@ -11552,7 +11554,7 @@ There is no visible text in the image provided. The image appears to show a deco
 | 4th   | Characteristic Increase, [Melodrama](REL_PATH_PREFIXRules/Troubadour/4th-Level%20Features/MelodramaREL_PATH_SUFFIX), Perk, Skill, Zeitgeist                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7        | 5                   |
 | 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7, 9     | 5                   |
 | 6th   | Perk, [Spotlight](REL_PATH_PREFIXRules/Abilities/Troubadour/6th-Level%20Features/SpotlightREL_PATH_SUFFIX), Class Act Ability                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, A Muse's Muse, [Equal Billing](REL_PATH_PREFIXRules/Troubadour/7th-Level%20Features/Equal%20BillingREL_PATH_SUFFIX), Skill                                                                                                                                                                                                                                                                        | Signature, 5, 7, 9        | 5, 9                |
+| 7th   | Characteristic Increase, [A Muse's Muse](REL_PATH_PREFIXRules/Troubadour/7th-Level%20Features/A%20Muses%20MuseREL_PATH_SUFFIX), [Equal Billing](REL_PATH_PREFIXRules/Troubadour/7th-Level%20Features/Equal%20BillingREL_PATH_SUFFIX), Skill                                                                                                                                                                                | Signature, 5, 7, 9        | 5, 9                |
 | 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 9th   | [Roar of the Crowd](REL_PATH_PREFIXRules/Troubadour/9th-Level%20Features/Roar%20of%20the%20CrowdREL_PATH_SUFFIX), Class Act Ability                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 10th  | Applause, Characteristic Increase, Dramaturgy, [Greatest of All Time](REL_PATH_PREFIXRules/Troubadour/10th-Level%20Features/Greatest%20of%20All%20TimeREL_PATH_SUFFIX), Perk, Skill                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
@@ -12776,9 +12778,9 @@ Choose one of the following abilities.
 >
 > *If you can land the strike, the crowd goes wild.*
 >
-> | **Charge, Melee, Strike, Weapon** |               **Main action** |
-> | --------------------------------- | ----------------------------: |
-> | **📏 Melee 3**                    | **🎯 One creature or object** |
+> | **[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX), Melee, Strike, Weapon** |               **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+> | **📏 Melee 3**                                                                                                  | **🎯 One creature or object** |
 >
 > **Power Roll + Agility:**
 >

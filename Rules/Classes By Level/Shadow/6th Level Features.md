@@ -66,7 +66,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. For each target in addition to you who [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+> **Effect:** Each target can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. For each target in addition to you who [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 

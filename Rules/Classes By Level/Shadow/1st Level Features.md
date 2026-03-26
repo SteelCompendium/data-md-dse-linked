@@ -56,7 +56,7 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 
 | College         | Feature                                                                                                                                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | Black Ash Teleport                                                                                                                                                                                         |
+| Black Ash       | [Black Ash Teleport](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20TeleportREL_PATH_SUFFIX)                                                                                     |
 | Caustic Alchemy | [Coat the Blade](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coat%20the%20BladeREL_PATH_SUFFIX), [Smoke Bomb](REL_PATH_PREFIXRules/Shadow/1st-Level%20Features/Smoke%20BombREL_PATH_SUFFIX) |
 | Harlequin Mask  | I'm No Threat                                                                                                                                                                                              |
 
@@ -73,7 +73,7 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if you are observed. If you successfully [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) using this maneuver, you gain 1 surge.
 >
 > **Spend 1+ Insight:** You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) 1 additional square for each insight spent.
 
@@ -115,7 +115,7 @@ You have the following ability.
 
 ##### Smoke Bomb
 
-You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 #### College Triggered Action
 
@@ -153,7 +153,7 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 >
 > **Trigger:** Another creature damages you.
 >
-> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.
+> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if you are observed.
 >
 > **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
