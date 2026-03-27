@@ -41,11 +41,11 @@ effects:
       Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
       ###### 5th-Level Tradition Features Table
-      | Tradition   | Features                                                                                                                                                                                             |
-      | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Chronopathy | [Distortion Temporal](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:distortion-temporal), [Speed of Thought](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:speed-of-thought) |
-      | Telekinesis | [Kinetic Amplifier](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:kinetic-amplifier), [Triangulate](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:triangulate)               |
-      | Telepathy   | [Compulsion](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:compulsion), [Remote Amplification](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:remote-amplification)           |
+      | Tradition   | Features                              |
+      | ----------- | ------------------------------------- |
+      | Chronopathy | Distortion Temporal, Speed of Thought |
+      | Telekinesis | Kinetic Amplifier, Triangulate        |
+      | Telepathy   | Compulsion, Remote Amplification      |
       ##### Compulsion
       Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX) feature. The NPC must answer the question truthfully to the best of their ability.
       ##### Distortion Temporal

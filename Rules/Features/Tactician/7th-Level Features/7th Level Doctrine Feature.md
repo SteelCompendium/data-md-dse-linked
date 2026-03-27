@@ -41,11 +41,11 @@ effects:
       Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
       ###### 7th-Level Doctrine Features Table
-      | Doctrine   | Feature                                                                                               |
-      | ---------- | ----------------------------------------------------------------------------------------------------- |
-      | Insurgent  | [Asymmetric Warfare](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:asymmetric-warfare) |
-      | Mastermind | [Grand Strategy](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:grand-strategy)         |
-      | Vanguard   | [Shock and Awe](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:shock-and-awe)           |
+      | Doctrine   | Feature            |
+      | ---------- | ------------------ |
+      | Insurgent  | Asymmetric Warfare |
+      | Mastermind | Grand Strategy     |
+      | Vanguard   | Shock and Awe      |
       ##### Asymmetric Warfare
       You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
       ##### Grand Strategy

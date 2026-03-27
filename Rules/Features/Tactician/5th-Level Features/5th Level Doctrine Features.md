@@ -41,11 +41,11 @@ effects:
       Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you two features, as shown on the 5th-Level Doctrine Features table.
 
       ###### 5th-Level Doctrine Features Table
-      | Doctrine   | Features                                                                                                                                                                                         |
-      | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-      | Insurgent  | Distracted, [Leave No Trace](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:leave-no-trace)                                                                                        |
-      | Mastermind | Anticipation, [I Predicted That](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:i-predicted-that)                                                                                  |
-      | Vanguard   | [Shake It Off](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:shake-it-off), [Tactical Offensive](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:tactical-offensive) |
+      | Doctrine   | Features                         |
+      | ---------- | -------------------------------- |
+      | Insurgent  | Distracted, Leave No Trace       |
+      | Mastermind | Anticipation, I Predicted That   |
+      | Vanguard   | Shake It Off, Tactical Offensive |
       ##### Anticipation
       You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your Mark ability.
       ##### Distracted

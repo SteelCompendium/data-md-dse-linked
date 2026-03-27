@@ -41,11 +41,11 @@ effects:
       Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 8th-Level Doctrine Features table.
 
       ###### 8th-Level Doctrine Features Table
-      | Doctrine   | Feature                                                                                                                               |
-      | ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-      | Insurgent  | [Bait and Ambush](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:bait-and-ambush)                                       |
-      | Mastermind | [Pincer Movement](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:pincer-movement)                                       |
-      | Vanguard   | [See Your Enemies Driven Before You](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:see-your-enemies-driven-before-you) |
+      | Doctrine   | Feature                            |
+      | ---------- | ---------------------------------- |
+      | Insurgent  | Bait and Ambush                    |
+      | Mastermind | Pincer Movement                    |
+      | Vanguard   | See Your Enemies Driven Before You |
       ##### Bait and Ambush
       You have trained your squad to be silent ambushers.
   - name: Mark Benefit

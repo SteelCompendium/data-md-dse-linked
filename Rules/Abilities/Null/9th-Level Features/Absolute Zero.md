@@ -69,8 +69,7 @@ effects:
   - name: Effect
     effect: Until the end of the encounter or until you are dead, you become an
       avatar of uttermost cold. You gain immunity to all damage equal to the
-      cold damage immunity granted by your [Entropic
-      Adaptability](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability)
-      trait, you ignore the negative effects of dying, and you have a +2 bonus
-      to potencies.
+      cold damage immunity granted by your Entropic Adaptability trait, you
+      ignore the negative effects of dying, and you have a +2 bonus to
+      potencies.
 ```

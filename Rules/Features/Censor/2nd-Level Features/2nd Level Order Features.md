@@ -41,11 +41,11 @@ effects:
       Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants you two features, as shown on the 2nd-Level Order Features table.
 
       ###### 2nd-Level Order Features Table
-      | Order    | Features                                                                                                                                                                                          |
-      | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Exorcist | [Saint's Vigilance](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:saints-vigilance), [A Sense for Truth](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:a-sense-for-truth) |
-      | Oracle   | [It Was Foretold](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:it-was-foretold), [Judge of Character](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:judge-of-character)  |
-      | Paragon  | [Lead by Example](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example), [Stalwart Icon](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:stalwart-icon)            |
+      | Order    | Features                             |
+      | -------- | ------------------------------------ |
+      | Exorcist | Saint's Vigilance, A Sense for Truth |
+      | Oracle   | It Was Foretold, Judge of Character  |
+      | Paragon  | Lead by Example, Stalwart Icon       |
       ##### It Was Foretold
       Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first turn. Additionally, whenever the Director calls for a montage test, you can make one free test before the montage begins, which counts as an earned success or failure as usual.
       ##### Judge of Character

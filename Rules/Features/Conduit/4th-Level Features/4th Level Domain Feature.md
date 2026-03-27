@@ -43,18 +43,18 @@ effects:
       ###### 4th-Level Conduit Domain Features Table
       | Domain     | Feature                                                                                                                   |
       | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-      | Creation   | [Improved Hands of the Maker](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-hands-of-the-maker)     |
-      | Death      | [Seance](scc:mcdm.heroes.v1:feature.trait.censor.4th-level-feature:seance)                                                |
-      | Fate       | [Oracular Warning](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:oracular-warning)                           |
-      | Knowledge  | [Saint's Epiphany](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:saints-epiphany)                            |
-      | Life       | [Blessing of Life](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:blessing-of-life)                           |
-      | Love       | [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart)             |
-      | Nature     | [Wode Road](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:wode-road)                                         |
-      | Protection | [Impervious Touch](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:impervious-touch)                           |
-      | Storm      | [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk)                                           |
-      | Sun        | [Light of Revelation](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:light-of-revelation)                     |
+      | Creation   | Improved Hands of the Maker                                                                                               |
+      | Death      | Seance                                                                                                                    |
+      | Fate       | Oracular Warning                                                                                                          |
+      | Knowledge  | Saint's Epiphany                                                                                                          |
+      | Life       | Blessing of Life                                                                                                          |
+      | Love       | Invocation of the Heart                                                                                                   |
+      | Nature     | Wode Road                                                                                                                 |
+      | Protection | Impervious Touch                                                                                                          |
+      | Storm      | Windwalk                                                                                                                  |
+      | Sun        | Light of Revelation                                                                                                       |
       | Trickery   | [Blessing of Secrets](REL_PATH_PREFIXRules/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20SecretsREL_PATH_SUFFIX) |
-      | War        | [Improved Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-sanctified-weapon)       |
+      | War        | Improved Sanctified Weapon                                                                                                |
       ###### Blessing of Life
       Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
       ###### Blessing of Secrets
@@ -83,7 +83,7 @@ effects:
       ###### Improved Hands of the Maker
       When you use your [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20MakerREL_PATH_SUFFIX) ability, you can create a mundane object that is size 2 or smaller.
       ###### Improved Sanctified Weapon
-      The weapon improved by your [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon) feature grants a +3 bonus to rolled damage instead of +1.
+      The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
       ###### Invocation of the Heart
       As a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any distance, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any test they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).
       ###### Light of Revelation

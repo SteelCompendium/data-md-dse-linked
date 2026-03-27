@@ -41,11 +41,11 @@ effects:
       Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you two features, as shown on the 1st-Level Aspect Features table.
 
       ###### 1st-Level Aspect Features Table
-      | Aspect     | Feature                                                                                                                                                                            |
-      | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Berserker  | Kit, [Primordial Strength](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-strength)                                                                            |
-      | Reaver     | Kit, [Primordial Cunning](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-cunning)                                                                              |
-      | Stormwight | [Beast Shape](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:beast-shape), [Relentless Hunter](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:relentless-hunter) |
+      | Aspect     | Feature                        |
+      | ---------- | ------------------------------ |
+      | Berserker  | Kit, Primordial Strength       |
+      | Reaver     | Kit, Primordial Cunning        |
+      | Stormwight | Beast Shape, Relentless Hunter |
       ##### Beast Shape
       You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) feature.
       ##### Kit

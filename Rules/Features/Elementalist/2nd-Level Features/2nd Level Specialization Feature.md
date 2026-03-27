@@ -43,8 +43,8 @@ effects:
       ###### 2nd-Level Elemental Specialization Features Table
       | Specialization | Feature                                                                                                                                        |
       | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Earth          | [Disciple of Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-earth)                                         |
-      | Fire           | [Disciple of Fire](scc:mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-fire)                                           |
+      | Earth          | Disciple of Earth                                                                                                                              |
+      | Fire           | Disciple of Fire                                                                                                                               |
       | Green          | Disciple of the Green                                                                                                                          |
       | Void           | [There Is No Space Between](REL_PATH_PREFIXRules/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20BetweenREL_PATH_SUFFIX) |
       ##### Disciple of Earth

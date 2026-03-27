@@ -41,13 +41,13 @@ effects:
       Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
       ###### 8th-Level Aspect Features Table
-      | Aspect     | Feature                                                                                          |
-      | ---------- | ------------------------------------------------------------------------------------------------ |
-      | Berserker  | [Strongest There Is](scc:mcdm.heroes.v1:feature.trait.fury.8th-level-feature:strongest-there-is) |
-      | Reaver     | [A Step Ahead](scc:mcdm.heroes.v1:feature.trait.fury.8th-level-feature:a-step-ahead)             |
-      | Stormwight | Menagerie                                                                                        |
+      | Aspect     | Feature            |
+      | ---------- | ------------------ |
+      | Berserker  | Strongest There Is |
+      | Reaver     | A Step Ahead       |
+      | Stormwight | Menagerie          |
       ##### Menagerie
-      You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:natures-knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+      You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
       ##### A Step Ahead
       You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action, the distance you can shift gains a bonus equal to your Agility score.
       ##### Strongest There Is

@@ -41,12 +41,12 @@ effects:
       Your elemental specialization grants you a feature, as shown on the 5th-Level Elemental Specialization Features table.
 
       ###### 5th-Level Elemental Specialization Features Table
-      | Specialization | Feature                                                                                                                      |
-      | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-      | Earth          | [The Mountain Does Not Move](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:the-mountain-does-not-move)     |
-      | Fire           | [Smoldering Step](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:smoldering-step)                           |
-      | Green          | [Hide of Tenfold Shields](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:hide-of-tenfold-shields)           |
-      | Void           | [Pierce the Veil of Substance](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:pierce-the-veil-of-substance) |
+      | Specialization | Feature                      |
+      | -------------- | ---------------------------- |
+      | Earth          | The Mountain Does Not Move   |
+      | Fire           | Smoldering Step              |
+      | Green          | Hide of Tenfold Shields      |
+      | Void           | Pierce the Veil of Substance |
       ##### Hide of Tenfold Shields
       Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) in combat, which is added to any temporary Stamina provided by the [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX).
       Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.

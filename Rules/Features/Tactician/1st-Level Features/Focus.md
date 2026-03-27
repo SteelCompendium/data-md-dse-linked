@@ -37,16 +37,38 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/tactician/1st-level-feature
 effects:
-  - effect: |-
-      The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
+  - effect: >-
+      The ring of steel panics others but brings order to your mind, granting
+      you a Heroic Resource called focus.
+
 
       ##### Focus in Combat
-      At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your Victories. At the start of each of your turns during combat, you gain 2 focus.
-      Additionally, the first time each combat round that you or any ally damages a creature marked by you (see Mark below), you gain 1 focus. The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 focus.
+
+      At the start of a combat encounter or some other stressful situation
+      tracked in combat rounds (as determined by the Director), you gain focus
+      equal to your Victories. At the start of each of your turns during combat,
+      you gain 2 focus.
+
+      Additionally, the first time each combat round that you or any ally
+      damages a creature marked by you (see Mark below), you gain 1 focus. The
+      first time in a combat round that any ally within 10 squares of you uses a
+      heroic ability, you gain 1 focus.
+
       You lose any remaining focus at the end of the encounter.
+
       ##### Focus Outside of Combat
-      Though you can't gain [focus outside of combat](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:focus-outside-of-combat), you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
-      When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), but they might appear in future products.)
+
+      Though you can't gain focus outside of combat, you can use your heroic
+      abilities and effects that cost focus without spending it. Whenever you
+      use an ability or effect outside of combat that costs focus, you can't use
+      that same ability or effect outside of combat again until you earn 1 or
+      more Victories or finish a respite.
+
+      When you use an ability outside of combat that lets you spend unlimited
+      focus on its effect, you can use it as if you had spent an amount of focus
+      equal to your Victories. (Such abilities aren't part of the core rules for
+      the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX),
+      but they might appear in future products.)
     features:
       - type: feature
         feature_type: trait

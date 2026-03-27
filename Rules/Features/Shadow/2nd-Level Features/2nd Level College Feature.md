@@ -41,11 +41,11 @@ effects:
       Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants you a feature, as shown on the 2nd-Level College Features table.
 
       ###### 2nd-Level College Features Table
-      | College         | Feature                                                                                        |
-      | --------------- | ---------------------------------------------------------------------------------------------- |
-      | Black Ash       | [Burning Ash](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:burning-ash)           |
-      | Caustic Alchemy | [Trained Assassin](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:trained-assassin) |
-      | Harlequin Mask  | Friend!                                                                                        |
+      | College         | Feature          |
+      | --------------- | ---------------- |
+      | Black Ash       | Burning Ash      |
+      | Caustic Alchemy | Trained Assassin |
+      | Harlequin Mask  | Friend!          |
       ##### Burning Ash
       The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
       ##### Friend!

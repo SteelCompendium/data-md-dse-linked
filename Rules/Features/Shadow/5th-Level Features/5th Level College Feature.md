@@ -41,11 +41,11 @@ effects:
       Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants you a feature, as shown on the 5th-Level College Features table.
 
       ###### 5th-Level College Features Table
-      | College         | Feature                                                                                          |
-      | --------------- | ------------------------------------------------------------------------------------------------ |
-      | Black Ash       | [Trail of Cinders](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders)   |
-      | Caustic Alchemy | [Volatile Reagents](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:volatile-reagents) |
-      | Harlequin Mask  | [Harlequin Gambit](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit)   |
+      | College         | Feature           |
+      | --------------- | ----------------- |
+      | Black Ash       | Trail of Cinders  |
+      | Caustic Alchemy | Volatile Reagents |
+      | Harlequin Mask  | Harlequin Gambit  |
       ##### Harlequin Gambit
       Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
       If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending insight. If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.

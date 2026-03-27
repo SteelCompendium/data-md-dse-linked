@@ -41,11 +41,11 @@ effects:
       Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
       ###### 1st-Level Doctrine Features Table
-      | Doctrine   | Feature                                                                                                 |
-      | ---------- | ------------------------------------------------------------------------------------------------------- |
-      | Insurgent  | [Covert Operations](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:covert-operations)     |
-      | Mastermind | [Studied Commander](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:studied-commander)     |
-      | Vanguard   | [Commanding Presence](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:commanding-presence) |
+      | Doctrine   | Feature             |
+      | ---------- | ------------------- |
+      | Insurgent  | Covert Operations   |
+      | Mastermind | Studied Commander   |
+      | Vanguard   | Commanding Presence |
       ##### Commanding Presence
       You command any room you walk into. While you are present during a negotiation, each hero with you treats their Renown as 2 higher than usual. Additionally, each hero with you during a combat encounter has a double edge on tests made to stop combat and start a negotiation.
       ##### Covert Operations

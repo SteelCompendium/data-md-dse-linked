@@ -41,11 +41,11 @@ effects:
       Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
       ###### 2nd-Level Doctrine Features Table
-      | Doctrine   | Feature                                                                                                   |
-      | ---------- | --------------------------------------------------------------------------------------------------------- |
-      | Insurgent  | [Infiltration Tactics](scc:mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:infiltration-tactics) |
-      | Mastermind | Goaded                                                                                                    |
-      | Vanguard   | [Melee Superiority](scc:mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:melee-superiority)       |
+      | Doctrine   | Feature              |
+      | ---------- | -------------------- |
+      | Insurgent  | Infiltration Tactics |
+      | Mastermind | Goaded               |
+      | Vanguard   | Melee Superiority    |
       ##### Goaded
       You have learned to leverage your marked foes' psychology and goad them into acting before they're tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the strike to you or another ally within your line of effect. The new target must be within distance of the ability and within line of effect of the creature using it.
       ##### Infiltration Tactics

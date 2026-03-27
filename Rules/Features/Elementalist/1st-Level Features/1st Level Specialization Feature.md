@@ -45,8 +45,8 @@ effects:
       | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
       | Earth          | [Motivate Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Motivate%20EarthREL_PATH_SUFFIX)                   |
       | Fire           | [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX) |
-      | Green          | [It Is the Soul Which Hears](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:it-is-the-soul-which-hears)             |
-      | Void           | [A Beyonding of Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision)                       |
+      | Green          | It Is the Soul Which Hears                                                                                                           |
+      | Void           | A Beyonding of Vision                                                                                                                |
       ##### A Beyonding of Vision
       You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
       You also gain the following ability.
@@ -65,10 +65,9 @@ effects:
         effects:
           - name: Effect
             effect: For each Victory you have, you can target one creature. Each target
-              gains the benefit of your [A Beyonding of
-              Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision)
-              feature until the end of your next turn, but doesn't gain the use
-              of the [Shared Void
+              gains the benefit of your A Beyonding of Vision feature until the
+              end of your next turn, but doesn't gain the use of the [Shared
+              Void
               Sense](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20SenseREL_PATH_SUFFIX)
               ability.
   - effect: >-

@@ -37,22 +37,44 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/elementalist/4th-level-feature
 effects:
-  - effect: |-
-      While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the Mantle of Essence Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+  - effect: >-
+      While you have 3 or more essence and are not dying, you exude an aura of
+      magic whose distance is equal to your Reason score. The effects within the
+      area of the aura are based on your specialization, as shown on the Mantle
+      of Essence Specialization Effects table. You can activate and deactivate
+      the aura at will (no action required).
+
 
       ###### Mantle of Essence Specialization Effects Table
-      | Specialization | Feature                                                                                            |
-      | -------------- | -------------------------------------------------------------------------------------------------- |
-      | Earth          | [Quaking Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:quaking-earth)     |
-      | Fire           | [Burning Grounds](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:burning-grounds) |
-      | Green          | [Flowering Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:flowering-bed)     |
-      | Void           | [Veiling Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:veiling-bed)         |
+
+      | Specialization | Feature         |
+
+      | -------------- | --------------- |
+
+      | Earth          | Quaking Earth   |
+
+      | Fire           | Burning Grounds |
+
+      | Green          | Flowering Bed   |
+
+      | Void           | Veiling Bed     |
+
       ##### Burning Grounds
-      At the end of each of your turns, each enemy in the area takes fire damage equal to your Reason score.
+
+      At the end of each of your turns, each enemy in the area takes fire damage
+      equal to your Reason score.
+
       ##### Flowering Bed
-      At the end of each of your turns, each ally in the area gains temporary Stamina equal to your Reason score.
+
+      At the end of each of your turns, each ally in the area gains temporary
+      Stamina equal to your Reason score.
+
       ##### Quaking Earth
-      At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your Reason score.
+
+      At the end of each of your turns, you can push each enemy in the area up
+      to a number of squares equal to your Reason score.
+
       ##### Veiling Bed
+
       The area provides concealment for you and your allies.
 ```
