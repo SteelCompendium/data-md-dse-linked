@@ -40,7 +40,7 @@ effects:
   - effect: |-
       - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-      You choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
+      You choose an [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) from the following options: earth, fire, green, or void. Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) will be featured in future products.) (*Quick Build:* Fire.)
       ##### Earth: Acolyte of Earth
       You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) increases by 1 until the start of your next turn. This benefit is cumulative.
       ##### Fire: Acolyte of Fire

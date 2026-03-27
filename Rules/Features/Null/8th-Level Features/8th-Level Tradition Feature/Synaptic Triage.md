@@ -38,7 +38,6 @@ metadata:
   type: feature/subtrait/null/8th-level-feature
 effects:
   - effect: As a free maneuver, you can spend 1d6 Stamina to remove one effect on
-      you. Each creature of your choice in the area of your
-      [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability
+      you. Each creature of your choice in the area of your Null Field ability
       also gains this benefit.
 ```

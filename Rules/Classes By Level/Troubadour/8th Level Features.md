@@ -26,11 +26,11 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 
 ###### 8th-Level Class Act Features Table
 
-| Class Act | Feature         |
-| --------- | --------------- |
-| Auteur    | Deleted Scene   |
-| Duelist   | Masterwork      |
-| Virtuoso  | Crowd Favorites |
+| Class Act | Feature                                                                                                                                    |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | [Deleted Scene](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Deleted%20SceneREL_PATH_SUFFIX)     |
+| Duelist   | [Masterwork](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/MasterworkREL_PATH_SUFFIX)             |
+| Virtuoso  | [Crowd Favorites](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Crowd%20FavoritesREL_PATH_SUFFIX) |
 
 ##### Crowd Favorites
 

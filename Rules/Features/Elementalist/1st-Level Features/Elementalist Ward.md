@@ -37,37 +37,15 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/elementalist/1st-level-feature
 effects:
-  - effect: >-
-      You create an invisible elemental ward that protects you. Choose one of
-      the following wards. You can change your ward and enchantment (see above)
-      by performing a complex ritual as a respite activity. (*Quick Build:* Ward
-      of Surprising Reactivity.)
-
+  - effect: |-
+      You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20ReactivityREL_PATH_SUFFIX).)
 
       ##### Ward of Delightful Consequences
-
-      A protective field of void magic absorbs violence aimed at you, then lets
-      you hurl it back at your enemies. The first time each round that you take
-      damage, you gain 1 surge.
-
+      A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 surge.
       ##### Ward of Excellent Protection
-
-      You weave a shield of all the elements around yourself, channeling their
-      full protective power. You have immunity to acid, cold, corruption, fire,
-      lightning, poison, or sonic damage equal to your Reason score.
-
+      You weave a shield of all the elements around yourself, channeling their full protective power. You have immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your Reason score.
       ##### Ward of Nature's Affection
-
-      The green energy writhing within your body allows you to produce powerful
-      vines when you're in danger. Whenever a creature within a number of
-      squares equal to your Reason score deals damage to you, you can use a free
-      triggered action to slide that creature up to a number of squares equal to
-      your Reason score.
-
+      The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your Reason score deals damage to you, you can use a free triggered action to slide that creature up to a number of squares equal to your Reason score.
       ##### Ward of Surprising Reactivity
-
-      You use the magic of fire to create a ward of explosive energy. Whenever
-      an adjacent creature deals damage to you, you can use a free triggered
-      action to push that creature up to a number of squares equal to twice your
-      Reason score.
+      You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push that creature up to a number of squares equal to twice your Reason score.
 ```

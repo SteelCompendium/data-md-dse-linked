@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/tactician/1st-level-feature
 effects:
   - effect: |-
-      Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a triggered action, as shown on the Doctrine Triggered Actions table.
+      Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Doctrine Triggered Actions](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Doctrine%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
       ###### Doctrine Triggered Actions Table
       | Doctrine   | Triggered Action                                                                                                    |

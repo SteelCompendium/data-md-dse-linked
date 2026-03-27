@@ -41,15 +41,15 @@ effects:
       Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
       ###### 5th-Level Aspect Features Table
-      | Aspect     | Feature    |
-      | ---------- | ---------- |
-      | Berserker  | Bounder    |
-      | Reaver     | Unfettered |
-      | Stormwight | Stormborn  |
+      | Aspect     | Feature                                                                                                           |
+      | ---------- | ----------------------------------------------------------------------------------------------------------------- |
+      | Berserker  | [Bounder](REL_PATH_PREFIXRules/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/BounderREL_PATH_SUFFIX)     |
+      | Reaver     | Unfettered                                                                                                        |
+      | Stormwight | [Stormborn](REL_PATH_PREFIXRules/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/StormbornREL_PATH_SUFFIX) |
       ##### Bounder
       Your [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) distance for the purpose of determining damage and whether you land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) (see Falling in Chapter 10). You are not [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) after falling and landing on another creature.
       ##### Stormborn
-      You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) (see 1st-Level Domain Feature in the [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) section).
+      You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) feature as if you were a 1st-level [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) (see 1st-Level Domain Feature in the [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) section).
       ##### Unfettered
       At the start of your turn, you can end any [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
 ```

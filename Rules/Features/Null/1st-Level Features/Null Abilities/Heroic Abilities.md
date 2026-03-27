@@ -85,12 +85,10 @@ effects:
         effects:
           - name: Effect
             effect: Each target takes psychic damage equal to twice your Intuition score.
-              Until the start of your next turn, the size of your
-              [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field
+              Until the start of your next turn, the size of your Null Field
               ability increases by 1. At the end of your current turn, each
-              enemy in the area of your
-              [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field
-              ability takes psychic damage equal to your Intuition score.
+              enemy in the area of your Null Field ability takes psychic damage
+              equal to your Intuition score.
       - type: feature
         feature_type: ability
         name: Relentless Nemesis

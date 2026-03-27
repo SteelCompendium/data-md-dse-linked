@@ -37,47 +37,20 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/null/2nd-level-feature
 effects:
-  - effect: >-
-      Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition
-      grants you a feature, as shown on the 2nd-Level Tradition Features table.
-
+  - effect: |-
+      Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
       ###### 2nd-Level Tradition Features Table
-
-      | Tradition     | Feature               |
-
-      | ------------- | --------------------- |
-
-      | Chronokinetic | Rapid Processing      |
-
-      | Cryokinetic   | Entropic Adaptability |
-
-      | Metakinetic   | Inertial Sink         |
-
+      | Tradition     | Feature                                                                                                                                        |
+      | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Chronokinetic | [Rapid Processing](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20ProcessingREL_PATH_SUFFIX)           |
+      | Cryokinetic   | [Entropic Adaptability](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20AdaptabilityREL_PATH_SUFFIX) |
+      | Metakinetic   | [Inertial Sink](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20SinkREL_PATH_SUFFIX)                 |
       ##### Entropic Adaptability
-
-      You have cold immunity equal to twice your Intuition score. Additionally,
-      you ignore difficult terrain related to cold and ice, and you can
-      automatically
-      [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at
-      full speed while moving.
-
+      You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving.
       ##### Inertial Sink
-
-      You add your Intuition score to your effective size for the purpose of
-      interacting with creatures and objects, such as for determining whether
-      you can lift an object, whether you are affected by forced movement, and
-      so forth. This has no effect on whether you can be
-      [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
-
-      Additionally, when you fall, you reduce the effective height of the fall
-      by 5 squares in addition to any other reductions. Whenever you take damage
-      from being force moved, you reduce that damage by an amount equal to your
-      level.
-
+      You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
+      Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.
       ##### Rapid Processing
-
-      As a maneuver, you can read an entire book or process a similar amount of
-      information. Additionally, during any respite, you can take an additional
-      respite activity.
+      As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.
 ```

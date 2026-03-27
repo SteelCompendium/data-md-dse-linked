@@ -73,7 +73,7 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
-If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX)'s Prayer of Soldier's Skill.
+If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX)'s [Prayer of Soldier's Skill](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20Soldiers%20SkillREL_PATH_SUFFIX).
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
@@ -1157,7 +1157,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) to wear this ring. While you do so, the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1.
+**Effect:** You must be a null to wear this ring. While you do so, the area of your Null Field ability increases by 1.
 
 Additionally, you have the following ability.
 
@@ -2611,7 +2611,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college features [Coat the Blade](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coat%20the%20BladeREL_PATH_SUFFIX) or Smoke Bomb (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college features [Coat the Blade](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coat%20the%20BladeREL_PATH_SUFFIX) or [Smoke Bomb](REL_PATH_PREFIXRules/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20BombREL_PATH_SUFFIX) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ##### Boffin Properties
@@ -2745,7 +2745,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20ActionREL_PATH_SUFFIX) from the [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
 - *[Devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->

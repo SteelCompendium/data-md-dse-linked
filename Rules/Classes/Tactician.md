@@ -47,18 +47,18 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 ###### Tactician Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Abilities      | Doctrine Abilities |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
-| 1st   | [Tactical Doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX), Focus, Doctrine Feature, Doctrine Triggered Action, [Field Arsenal](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Field%20ArsenalREL_PATH_SUFFIX), Mark, [Strike Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/Strike%20NowREL_PATH_SUFFIX), [Tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) Abilities | 3, 5           | -                  |
-| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                          | 3, 5           | 5                  |
-| 3rd   | [Out of Position](REL_PATH_PREFIXRules/Tactician/3rd-Level%20Features/Out%20of%20PositionREL_PATH_SUFFIX), 7-Focus Ability                                                                                                                                                                                                                                                                                                                                        | 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Focus on Their Weakness, [Improved Field Arsenal](REL_PATH_PREFIXRules/Tactician/4th-Level%20Features/Improved%20Field%20ArsenalREL_PATH_SUFFIX), Perk, Skill                                                                                                                                                                                                                                                                            | 3, 5, 7        | 5                  |
-| 5th   | Doctrine Feature, 9-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                 | 3, 5, 7, 9     | 5                  |
-| 6th   | [Master of Arms](REL_PATH_PREFIXRules/Tactician/6th-Level%20Features/Master%20of%20ArmsREL_PATH_SUFFIX), Perk, Doctrine Ability                                                                                                                                                                                                                                                                                                                                   | 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, [Heightened Focus](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/Heightened%20FocusREL_PATH_SUFFIX), [Seize the Initiative](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/Seize%20the%20InitiativeREL_PATH_SUFFIX), Skill, Doctrine Feature                                                                                                                                                                                  | 3, 5, 7, 9     | 5, 9               |
-| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                          | 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | [Grandmaster of Arms](REL_PATH_PREFIXRules/Tactician/9th-Level%20Features/Grandmaster%20of%20ArmsREL_PATH_SUFFIX), Doctrine Ability                                                                                                                                                                                                                                                                                                                               | 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Command, Perk, Skill, [True Focus](REL_PATH_PREFIXRules/Tactician/10th-Level%20Features/True%20FocusREL_PATH_SUFFIX), Warmaster                                                                                                                                                                                                                                                                                                          | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Abilities      | Doctrine Abilities |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
+| 1st   | [Tactical Doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX), Focus, Doctrine Feature, [Doctrine Triggered Action](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Doctrine%20Triggered%20ActionREL_PATH_SUFFIX), [Field Arsenal](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Field%20ArsenalREL_PATH_SUFFIX), Mark, [Strike Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/Strike%20NowREL_PATH_SUFFIX), [Tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) Abilities | 3, 5           | -                  |
+| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 3, 5           | 5                  |
+| 3rd   | [Out of Position](REL_PATH_PREFIXRules/Tactician/3rd-Level%20Features/Out%20of%20PositionREL_PATH_SUFFIX), 7-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                            | 3, 5, 7        | 5                  |
+| 4th   | Characteristic Increase, Focus on Their Weakness, [Improved Field Arsenal](REL_PATH_PREFIXRules/Tactician/4th-Level%20Features/Improved%20Field%20ArsenalREL_PATH_SUFFIX), Perk, Skill                                                                                                                                                                                                                                                                                                                                                                                | 3, 5, 7        | 5                  |
+| 5th   | Doctrine Feature, 9-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 3, 5, 7, 9     | 5                  |
+| 6th   | [Master of Arms](REL_PATH_PREFIXRules/Tactician/6th-Level%20Features/Master%20of%20ArmsREL_PATH_SUFFIX), Perk, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                       | 3, 5, 7, 9     | 5, 9               |
+| 7th   | Characteristic Increase, [Heightened Focus](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/Heightened%20FocusREL_PATH_SUFFIX), [Seize the Initiative](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/Seize%20the%20InitiativeREL_PATH_SUFFIX), Skill, Doctrine Feature                                                                                                                                                                                                                                                                                      | 3, 5, 7, 9     | 5, 9               |
+| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 3, 5, 7, 9, 11 | 5, 9               |
+| 9th   | [Grandmaster of Arms](REL_PATH_PREFIXRules/Tactician/9th-Level%20Features/Grandmaster%20of%20ArmsREL_PATH_SUFFIX), Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                   | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | Characteristic Increase, Command, Perk, Skill, [True Focus](REL_PATH_PREFIXRules/Tactician/10th-Level%20Features/True%20FocusREL_PATH_SUFFIX), Warmaster                                                                                                                                                                                                                                                                                                                                                                                                              | 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ### 1st-Level Features
 
@@ -103,11 +103,11 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 
 ###### 1st-Level Doctrine Features Table
 
-| Doctrine   | Feature             |
-| ---------- | ------------------- |
-| Insurgent  | Covert Operations   |
-| Mastermind | Studied Commander   |
-| Vanguard   | Commanding Presence |
+| Doctrine   | Feature                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Covert Operations](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20OperationsREL_PATH_SUFFIX)     |
+| Mastermind | [Studied Commander](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20CommanderREL_PATH_SUFFIX)     |
+| Vanguard   | [Commanding Presence](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20PresenceREL_PATH_SUFFIX) |
 
 ##### Commanding Presence
 
@@ -139,7 +139,7 @@ You can make this test only once for any encounter or negotiation.
 
 #### Doctrine Triggered Action
 
-Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a triggered action, as shown on the Doctrine Triggered Actions table.
+Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Doctrine Triggered Actions](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Doctrine%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
 ###### Doctrine Triggered Actions Table
 
@@ -211,7 +211,7 @@ For example, if you take the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%2
 - [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit to deal 3/6/13 damage.
+[Kit signature abilities](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactician%20Abilities/Kit%20Signature%20AbilityREL_PATH_SUFFIX) have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit to deal 3/6/13 damage.
 
 #### Mark
 
@@ -404,11 +404,11 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 
 ###### 2nd-Level Doctrine Features Table
 
-| Doctrine   | Feature              |
-| ---------- | -------------------- |
-| Insurgent  | Infiltration Tactics |
-| Mastermind | Goaded               |
-| Vanguard   | Melee Superiority    |
+| Doctrine   | Feature                                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Insurgent  | [Infiltration Tactics](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20TacticsREL_PATH_SUFFIX) |
+| Mastermind | [Goaded](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/GoadedREL_PATH_SUFFIX)                               |
+| Vanguard   | [Melee Superiority](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20SuperiorityREL_PATH_SUFFIX)       |
 
 ##### Goaded
 
@@ -620,11 +620,11 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 
 ###### 5th-Level Doctrine Features Table
 
-| Doctrine   | Features                         |
-| ---------- | -------------------------------- |
-| Insurgent  | Distracted, Leave No Trace       |
-| Mastermind | Anticipation, I Predicted That   |
-| Vanguard   | Shake It Off, Tactical Offensive |
+| Doctrine   | Features                                                                                                                                                                                                                                                                           |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | Distracted, [Leave No Trace](REL_PATH_PREFIXRules/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20TraceREL_PATH_SUFFIX)                                                                                                                                |
+| Mastermind | Anticipation, [I Predicted That](REL_PATH_PREFIXRules/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20ThatREL_PATH_SUFFIX)                                                                                                                          |
+| Vanguard   | [Shake It Off](REL_PATH_PREFIXRules/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Shake%20It%20OffREL_PATH_SUFFIX), [Tactical Offensive](REL_PATH_PREFIXRules/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Tactical%20OffensiveREL_PATH_SUFFIX) |
 
 ##### Anticipation
 
@@ -848,11 +848,11 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 
 ###### 7th-Level Doctrine Features Table
 
-| Doctrine   | Feature            |
-| ---------- | ------------------ |
-| Insurgent  | Asymmetric Warfare |
-| Mastermind | Grand Strategy     |
-| Vanguard   | Shock and Awe      |
+| Doctrine   | Feature                                                                                                                                      |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Asymmetric Warfare](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20WarfareREL_PATH_SUFFIX) |
+| Mastermind | [Grand Strategy](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20StrategyREL_PATH_SUFFIX)         |
+| Vanguard   | [Shock and Awe](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20AweREL_PATH_SUFFIX)         |
 
 ##### Asymmetric Warfare
 
@@ -880,11 +880,11 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 
 ###### 8th-Level Doctrine Features Table
 
-| Doctrine   | Feature                            |
-| ---------- | ---------------------------------- |
-| Insurgent  | Bait and Ambush                    |
-| Mastermind | Pincer Movement                    |
-| Vanguard   | See Your Enemies Driven Before You |
+| Doctrine   | Feature                                                                                                                                                                              |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Insurgent  | [Bait and Ambush](REL_PATH_PREFIXRules/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Bait%20and%20AmbushREL_PATH_SUFFIX)                                             |
+| Mastermind | [Pincer Movement](REL_PATH_PREFIXRules/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Pincer%20MovementREL_PATH_SUFFIX)                                               |
+| Vanguard   | [See Your Enemies Driven Before You](REL_PATH_PREFIXRules/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/See%20Your%20Enemies%20Driven%20Before%20YouREL_PATH_SUFFIX) |
 
 ##### Bait and Ambush
 

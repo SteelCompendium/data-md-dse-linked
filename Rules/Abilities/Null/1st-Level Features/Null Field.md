@@ -61,9 +61,8 @@ effects:
       Each target reduces their potencies by 1.
 
       Once as a free maneuver on each of your turns, you can spend 1 discipline
-      and give your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX)
-      Field one of the following additional effects until the start of your next
-      turn:
+      and give your Null Field one of the following additional effects until the
+      start of your next turn:
 
       - Gravitic Disruption: The first time on a turn that a target takes
       damage, you can slide them up to 2 squares.

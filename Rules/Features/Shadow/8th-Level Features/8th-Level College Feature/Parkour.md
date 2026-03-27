@@ -38,6 +38,8 @@ metadata:
   type: feature/subtrait/shadow/8th-level-feature
 effects:
   - effect: Your movement no longer provokes opportunity attacks. Additionally, you
-      can use your Harlequin Gambit feature as a free triggered action when a
-      creature is reduced to 0 Stamina by your Clever Trick ability.
+      can use your [Harlequin
+      Gambit](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20GambitREL_PATH_SUFFIX)
+      feature as a free triggered action when a creature is reduced to 0 Stamina
+      by your Clever Trick ability.
 ```

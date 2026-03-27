@@ -37,54 +37,28 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/conduit/7th-level-feature
 effects:
-  - effect: >-
-      Choose one of your domains. You gain a domain feature for that domain, as
-      shown on the 7th-Level
-      [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Domain
-      Features table.
-
+  - effect: |-
+      Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Domain Features table.
 
       ###### 7th-Level Conduit Domain Features Table
-
-      | Domain     | Feature                      |
-
-      | ---------- | ---------------------------- |
-
-      | Creation   | Divine Quartermaster         |
-
-      | Death      | Word of Death Deferred       |
-
-      | Fate       | Word of Fate Denied          |
-
-      | Knowledge  | Gods' Library                |
-
-      | Life       | Font of Grace                |
-
-      | Love       | Covenant of the Heart        |
-
-      | Nature     | Nature's Bounty              |
-
-      | Protection | Blessing of Iron             |
-
-      | Storm      | Thunderstruck                |
-
-      | Sun        | Light of the Burning Sun     |
-
-      | Trickery   | Trinity of Trickery          |
-
-      | War        | Your Triumphs Are Remembered |
-
+      | Domain     | Feature                                                                                                                                                         |
+      | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
+      | Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
+      | Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
+      | Knowledge  | Gods' Library                                                                                                                                                   |
+      | Life       | [Font of Grace](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
+      | Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
+      | Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
+      | Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
+      | Storm      | [Thunderstruck](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/ThunderstruckREL_PATH_SUFFIX)                                    |
+      | Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
+      | Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
+      | War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
       ##### Blessing of Iron
-
-      The gods send divine favor to you and your allies. While you are not
-      dying, enemies take a bane on strikes against you or any ally within 3
-      squares of you.
-
+      The gods send divine favor to you and your allies. While you are not dying, enemies take a bane on strikes against you or any ally within 3 squares of you.
       ##### Covenant of the Heart
-
-      You can maintain bonds with up to three willing creatures using your
-      Invocation of the Heart feature. Additionally, you have the following
-      ability.
+      You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX) feature. Additionally, you have the following ability.
     features:
       - type: feature
         feature_type: ability

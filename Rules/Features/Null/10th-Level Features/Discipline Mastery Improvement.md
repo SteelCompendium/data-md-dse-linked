@@ -37,6 +37,7 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/null/10th-level-feature
 effects:
-  - effect: Your Discipline Mastery feature provides additional benefits when you
-      have 12 or more discipline.
+  - effect: Your [Discipline
+      Mastery](REL_PATH_PREFIXRules/Null/1st-Level%20Features/Discipline%20MasteryREL_PATH_SUFFIX)
+      feature provides additional benefits when you have 12 or more discipline.
 ```

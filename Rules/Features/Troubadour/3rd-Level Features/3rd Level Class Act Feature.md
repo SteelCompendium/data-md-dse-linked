@@ -41,11 +41,11 @@ effects:
       Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
       ###### 3rd-Level Class Act Features Table
-      | Class Act | Features     |
-      | --------- | ------------ |
-      | Auteur    | Missed Cue   |
-      | Duelist   | Foil         |
-      | Virtuoso  | Second Album |
+      | Class Act | Features                                                                                                                             |
+      | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+      | Auteur    | [Missed Cue](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20CueREL_PATH_SUFFIX)     |
+      | Duelist   | Foil                                                                                                                                 |
+      | Virtuoso  | [Second Album](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20AlbumREL_PATH_SUFFIX) |
       ##### Foil
       At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
       ##### Missed Cue

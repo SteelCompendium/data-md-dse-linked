@@ -37,8 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/shadow/1st-level-feature
 effects:
-  - effect: You always carry a supply of smoke bombs to use for distractions and
-      easy getaways. You can use the
+  - effect: You always carry a supply of [smoke
+      bombs](REL_PATH_PREFIXRules/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20BombREL_PATH_SUFFIX)
+      to use for distractions and easy getaways. You can use the
       [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX)
       maneuver even if you are observed and don't initially have cover or
       concealment. When you do so, you can shift a number of squares equal to

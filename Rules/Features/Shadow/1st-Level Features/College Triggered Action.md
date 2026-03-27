@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/shadow/1st-level-feature
 effects:
   - effect: |-
-      Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants you a triggered action, as shown on the College Triggered Actions table.
+      Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants you a triggered action, as shown on the [College Triggered Actions](REL_PATH_PREFIXRules/Shadow/1st-Level%20Features/College%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
       ###### College Triggered Actions Table
       | College         | Triggered Action                                                                                                               |

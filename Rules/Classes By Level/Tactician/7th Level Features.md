@@ -38,11 +38,11 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 
 ###### 7th-Level Doctrine Features Table
 
-| Doctrine   | Feature            |
-| ---------- | ------------------ |
-| Insurgent  | Asymmetric Warfare |
-| Mastermind | Grand Strategy     |
-| Vanguard   | Shock and Awe      |
+| Doctrine   | Feature                                                                                                                                      |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Asymmetric Warfare](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20WarfareREL_PATH_SUFFIX) |
+| Mastermind | [Grand Strategy](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20StrategyREL_PATH_SUFFIX)         |
+| Vanguard   | [Shock and Awe](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20AweREL_PATH_SUFFIX)         |
 
 ##### Asymmetric Warfare
 

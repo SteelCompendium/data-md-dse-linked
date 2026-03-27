@@ -47,18 +47,18 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 ###### Fury Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Abilities                 | Aspect Abilities |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 1st   | [Primordial Aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX), Ferocity, [Growing Ferocity](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX), Aspect Features, Aspect Triggered Action, [Mighty Leaps](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Mighty%20LeapsREL_PATH_SUFFIX), [Fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) Abilities                                                                   | Signature, 3, 5           | -                |
-| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5           | 5                |
-| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7        | 5                |
-| 4th   | Characteristic Increase, [Damaging Ferocity](REL_PATH_PREFIXRules/Fury/4th-Level%20Features/Damaging%20FerocityREL_PATH_SUFFIX), [Growing Ferocity Improvement](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Growing%20Ferocity%20ImprovementREL_PATH_SUFFIX), Perk, [Primordial Attunement](REL_PATH_PREFIXRules/Fury/4th-Level%20Features/Primordial%20AttunementREL_PATH_SUFFIX), [Primordial Strike](REL_PATH_PREFIXRules/Fury/4th-Level%20Features/Primordial%20StrikeREL_PATH_SUFFIX), Skill | Signature, 3, 5, 7        | 5                |
-| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9     | 5                |
-| 6th   | [Marauder of the Primordial Chaos](REL_PATH_PREFIXRules/Fury/6th-Level%20Features/Marauder%20of%20the%20Primordial%20ChaosREL_PATH_SUFFIX), Perk, Aspect Ability                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, [Elemental Form](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Elemental%20FormREL_PATH_SUFFIX), [Greater Ferocity](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Greater%20FerocityREL_PATH_SUFFIX), [Growing Ferocity Improvement](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Growing%20Ferocity%20ImprovementREL_PATH_SUFFIX), Skill                                                                                                                               | Signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | [Harbinger of the Primordial Chaos](REL_PATH_PREFIXRules/Fury/9th-Level%20Features/Harbinger%20of%20the%20Primordial%20ChaosREL_PATH_SUFFIX), Aspect Ability                                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | [Chaos Incarnate](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Chaos%20IncarnateREL_PATH_SUFFIX), Characteristic Increase, [Growing Ferocity Improvement](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Growing%20Ferocity%20ImprovementREL_PATH_SUFFIX), Perk, [Primordial Ferocity](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20FerocityREL_PATH_SUFFIX), [Primordial Power](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX), Skill        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Abilities                 | Aspect Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 1st   | [Primordial Aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX), Ferocity, [Growing Ferocity](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX), Aspect Features, [Aspect Triggered Action](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Aspect%20Triggered%20ActionREL_PATH_SUFFIX), [Mighty Leaps](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Mighty%20LeapsREL_PATH_SUFFIX), [Fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) Abilities | Signature, 3, 5           | -                |
+| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5           | 5                |
+| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7        | 5                |
+| 4th   | Characteristic Increase, [Damaging Ferocity](REL_PATH_PREFIXRules/Fury/4th-Level%20Features/Damaging%20FerocityREL_PATH_SUFFIX), [Growing Ferocity Improvement](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Growing%20Ferocity%20ImprovementREL_PATH_SUFFIX), Perk, [Primordial Attunement](REL_PATH_PREFIXRules/Fury/4th-Level%20Features/Primordial%20AttunementREL_PATH_SUFFIX), [Primordial Strike](REL_PATH_PREFIXRules/Fury/4th-Level%20Features/Primordial%20StrikeREL_PATH_SUFFIX), Skill                            | Signature, 3, 5, 7        | 5                |
+| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9     | 5                |
+| 6th   | [Marauder of the Primordial Chaos](REL_PATH_PREFIXRules/Fury/6th-Level%20Features/Marauder%20of%20the%20Primordial%20ChaosREL_PATH_SUFFIX), Perk, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, [Elemental Form](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Elemental%20FormREL_PATH_SUFFIX), [Greater Ferocity](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Greater%20FerocityREL_PATH_SUFFIX), [Growing Ferocity Improvement](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Growing%20Ferocity%20ImprovementREL_PATH_SUFFIX), Skill                                                                                                                                                          | Signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | [Harbinger of the Primordial Chaos](REL_PATH_PREFIXRules/Fury/9th-Level%20Features/Harbinger%20of%20the%20Primordial%20ChaosREL_PATH_SUFFIX), Aspect Ability                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | [Chaos Incarnate](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Chaos%20IncarnateREL_PATH_SUFFIX), Characteristic Increase, [Growing Ferocity Improvement](REL_PATH_PREFIXRules/Fury/7th-Level%20Features/Growing%20Ferocity%20ImprovementREL_PATH_SUFFIX), Perk, [Primordial Ferocity](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20FerocityREL_PATH_SUFFIX), [Primordial Power](REL_PATH_PREFIXRules/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX), Skill                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -93,7 +93,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
 
@@ -131,11 +131,11 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordi
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                        |
-| ---------- | ------------------------------ |
-| Berserker  | Kit, Primordial Strength       |
-| Reaver     | Kit, Primordial Cunning        |
-| Stormwight | Beast Shape, Relentless Hunter |
+| Aspect     | Feature                                                                                                                                                                                                                                                        |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | Kit, [Primordial Strength](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20StrengthREL_PATH_SUFFIX)                                                                                                                  |
+| Reaver     | Kit, [Primordial Cunning](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20CunningREL_PATH_SUFFIX)                                                                                                                    |
+| Stormwight | [Beast Shape](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Beast%20ShapeREL_PATH_SUFFIX), [Relentless Hunter](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Relentless%20HunterREL_PATH_SUFFIX) |
 
 ##### Beast Shape
 
@@ -163,7 +163,7 @@ You gain an edge on tests made using the Track skill.
 
 #### Aspect Triggered Action
 
-Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a triggered action, as shown on the Aspect Triggered Actions table.
+Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Aspect Triggered Actions](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Aspect%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
 ###### Aspect Triggered Actions Table
 
@@ -450,11 +450,11 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordi
 
 ###### 2nd-Level Aspect Features Table
 
-| Aspect     | Feature           |
-| ---------- | ----------------- |
-| Berserker  | Unstoppable Force |
-| Reaver     | Inescapable Wrath |
-| Stormwight | Tooth and Claw    |
+| Aspect     | Feature                                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Unstoppable Force](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20ForceREL_PATH_SUFFIX) |
+| Reaver     | [Inescapable Wrath](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20WrathREL_PATH_SUFFIX) |
+| Stormwight | Tooth and Claw                                                                                                                      |
 
 ##### Inescapable Wrath
 
@@ -590,11 +590,11 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordi
 
 ###### 3rd-Level Aspect Features Table
 
-| Aspect     | Feature                  |
-| ---------- | ------------------------ |
-| Berserker  | Immovable Object         |
-| Reaver     | See Through Their Tricks |
-| Stormwight | Nature's Knight          |
+| Aspect     | Feature                                                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Immovable Object](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Immovable%20ObjectREL_PATH_SUFFIX)                     |
+| Reaver     | [See Through Their Tricks](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/See%20Through%20Their%20TricksREL_PATH_SUFFIX) |
+| Stormwight | [Nature's Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX)                        |
 
 ##### Immovable Object
 
@@ -702,11 +702,11 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordi
 
 ###### 5th-Level Aspect Features Table
 
-| Aspect     | Feature    |
-| ---------- | ---------- |
-| Berserker  | Bounder    |
-| Reaver     | Unfettered |
-| Stormwight | Stormborn  |
+| Aspect     | Feature                                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Bounder](REL_PATH_PREFIXRules/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/BounderREL_PATH_SUFFIX)     |
+| Reaver     | Unfettered                                                                                                        |
+| Stormwight | [Stormborn](REL_PATH_PREFIXRules/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/StormbornREL_PATH_SUFFIX) |
 
 ##### Bounder
 
@@ -714,7 +714,7 @@ Your [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) distance and heig
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) (see 1st-Level Domain Feature in the [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) feature as if you were a 1st-level [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) (see 1st-Level Domain Feature in the [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) section).
 
 ##### Unfettered
 
@@ -802,7 +802,7 @@ As a 6th-level [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), you gai
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you (save ends).
 
 #### Primordial Portal
 
@@ -966,15 +966,15 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordi
 
 ###### 8th-Level Aspect Features Table
 
-| Aspect     | Feature            |
-| ---------- | ------------------ |
-| Berserker  | Strongest There Is |
-| Reaver     | A Step Ahead       |
-| Stormwight | Menagerie          |
+| Aspect     | Feature                                                                                                                                 |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Strongest There Is](REL_PATH_PREFIXRules/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20IsREL_PATH_SUFFIX) |
+| Reaver     | [A Step Ahead](REL_PATH_PREFIXRules/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20AheadREL_PATH_SUFFIX)             |
+| Stormwight | [Menagerie](REL_PATH_PREFIXRules/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/MenagerieREL_PATH_SUFFIX)                       |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 

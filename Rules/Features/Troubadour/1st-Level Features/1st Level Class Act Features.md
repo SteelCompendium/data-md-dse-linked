@@ -41,11 +41,11 @@ effects:
       Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
       ###### 1st-Level Class Act Features Table
-      | Class Act | Features                                                                                                                           |
-      | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-      | Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX) |
-      | Duelist   | Acrobatics, Star Power                                                                                                             |
-      | Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Power%20ChordREL_PATH_SUFFIX), Virtuoso Performances  |
+      | Class Act | Features                                                                                                                                                                                                                                                            |
+      | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)                                                                                                                                  |
+      | Duelist   | [Acrobatics](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/AcrobaticsREL_PATH_SUFFIX), [Star Power](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20PowerREL_PATH_SUFFIX)  |
+      | Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Power%20ChordREL_PATH_SUFFIX), [Virtuoso Performances](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20PerformancesREL_PATH_SUFFIX) |
       ##### Acrobatics
       You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
     features:

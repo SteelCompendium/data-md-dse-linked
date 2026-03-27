@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 8th-Level Features
 
-As an 8th-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gain the following features.
+As an 8th-level null, you gain the following features.
 
 #### Perk
 
@@ -22,27 +22,27 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Feature
 
-Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+Your null tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature           |
-| ------------- | ----------------- |
-| Chronokinetic | Shared Momentum   |
-| Cryokinetic   | Synaptic Triage   |
-| Metakinetic   | Inertial Dampener |
+| Tradition     | Feature                                                                                                                                |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Shared Momentum](REL_PATH_PREFIXRules/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20MomentumREL_PATH_SUFFIX)     |
+| Cryokinetic   | [Synaptic Triage](REL_PATH_PREFIXRules/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20TriageREL_PATH_SUFFIX)     |
+| Metakinetic   | [Inertial Dampener](REL_PATH_PREFIXRules/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20DampenerREL_PATH_SUFFIX) |
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability gain a bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your Null Field ability gain a bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 
-When you take the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action, one ally in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability can also take the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action, one ally in the area of your Null Field ability can also take the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability also gains this benefit.
+As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.
 
 #### 11-Discipline Ability
 
@@ -106,6 +106,6 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 > | ---------------------- | --------------------------: |
 > | **📏 Self; see below** | **🎯 Self or one creature** |
 >
-> **Trigger:** The target takes damage from another creature's ability while in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability.
+> **Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
 >
 > **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends). While the triggering creature is [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) this way, they take psychic damage equal to your Intuition score whenever they use a main action.

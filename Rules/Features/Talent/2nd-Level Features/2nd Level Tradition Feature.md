@@ -37,39 +37,19 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/talent/2nd-level-feature
 effects:
-  - effect: >-
-      Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)
-      tradition grants you a feature, as shown on the 2nd-Level Tradition
-      Features table.
-
+  - effect: |-
+      Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
       ###### 2nd-Level Tradition Features Table
-
-      | Tradition   | Features        |
-
-      | ----------- | --------------- |
-
-      | Chronopathy | Ease the Hours  |
-
-      | Telekinesis | Ease Their Fall |
-
-      | Telepathy   | Ease the Mind   |
-
+      | Tradition   | Features                                                                                                                               |
+      | ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+      | Chronopathy | [Ease the Hours](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20HoursREL_PATH_SUFFIX)   |
+      | Telekinesis | [Ease Their Fall](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20FallREL_PATH_SUFFIX) |
+      | Telepathy   | [Ease the Mind](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20MindREL_PATH_SUFFIX)     |
       ##### Ease the Hours
-
-      You can increase the number of rounds in a montage test by 1 if the test
-      would end before the heroes hit the success limit.
-
+      You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.
       ##### Ease the Mind
-
-      You gain an edge on tests made to stop combat and start a negotiation.
-      Additionally, if you are present during a negotiation, any NPC who has a
-      hostile or suspicious starting attitude has their patience increased by 1
-      (to a maximum of 5).
-
+      You gain an edge on tests made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any NPC who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).
       ##### Ease Their Fall
-
-      Whenever you land after a fall, or if any falling creature lands within 2
-      squares of you, you can use a free triggered action to reduce the falling
-      damage by an amount equal to 2 + your Reason score.
+      Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free triggered action to reduce the falling damage by an amount equal to 2 + your Reason score.
 ```

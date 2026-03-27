@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 6th-Level Features
 
-As a 6th-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gain the following features.
+As a 6th-level null, you gain the following features.
 
 #### Elemental Absorption
 
@@ -30,7 +30,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 #### 6th-Level Tradition Ability
 
-Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants your choice of one of two heroic abilities.
+Your null tradition grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronokinetic Abilities
 

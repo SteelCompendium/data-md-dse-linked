@@ -38,8 +38,9 @@ metadata:
   type: feature/subtrait/censor/7th-level-feature
 effects:
   - effect: You can maintain bonds with up to three willing creatures using your
-      Invocation of the Heart feature. Additionally, you have the following
-      ability.
+      [Invocation of the
+      Heart](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)
+      feature. Additionally, you have the following ability.
     features:
       - type: feature
         feature_type: ability

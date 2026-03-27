@@ -46,7 +46,7 @@ You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [wrath outside of combat](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), but they might appear in future products.)
 
@@ -115,20 +115,20 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](R
 
 ###### 1st-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                   | Skill Group   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20MakerREL_PATH_SUFFIX) | Crafting      |
-| Death      | [Grave Speech](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Grave%20SpeechREL_PATH_SUFFIX)                 | Lore          |
-| Fate       | Oracular Visions                                                                                                          | Lore          |
-| Knowledge  | Blessing of Comprehension                                                                                                 | Lore          |
-| Life       | Revitalizing Ritual                                                                                                       | Exploration   |
-| Love       | Blessing of Compassion                                                                                                    | Interpersonal |
-| Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Faithful%20FriendREL_PATH_SUFFIX)           | Exploration   |
-| Protection | Protective Circle                                                                                                         | Exploration   |
-| Storm      | Blessing of Fortunate Weather                                                                                             | Exploration   |
-| Sun        | Inner Light                                                                                                               | Lore          |
-| Trickery   | Inspired Deception                                                                                                        | Intrigue      |
-| War        | Sanctified Weapon                                                                                                         | Exploration   |
+| Domain     | Feature                                                                                                                                                           | Skill Group   |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation   | [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20MakerREL_PATH_SUFFIX)                                         | Crafting      |
+| Death      | [Grave Speech](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Grave%20SpeechREL_PATH_SUFFIX)                                                         | Lore          |
+| Fate       | [Oracular Visions](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20VisionsREL_PATH_SUFFIX)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20ComprehensionREL_PATH_SUFFIX)           | Lore          |
+| Life       | [Revitalizing Ritual](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
+| Love       | [Blessing of Compassion](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
+| Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Faithful%20FriendREL_PATH_SUFFIX)                                                   | Exploration   |
+| Protection | Protective Circle                                                                                                                                                 | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
+| Sun        | [Inner Light](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
+| Trickery   | [Inspired Deception](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
+| War        | [Sanctified Weapon](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)                             | Exploration   |
 
 ##### Blessing of Compassion
 

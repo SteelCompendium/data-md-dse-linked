@@ -37,23 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/elementalist/8th-level-feature
 effects:
-  - effect: >-
-      Nature isn't static and unchanging, and neither are you. You can enter or
-      exit your [animal
-      form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) as
-      a free maneuver the first time you use your Disciple of the Green feature
-      on your turn.
+  - effect: |-
+      Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) as a free maneuver the first time you use your [Disciple of the Green](REL_PATH_PREFIXRules/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature on your turn.
 
-
-      Additionally, whenever you use your Disciple of the Green feature, you can
-      select an additional [animal
-      form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) and
-      gain the positive benefits from both forms. You can choose the size of
-      either animal, and if both animal forms grant you the same benefit, you
-      can choose whichever you prefer. You gain the highest speed between the
-      two animal forms and have all types of movement from both forms.
-
-      You can only combine animal forms whose levels add up to 12 or less. For
-      example, you can combine a shark (8th level) with a horse (4th level), but
-      you can't combine a shark with a bear (5th level).
+      Additionally, whenever you use your [Disciple of the Green](REL_PATH_PREFIXRules/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature, you can select an additional [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+      You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 ```

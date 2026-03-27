@@ -41,11 +41,11 @@ effects:
       Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants you two features, as shown on the 2nd-Level Order Features table.
 
       ###### 2nd-Level Order Features Table
-      | Order    | Features                             |
-      | -------- | ------------------------------------ |
-      | Exorcist | Saint's Vigilance, A Sense for Truth |
-      | Oracle   | It Was Foretold, Judge of Character  |
-      | Paragon  | Lead by Example, Stalwart Icon       |
+      | Order    | Features                                                                                                                                                                                                                                                                        |
+      | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Exorcist | [Saint's Vigilance](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20VigilanceREL_PATH_SUFFIX), [A Sense for Truth](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20TruthREL_PATH_SUFFIX) |
+      | Oracle   | [It Was Foretold](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20ForetoldREL_PATH_SUFFIX), [Judge of Character](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20CharacterREL_PATH_SUFFIX)  |
+      | Paragon  | [Lead by Example](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20ExampleREL_PATH_SUFFIX), [Stalwart Icon](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20IconREL_PATH_SUFFIX)              |
       ##### It Was Foretold
       Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first turn. Additionally, whenever the Director calls for a montage test, you can make one free test before the montage begins, which counts as an earned success or failure as usual.
       ##### Judge of Character

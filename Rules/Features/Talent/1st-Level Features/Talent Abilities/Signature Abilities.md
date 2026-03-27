@@ -38,7 +38,9 @@ metadata:
   type: feature/subtrait/talent/1st-level-feature
 effects:
   - effect: Choose two signature abilities from the following options. Signature
-      abilities can be used at will. (*Quick Build:* Incinerate, [Kinetic
+      abilities can be used at will. (*Quick Build:*
+      [Incinerate](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/IncinerateREL_PATH_SUFFIX),
+      [Kinetic
       Grip](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Kinetic%20GripREL_PATH_SUFFIX).)
     features:
       - type: feature

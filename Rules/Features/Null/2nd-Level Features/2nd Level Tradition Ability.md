@@ -37,13 +37,10 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/null/2nd-level-feature
 effects:
-  - effect: >-
-      Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition
-      grants your choice of one of two abilities.
-
+  - effect: |-
+      Your null tradition grants your choice of one of two abilities.
 
       ##### 2nd-Level Chronokinetic Ability
-
       Choose one of the following abilities.
     features:
       - type: feature
@@ -119,11 +116,10 @@ effects:
         target: Self
         effects:
           - name: Effect
-            effect: Until the start of your next turn, the size of your
-              [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field
-              ability increases by 1, and you and any ally benefit from
-              concealment while in the area. At the end of this turn, each enemy
-              in the area takes cold damage equal to your Intuition score.
+            effect: Until the start of your next turn, the size of your Null Field ability
+              increases by 1, and you and any ally benefit from concealment
+              while in the area. At the end of this turn, each enemy in the area
+              takes cold damage equal to your Intuition score.
   - effect: |-
       ##### 2nd-Level Metakinetic Ability
 

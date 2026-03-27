@@ -38,15 +38,15 @@ metadata:
   type: feature/trait/elementalist/1st-level-feature
 effects:
   - effect: |-
-      Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.
+      Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a feature, as shown on the 1st-Level [Elemental Specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) Features table.
 
       ###### 1st-Level Elemental Specialization Features Table
-      | Specialization | Feature                                                                                                                              |
-      | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-      | Earth          | [Motivate Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Motivate%20EarthREL_PATH_SUFFIX)                   |
-      | Fire           | [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX) |
-      | Green          | It Is the Soul Which Hears                                                                                                           |
-      | Void           | A Beyonding of Vision                                                                                                                |
+      | Specialization | Feature                                                                                                                                                                       |
+      | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Earth          | [Motivate Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Motivate%20EarthREL_PATH_SUFFIX)                                                            |
+      | Fire           | [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX)                                          |
+      | Green          | [It Is the Soul Which Hears](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20HearsREL_PATH_SUFFIX) |
+      | Void           | [A Beyonding of Vision](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20VisionREL_PATH_SUFFIX)               |
       ##### A Beyonding of Vision
       You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
       You also gain the following ability.

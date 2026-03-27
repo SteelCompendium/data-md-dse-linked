@@ -37,13 +37,10 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/null/9th-level-feature
 effects:
-  - effect: >-
-      Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition
-      grants your choice of one of two heroic abilities.
-
+  - effect: |-
+      Your null tradition grants your choice of one of two heroic abilities.
 
       ##### 9th-Level Chronokinetic Abilities
-
       Choose one of the following abilities.
     features:
       - type: feature

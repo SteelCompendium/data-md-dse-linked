@@ -41,11 +41,11 @@ effects:
       Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
       ###### 2nd-Level Aspect Features Table
-      | Aspect     | Feature           |
-      | ---------- | ----------------- |
-      | Berserker  | Unstoppable Force |
-      | Reaver     | Inescapable Wrath |
-      | Stormwight | Tooth and Claw    |
+      | Aspect     | Feature                                                                                                                             |
+      | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+      | Berserker  | [Unstoppable Force](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20ForceREL_PATH_SUFFIX) |
+      | Reaver     | [Inescapable Wrath](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20WrathREL_PATH_SUFFIX) |
+      | Stormwight | Tooth and Claw                                                                                                                      |
       ##### Inescapable Wrath
       You have a bonus to speed equal to your Agility score, and you ignore difficult terrain.
       ##### Tooth and Claw

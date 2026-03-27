@@ -26,11 +26,11 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 
 ###### 2nd-Level Doctrine Features Table
 
-| Doctrine   | Feature              |
-| ---------- | -------------------- |
-| Insurgent  | Infiltration Tactics |
-| Mastermind | Goaded               |
-| Vanguard   | Melee Superiority    |
+| Doctrine   | Feature                                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Insurgent  | [Infiltration Tactics](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20TacticsREL_PATH_SUFFIX) |
+| Mastermind | [Goaded](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/GoadedREL_PATH_SUFFIX)                               |
+| Vanguard   | [Melee Superiority](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20SuperiorityREL_PATH_SUFFIX)       |
 
 ##### Goaded
 

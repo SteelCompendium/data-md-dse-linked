@@ -22,11 +22,11 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 
 ###### 3rd-Level Class Act Features Table
 
-| Class Act | Features     |
-| --------- | ------------ |
-| Auteur    | Missed Cue   |
-| Duelist   | Foil         |
-| Virtuoso  | Second Album |
+| Class Act | Features                                                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | [Missed Cue](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20CueREL_PATH_SUFFIX)     |
+| Duelist   | Foil                                                                                                                                 |
+| Virtuoso  | [Second Album](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20AlbumREL_PATH_SUFFIX) |
 
 ##### Foil
 

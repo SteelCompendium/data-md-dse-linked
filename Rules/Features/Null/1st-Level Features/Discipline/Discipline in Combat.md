@@ -45,11 +45,10 @@ effects:
 
 
       Additionally, the first time each combat round that an enemy in the area
-      of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field
-      ability (see below) uses a main action, you gain 1 discipline. The first
-      time each combat round that the Director uses an ability that costs Malice
-      (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1
-      discipline.
+      of your Null Field ability (see below) uses a main action, you gain 1
+      discipline. The first time each combat round that the Director uses an
+      ability that costs Malice (see *[Draw Steel:
+      Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
 
       You lose any remaining discipline at the end of the encounter.
 ```

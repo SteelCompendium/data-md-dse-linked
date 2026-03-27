@@ -41,11 +41,11 @@ effects:
       Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
       ###### 3rd-Level Aspect Features Table
-      | Aspect     | Feature                  |
-      | ---------- | ------------------------ |
-      | Berserker  | Immovable Object         |
-      | Reaver     | See Through Their Tricks |
-      | Stormwight | Nature's Knight          |
+      | Aspect     | Feature                                                                                                                                               |
+      | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Berserker  | [Immovable Object](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Immovable%20ObjectREL_PATH_SUFFIX)                     |
+      | Reaver     | [See Through Their Tricks](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/See%20Through%20Their%20TricksREL_PATH_SUFFIX) |
+      | Stormwight | [Nature's Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX)                        |
       ##### Immovable Object
       You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX).
       Additionally, you have a bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal to your Might score.

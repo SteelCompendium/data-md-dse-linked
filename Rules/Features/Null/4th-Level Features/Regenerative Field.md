@@ -37,7 +37,6 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/null/4th-level-feature
 effects:
-  - effect: The first time each combat round that an enemy in the area of your
-      [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability
-      uses a main action, you gain 2 discipline instead of 1.
+  - effect: The first time each combat round that an enemy in the area of your Null
+      Field ability uses a main action, you gain 2 discipline instead of 1.
 ```

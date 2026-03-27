@@ -41,11 +41,11 @@ effects:
       Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you two features, as shown on the 5th-Level Doctrine Features table.
 
       ###### 5th-Level Doctrine Features Table
-      | Doctrine   | Features                         |
-      | ---------- | -------------------------------- |
-      | Insurgent  | Distracted, Leave No Trace       |
-      | Mastermind | Anticipation, I Predicted That   |
-      | Vanguard   | Shake It Off, Tactical Offensive |
+      | Doctrine   | Features                                                                                                                                                                                                                                                                           |
+      | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Insurgent  | Distracted, [Leave No Trace](REL_PATH_PREFIXRules/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20TraceREL_PATH_SUFFIX)                                                                                                                                |
+      | Mastermind | Anticipation, [I Predicted That](REL_PATH_PREFIXRules/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20ThatREL_PATH_SUFFIX)                                                                                                                          |
+      | Vanguard   | [Shake It Off](REL_PATH_PREFIXRules/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Shake%20It%20OffREL_PATH_SUFFIX), [Tactical Offensive](REL_PATH_PREFIXRules/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Tactical%20OffensiveREL_PATH_SUFFIX) |
       ##### Anticipation
       You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your Mark ability.
       ##### Distracted

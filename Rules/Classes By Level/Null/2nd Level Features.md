@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gain the following features.
+As a 2nd-level null, you gain the following features.
 
 #### Perk
 
@@ -22,15 +22,15 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Tradition Feature
 
-Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature               |
-| ------------- | --------------------- |
-| Chronokinetic | Rapid Processing      |
-| Cryokinetic   | Entropic Adaptability |
-| Metakinetic   | Inertial Sink         |
+| Tradition     | Feature                                                                                                                                        |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Rapid Processing](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20ProcessingREL_PATH_SUFFIX)           |
+| Cryokinetic   | [Entropic Adaptability](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20AdaptabilityREL_PATH_SUFFIX) |
+| Metakinetic   | [Inertial Sink](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20SinkREL_PATH_SUFFIX)                 |
 
 ##### Entropic Adaptability
 
@@ -48,7 +48,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 
 #### 2nd-Level Tradition Ability
 
-Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants your choice of one of two abilities.
+Your null tradition grants your choice of one of two abilities.
 
 ##### 2nd-Level Chronokinetic Ability
 
@@ -108,7 +108,7 @@ Choose one of the following heroic abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of your next turn, the size of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+> **Effect:** Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
 
 ##### 2nd-Level Metakinetic Ability
 

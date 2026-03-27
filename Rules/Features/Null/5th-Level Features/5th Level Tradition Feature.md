@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/null/5th-level-feature
 effects:
   - effect: |-
-      Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+      Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
       ###### 5th-Level Tradition Features Table
       | Tradition     | Feature                                                                                                  |

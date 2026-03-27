@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/elementalist/1st-level-feature
 effects:
   - effect: |-
-      Your elemental specialization grants you a triggered action, as shown on the Specialization Triggered Actions table.
+      Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Specialization Triggered Actions](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Specialization%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
       ###### Elemental Specialization Triggered Actions Table
       | Specialization | Triggered Action                                                                                                                             |
