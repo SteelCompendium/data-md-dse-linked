@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: talent
-feature_type: trait
+feature_type: subtrait
 file_basename: Battle Augmentation
 file_dpath: Talent/1st-Level Features/Psionic Augmentation
 item_id: battle-augmentation
@@ -9,11 +9,11 @@ item_index: '15'
 item_name: Battle Augmentation
 level: 1
 scc:
-- mcdm.heroes.v1:subfeature.trait.talent.1st-level-feature:battle-augmentation
+- mcdm.heroes.v1:feature.subtrait.talent.1st-level-feature:battle-augmentation
 scdc:
-- 1.1.1:12.1.1.6:15
+- 1.1.1:11.2.1.6:15
 source: mcdm.heroes.v1
-type: subfeature/trait/talent/1st-level-feature
+type: feature/subtrait/talent/1st-level-feature
 ---
 
 ```ds-feature
@@ -23,7 +23,7 @@ name: Battle Augmentation
 metadata:
   action_type: feature
   class: talent
-  feature_type: trait
+  feature_type: subtrait
   file_basename: Battle Augmentation
   file_dpath: Talent/1st-Level Features/Psionic Augmentation
   item_id: battle-augmentation
@@ -31,11 +31,11 @@ metadata:
   item_name: Battle Augmentation
   level: 1
   scc:
-    - mcdm.heroes.v1:subfeature.trait.talent.1st-level-feature:battle-augmentation
+    - mcdm.heroes.v1:feature.subtrait.talent.1st-level-feature:battle-augmentation
   scdc:
-    - 1.1.1:12.1.1.6:15
+    - 1.1.1:11.2.1.6:15
   source: mcdm.heroes.v1
-  type: subfeature/trait/talent/1st-level-feature
+  type: feature/subtrait/talent/1st-level-feature
 effects:
   - effect: |-
       You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). You can use light armor treasures and light weapon treasures.

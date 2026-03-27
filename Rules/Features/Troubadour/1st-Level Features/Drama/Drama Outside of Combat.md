@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Drama Outside of Combat
 file_dpath: Troubadour/1st-Level Features/Drama
 item_id: drama-outside-of-combat
@@ -9,11 +9,11 @@ item_index: 09
 item_name: Drama Outside of Combat
 level: 1
 scc:
-- mcdm.heroes.v1:subfeature.trait.troubadour.1st-level-feature:drama-outside-of-combat
+- mcdm.heroes.v1:feature.subtrait.troubadour.1st-level-feature:drama-outside-of-combat
 scdc:
-- 1.1.1:12.1.3.8:09
+- 1.1.1:11.2.3.8:09
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/1st-level-feature
+type: feature/subtrait/troubadour/1st-level-feature
 ---
 
 ```ds-feature
@@ -23,7 +23,7 @@ name: Drama Outside of Combat
 metadata:
   action_type: feature
   class: troubadour
-  feature_type: trait
+  feature_type: subtrait
   file_basename: Drama Outside of Combat
   file_dpath: Troubadour/1st-Level Features/Drama
   item_id: drama-outside-of-combat
@@ -31,11 +31,11 @@ metadata:
   item_name: Drama Outside of Combat
   level: 1
   scc:
-    - mcdm.heroes.v1:subfeature.trait.troubadour.1st-level-feature:drama-outside-of-combat
+    - mcdm.heroes.v1:feature.subtrait.troubadour.1st-level-feature:drama-outside-of-combat
   scdc:
-    - 1.1.1:12.1.3.8:09
+    - 1.1.1:11.2.3.8:09
   source: mcdm.heroes.v1
-  type: subfeature/trait/troubadour/1st-level-feature
+  type: feature/subtrait/troubadour/1st-level-feature
 effects:
   - effect: |-
       Though you can't gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.

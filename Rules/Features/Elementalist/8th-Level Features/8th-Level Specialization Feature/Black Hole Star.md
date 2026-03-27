@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Black Hole Star
 file_dpath: Elementalist/8th-Level Features/8th-Level Specialization Feature
 item_id: black-hole-star
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Black Hole Star
 level: 8
 scc:
-- mcdm.heroes.v1:subfeature.trait.elementalist.8th-level-feature:black-hole-star
+- mcdm.heroes.v1:feature.subtrait.elementalist.8th-level-feature:black-hole-star
 scdc:
-- 1.1.1:12.1.9.6:01
+- 1.1.1:11.2.9.6:01
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/8th-level-feature
+type: feature/subtrait/elementalist/8th-level-feature
 ---
 
 ```ds-feature
@@ -23,7 +23,7 @@ name: Black Hole Star
 metadata:
   action_type: feature
   class: elementalist
-  feature_type: trait
+  feature_type: subtrait
   file_basename: Black Hole Star
   file_dpath: Elementalist/8th-Level Features/8th-Level Specialization Feature
   item_id: black-hole-star
@@ -31,11 +31,11 @@ metadata:
   item_name: Black Hole Star
   level: 8
   scc:
-    - mcdm.heroes.v1:subfeature.trait.elementalist.8th-level-feature:black-hole-star
+    - mcdm.heroes.v1:feature.subtrait.elementalist.8th-level-feature:black-hole-star
   scdc:
-    - 1.1.1:12.1.9.6:01
+    - 1.1.1:11.2.9.6:01
   source: mcdm.heroes.v1
-  type: subfeature/trait/elementalist/8th-level-feature
+  type: feature/subtrait/elementalist/8th-level-feature
 effects:
   - effect: |-
       You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability and [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull that target up to 5 squares. If their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) for your allies.
