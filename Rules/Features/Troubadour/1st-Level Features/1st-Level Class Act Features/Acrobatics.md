@@ -1,0 +1,63 @@
+---
+action_type: feature
+class: troubadour
+feature_type: trait
+file_basename: Acrobatics
+file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
+item_id: acrobatics
+item_index: '04'
+item_name: Acrobatics
+level: 1
+scc:
+- mcdm.heroes.v1:subfeature.trait.troubadour.1st-level-feature:acrobatics
+scdc:
+- 1.1.1:12.1.3.8:04
+source: mcdm.heroes.v1
+type: subfeature/trait/troubadour/1st-level-feature
+---
+
+```ds-feature
+type: feature
+feature_type: trait
+name: Acrobatics
+metadata:
+  action_type: feature
+  class: troubadour
+  feature_type: trait
+  file_basename: Acrobatics
+  file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
+  item_id: acrobatics
+  item_index: "04"
+  item_name: Acrobatics
+  level: 1
+  scc:
+    - mcdm.heroes.v1:subfeature.trait.troubadour.1st-level-feature:acrobatics
+  scdc:
+    - 1.1.1:12.1.3.8:04
+  source: mcdm.heroes.v1
+  type: subfeature/trait/troubadour/1st-level-feature
+effects:
+  - effect: You have the following performance ability, which is usable with your
+      [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX)
+      feature.
+    features:
+      - type: feature
+        feature_type: ability
+        name: Acrobatics
+        flavor: Folks love a good tumble.
+        keywords:
+          - Area
+          - Magic
+          - Performance
+        usage: No action
+        distance: 5 aura
+        target: Self and each ally in the area
+        effects:
+          - name: Effect
+            effect: While this performance is active, each target who starts their turn in
+              the area can automatically obtain a tier 3 outcome on one test
+              made to [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX),
+              tumble, or
+              [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)
+              as part of their movement before the end of their turn.
+```

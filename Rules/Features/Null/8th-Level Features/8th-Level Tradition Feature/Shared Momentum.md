@@ -1,0 +1,48 @@
+---
+action_type: feature
+class: 'null'
+feature_type: trait
+file_basename: Shared Momentum
+file_dpath: Null/8th-Level Features/8th-Level Tradition Feature
+item_id: shared-momentum
+item_index: '03'
+item_name: Shared Momentum
+level: 8
+scc:
+- mcdm.heroes.v1:subfeature.trait.null.8th-level-feature:shared-momentum
+scdc:
+- 1.1.1:12.1.6.4:03
+source: mcdm.heroes.v1
+type: subfeature/trait/null/8th-level-feature
+---
+
+```ds-feature
+type: feature
+feature_type: trait
+name: Shared Momentum
+metadata:
+  action_type: feature
+  class: "null"
+  feature_type: trait
+  file_basename: Shared Momentum
+  file_dpath: Null/8th-Level Features/8th-Level Tradition Feature
+  item_id: shared-momentum
+  item_index: "03"
+  item_name: Shared Momentum
+  level: 8
+  scc:
+    - mcdm.heroes.v1:subfeature.trait.null.8th-level-feature:shared-momentum
+  scdc:
+    - 1.1.1:12.1.6.4:03
+  source: mcdm.heroes.v1
+  type: subfeature/trait/null/8th-level-feature
+effects:
+  - effect: When you take the
+      [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX)
+      move action, one ally in the area of your
+      [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability can
+      also take the
+      [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX)
+      move action as a free triggered action, using your distance for that move
+      action.
+```
