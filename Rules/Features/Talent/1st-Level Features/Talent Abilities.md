@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/talent/1st-level-feature
 effects:
   - effect: |-
-      You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+      You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different talent traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
       ##### Signature Abilities
       Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/IncinerateREL_PATH_SUFFIX), [Kinetic Grip](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Kinetic%20GripREL_PATH_SUFFIX).)

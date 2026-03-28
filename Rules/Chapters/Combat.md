@@ -144,9 +144,9 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 ### Movement
 
-During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the Advance or [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
+During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/AdvanceREL_PATH_SUFFIX) or [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
-Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the Advance move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/AdvanceREL_PATH_SUFFIX) move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
 
 All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
@@ -174,7 +174,7 @@ Creatures in the game can use eight types of movement: [walk](REL_PATH_PREFIXRul
 
 ##### Walk
 
-[Walking](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX) is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
+Walking is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
 ##### Burrow
 
@@ -220,7 +220,7 @@ While a creature who is completely beneath the ground while [burrowing](REL_PATH
 
 ##### Climb or Swim
 
-A creature who has "[climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) across [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) and horizontal surfaces at full speed. Likewise, a creature who has "[swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) in liquid at full speed.
+A creature who has "[climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX)" in their speed entry, or who gains the temporary ability to automatically [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX), can [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) in liquid at full speed.
 
 Creatures without those types of movement can still [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) when a rule allows them to move, but each square of [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swimming](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) costs 2 squares of movement. If a surface is difficult to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
@@ -234,7 +234,7 @@ You can attempt to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PA
 - **12-16:** You fail to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature.
 - **17+:** You [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature.
 
-While you [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [ride](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/RideREL_PATH_SUFFIX) a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 
@@ -246,9 +246,9 @@ If you are knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
 
 ##### Jump
 
-Whenever an effect allows you to move (including using the Advance move action), you can automatically long [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) is automatically 1 square as part of that movement.
+Whenever an effect allows you to move (including using the [Advance](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/AdvanceREL_PATH_SUFFIX) move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
 
-If you want to [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) even longer or higher than your baseline [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) allows, make a Might or Agility test:
+If you want to [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) even longer or higher than your baseline jump allows, make a Might or Agility test:
 
 **Power Roll + Might or Agility:**
 
@@ -279,7 +279,7 @@ When a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFI
 - A creature [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) themself must have line of effect to their destination space. A creature [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) another creature must have line of effect from the space the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature leaves and to their destination space.
 - A [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature's destination space can't be occupied by another creature or object.
 - The effect that lets a creature [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) indicates how far they can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). That distance can be greater than the creature's speed.
-- If a creature can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) as part of their usual movement, they can use the Advance move action to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) a number of squares up to their usual speed, unmodified by conditions or effects.
+- If a creature can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) as part of their usual movement, they can use the [Advance](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/AdvanceREL_PATH_SUFFIX) move action to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) a number of squares up to their usual speed, unmodified by conditions or effects.
 - If a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), they can be standing when they reach their destination space provided they are able to stand. If a [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature is [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) by another creature, it is up to that creature whether the [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) creature remains [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) or stands if they are able.
 - If you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) while affected by the [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) or [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) conditions, those conditions end for you.
 - When a creature [teleports](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), they must leave the space where they start and enter a new space. A creature can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to and from the same space.
@@ -333,7 +333,7 @@ Forced movement ignores difficult terrain and never provokes opportunity attacks
 
 If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
-If a creature who can't [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is left in midair at the end of a [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) forced move, they fall. Forced movement made against a creature who is [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is always a [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) forced move, whether or not the effect specifies it.
+If a creature who can't [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) is always a vertical forced move, whether or not the effect specifies it.
 
 Though you can't freely push, pull, or slide a target up and down unless that forced movement specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
@@ -391,7 +391,7 @@ A creature's [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX)
 
 ##### "When a Creature Moves..."
 
-Certain abilities and effects trigger [when a creature moves](REL_PATH_PREFIXRules/Movement/When%20a%20Creature%20MovesREL_PATH_SUFFIX) into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
+Certain abilities and effects trigger when a creature moves into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
 
 ##### Death Effects and Forced Movement
 
@@ -403,7 +403,7 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 
 #### Advance
 
-When a creature takes the Advance move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
+When a creature takes the [Advance](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/AdvanceREL_PATH_SUFFIX) move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
 
 #### Disengage
 
@@ -411,7 +411,7 @@ When a creature takes the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move
 
 #### Ride
 
-A creature can take the Ride move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the Ride move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the Ride move action to have their mount use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action. A creature can use the Ride move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
+A creature can take the [Ride](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/RideREL_PATH_SUFFIX) move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the [Ride](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/RideREL_PATH_SUFFIX) move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the [Ride](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/RideREL_PATH_SUFFIX) move action to have their mount use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action. A creature can use the [Ride](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/RideREL_PATH_SUFFIX) move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
 
 ### Maneuvers
 
@@ -530,7 +530,7 @@ A creature can't move through difficult terrain or shift when they [charge](REL_
 
 #### Defend
 
-When a creature takes the Defend main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
+When a creature takes the [Defend](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/DefendREL_PATH_SUFFIX) main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
 
 #### Free Strike
 
@@ -711,7 +711,7 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 ### Mounted Combat
 
-A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the [Ride](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/RideREL_PATH_SUFFIX) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
 If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) separately.
 
@@ -785,7 +785,7 @@ If the heroes are able to end a fight with a dramatic finish, the Director assig
 
 #### Event Ending
 
-If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) if that makes more sense.
+If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the fly if that makes more sense.
 
 Event endings can cover big scenarios such as the characters destroying a dam to unleash a river upon their enemies, or completing a ritual that causes all the demons they've been battling to be sent back to the Abyssal Wasteland, accompanied by visual details. For example, if the heroes are battling a necromancer who controls a horde of zombies, the undead might all crumble to dust when the necromancer is defeated. If the heroes destroy an eldritch machine sapping the land of its natural energy, the shockwave from the device's destruction could vaporize the cultists attempting to protect it.
 

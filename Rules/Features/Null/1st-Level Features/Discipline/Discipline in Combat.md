@@ -37,18 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/null/1st-level-feature
 effects:
-  - effect: >-
-      At the start of a combat encounter or some other stressful situation
-      tracked in combat rounds (as determined by the Director), you gain
-      discipline equal to your Victories. At the start of each of your turns
-      during combat, you gain 2 discipline.
+  - effect: |-
+      At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
-
-      Additionally, the first time each combat round that an enemy in the area
-      of your Null Field ability (see below) uses a main action, you gain 1
-      discipline. The first time each combat round that the Director uses an
-      ability that costs Malice (see *[Draw Steel:
-      Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
-
+      Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
       You lose any remaining discipline at the end of the encounter.
 ```

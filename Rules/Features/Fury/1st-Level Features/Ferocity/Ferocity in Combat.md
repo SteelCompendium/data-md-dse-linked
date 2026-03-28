@@ -37,16 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/fury/1st-level-feature
 effects:
-  - effect: >-
-      At the start of a combat encounter or some other stressful situation
-      tracked in combat rounds (as determined by the Director), you gain
-      ferocity equal to your Victories. At the start of each of your turns
-      during combat, you gain 1d3 ferocity.
+  - effect: |-
+      At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
 
-
-      Additionally, the first time each combat round that you take damage, you
-      gain 1 ferocity. The first time you become winded or are dying in an
-      encounter, you gain 1d3 ferocity.
-
+      Additionally, the first time each combat round that you take damage, you gain 1 [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX). The first time you become winded or are dying in an encounter, you gain 1d3 [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
       You lose any remaining ferocity at the end of the encounter.
 ```

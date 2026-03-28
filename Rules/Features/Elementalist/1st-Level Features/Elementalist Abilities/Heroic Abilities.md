@@ -37,15 +37,11 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/elementalist/1st-level-feature
 effects:
-  - effect: >-
-      You channel a variety of heroic abilities, all of them fueled by your
-      essence.
-
+  - effect: |-
+      You channel a variety of heroic abilities, all of them fueled by your [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
 
       ###### 3-Essence Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
+      Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
     features:
       - type: feature
         feature_type: ability

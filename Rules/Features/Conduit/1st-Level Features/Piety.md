@@ -38,21 +38,21 @@ metadata:
   type: feature/trait/conduit/1st-level-feature
 effects:
   - effect: |-
-      Your deity grants you a Heroic Resource called piety, letting you heal and empower your allies, and unleash holy power upon your foes.
+      Your deity grants you a Heroic Resource called [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), letting you heal and empower your allies, and unleash holy power upon your foes.
 
       ##### Piety in Combat
-      At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your Victories. At the start of each of your turns during combat, you gain 1d3 piety.
-      Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+      At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
+      Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
       - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
-      - If the roll is a 2, you gain 1 additional piety.
+      - If the roll is a 2, you gain 1 additional [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
       - If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).
       You lose any remaining piety at the end of the encounter.
       ##### Piety Outside of Combat
-      Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
-      When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX), you can use it as if you had spent an amount of piety equal to your Victories.
+      Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+      When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX), you can use it as if you had spent an amount of [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) equal to your Victories.
       ##### Domain Piety and Effects
-      Your choice of domains provides you with two additional ways to earn piety during combat, as triggered by specific events. You might even have a single event trigger both your piety effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain piety from both your domains.
-      Additionally, whenever you activate a domain effect by praying for piety, you can choose one of your domains and have that domain's prayer effect take effect immediately.
+      Your choice of domains provides you with two additional ways to earn [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) during combat, as triggered by specific events. You might even have a single event trigger both your [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) from both your domains.
+      Additionally, whenever you activate a domain effect by praying for [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), you can choose one of your domains and have that domain's prayer effect take effect immediately.
       ###### Creation Domain Piety and Effect
   - effect: "###### Death Domain Piety and Effect"
   - effect: "###### Fate Domain Piety and Effect"

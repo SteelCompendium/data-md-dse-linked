@@ -24,91 +24,91 @@ After choosing your deity, pick two domains from their portfolio. The two domain
 
 #### Piety
 
-Your deity grants you a Heroic Resource called piety, letting you heal and empower your allies, and unleash holy power upon your foes.
+Your deity grants you a Heroic Resource called [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), letting you heal and empower your allies, and unleash holy power upon your foes.
 
 ##### Piety in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your Victories. At the start of each of your turns during combat, you gain 1d3 piety.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
 
-Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
-- If the roll is a 2, you gain 1 additional piety.
+- If the roll is a 2, you gain 1 additional [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
 - If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).
 
 You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX), you can use it as if you had spent an amount of piety equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX), you can use it as if you had spent an amount of [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) equal to your Victories.
 
 ##### Domain Piety and Effects
 
-Your choice of domains provides you with two additional ways to earn piety during combat, as triggered by specific events. You might even have a single event trigger both your piety effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain piety from both your domains.
+Your choice of domains provides you with two additional ways to earn [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) during combat, as triggered by specific events. You might even have a single event trigger both your [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) from both your domains.
 
-Additionally, whenever you activate a domain effect by praying for piety, you can choose one of your domains and have that domain's prayer effect take effect immediately.
+Additionally, whenever you activate a domain effect by praying for [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), you can choose one of your domains and have that domain's prayer effect take effect immediately.
 
 ###### Creation Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
-- **Prayer Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
 
 ###### Death Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
-- **Prayer Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
 
 ###### Fate Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
 
 ###### Knowledge Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
-- **Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
 
 ###### Life Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX) maneuver or an ability that targets an ally.
-- **Prayer Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX) maneuver or an ability that targets an ally.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ###### Nature Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
-- **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
 
 ###### Protection Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
-- **Prayer Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
 
 ###### Storm Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
-- **Prayer Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
 
 ###### Sun Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
-- **Prayer Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
 
 ###### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX) or [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) level.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Aid%20AttackREL_PATH_SUFFIX) or [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) level.
 
 ###### War Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
-- **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
+- **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
 
 #### 1st-Level Domain Feature
 
@@ -116,20 +116,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 1st-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                    | Skill Group   |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20MakerREL_PATH_SUFFIX)                                                  | Crafting      |
-| Death      | [Grave Speech](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Grave%20SpeechREL_PATH_SUFFIX)                                                                  | Lore          |
-| Fate       | [Oracular Visions](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20VisionsREL_PATH_SUFFIX)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20ComprehensionREL_PATH_SUFFIX)           | Lore          |
-| Life       | [Revitalizing Ritual](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
-| Love       | [Blessing of Compassion](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
-| Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Faithful%20FriendREL_PATH_SUFFIX)                                                            | Exploration   |
-| Protection | Protective Circle                                                                                                                                                          | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
-| Sun        | [Inner Light](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
-| Trickery   | [Inspired Deception](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
-| War        | [Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)                             | Exploration   |
+| Domain     | Feature                                                                                                                                                                     | Skill Group   |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation   | [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20MakerREL_PATH_SUFFIX)                                                   | Crafting      |
+| Death      | [Grave Speech](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Grave%20SpeechREL_PATH_SUFFIX)                                                                   | Lore          |
+| Fate       | [Oracular Visions](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20VisionsREL_PATH_SUFFIX)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20ComprehensionREL_PATH_SUFFIX)           | Lore          |
+| Life       | [Revitalizing Ritual](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
+| Love       | [Blessing of Compassion](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
+| Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Faithful%20FriendREL_PATH_SUFFIX)                                                             | Exploration   |
+| Protection | [Protective Circle](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX)                             | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
+| Sun        | [Inner Light](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
+| Trickery   | [Inspired Deception](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
+| War        | [Sanctified Weapon](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -214,7 +214,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -303,7 +303,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20DistanceREL_PATH_SUFFIX).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20DistanceREL_PATH_SUFFIX).)
 
 ##### Prayer of Destruction
 
@@ -329,7 +329,7 @@ Your god fills your body with the light of creation, making you harder to hurt a
 
 #### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Conduit%20Ward/Bastion%20WardREL_PATH_SUFFIX).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Conduit%20Ward/Bastion%20WardREL_PATH_SUFFIX).)
 
 ##### Bastion Ward
 

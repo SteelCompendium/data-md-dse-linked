@@ -38,5 +38,6 @@ metadata:
   type: feature/trait/conduit/10th-level-feature
 effects:
   - effect: When you roll for piety at the start of your turn in combat and you
-      pray, you gain 1 additional piety.
+      pray, you gain 1 additional
+      [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
 ```

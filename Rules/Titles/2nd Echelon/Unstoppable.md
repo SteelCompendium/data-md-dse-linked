@@ -22,5 +22,5 @@ type: title/2nd-echelon
 **Effect:** Choose one of the following benefits:
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
-- *Furious Attack:* Choose one signature ability from the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
+- *Furious Attack:* Choose one signature ability from the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX), you can't do so unless you have the [Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) class feature.
 - *Furious Charge:* When you use the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX).

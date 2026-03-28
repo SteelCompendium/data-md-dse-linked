@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 1st-Level Features
 
-As a 1st-level null, you gain the following features.
+As a 1st-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gain the following features.
 
 #### Null Tradition
 
@@ -28,21 +28,21 @@ Your null tradition is your subclass, and your choice of tradition determines ma
 
 #### Discipline
 
-As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called discipline.
+As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
 ##### Discipline in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your Victories. At the start of each of your turns during combat, you gain 2 discipline.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
-Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
+Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
 You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain [discipline outside of combat](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [discipline outside of combat](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the null, but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) equal to your Victories. (Such abilities aren't part of the core rules for the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), but they might appear in future products.)
 
 #### Null Field
 
@@ -88,7 +88,7 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
+As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) you spend during your turn.
 
 Some [Discipline Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20MasteryREL_PATH_SUFFIX) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
@@ -96,52 +96,52 @@ Some [Discipline Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Feature
 
 Whenever you use the [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action.
 
-Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                                                                                                                                     |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action either before or after the maneuver. |
-| 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                                                                                                 |
-| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                                                                                                                |
-| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                              |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                                                 |
+| [Discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) | Benefit                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2                                                                                               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action either before or after the maneuver. |
+| 4                                                                                               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                                                                                                 |
+| 6                                                                                               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                                    |
+| 8 (4th level)                                                                                   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                                                                                                                |
+| 10 (7th level)                                                                                  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                                              |
+| 12 (10th level)                                                                                 | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                                                 |
 
 ##### Cryokinetic Mastery
 
 Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver as a free triggered action.
 
-Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                                                                                                       |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                        |
-| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                      |
-| 8 (4th level)   | The first time on a turn that you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 2 surges.                                                       |
-| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                   |
+| [Discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) | Benefit                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2                                                                                               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
+| 4                                                                                               | The first time on a turn that you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                        |
+| 6                                                                                               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                      |
+| 8 (4th level)                                                                                   | The first time on a turn that you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 2 surges.                                                       |
+| 10 (7th level)                                                                                  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                |
+| 12 (10th level)                                                                                 | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                   |
 
 ##### Metakinetic Mastery
 
 Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver as a free triggered action.
 
-Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                                        |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
-| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                                     |
-| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.       |
-| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                                    |
-| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers. |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                    |
+| [Discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) | Benefit                                                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2                                                                                               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
+| 4                                                                                               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                                     |
+| 6                                                                                               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.       |
+| 8 (4th level)                                                                                   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                                    |
+| 10 (7th level)                                                                                  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers. |
+| 12 (10th level)                                                                                 | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                    |
 
 #### Null Speed
 
@@ -305,7 +305,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ##### Heroic Abilities
 
-You have mastered a range of heroic abilities, all of them channeled through your discipline.
+You have mastered a range of heroic abilities, all of them channeled through your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
 ###### 3-Discipline Ability
 

@@ -37,6 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/elementalist/7th-level-feature
 effects:
-  - effect: When you gain essence at the start of each of your turns during combat,
-      you gain 3 essence instead of 2.
+  - effect: When you gain
+      [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX)
+      at the start of each of your turns during combat, you gain 3 essence
+      instead of 2.
 ```

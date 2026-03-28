@@ -41,9 +41,9 @@ Additionally, your [Mantle of Essence](REL_PATH_PREFIXRules/Features/Elementalis
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) as a free maneuver the first time you use your [Disciple of the Green](REL_PATH_PREFIXRules/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your [Disciple of the Green](REL_PATH_PREFIXRules/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature on your turn.
 
-Additionally, whenever you use your [Disciple of the Green](REL_PATH_PREFIXRules/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature, you can select an additional [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your [Disciple of the Green](REL_PATH_PREFIXRules/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
@@ -149,7 +149,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ----------------------------- | --------------: |
 > | **📏 Ranged 10**              |  **🎯 Special** |
 >
-> **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+> **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 <!-- -->
 > ###### World Torn Asunder (11 Essence)

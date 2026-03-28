@@ -86,7 +86,7 @@ Projects don't need an event every time a hero makes a project roll. If they did
 
 ##### Roll for Event
 
-If you want events to be a surprise for you as much as for the other players, then once during any respite when one or more heroes makes a project roll, roll a d6. On a 6, an event occurs. This is a good option if you enjoy coming up with story on the [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX) during play.
+If you want events to be a surprise for you as much as for the other players, then once during any respite when one or more heroes makes a project roll, roll a d6. On a 6, an event occurs. This is a good option if you enjoy coming up with story on the fly during play.
 
 ##### Event Milestones
 
@@ -231,7 +231,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 <!-- -->
 > **Clothing as Armor Treasures**
 >
-> A hero who has a kit that provides no armor, such as the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) or [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) and nulls, can also benefit from such treasures.
+> A hero who has a kit that provides no armor, such as the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) or [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) and [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), can also benefit from such treasures.
 
 ###### 1st-Level Armor Enhancement
 
@@ -399,7 +399,7 @@ On your turn, you can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_
 
 Implements are jewelry, spectacles, orbs, staffs, tomes, wands, weapons, and other objects used by those who channel magic and psionic power to focus that power. You decide what object to imbue when you create an implement treasure, but it must be an object you can carry or wear. You must have a mundane version of the item you plan to imbue when you start this project.
 
-An implement imbued with an enhancement grants you special benefits while it is wielded. Additionally, when an implement receives its 1st-level enhancement, it grants your magic or psionic abilities that deal rolled damage a +1 damage bonus. A 5th-level enhancement increases the bonus to +2, and a 9th-level enhancement increases it to +3. [Censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), [conduits](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX), [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX), nulls, [talents](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX), and [troubadours](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) benefit from using implements more than the other [classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX) in this book.
+An implement imbued with an enhancement grants you special benefits while it is wielded. Additionally, when an implement receives its 1st-level enhancement, it grants your magic or psionic abilities that deal rolled damage a +1 damage bonus. A 5th-level enhancement increases the bonus to +2, and a 9th-level enhancement increases it to +3. [Censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), [conduits](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX), [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX), [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), [talents](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX), and [troubadours](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) benefit from using implements more than the other [classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX) in this book.
 
 ###### 1st-Level Implement Enhancement
 
@@ -533,7 +533,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) and [Pugilist](REL_PATH_PREFIXRules/Kits/PugilistREL_PATH_SUFFIX) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) and nulls, can also benefit from such treasures.
+A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) and [Pugilist](REL_PATH_PREFIXRules/Kits/PugilistREL_PATH_SUFFIX) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) and [nulls](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 

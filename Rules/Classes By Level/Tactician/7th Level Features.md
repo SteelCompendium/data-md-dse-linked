@@ -22,7 +22,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Heightened Focus
 
-When you gain focus at the start of each of your turns during combat, you gain 3 focus instead of 2.
+When you gain [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX) at the start of each of your turns during combat, you gain 3 focus instead of 2.
 
 #### Seize the Initiative
 

@@ -220,11 +220,11 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX), [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. If your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX), [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX) or [fly](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), or to automatically [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [swim](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
-**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX). Once the Director has done so, they can't do so again until you have finished a respite.
+**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your animal form. Once the Director has done so, they can't do so again until you have finished a respite.
 
 #### Antihero
 
@@ -315,7 +315,7 @@ Your mentor taught you everything and you trusted them completely until they wen
 
 #### Coward
 
-Some call you a [coward](REL_PATH_PREFIXRules/Complications/CowardREL_PATH_SUFFIX), just because you shriek and run when you encounter danger. Sure, you might not have the natural bravado of less-imaginative people. And sure, you're always imagining the many horrible ways you could die, but you're used to fear. When you run in terror, you run *toward* the enemy.
+Some call you a coward, just because you shriek and run when you encounter danger. Sure, you might not have the natural bravado of less-imaginative people. And sure, you're always imagining the many horrible ways you could die, but you're used to fear. When you run in terror, you run *toward* the enemy.
 
 **Benefit:** While you are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX), you can move toward the source of your fear.
 

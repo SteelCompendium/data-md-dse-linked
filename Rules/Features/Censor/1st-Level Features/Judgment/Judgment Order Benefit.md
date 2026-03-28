@@ -37,6 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/censor/1st-level-feature
 effects:
-  - effect: "The first time on a turn that you use your Judgment ability to judge a
-      creature, you gain the following benefit based on your order:"
+  - effect: "The first time on a turn that you use your
+      [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/Judg\
+      mentREL_PATH_SUFFIX) ability to judge a creature, you gain the following
+      benefit based on your order:"
 ```

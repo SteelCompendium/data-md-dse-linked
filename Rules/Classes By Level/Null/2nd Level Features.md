@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 2nd-Level Features
 
-As a 2nd-level null, you gain the following features.
+As a 2nd-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gain the following features.
 
 #### Perk
 

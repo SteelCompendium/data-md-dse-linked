@@ -40,8 +40,9 @@ effects:
   - effect: Each time you use your [My Life for
       Yours](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX)
       ability, you gain 1 wrath that can be spent only on that ability during
-      the same turn. If you don't use this wrath, it is lost. Additionally, the
-      target of [My Life for
+      the same turn. If you don't use this
+      [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX),
+      it is lost. Additionally, the target of [My Life for
       Yours](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX)
       gains 10 temporary Stamina.
 ```

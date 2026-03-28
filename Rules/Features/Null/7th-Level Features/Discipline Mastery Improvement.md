@@ -39,5 +39,6 @@ metadata:
 effects:
   - effect: Your [Discipline
       Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20MasteryREL_PATH_SUFFIX)
-      feature provides additional benefits when you have 10 or more discipline.
+      feature provides additional benefits when you have 10 or more
+      [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 ```

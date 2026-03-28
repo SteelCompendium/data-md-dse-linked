@@ -37,20 +37,10 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/shadow/1st-level-feature
 effects:
-  - effect: >-
-      At the start of a combat encounter or some other stressful situation
-      tracked in combat rounds (as determined by the Director), you gain insight
-      equal to your Victories. At the start of each of your turns during combat,
-      you gain 1d3 insight.
+  - effect: |-
+      At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX).
 
-
-      Additionally, the first time each combat round that you deal damage
-      incorporating 1 or more surges, you gain 1 insight.
-
-      Whenever you use a heroic ability that makes use of a power roll, that
-      ability costs 1 fewer insight if you have an edge or double edge on it. If
-      the ability has multiple targets, the cost is reduced even if the ability
-      gains an edge or has a double edge against only one target.
-
+      Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX).
+      Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.
       You lose any remaining insight at the end of the encounter.
 ```

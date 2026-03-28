@@ -39,5 +39,6 @@ metadata:
 effects:
   - effect: You have learned to be more preemptive on the battlefield, thinking more
       steps ahead than your opponents. You can target two creatures with your
-      Mark ability.
+      [Mark](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/MarkREL_PATH_SUFFIX)
+      ability.
 ```

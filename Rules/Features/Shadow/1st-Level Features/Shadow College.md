@@ -42,10 +42,9 @@ effects:
       secret institutions that turn ordinary folk into something else. Finding a
       college is the first step in a rigorous initiation process that tests the
       mettle of an applicant. Even those who make the cut often wash out—or are
-      kicked out—as the master
-      [shadows](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) who teach
-      stealth, magic, and assassination to their students are often less than
-      gentle in their approach.
+      kicked out—as the master shadows who teach stealth, magic, and
+      assassination to their students are often less than gentle in their
+      approach.
 
 
       You graduated from a

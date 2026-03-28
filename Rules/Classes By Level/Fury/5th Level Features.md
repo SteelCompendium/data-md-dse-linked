@@ -22,11 +22,11 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features
 
 ###### 5th-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                    |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Bounder](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/BounderREL_PATH_SUFFIX)     |
-| Reaver     | Unfettered                                                                                                                 |
-| Stormwight | [Stormborn](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/StormbornREL_PATH_SUFFIX) |
+| Aspect     | Feature                                                                                                                      |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Bounder](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/BounderREL_PATH_SUFFIX)       |
+| Reaver     | [Unfettered](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/UnfetteredREL_PATH_SUFFIX) |
+| Stormwight | [Stormborn](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/StormbornREL_PATH_SUFFIX)   |
 
 ##### Bounder
 

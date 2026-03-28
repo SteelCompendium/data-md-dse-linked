@@ -31,7 +31,9 @@ metadata:
   source: mcdm.heroes.v1
   type: common-ability/move-action
 effects:
-  - effect: When a creature takes the Advance move action, they move a number of
-      squares up to their speed. They can break up this movement with their
-      maneuver and main action however they wish.
+  - effect: When a creature takes the
+      [Advance](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/AdvanceREL_PATH_SUFFIX)
+      move action, they move a number of squares up to their speed. They can
+      break up this movement with their maneuver and main action however they
+      wish.
 ```

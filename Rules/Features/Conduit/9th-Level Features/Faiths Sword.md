@@ -42,6 +42,7 @@ effects:
       [Burgeoning
       Saint](REL_PATH_PREFIXRules/Features/Conduit/6th-Level%20Features/Burgeoning%20SaintREL_PATH_SUFFIX)
       feature until you finish another respite. Additionally, you can spend
-      piety as a free maneuver to give the hero 1 of their Heroic Resource for
-      every 2 piety spent.
+      [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX)
+      as a free maneuver to give the hero 1 of their Heroic Resource for every 2
+      piety spent.
 ```

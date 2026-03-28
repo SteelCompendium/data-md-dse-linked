@@ -53,7 +53,7 @@ effects:
       ##### Lead by Example
       Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of flanking against that creature. Additionally, your allies gain an edge on tests made to aid other creatures with their tests.
       ##### Saint's Vigilance
-      You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
+      You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/JudgmentREL_PATH_SUFFIX) ability against them as a free triggered action.
       ##### A Sense for Truth
       You are trained in secret techniques from your order that allow you to discern the truth with supernatural precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you gain an edge on tests made to detect lies or hidden motives.
       ##### Stalwart Icon

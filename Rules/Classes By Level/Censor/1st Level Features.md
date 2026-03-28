@@ -34,25 +34,25 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 #### Wrath
 
-The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX), fueling your abilities as you [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your Victories. At the start of each of your turns during combat, you gain 2 wrath.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
+Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
 You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [wrath outside of combat](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX) equal to your Victories. (Such abilities aren't part of the core rules for the [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), but they might appear in future products.)
 
 #### Judgment
 
-You pick out the enemies most worthy of your wrath and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
+You pick out the enemies most worthy of your [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX) and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
 
 <!-- -->
 > ###### Judgment
@@ -80,7 +80,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 
 ##### Judgment Order Benefit
 
-The first time on a turn that you use your Judgment ability to judge a creature, you gain the following benefit based on your order:
+The first time on a turn that you use your [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/JudgmentREL_PATH_SUFFIX) ability to judge a creature, you gain the following benefit based on your order:
 
 - **Exorcist:** You can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
@@ -124,7 +124,7 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](R
 | Life       | [Revitalizing Ritual](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
 | Love       | [Blessing of Compassion](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
 | Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Faithful%20FriendREL_PATH_SUFFIX)                                                            | Exploration   |
-| Protection | Protective Circle                                                                                                                                                          | Exploration   |
+| Protection | [Protective Circle](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX)                             | Exploration   |
 | Storm      | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
 | Sun        | [Inner Light](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
 | Trickery   | [Inspired Deception](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
@@ -213,7 +213,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -297,7 +297,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-You call upon a number of heroic abilities, all of them bound to your wrath.
+You call upon a number of heroic abilities, all of them bound to your [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
 ###### 3-Wrath Ability
 

@@ -43,6 +43,8 @@ effects:
       [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), and other
       agents of chaos. If you successfully complete a negotiation with one of
       these creatures, you gain an edge on power rolls made against them and can
-      use your Judgment ability against them as a free triggered action before
-      an encounter begins.
+      use your
+      [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/JudgmentREL_PATH_SUFFIX)
+      ability against them as a free triggered action before an encounter
+      begins.
 ```

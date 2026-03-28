@@ -22,7 +22,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Faithful's Reward
 
-When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 piety.
+When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
 
 #### Skill
 
@@ -74,7 +74,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](REL_PATH_PREFIXRules/Features/Conduit/3rd-Level%20Features/Minor%20MiracleREL_PATH_SUFFIX) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), it is lost. Additionally, you can use your [Minor Miracle](REL_PATH_PREFIXRules/Features/Conduit/3rd-Level%20Features/Minor%20MiracleREL_PATH_SUFFIX) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library
 

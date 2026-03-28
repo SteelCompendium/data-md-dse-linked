@@ -37,9 +37,10 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/censor/1st-level-feature
 effects:
-  - effect: You pick out the enemies most worthy of your wrath and place a divine
-      judgment upon them, censoring them with the power of your god. You have
-      the following ability.
+  - effect: You pick out the enemies most worthy of your
+      [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX)
+      and place a divine judgment upon them, censoring them with the power of
+      your god. You have the following ability.
     features:
       - type: feature
         feature_type: ability
@@ -63,10 +64,8 @@ effects:
               - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
               - If you damage a creature judged by you with a melee ability, the creature is [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by you until the end of their next turn.
               You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
-  - effect: >-
+  - effect: |-
       ##### Judgment Order Benefit
 
-
-      The first time on a turn that you use your Judgment ability to judge a
-      creature, you gain the following benefit based on your order:
+      The first time on a turn that you use your [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/JudgmentREL_PATH_SUFFIX) ability to judge a creature, you gain the following benefit based on your order:
 ```

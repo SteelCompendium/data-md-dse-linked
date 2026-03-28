@@ -48,7 +48,7 @@ effects:
       | Green          | [Hide of Tenfold Shields](REL_PATH_PREFIXRules/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Hide%20of%20Tenfold%20ShieldsREL_PATH_SUFFIX)             |
       | Void           | [Pierce the Veil of Substance](REL_PATH_PREFIXRules/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Pierce%20the%20Veil%20of%20SubstanceREL_PATH_SUFFIX) |
       ##### Hide of Tenfold Shields
-      Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) in combat, which is added to any temporary Stamina provided by the [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX).
+      Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an animal form in combat, which is added to any temporary Stamina provided by the animal form.
       Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
       ##### The Mountain Does Not Move
       You stand firm and magnetize your allies to stay grounded. Your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) increases by your level.

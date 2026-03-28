@@ -37,14 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/null/10th-level-feature
 effects:
-  - effect: >-
-      You have an epic resource called order. Each time you finish a respite,
-      you gain order equal to the XP you gain. You can spend order on your
-      abilities as if it were discipline.
+  - effect: |-
+      You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
-
-      At the start of a combat encounter, you can spend 1 order to increase the
-      size of your Null Field by 1 until the end of the encounter.
-
-      Order remains until you spend it.
+      At the start of a combat encounter, you can spend 1 order to increase the size of your Null Field by 1 until the end of the encounter.
+      [Order](REL_PATH_PREFIXRules/Features/Null/10th-Level%20Features/OrderREL_PATH_SUFFIX) remains until you spend it.
 ```

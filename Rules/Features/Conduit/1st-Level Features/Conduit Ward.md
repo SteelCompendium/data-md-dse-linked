@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/conduit/1st-level-feature
 effects:
   - effect: |-
-      Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Conduit%20Ward/Bastion%20WardREL_PATH_SUFFIX).)
+      Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Conduit%20Ward/Bastion%20WardREL_PATH_SUFFIX).)
 
       ##### Bastion Ward
       Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to saving throws.

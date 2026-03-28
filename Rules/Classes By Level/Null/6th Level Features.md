@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 6th-Level Features
 
-As a 6th-level null, you gain the following features.
+As a 6th-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gain the following features.
 
 #### Elemental Absorption
 

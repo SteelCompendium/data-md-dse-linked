@@ -30,11 +30,11 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Exorcist | [Demonologist](REL_PATH_PREFIXRules/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/DemonologistREL_PATH_SUFFIX)                   |
 | Oracle   | [Their Past Revealed](REL_PATH_PREFIXRules/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20RevealedREL_PATH_SUFFIX) |
-| Paragon  | Vow                                                                                                                                                 |
+| Paragon  | [Vow](REL_PATH_PREFIXRules/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/VowREL_PATH_SUFFIX)                                     |
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/JudgmentREL_PATH_SUFFIX) ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 

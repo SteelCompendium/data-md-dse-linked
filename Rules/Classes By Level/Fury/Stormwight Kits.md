@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### Stormwight Kits
 
-The stormwight [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).
+The stormwight [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) lets you channel your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).
 
 #### Kit Features
 
@@ -37,9 +37,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), you treat your Renown as 2 higher than usual.
+> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in animal form or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in animal form, you treat your Renown as 2 higher than usual.
 >
-> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), into your hybrid form, or back into your true form.
+> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another animal form, into your hybrid form, or back into your true form.
 
 ##### Primordial Storm
 
@@ -47,11 +47,11 @@ Each stormwight kit is associated with a primordial storm, which channels a spec
 
 ##### Equipment
 
-You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
+You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) grows.
 
 ##### Kit Bonuses
 
-These bonuses apply in your true form, your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX), and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
+These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
 
 ##### Signature Ability
 
@@ -105,22 +105,22 @@ Your primordial damage type is cold.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) grows, you gain benefits as noted on the Boren [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Boren Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                                                                             |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | You can have up to two creatures [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), you gain 1 surge.             |
-| 4               | The first time you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature on a turn, you gain 1 surge.                                                                                                                                              |
-| 6               | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                            |
-| 8 (4th level)   | The first time you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                |
-| 10 (7th level)  | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                      |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
+| [Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) | Benefit                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2                                                                                           | You can have up to two creatures [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), you gain 1 surge.             |
+| 4                                                                                           | The first time you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature on a turn, you gain 1 surge.                                                                                                                                              |
+| 6                                                                                           | You gain an edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                            |
+| 8 (4th level)                                                                               | The first time you [grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                |
+| 10 (7th level)                                                                              | You have a double edge on the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers.                                                                      |
+| 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
 
-With this stormwight kit, you channel your [primordial ferocity](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20FerocityREL_PATH_SUFFIX) into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+With this stormwight kit, you channel your [primordial ferocity](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20FerocityREL_PATH_SUFFIX) into the form of a crow, becoming stealthy and quick. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
 ##### Aspect Benefits
 
@@ -165,18 +165,18 @@ Your primordial damage type is fire.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Corven [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) grows, you gain benefits as noted on the Corven [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Corven Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                                                    |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action, the distance you can shift gains a bonus equal to your Agility score.                                                         |
-| 4               | The first time you shift on a turn, you gain 1 surge.                                                                                                                                                                                                      |
-| 6               | You gain an edge on Agility tests, the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver, and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.       |
-| 8 (4th level)   | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                        |
-| 10 (7th level)  | You have a double edge on Agility tests, the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver, and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver. |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you.                                                                                                          |
+| [Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) | Benefit                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2                                                                                           | Whenever you use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action, the distance you can shift gains a bonus equal to your Agility score.                                                         |
+| 4                                                                                           | The first time you shift on a turn, you gain 1 surge.                                                                                                                                                                                                      |
+| 6                                                                                           | You gain an edge on Agility tests, the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver, and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.       |
+| 8 (4th level)                                                                               | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                        |
+| 10 (7th level)                                                                              | You have a double edge on Agility tests, the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver, and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver. |
+| 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you.                                                                                                          |
 
 #### Raden
 
@@ -225,18 +225,18 @@ Your primordial damage type is corruption.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Raden [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) grows, you gain benefits as noted on the Raden [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Raden Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                                                   |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action, the distance you can shift gains a bonus equal to your Agility score.                                                        |
-| 4               | The first time you shift on a turn, you gain 1 surge.                                                                                                                                                                                                     |
-| 6               | You gain an edge on Agility tests, the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver, and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.      |
-| 8 (4th level)   | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                       |
-| 10 (7th level)  | You have a double edge on Agility tests, the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver, and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you.                                                                                                         |
+| [Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) | Benefit                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2                                                                                           | Whenever you use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action, the distance you can shift gains a bonus equal to your Agility score.                                                        |
+| 4                                                                                           | The first time you shift on a turn, you gain 1 surge.                                                                                                                                                                                                     |
+| 6                                                                                           | You gain an edge on Agility tests, the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver, and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.      |
+| 8 (4th level)                                                                               | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                       |
+| 10 (7th level)                                                                              | You have a double edge on Agility tests, the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX) maneuver, and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver |
+| 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you.                                                                                                         |
 
 #### Vuken
 
@@ -283,15 +283,15 @@ Your primordial damage type is lightning.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Vuken [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) grows, you gain benefits as noted on the Vuken [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Vuken Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                          |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can target one additional creature.                                                                     |
-| 4               | The first time on a turn that you push a creature or knock a creature [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), you gain 1 surge.                                                                           |
-| 6               | You gain an edge on Agility tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                        |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), you gain 2 surges.                                                                          |
-| 10 (7th level)  | You have a double edge on Agility tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                  |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |
+| [Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) | Benefit                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2                                                                                           | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, you can target one additional creature.                                                                     |
+| 4                                                                                           | The first time on a turn that you push a creature or knock a creature [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), you gain 1 surge.                                                                           |
+| 6                                                                                           | You gain an edge on Agility tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                        |
+| 8 (4th level)                                                                               | The first time on a turn that you push a creature or knock a creature [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), you gain 2 surges.                                                                          |
+| 10 (7th level)                                                                              | You have a double edge on Agility tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                  |
+| 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |

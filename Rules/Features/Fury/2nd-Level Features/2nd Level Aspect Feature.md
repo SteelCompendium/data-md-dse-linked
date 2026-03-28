@@ -45,7 +45,7 @@ effects:
       | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
       | Berserker  | [Unstoppable Force](REL_PATH_PREFIXRules/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20ForceREL_PATH_SUFFIX) |
       | Reaver     | [Inescapable Wrath](REL_PATH_PREFIXRules/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20WrathREL_PATH_SUFFIX) |
-      | Stormwight | Tooth and Claw                                                                                                                               |
+      | Stormwight | [Tooth and Claw](REL_PATH_PREFIXRules/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Tooth%20and%20ClawREL_PATH_SUFFIX)     |
       ##### Inescapable Wrath
       You have a bonus to speed equal to your Agility score, and you ignore difficult terrain.
       ##### Tooth and Claw

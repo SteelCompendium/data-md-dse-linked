@@ -22,7 +22,7 @@ You can attempt to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PA
 - **12-16:** You fail to [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature.
 - **17+:** You [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) the creature.
 
-While you [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) or [ride](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/RideREL_PATH_SUFFIX) a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 

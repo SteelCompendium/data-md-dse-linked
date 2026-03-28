@@ -14,9 +14,9 @@ type: movement
 
 ##### Jump
 
-Whenever an effect allows you to move (including using the Advance move action), you can automatically long [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) is automatically 1 square as part of that movement.
+Whenever an effect allows you to move (including using the [Advance](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/AdvanceREL_PATH_SUFFIX) move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
 
-If you want to [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) even longer or higher than your baseline [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) allows, make a Might or Agility test:
+If you want to [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) even longer or higher than your baseline jump allows, make a Might or Agility test:
 
 **Power Roll + Might or Agility:**
 

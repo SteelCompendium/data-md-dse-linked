@@ -38,5 +38,6 @@ metadata:
   type: feature/trait/conduit/7th-level-feature
 effects:
   - effect: When you roll for piety at the start of your turn in combat, you gain
-      1d3 + 1 piety.
+      1d3 + 1
+      [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
 ```

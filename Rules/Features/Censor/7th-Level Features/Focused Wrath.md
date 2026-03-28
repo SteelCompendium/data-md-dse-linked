@@ -37,6 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/censor/7th-level-feature
 effects:
-  - effect: When you gain wrath at the start of each of your turns during combat,
-      you gain 3 wrath instead of 2.
+  - effect: When you gain
+      [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX)
+      at the start of each of your turns during combat, you gain 3 wrath instead
+      of 2.
 ```

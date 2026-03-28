@@ -39,5 +39,6 @@ metadata:
 effects:
   - effect: Your [Growing
       Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX)
-      feature provides additional benefits when you have 8 or more ferocity.
+      feature provides additional benefits when you have 8 or more
+      [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
 ```

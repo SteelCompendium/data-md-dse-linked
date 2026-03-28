@@ -37,14 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/shadow/10th-level-feature
 effects:
-  - effect: >-
-      You have an epic resource called subterfuge. Each time you finish a
-      respite, you gain subterfuge equal to the XP you gain. You can spend
-      subterfuge on your abilities as if it were insight.
+  - effect: |-
+      You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX).
 
-
-      Additionally, you can spend subterfuge to take additional maneuvers on
-      your turn. You can use one maneuver for each subterfuge you spend.
-
-      Subterfuge remains until you spend it.
+      Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
+      [Subterfuge](REL_PATH_PREFIXRules/Features/Shadow/10th-Level%20Features/SubterfugeREL_PATH_SUFFIX) remains until you spend it.
 ```

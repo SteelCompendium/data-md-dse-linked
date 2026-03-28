@@ -37,15 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/troubadour/10th-level-feature
 effects:
-  - effect: >-
-      You have an epic resource called applause. Each time you finish a respite,
-      you gain applause equal to the XP you gain. You can spend applause on your
-      abilities as if it were drama.
+  - effect: |-
+      You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
 
-
-      Additionally, whenever you or a creature within 3 squares would obtain a
-      failure or a tier 1 outcome on a test, you can spend 1 applause to improve
-      the outcome by 1 tier.
-
-      Applause remains until you spend it.
+      Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
+      [Applause](REL_PATH_PREFIXRules/Features/Troubadour/10th-Level%20Features/ApplauseREL_PATH_SUFFIX) remains until you spend it.
 ```

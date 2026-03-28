@@ -18,7 +18,7 @@ As a 9th-level [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX), y
 
 #### Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](REL_PATH_PREFIXRules/Features/Conduit/6th-Level%20Features/Burgeoning%20SaintREL_PATH_SUFFIX) feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](REL_PATH_PREFIXRules/Features/Conduit/6th-Level%20Features/Burgeoning%20SaintREL_PATH_SUFFIX) feature until you finish another respite. Additionally, you can spend [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
 
 #### Ordained
 

@@ -218,17 +218,12 @@ effects:
             tier3: 9 + A damage; A < STRONG,
               [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX)
               (save ends)
-  - effect: >-
+  - effect: |-
       ##### Heroic Abilities
 
-
-      You have mastered a range of heroic abilities, all of them channeled
-      through your discipline.
-
+      You have mastered a range of heroic abilities, all of them channeled through your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
       ###### 3-Discipline Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 discipline to use. (*Quick Build:* Chronal Spike.)
+      Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike.)
     features:
       - type: feature
         feature_type: ability

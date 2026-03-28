@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/elementalist/1st-level-feature
 effects:
   - effect: |-
-      You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20DestructionREL_PATH_SUFFIX).)
+      You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20DestructionREL_PATH_SUFFIX).)
 
       ##### Enchantment of Battle
       You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). You can use light armor treasures and light weapon treasures.

@@ -38,12 +38,16 @@ metadata:
   type: feature/trait/censor/3rd-level-feature
 effects:
   - effect: Your judgment has grown in divine power, instilling fear in those you
-      condemn. Whenever you use your Judgment ability, you can spend 1 wrath,
+      condemn. Whenever you use your
+      [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/JudgmentREL_PATH_SUFFIX)
+      ability, you can spend 1
+      [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX),
       and if the target has P < AVERAGE, they are
       [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of
       you (save ends). Additionally, whenever a creature judged by you is
-      reduced to 0 Stamina and you use Judgment as a free triggered action, if
-      the new target has P < STRONG, they are
+      reduced to 0 Stamina and you use
+      [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/JudgmentREL_PATH_SUFFIX)
+      as a free triggered action, if the new target has P < STRONG, they are
       [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of
       you (save ends). If the target is already
       [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of

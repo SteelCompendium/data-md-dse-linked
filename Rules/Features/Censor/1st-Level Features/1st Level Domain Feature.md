@@ -50,7 +50,7 @@ effects:
       | Life       | [Revitalizing Ritual](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
       | Love       | [Blessing of Compassion](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
       | Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Faithful%20FriendREL_PATH_SUFFIX)                                                            | Exploration   |
-      | Protection | Protective Circle                                                                                                                                                          | Exploration   |
+      | Protection | [Protective Circle](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX)                             | Exploration   |
       | Storm      | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
       | Sun        | [Inner Light](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
       | Trickery   | [Inspired Deception](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
@@ -147,49 +147,18 @@ effects:
               number of objects created this way equal to your Presence score.
               You can destroy an object created this way with a thought, no
               matter how far you are from it (no action required).
-  - effect: >-
+  - effect: |-
       ##### Inner Light
 
-
-      Each time you finish a respite, you can choose yourself or one ally who is
-      also finishing a respite to gain the benefit of a divine ritual. You place
-      a ray of morning light into the chosen character's soul, granting them a
-      +1 bonus to saving throws that lasts until you finish another respite.
-
+      Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of morning light into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
       ##### Inspired Deception
-
-      The gods favor your thievery with magic. Whenever you make a test that
-      uses a skill you have from the intrigue skill group, you can use Presence
-      on the test instead of another characteristic.
-
+      The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Presence on the test instead of another characteristic.
       ##### Oracular Visions
-
-      Your deity rewards you with hazy visions of things to come. Each time you
-      earn 1 or more Victories, you earn an equal number of fate points.
-      Whenever you or a creature within 10 squares makes a test, you can spend 1
-      fate point to tap into a vision of the outcome, granting that creature an
-      edge on the test. You lose any remaining fate points when you finish a
-      respite.
-
+      Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
       ##### Protective Circle
-
-      You can spend 10 uninterrupted minutes to create a protective circle on
-      the ground large enough to hold one size 1 creature. The circle lasts for
-      24 hours, until you create another, or until you dismiss it (no action
-      required). Only creatures you designate at the time of drawing the circle
-      can enter and exit the area. While in the protective circle, a creature
-      can't be targeted by strikes.
-
+      You can spend 10 uninterrupted minutes to create a [protective circle](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX), a creature can't be targeted by strikes.
       ##### Revitalizing Ritual
-
-      Each time you finish a respite, you can choose yourself or one ally who is
-      also finishing a respite to gain the benefit of a divine ritual. The
-      chosen character gains a bonus to their recovery value equal to your level
-      that lasts until you finish another respite.
-
+      Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. The chosen character gains a bonus to their recovery value equal to your level that lasts until you finish another respite.
       ##### Sanctified Weapon
-
-      As a respite activity, you can bless a weapon. Any creature who wields the
-      weapon gains a +1 bonus to rolled damage with abilities that use the
-      weapon. This benefit lasts until you finish another respite.
+      As a respite activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to rolled damage with abilities that use the weapon. This benefit lasts until you finish another respite.
 ```

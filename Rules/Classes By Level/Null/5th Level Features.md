@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 5th-Level Features
 
-As a 5th-level null, you gain the following features.
+As a 5th-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gain the following features.
 
 #### 5th-Level Tradition Feature
 

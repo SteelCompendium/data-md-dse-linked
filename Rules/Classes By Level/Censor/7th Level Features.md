@@ -66,7 +66,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [My Life for Yours](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX) gains 10 temporary Stamina.
+Each time you use your [My Life for Yours](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX), it is lost. Additionally, the target of [My Life for Yours](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX) gains 10 temporary Stamina.
 
 ##### Gods' Library
 
@@ -123,7 +123,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 #### Focused Wrath
 
-When you gain wrath at the start of each of your turns during combat, you gain 3 wrath instead of 2.
+When you gain [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX) at the start of each of your turns during combat, you gain 3 wrath instead of 2.
 
 #### Skill
 

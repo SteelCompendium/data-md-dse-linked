@@ -48,23 +48,23 @@ You use your immersion in the mystery of void magic to expand the reach of that 
 
 #### Essence
 
-You channel the substance of creation in the form of a Heroic Resource called essence, gathering and burning it to cast and maintain spells.
+You channel the substance of creation in the form of a Heroic Resource called [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX), gathering and burning it to cast and maintain spells.
 
 ##### Essence in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your Victories. At the start of each of your turns during combat, you gain 2 essence.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 2 [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
 
-Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 essence.
+Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
 
 You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use a persistent ability outside of combat (see [Persistent Magic](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Persistent%20MagicREL_PATH_SUFFIX) below), you can maintain it for a number of rounds equal to your Victories.
 
-When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) equal to your Victories.
 
 #### Hurl Element
 
@@ -89,9 +89,9 @@ You have the following ability, which can be used as a ranged [free strike](REL_
 
 #### Persistent Magic
 
-Some of your heroic abilities have a persistent effect entry. For example, the Instantaneous Excavation ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
+Some of your heroic abilities have a persistent effect entry. For example, the Instantaneous Excavation ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
 
-You can't maintain any abilities that would make you earn a negative amount of essence at the start of your turn. You can stop maintaining an ability at any time (no action required).
+You can't maintain any abilities that would make you earn a negative amount of [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) at the start of your turn. You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
@@ -114,7 +114,7 @@ You have the following ability.
 >
 > - You use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability, and you use Reason instead of Might for the power roll.
 > - You choose a creature within the distance of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) 1 additional square for each essence spent.
+> - You [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
 
@@ -259,7 +259,7 @@ Your [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-L
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20DestructionREL_PATH_SUFFIX).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20DestructionREL_PATH_SUFFIX).)
 
 ##### Enchantment of Battle
 
@@ -441,7 +441,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ##### Heroic Abilities
 
-You channel a variety of heroic abilities, all of them fueled by your essence.
+You channel a variety of heroic abilities, all of them fueled by your [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
 
 ###### 3-Essence Ability
 

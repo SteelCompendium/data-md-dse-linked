@@ -30,7 +30,7 @@ You gain one skill of your choice.
 
 #### Templar
 
-You are the ultimate representation of your god's justice in the timescape. Whenever you use your Judgment ability, you can use a free triggered action to use a [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with virtue (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) level, use your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) level instead.
+You are the ultimate representation of your god's justice in the timescape. Whenever you use your [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/JudgmentREL_PATH_SUFFIX) ability, you can use a free triggered action to use a [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) level, use your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) level instead.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -38,12 +38,12 @@ While you rest in their presence, your god might also give you priority targets 
 
 #### Virtue
 
-You have an epic resource called virtue. Each time you finish a respite, you gain virtue equal to the XP you gain. You can spend virtue on your abilities as if it were wrath.
+You have an epic resource called [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX). Each time you finish a respite, you gain [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) equal to the XP you gain. You can spend [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) on your abilities as if it were [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
-Additionally, you can spend 3 virtue to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
+Additionally, you can spend 3 [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 
-Virtue remains until you spend it.
+[Virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) remains until you spend it.
 
 #### Wrath of the Gods
 
-When you gain wrath at the start of each of your turns during combat, you gain 4 wrath instead of 3.
+When you gain [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX) at the start of each of your turns during combat, you gain 4 wrath instead of 3.

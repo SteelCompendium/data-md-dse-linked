@@ -37,17 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/tactician/1st-level-feature
 effects:
-  - effect: >-
-      At the start of a combat encounter or some other stressful situation
-      tracked in combat rounds (as determined by the Director), you gain focus
-      equal to your Victories. At the start of each of your turns during combat,
-      you gain 2 focus.
+  - effect: |-
+      At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 2 [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
 
-
-      Additionally, the first time each combat round that you or any ally
-      damages a creature marked by you (see Mark below), you gain 1 focus. The
-      first time in a combat round that any ally within 10 squares of you uses a
-      heroic ability, you gain 1 focus.
-
+      Additionally, the first time each combat round that you or any ally damages a creature marked by you (see [Mark](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/MarkREL_PATH_SUFFIX) below), you gain 1 [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX). The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
       You lose any remaining focus at the end of the encounter.
 ```

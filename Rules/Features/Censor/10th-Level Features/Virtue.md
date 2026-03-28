@@ -37,15 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/censor/10th-level-feature
 effects:
-  - effect: >-
-      You have an epic resource called virtue. Each time you finish a respite,
-      you gain virtue equal to the XP you gain. You can spend virtue on your
-      abilities as if it were wrath.
+  - effect: |-
+      You have an epic resource called [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX). Each time you finish a respite, you gain [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) equal to the XP you gain. You can spend [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) on your abilities as if it were [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
-
-      Additionally, you can spend 3 virtue to access one of your deity's domains
-      that you usually don't have access to. When you do, you can use that
-      domain's features until you finish another respite.
-
-      Virtue remains until you spend it.
+      Additionally, you can spend 3 [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
+      [Virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) remains until you spend it.
 ```

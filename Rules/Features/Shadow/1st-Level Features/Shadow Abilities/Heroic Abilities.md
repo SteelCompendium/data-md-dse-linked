@@ -37,15 +37,11 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/shadow/1st-level-feature
 effects:
-  - effect: >-
-      A range of heroic abilities define your combat prowess, all of which make
-      use of your insight.
-
+  - effect: |-
+      A range of heroic abilities define your combat prowess, all of which make use of your [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX).
 
       ###### 3-Insight Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 insight to use. (*Quick Build:* Get In Get Out.)
+      Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)
     features:
       - type: feature
         feature_type: ability

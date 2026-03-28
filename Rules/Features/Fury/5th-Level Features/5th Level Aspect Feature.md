@@ -41,11 +41,11 @@ effects:
       Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
       ###### 5th-Level Aspect Features Table
-      | Aspect     | Feature                                                                                                                    |
-      | ---------- | -------------------------------------------------------------------------------------------------------------------------- |
-      | Berserker  | [Bounder](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/BounderREL_PATH_SUFFIX)     |
-      | Reaver     | Unfettered                                                                                                                 |
-      | Stormwight | [Stormborn](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/StormbornREL_PATH_SUFFIX) |
+      | Aspect     | Feature                                                                                                                      |
+      | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+      | Berserker  | [Bounder](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/BounderREL_PATH_SUFFIX)       |
+      | Reaver     | [Unfettered](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/UnfetteredREL_PATH_SUFFIX) |
+      | Stormwight | [Stormborn](REL_PATH_PREFIXRules/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/StormbornREL_PATH_SUFFIX)   |
       ##### Bounder
       Your [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your [jump](REL_PATH_PREFIXRules/Movement/JumpREL_PATH_SUFFIX) distance for the purpose of determining damage and whether you land [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) (see Falling in Chapter 10). You are not [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) after falling and landing on another creature.
       ##### Stormborn

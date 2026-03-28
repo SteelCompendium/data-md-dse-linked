@@ -37,15 +37,11 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/null/1st-level-feature
 effects:
-  - effect: >-
-      You have mastered a range of heroic abilities, all of them channeled
-      through your discipline.
-
+  - effect: |-
+      You have mastered a range of heroic abilities, all of them channeled through your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
       ###### 3-Discipline Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 discipline to use. (*Quick Build:* Chronal Spike.)
+      Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike.)
     features:
       - type: feature
         feature_type: ability

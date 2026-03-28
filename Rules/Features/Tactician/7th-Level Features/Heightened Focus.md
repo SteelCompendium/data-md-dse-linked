@@ -37,6 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/tactician/7th-level-feature
 effects:
-  - effect: When you gain focus at the start of each of your turns during combat,
-      you gain 3 focus instead of 2.
+  - effect: When you gain
+      [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX)
+      at the start of each of your turns during combat, you gain 3 focus instead
+      of 2.
 ```

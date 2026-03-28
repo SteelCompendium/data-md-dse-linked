@@ -123,17 +123,12 @@ effects:
               you gain 1 surge. If you are flanking the target when you use this
               ability, choose one ally who is flanking with you. That ally also
               gains 1 surge.
-  - effect: >-
+  - effect: |-
       ##### Heroic Abilities
 
-
-      A range of heroic abilities define your combat prowess, all of which make
-      use of your insight.
-
+      A range of heroic abilities define your combat prowess, all of which make use of your [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX).
       ###### 3-Insight Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 insight to use. (*Quick Build:* Get In Get Out.)
+      Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)
     features:
       - type: feature
         feature_type: ability

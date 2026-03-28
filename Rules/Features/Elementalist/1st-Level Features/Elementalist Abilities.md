@@ -200,17 +200,12 @@ effects:
             tier1: 2 + R fire damage; push 2
             tier2: 5 + R fire damage; push 3
             tier3: 7 + R fire damage; push 4
-  - effect: >-
+  - effect: |-
       ##### Heroic Abilities
 
-
-      You channel a variety of heroic abilities, all of them fueled by your
-      essence.
-
+      You channel a variety of heroic abilities, all of them fueled by your [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
       ###### 3-Essence Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
+      Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
     features:
       - type: feature
         feature_type: ability

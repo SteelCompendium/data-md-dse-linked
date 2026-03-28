@@ -47,7 +47,6 @@ effects:
       telepathy. Your
       [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition is
       your subclass, and your choice of tradition determines many of the
-      features you'll gain as you gain new levels. (Other
-      [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) traditions
-      will be featured in future products.) (*Quick Build:* Telekinesis.)
+      features you'll gain as you gain new levels. (Other talent traditions will
+      be featured in future products.) (*Quick Build:* Telekinesis.)
 ```

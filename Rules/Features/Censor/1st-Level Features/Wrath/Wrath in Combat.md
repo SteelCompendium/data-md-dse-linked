@@ -37,17 +37,9 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/censor/1st-level-feature
 effects:
-  - effect: >-
-      At the start of a combat encounter or some other stressful situation
-      tracked in combat rounds (as determined by the Director), you gain wrath
-      equal to your Victories. At the start of each of your turns during combat,
-      you gain 2 wrath.
+  - effect: |-
+      At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
-
-      Additionally, the first time each combat round that a creature judged by
-      you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1
-      wrath. The first time each combat round that you deal damage to a creature
-      judged by you, you gain 1 wrath.
-
+      Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
       You lose any remaining wrath at the end of the encounter.
 ```

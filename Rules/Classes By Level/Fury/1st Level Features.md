@@ -20,15 +20,15 @@ As a 1st-level [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), you gai
 
 You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
-- **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
-- **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the Hide skill.
-- **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
+- **Berserker:** You channel your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
+- **Reaver:** You channel your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) into instinct and cunning, challenging the order of civilization. You have the Hide skill.
+- **Stormwight:** You channel your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
 
 Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
 
 #### Ferocity
 
-Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called ferocity.
+Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
 
 <!-- -->
 > **Where's My Maneuver?**
@@ -37,45 +37,45 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 
 ##### Ferocity in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
 
-Additionally, the first time each combat round that you take damage, you gain 1 ferocity. The first time you become winded or are dying in an encounter, you gain 1d3 ferocity.
+Additionally, the first time each combat round that you take damage, you gain 1 [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX). The first time you become winded or are dying in an encounter, you gain 1d3 [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
 
 You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) equal to your Victories.
 
 #### Growing Ferocity
 
-You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.
+You gain certain benefits in combat based on the amount of [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) you spend during your turn.
 
 Some [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) tables in this section.
 
 ###### Berserker Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                        |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Might score.                                     |
-| 4               | The first time you push a creature on a turn, you gain 1 surge.                                                                                                                                                                |
-| 6               | You gain an edge on Might tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                        |
-| 8 (4th level)   | The first time you push a creature on a turn, you gain 2 surges.                                                                                                                                                               |
-| 10 (7th level)  | You have a double edge on Might tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                  |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Might score. |
+| [Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) | Benefit                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2                                                                                           | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Might score.                                     |
+| 4                                                                                           | The first time you push a creature on a turn, you gain 1 surge.                                                                                                                                                                |
+| 6                                                                                           | You gain an edge on Might tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                        |
+| 8 (4th level)                                                                               | The first time you push a creature on a turn, you gain 2 surges.                                                                                                                                                               |
+| 10 (7th level)                                                                              | You have a double edge on Might tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                  |
+| 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Might score. |
 
 ###### Reaver Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                          |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Agility score.                                     |
-| 4               | The first time you slide a creature on a turn, you gain 1 surge.                                                                                                                                                                 |
-| 6               | You gain an edge on Agility tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                        |
-| 8 (4th level)   | The first time you slide a creature on a turn, you gain 2 surges.                                                                                                                                                                |
-| 10 (7th level)  | You have a double edge on Agility tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                  |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |
+| [Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) | Benefit                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2                                                                                           | Whenever you use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver, the forced movement distance gains a bonus equal to your Agility score.                                     |
+| 4                                                                                           | The first time you slide a creature on a turn, you gain 1 surge.                                                                                                                                                                 |
+| 6                                                                                           | You gain an edge on Agility tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                        |
+| 8 (4th level)                                                                               | The first time you slide a creature on a turn, you gain 2 surges.                                                                                                                                                                |
+| 10 (7th level)                                                                              | You have a double edge on Agility tests and the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver.                                                                                  |
+| 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |
 
 #### 1st-Level Aspect Features
 
@@ -101,13 +101,13 @@ You can use and gain the benefits of a kit. See Chapter 6: Kits for more informa
 
 You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
-As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) grows, you gain benefits as noted on the Reaver [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Primordial Strength
 
 Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
 
-As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) grows, you gain benefits as noted on the Berserker [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Relentless Hunter
 
@@ -136,7 +136,7 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features
 >
 > **Trigger:** You lose Stamina and are not dying.
 >
-> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) or hybrid form.
+> **Effect:** You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.
 >
 > **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 

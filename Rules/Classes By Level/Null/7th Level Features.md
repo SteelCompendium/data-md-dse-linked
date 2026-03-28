@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 7th-Level Features
 
-As a 7th-level null, you gain the following features.
+As a 7th-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gain the following features.
 
 #### Characteristic Increase
 
@@ -22,7 +22,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20MasteryREL_PATH_SUFFIX) feature provides additional benefits when you have 10 or more discipline.
+Your [Discipline Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20MasteryREL_PATH_SUFFIX) feature provides additional benefits when you have 10 or more [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
 #### Psi Boost
 
@@ -58,7 +58,7 @@ If the ability has any power roll, that roll gains an edge.
 
 #### Improved Body
 
-When you gain discipline at the start of each of your turns during combat, you gain 3 discipline instead of 2.
+When you gain [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) at the start of each of your turns during combat, you gain 3 discipline instead of 2.
 
 #### Skill
 

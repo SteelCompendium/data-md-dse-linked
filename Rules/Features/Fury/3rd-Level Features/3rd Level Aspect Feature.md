@@ -51,7 +51,7 @@ effects:
       Additionally, you have a bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal to your Might score.
       ##### Nature's Knight
       You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
-      When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) (see Stormwight Kits).
+      When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in animal form (see Stormwight Kits).
       ##### See Through Their Tricks
       You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!
 ```

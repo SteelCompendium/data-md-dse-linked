@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 8th-Level Features
 
-As an 8th-level null, you gain the following features.
+As an 8th-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gain the following features.
 
 #### Perk
 

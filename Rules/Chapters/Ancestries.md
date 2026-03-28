@@ -30,7 +30,7 @@ This chapter details twelve [ancestries](REL_PATH_PREFIXRules/Chapters/Ancestrie
 
 **[Dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX):** Humanoids with stony skin, [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
 
-**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
+**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX).
 
 **High Elf:** Stately and graceful, [high elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX)'s tone and smell.
 
@@ -1591,7 +1591,7 @@ You have the following ability.
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You flatten yourself into a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect:** You flatten yourself into a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
@@ -1605,7 +1605,7 @@ You have 4 ancestry points to spend on the following traits. (*Quick Build:* Cor
 
 ##### Corruption Immunity (1 Point)
 
-Your innate [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
+Your innate shadow magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
 
 ##### Fearless (2 Points)
 
@@ -1629,7 +1629,7 @@ Staying light on your feet lets you quickly get back into position. Whenever you
 
 ## Revenant
 
-The dead [walk](REL_PATH_PREFIXRules/Movement/WalkREL_PATH_SUFFIX) among us. Some of them are happier about it than others.
+The dead walk among us. Some of them are happier about it than others.
 
 Unlike the necromantic rituals that produce wights and wraiths and zombies, [revenants](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX) rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
@@ -1845,7 +1845,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 
 ### Time Raider Traits
 
-Time [raider](REL_PATH_PREFIXRules/Kits/RaiderREL_PATH_SUFFIX) heroes have access to the following traits.
+Time raider heroes have access to the following traits.
 
 #### Signature Trait: Psychic Scar
 

@@ -52,10 +52,10 @@ effects:
       You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](REL_PATH_PREFIXRules/Kits/PantherREL_PATH_SUFFIX).)
       ##### Primordial Cunning
       You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
-      As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+      As your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) grows, you gain benefits as noted on the Reaver [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
       ##### Primordial Strength
       Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
-      As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+      As your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) grows, you gain benefits as noted on the Berserker [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
       ##### Relentless Hunter
       You gain an edge on tests made using the Track skill.
 ```

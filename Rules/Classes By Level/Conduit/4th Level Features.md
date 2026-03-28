@@ -18,7 +18,7 @@ As a 4th-level [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX), y
 
 #### Blessed Domain
 
-Whenever you gain piety from a domain effect, you gain 1 additional piety.
+Whenever you gain [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX) from a domain effect, you gain 1 additional [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
 
 #### Characteristic Increase
 

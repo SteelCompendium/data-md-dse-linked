@@ -16,7 +16,7 @@ type: chapter
 
 # Kits
 
-The knight in [shining armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX). The [warrior priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX). The [sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX). [Censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), furies, shadows, [tacticians](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), and [troubadours](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+The knight in [shining armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX). The [warrior priest](REL_PATH_PREFIXRules/Kits/Warrior%20PriestREL_PATH_SUFFIX). The [sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX). [Censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), [furies](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), [shadows](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX), [tacticians](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX), and [troubadours](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit
 

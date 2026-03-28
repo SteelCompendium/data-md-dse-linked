@@ -37,15 +37,11 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/censor/1st-level-feature
 effects:
-  - effect: >-
-      You call upon a number of heroic abilities, all of them bound to your
-      wrath.
-
+  - effect: |-
+      You call upon a number of heroic abilities, all of them bound to your [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
       ###### 3-Wrath Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)
+      Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)
     features:
       - type: feature
         feature_type: ability

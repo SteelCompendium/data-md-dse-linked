@@ -44,10 +44,10 @@ effects:
       | Order    | Feature                                                                                                                               |
       | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
       | Exorcist | [Evil Revealed](REL_PATH_PREFIXRules/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20RevealedREL_PATH_SUFFIX) |
-      | Oracle   | Prophecy                                                                                                                              |
-      | Paragon  | Stand Fast!                                                                                                                           |
+      | Oracle   | [Prophecy](REL_PATH_PREFIXRules/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/ProphecyREL_PATH_SUFFIX)             |
+      | Paragon  | [Stand Fast](REL_PATH_PREFIXRules/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Stand%20FastREL_PATH_SUFFIX)!      |
       ##### Evil Revealed
-      Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your Judgment ability against them as a free triggered action.
+      Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/JudgmentREL_PATH_SUFFIX) ability against them as a free triggered action.
       ##### Prophecy
       You can better sift through the constant fragmentary visions from your deity and act to make them manifest. Each time you earn 1 or more Victories, you can make a number of 2d10 rolls equal to the number of Victories you earned. Record each roll in order. Then whenever you or a creature within 10 squares makes a power roll, you can use a free triggered action to replace the total on the dice with your first recorded roll.
       You discard each roll as it is used, and each time you earn Victories, you add new rolls to the bottom of the list. Any unused rolls are discarded when you finish a respite.

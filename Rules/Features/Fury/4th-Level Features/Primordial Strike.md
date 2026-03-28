@@ -37,9 +37,10 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/fury/4th-level-feature
 effects:
-  - effect: You can manifest your ferocity directly as an elemental force created by
-      the Primordial Chaos. As part of any strike, you can spend 1 ferocity to
-      gain 1 surge that must be used for that strike. The extra damage dealt by
-      the surge can be acid, cold, corruption, fire, lightning, poison, or sonic
-      (your choice).
+  - effect: You can manifest your
+      [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX)
+      directly as an elemental force created by the Primordial Chaos. As part of
+      any strike, you can spend 1 ferocity to gain 1 surge that must be used for
+      that strike. The extra damage dealt by the surge can be acid, cold,
+      corruption, fire, lightning, poison, or sonic (your choice).
 ```
