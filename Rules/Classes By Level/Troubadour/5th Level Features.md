@@ -30,7 +30,7 @@ Once on each of your turns, you can use a free maneuver to change one condition 
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### Take Two!
@@ -53,7 +53,7 @@ Once on each of your turns while the target of your Foil feature is adjacent to 
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### We Can't Be Upstaged!
@@ -76,7 +76,7 @@ Once on each of your turns, you can use a free maneuver to exchange words with a
 
 ###### Medley
 
-You can maintain two performances at a time using your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+You can maintain two performances at a time using your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 #### 9-Drama Ability
 

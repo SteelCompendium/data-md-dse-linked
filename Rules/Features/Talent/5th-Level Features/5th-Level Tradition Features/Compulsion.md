@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Compulsion
-file_dpath: Talent/5th-Level Features/5th-Level Tradition Features
+file_dpath: Features/Talent/5th-Level Features/5th-Level Tradition Features
 item_id: compulsion
 item_index: '06'
 item_name: Compulsion
@@ -25,7 +25,7 @@ metadata:
   class: talent
   feature_type: subtrait
   file_basename: Compulsion
-  file_dpath: Talent/5th-Level Features/5th-Level Tradition Features
+  file_dpath: Features/Talent/5th-Level Features/5th-Level Tradition Features
   item_id: compulsion
   item_index: "06"
   item_name: Compulsion
@@ -40,7 +40,7 @@ effects:
   - effect: Whenever you obtain a success on a test using a skill from the
       interpersonal skill group while interacting with an NPC, you can ask them
       a question using your [Telepathic
-      Speech](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX)
+      Speech](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX)
       feature. The NPC must answer the question truthfully to the best of their
       ability.
 ```

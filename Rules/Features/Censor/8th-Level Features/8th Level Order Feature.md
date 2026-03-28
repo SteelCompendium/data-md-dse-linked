@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: 8th Level Order Feature
-file_dpath: Censor/8th-Level Features
+file_dpath: Features/Censor/8th-Level Features
 item_id: 8th-level-order-feature
 item_index: '01'
 item_name: 8th-Level Order Feature
@@ -25,7 +25,7 @@ metadata:
   class: censor
   feature_type: trait
   file_basename: 8th Level Order Feature
-  file_dpath: Censor/8th-Level Features
+  file_dpath: Features/Censor/8th-Level Features
   item_id: 8th-level-order-feature
   item_index: "01"
   item_name: 8th-Level Order Feature
@@ -41,11 +41,11 @@ effects:
       Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants you a feature, as shown on the 8th-Level Order Features table.
 
       ###### 8th-Level Order Features Table
-      | Order    | Feature                                                                                                                                    |
-      | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-      | Exorcist | [Demonologist](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/DemonologistREL_PATH_SUFFIX)                   |
-      | Oracle   | [Their Past Revealed](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20RevealedREL_PATH_SUFFIX) |
-      | Paragon  | Vow                                                                                                                                        |
+      | Order    | Feature                                                                                                                                             |
+      | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Exorcist | [Demonologist](REL_PATH_PREFIXRules/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/DemonologistREL_PATH_SUFFIX)                   |
+      | Oracle   | [Their Past Revealed](REL_PATH_PREFIXRules/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20RevealedREL_PATH_SUFFIX) |
+      | Paragon  | Vow                                                                                                                                                 |
       ##### Demonologist
       The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
       ##### Their Past Revealed

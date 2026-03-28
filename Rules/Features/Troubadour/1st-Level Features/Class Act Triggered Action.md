@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Class Act Triggered Action
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Features/Troubadour/1st-Level Features
 item_id: class-act-triggered-action
 item_index: '05'
 item_name: Class Act Triggered Action
@@ -25,7 +25,7 @@ metadata:
   class: troubadour
   feature_type: trait
   file_basename: Class Act Triggered Action
-  file_dpath: Troubadour/1st-Level Features
+  file_dpath: Features/Troubadour/1st-Level Features
   item_id: class-act-triggered-action
   item_index: "05"
   item_name: Class Act Triggered Action
@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/troubadour/1st-level-feature
 effects:
   - effect: |-
-      Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20ActionREL_PATH_SUFFIX) table.
+      Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
       ###### Class Act Triggered Actions Table
       | Class Act | Triggered Action                                                                                                                     |

@@ -22,28 +22,28 @@ You gain one perk of your choice.
 
 #### 8th-Level Specialization Feature
 
-Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a feature, as shown on the 8th-Level [Elemental Specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) Features table.
+Your [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a feature, as shown on the 8th-Level [Elemental Specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) Features table.
 
 ###### 8th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Summon Source of Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20EarthREL_PATH_SUFFIX)                        |
-| Fire           | [The Flame Primordial](REL_PATH_PREFIXRules/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/The%20Flame%20PrimordialREL_PATH_SUFFIX)   |
-| Green          | [Chimeric Manifestation](REL_PATH_PREFIXRules/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Chimeric%20ManifestationREL_PATH_SUFFIX) |
-| Void           | [Black Hole Star](REL_PATH_PREFIXRules/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Black%20Hole%20StarREL_PATH_SUFFIX)             |
+| Specialization | Feature                                                                                                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Summon Source of Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20EarthREL_PATH_SUFFIX)                                 |
+| Fire           | [The Flame Primordial](REL_PATH_PREFIXRules/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/The%20Flame%20PrimordialREL_PATH_SUFFIX)   |
+| Green          | [Chimeric Manifestation](REL_PATH_PREFIXRules/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Chimeric%20ManifestationREL_PATH_SUFFIX) |
+| Void           | [Black Hole Star](REL_PATH_PREFIXRules/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Black%20Hole%20StarREL_PATH_SUFFIX)             |
 
 ##### Black Hole Star
 
 You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability and [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull that target up to 5 squares. If their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) for your allies.
 
-Additionally, your [Mantle of Essence](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Mantle%20of%20EssenceREL_PATH_SUFFIX) improves. While in the area of the aura, enemies and objects have their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduced by an amount equal to your level.
+Additionally, your [Mantle of Essence](REL_PATH_PREFIXRules/Features/Elementalist/4th-Level%20Features/Mantle%20of%20EssenceREL_PATH_SUFFIX) improves. While in the area of the aura, enemies and objects have their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduced by an amount equal to your level.
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) as a free maneuver the first time you use your [Disciple of the Green](REL_PATH_PREFIXRules/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) as a free maneuver the first time you use your [Disciple of the Green](REL_PATH_PREFIXRules/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature on your turn.
 
-Additionally, whenever you use your [Disciple of the Green](REL_PATH_PREFIXRules/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature, you can select an additional [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your [Disciple of the Green](REL_PATH_PREFIXRules/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20GreenREL_PATH_SUFFIX) feature, you can select an additional [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 

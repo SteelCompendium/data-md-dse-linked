@@ -26,11 +26,11 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                                                                                                        |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20VigilanceREL_PATH_SUFFIX), [A Sense for Truth](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20TruthREL_PATH_SUFFIX) |
-| Oracle   | [It Was Foretold](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20ForetoldREL_PATH_SUFFIX), [Judge of Character](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20CharacterREL_PATH_SUFFIX)  |
-| Paragon  | [Lead by Example](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20ExampleREL_PATH_SUFFIX), [Stalwart Icon](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20IconREL_PATH_SUFFIX)              |
+| Order    | Features                                                                                                                                                                                                                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Saint's Vigilance](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20VigilanceREL_PATH_SUFFIX), [A Sense for Truth](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20TruthREL_PATH_SUFFIX) |
+| Oracle   | [It Was Foretold](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20ForetoldREL_PATH_SUFFIX), [Judge of Character](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20CharacterREL_PATH_SUFFIX)  |
+| Paragon  | [Lead by Example](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20ExampleREL_PATH_SUFFIX), [Stalwart Icon](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20IconREL_PATH_SUFFIX)              |
 
 ##### It Was Foretold
 

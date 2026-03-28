@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Cryokinetic Mastery
-file_dpath: Null/1st-Level Features/Discipline Mastery
+file_dpath: Features/Null/1st-Level Features/Discipline Mastery
 item_id: cryokinetic-mastery
 item_index: '05'
 item_name: Cryokinetic Mastery
@@ -25,7 +25,7 @@ metadata:
   class: "null"
   feature_type: subtrait
   file_basename: Cryokinetic Mastery
-  file_dpath: Null/1st-Level Features/Discipline Mastery
+  file_dpath: Features/Null/1st-Level Features/Discipline Mastery
   item_id: cryokinetic-mastery
   item_index: "05"
   item_name: Cryokinetic Mastery
@@ -40,7 +40,7 @@ effects:
   - effect: |-
       Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver as a free triggered action.
 
-      Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](REL_PATH_PREFIXRules/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+      Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
       ###### Cryokinetic Mastery Table
       | Discipline      | Benefit                                                                                                                                                                                                                                                                       |
       | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

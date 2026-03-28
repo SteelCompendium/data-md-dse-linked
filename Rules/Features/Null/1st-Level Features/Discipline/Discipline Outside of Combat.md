@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Discipline Outside of Combat
-file_dpath: Null/1st-Level Features/Discipline
+file_dpath: Features/Null/1st-Level Features/Discipline
 item_id: discipline-outside-of-combat
 item_index: '02'
 item_name: Discipline Outside of Combat
@@ -25,7 +25,7 @@ metadata:
   class: "null"
   feature_type: subtrait
   file_basename: Discipline Outside of Combat
-  file_dpath: Null/1st-Level Features/Discipline
+  file_dpath: Features/Null/1st-Level Features/Discipline
   item_id: discipline-outside-of-combat
   item_index: "02"
   item_name: Discipline Outside of Combat
@@ -38,7 +38,7 @@ metadata:
   type: feature/subtrait/null/1st-level-feature
 effects:
   - effect: |-
-      Though you can't gain [discipline outside of combat](REL_PATH_PREFIXRules/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+      Though you can't gain [discipline outside of combat](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
       When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the null, but they might appear in future products.)
 ```

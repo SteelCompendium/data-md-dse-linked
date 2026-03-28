@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Black Hole Star
-file_dpath: Elementalist/8th-Level Features/8th-Level Specialization Feature
+file_dpath: Features/Elementalist/8th-Level Features/8th-Level Specialization Feature
 item_id: black-hole-star
 item_index: '01'
 item_name: Black Hole Star
@@ -25,7 +25,7 @@ metadata:
   class: elementalist
   feature_type: subtrait
   file_basename: Black Hole Star
-  file_dpath: Elementalist/8th-Level Features/8th-Level Specialization Feature
+  file_dpath: Features/Elementalist/8th-Level Features/8th-Level Specialization Feature
   item_id: black-hole-star
   item_index: "01"
   item_name: Black Hole Star
@@ -40,5 +40,5 @@ effects:
   - effect: |-
       You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability and [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull that target up to 5 squares. If their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) for your allies.
 
-      Additionally, your [Mantle of Essence](REL_PATH_PREFIXRules/Elementalist/4th-Level%20Features/Mantle%20of%20EssenceREL_PATH_SUFFIX) improves. While in the area of the aura, enemies and objects have their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduced by an amount equal to your level.
+      Additionally, your [Mantle of Essence](REL_PATH_PREFIXRules/Features/Elementalist/4th-Level%20Features/Mantle%20of%20EssenceREL_PATH_SUFFIX) improves. While in the area of the aura, enemies and objects have their [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) reduced by an amount equal to your level.
 ```

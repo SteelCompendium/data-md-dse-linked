@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 9th Level Aspect Ability
-file_dpath: Fury/9th-Level Features
+file_dpath: Features/Fury/9th-Level Features
 item_id: 9th-level-aspect-ability
 item_index: '01'
 item_name: 9th-Level Aspect Ability
@@ -25,7 +25,7 @@ metadata:
   class: fury
   feature_type: trait
   file_basename: 9th Level Aspect Ability
-  file_dpath: Fury/9th-Level Features
+  file_dpath: Features/Fury/9th-Level Features
   item_id: 9th-level-aspect-ability
   item_index: "01"
   item_name: 9th-Level Aspect Ability
@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/fury/9th-level-feature
 effects:
   - effect: |-
-      Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
+      Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
 
       ##### 9th-Level Berserker Abilities
       Choose one of the following abilities.

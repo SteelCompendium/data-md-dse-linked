@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: 8th Level Tradition Feature
-file_dpath: Null/8th-Level Features
+file_dpath: Features/Null/8th-Level Features
 item_id: 8th-level-tradition-feature
 item_index: '02'
 item_name: 8th-Level Tradition Feature
@@ -25,7 +25,7 @@ metadata:
   class: "null"
   feature_type: trait
   file_basename: 8th Level Tradition Feature
-  file_dpath: Null/8th-Level Features
+  file_dpath: Features/Null/8th-Level Features
   item_id: 8th-level-tradition-feature
   item_index: "02"
   item_name: 8th-Level Tradition Feature
@@ -41,11 +41,11 @@ effects:
       Your null tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
       ###### 8th-Level Tradition Features Table
-      | Tradition     | Feature                                                                                                                                |
-      | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-      | Chronokinetic | [Shared Momentum](REL_PATH_PREFIXRules/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20MomentumREL_PATH_SUFFIX)     |
-      | Cryokinetic   | [Synaptic Triage](REL_PATH_PREFIXRules/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20TriageREL_PATH_SUFFIX)     |
-      | Metakinetic   | [Inertial Dampener](REL_PATH_PREFIXRules/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20DampenerREL_PATH_SUFFIX) |
+      | Tradition     | Feature                                                                                                                                         |
+      | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Chronokinetic | [Shared Momentum](REL_PATH_PREFIXRules/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20MomentumREL_PATH_SUFFIX)     |
+      | Cryokinetic   | [Synaptic Triage](REL_PATH_PREFIXRules/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20TriageREL_PATH_SUFFIX)     |
+      | Metakinetic   | [Inertial Dampener](REL_PATH_PREFIXRules/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20DampenerREL_PATH_SUFFIX) |
       ##### Inertial Dampener
       You and each creature or object of your choice in the area of your Null Field ability gain a bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
       ##### Shared Momentum

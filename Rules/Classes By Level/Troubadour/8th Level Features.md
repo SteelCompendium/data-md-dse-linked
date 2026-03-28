@@ -26,15 +26,15 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 
 ###### 8th-Level Class Act Features Table
 
-| Class Act | Feature                                                                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Deleted Scene](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Deleted%20SceneREL_PATH_SUFFIX)     |
-| Duelist   | [Masterwork](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/MasterworkREL_PATH_SUFFIX)             |
-| Virtuoso  | [Crowd Favorites](REL_PATH_PREFIXRules/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Crowd%20FavoritesREL_PATH_SUFFIX) |
+| Class Act | Feature                                                                                                                                             |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | [Deleted Scene](REL_PATH_PREFIXRules/Features/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Deleted%20SceneREL_PATH_SUFFIX)     |
+| Duelist   | [Masterwork](REL_PATH_PREFIXRules/Features/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/MasterworkREL_PATH_SUFFIX)             |
+| Virtuoso  | [Crowd Favorites](REL_PATH_PREFIXRules/Features/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Crowd%20FavoritesREL_PATH_SUFFIX) |
 
 ##### Crowd Favorites
 
-You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### Moonlight Sonata
@@ -66,7 +66,7 @@ Whenever a creature within distance of your [Dramatic Monologue](REL_PATH_PREFIX
 
 Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
 
-Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](REL_PATH_PREFIXRules/Troubadour/4th-Level%20Features/ZeitgeistREL_PATH_SUFFIX) feature to tell tales of your exploits after the encounter ends.
+Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](REL_PATH_PREFIXRules/Features/Troubadour/4th-Level%20Features/ZeitgeistREL_PATH_SUFFIX) feature to tell tales of your exploits after the encounter ends.
 
 #### 11-Drama Ability
 

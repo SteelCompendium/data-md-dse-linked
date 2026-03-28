@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Elementalist Abilities
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Features/Elementalist/1st-Level Features
 item_id: elementalist-abilities
 item_index: '06'
 item_name: Elementalist Abilities
@@ -25,7 +25,7 @@ metadata:
   class: elementalist
   feature_type: trait
   file_basename: Elementalist Abilities
-  file_dpath: Elementalist/1st-Level Features
+  file_dpath: Features/Elementalist/1st-Level Features
   item_id: elementalist-abilities
   item_index: "06"
   item_name: Elementalist Abilities
@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/elementalist/1st-level-feature
 effects:
   - effect: |-
-      Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+      Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
       ##### Signature Abilities
       Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Bifurcated%20IncinerationREL_PATH_SUFFIX), [Viscous Fire](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Viscous%20FireREL_PATH_SUFFIX).)

@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: 1st Level Class Act Features
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Features/Troubadour/1st-Level Features
 item_id: 1st-level-class-act-features
 item_index: '04'
 item_name: 1st-Level Class Act Features
@@ -25,7 +25,7 @@ metadata:
   class: troubadour
   feature_type: trait
   file_basename: 1st Level Class Act Features
-  file_dpath: Troubadour/1st-Level Features
+  file_dpath: Features/Troubadour/1st-Level Features
   item_id: 1st-level-class-act-features
   item_index: "04"
   item_name: 1st-Level Class Act Features
@@ -41,13 +41,13 @@ effects:
       Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
       ###### 1st-Level Class Act Features Table
-      | Class Act | Features                                                                                                                                                                                                                                                            |
-      | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)                                                                                                                                  |
-      | Duelist   | [Acrobatics](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/AcrobaticsREL_PATH_SUFFIX), [Star Power](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20PowerREL_PATH_SUFFIX)  |
-      | Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Power%20ChordREL_PATH_SUFFIX), [Virtuoso Performances](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20PerformancesREL_PATH_SUFFIX) |
+      | Class Act | Features                                                                                                                                                                                                                                                                             |
+      | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+      | Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)                                                                                                                                                   |
+      | Duelist   | [Acrobatics](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/AcrobaticsREL_PATH_SUFFIX), [Star Power](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20PowerREL_PATH_SUFFIX) |
+      | Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Power%20ChordREL_PATH_SUFFIX), [Virtuoso Performances](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20PerformancesREL_PATH_SUFFIX)         |
       ##### Acrobatics
-      You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+      You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
     features:
       - type: feature
         feature_type: ability
@@ -71,7 +71,7 @@ effects:
   - effect: |-
       ##### Blocking
 
-      You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+      You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
     features:
       - type: feature
         feature_type: ability
@@ -172,7 +172,7 @@ effects:
   - effect: |-
       ##### Virtuoso Performances
 
-      You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+      You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
     features:
       - type: feature
         feature_type: ability

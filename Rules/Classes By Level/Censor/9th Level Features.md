@@ -18,7 +18,7 @@ As a 9th-level [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), you
 
 #### Improved Implement of Wrath
 
-The weapon you target with your [Implement of Wrath](REL_PATH_PREFIXRules/Censor/6th-Level%20Features/Implement%20of%20WrathREL_PATH_SUFFIX) feature gains the following additional benefits:
+The weapon you target with your [Implement of Wrath](REL_PATH_PREFIXRules/Features/Censor/6th-Level%20Features/Implement%20of%20WrathREL_PATH_SUFFIX) feature gains the following additional benefits:
 
 - The weapon's wielder and each ally adjacent to them gain a +2 bonus to saving throws.
 - At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a saving throw against each effect on them that is ended by a saving throw.

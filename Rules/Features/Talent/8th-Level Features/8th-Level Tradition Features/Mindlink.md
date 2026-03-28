@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Mindlink
-file_dpath: Talent/8th-Level Features/8th-Level Tradition Features
+file_dpath: Features/Talent/8th-Level Features/8th-Level Tradition Features
 item_id: mindlink
 item_index: '02'
 item_name: Mindlink
@@ -25,7 +25,7 @@ metadata:
   class: talent
   feature_type: subtrait
   file_basename: Mindlink
-  file_dpath: Talent/8th-Level Features/8th-Level Tradition Features
+  file_dpath: Features/Talent/8th-Level Features/8th-Level Tradition Features
   item_id: mindlink
   item_index: "02"
   item_name: Mindlink
@@ -39,7 +39,7 @@ metadata:
 effects:
   - effect: During a respite, you can choose a number of creatures up to your Reason
       score who you have communicated with using your [Telepathic
-      Speech](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX)
+      Speech](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX)
       feature, creating a telepathic link among all of you. Whenever a linked
       creature spends one or more Recoveries, each other linked creature can
       spend a Recovery.

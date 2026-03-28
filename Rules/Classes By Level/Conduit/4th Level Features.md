@@ -38,20 +38,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 4th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
-| Death      | [Seance](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/SeanceREL_PATH_SUFFIX)                                                   |
-| Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20WarningREL_PATH_SUFFIX)                             |
-| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
-| Life       | [Blessing of Life](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
-| Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
-| Nature     | [Wode Road](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20RoadREL_PATH_SUFFIX)                                           |
-| Protection | [Impervious Touch](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20TouchREL_PATH_SUFFIX)                             |
-| Storm      | [Windwalk](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX)                                               |
-| Sun        | [Light of Revelation](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20RevelationREL_PATH_SUFFIX)                     |
-| Trickery   | [Blessing of Secrets](REL_PATH_PREFIXRules/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20SecretsREL_PATH_SUFFIX)                                       |
-| War        | [Improved Sanctified Weapon](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20WeaponREL_PATH_SUFFIX)       |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
+| Death      | [Seance](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/SeanceREL_PATH_SUFFIX)                                                   |
+| Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20WarningREL_PATH_SUFFIX)                             |
+| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
+| Life       | [Blessing of Life](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
+| Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
+| Nature     | [Wode Road](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20RoadREL_PATH_SUFFIX)                                           |
+| Protection | [Impervious Touch](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20TouchREL_PATH_SUFFIX)                             |
+| Storm      | [Windwalk](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX)                                               |
+| Sun        | [Light of Revelation](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20RevelationREL_PATH_SUFFIX)                     |
+| Trickery   | [Blessing of Secrets](REL_PATH_PREFIXRules/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20SecretsREL_PATH_SUFFIX)                                                |
+| War        | [Improved Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20WeaponREL_PATH_SUFFIX)       |
 
 ###### Blessing of Life
 
@@ -84,7 +84,7 @@ When you use your [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1s
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX) feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 

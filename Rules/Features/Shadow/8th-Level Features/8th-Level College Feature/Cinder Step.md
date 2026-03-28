@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Cinder Step
-file_dpath: Shadow/8th-Level Features/8th-Level College Feature
+file_dpath: Features/Shadow/8th-Level Features/8th-Level College Feature
 item_id: cinder-step
 item_index: '01'
 item_name: Cinder Step
@@ -25,7 +25,7 @@ metadata:
   class: shadow
   feature_type: subtrait
   file_basename: Cinder Step
-  file_dpath: Shadow/8th-Level Features/8th-Level College Feature
+  file_dpath: Features/Shadow/8th-Level Features/8th-Level College Feature
   item_id: cinder-step
   item_index: "01"
   item_name: Cinder Step
@@ -43,8 +43,8 @@ effects:
       way, it counts as using a
       [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability for
       the purpose of using your [Burning
-      Ash](REL_PATH_PREFIXRules/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20AshREL_PATH_SUFFIX)
+      Ash](REL_PATH_PREFIXRules/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20AshREL_PATH_SUFFIX)
       and [Trail of
-      Cinders](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20CindersREL_PATH_SUFFIX)
+      Cinders](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20CindersREL_PATH_SUFFIX)
       features.
 ```

@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Growing Ferocity
-file_dpath: Fury/1st-Level Features
+file_dpath: Features/Fury/1st-Level Features
 item_id: growing-ferocity
 item_index: '05'
 item_name: Growing Ferocity
@@ -25,7 +25,7 @@ metadata:
   class: fury
   feature_type: trait
   file_basename: Growing Ferocity
-  file_dpath: Fury/1st-Level Features
+  file_dpath: Features/Fury/1st-Level Features
   item_id: growing-ferocity
   item_index: "05"
   item_name: Growing Ferocity
@@ -40,7 +40,7 @@ effects:
   - effect: |-
       You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.
 
-      Some [Growing Ferocity](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) tables in this section.
+      Some [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) tables in this section.
       ###### Berserker Growing Ferocity Table
       | Ferocity        | Benefit                                                                                                                                                                                                                        |
       | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

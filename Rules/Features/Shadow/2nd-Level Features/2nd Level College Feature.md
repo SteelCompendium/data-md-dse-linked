@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: 2nd Level College Feature
-file_dpath: Shadow/2nd-Level Features
+file_dpath: Features/Shadow/2nd-Level Features
 item_id: 2nd-level-college-feature
 item_index: '03'
 item_name: 2nd-Level College Feature
@@ -25,7 +25,7 @@ metadata:
   class: shadow
   feature_type: trait
   file_basename: 2nd Level College Feature
-  file_dpath: Shadow/2nd-Level Features
+  file_dpath: Features/Shadow/2nd-Level Features
   item_id: 2nd-level-college-feature
   item_index: "03"
   item_name: 2nd-Level College Feature
@@ -41,11 +41,11 @@ effects:
       Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants you a feature, as shown on the 2nd-Level College Features table.
 
       ###### 2nd-Level College Features Table
-      | College         | Feature                                                                                                                              |
-      | --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-      | Black Ash       | [Burning Ash](REL_PATH_PREFIXRules/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20AshREL_PATH_SUFFIX)           |
-      | Caustic Alchemy | [Trained Assassin](REL_PATH_PREFIXRules/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20AssassinREL_PATH_SUFFIX) |
-      | Harlequin Mask  | Friend!                                                                                                                              |
+      | College         | Feature                                                                                                                                       |
+      | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Black Ash       | [Burning Ash](REL_PATH_PREFIXRules/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20AshREL_PATH_SUFFIX)           |
+      | Caustic Alchemy | [Trained Assassin](REL_PATH_PREFIXRules/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20AssassinREL_PATH_SUFFIX) |
+      | Harlequin Mask  | Friend!                                                                                                                                       |
       ##### Burning Ash
       The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
       ##### Friend!

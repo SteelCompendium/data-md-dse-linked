@@ -18,7 +18,7 @@ As a 9th-level [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_
 
 #### Grand Wyrding
 
-You have mastered the magic of shaping a wyrd, and can use your [Wyrding](REL_PATH_PREFIXRules/Elementalist/6th-Level%20Features/WyrdingREL_PATH_SUFFIX) feature as a main action.
+You have mastered the magic of shaping a wyrd, and can use your [Wyrding](REL_PATH_PREFIXRules/Features/Elementalist/6th-Level%20Features/WyrdingREL_PATH_SUFFIX) feature as a main action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 

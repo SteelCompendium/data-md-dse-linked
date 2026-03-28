@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Piety
-file_dpath: Conduit/1st-Level Features
+file_dpath: Features/Conduit/1st-Level Features
 item_id: piety
 item_index: '07'
 item_name: Piety
@@ -25,7 +25,7 @@ metadata:
   class: conduit
   feature_type: trait
   file_basename: Piety
-  file_dpath: Conduit/1st-Level Features
+  file_dpath: Features/Conduit/1st-Level Features
   item_id: piety
   item_index: "07"
   item_name: Piety
@@ -48,7 +48,7 @@ effects:
       - If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).
       You lose any remaining piety at the end of the encounter.
       ##### Piety Outside of Combat
-      Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+      Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
       When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX), you can use it as if you had spent an amount of piety equal to your Victories.
       ##### Domain Piety and Effects
       Your choice of domains provides you with two additional ways to earn piety during combat, as triggered by specific events. You might even have a single event trigger both your piety effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain piety from both your domains.

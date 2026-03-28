@@ -18,16 +18,16 @@ As a 3rd-level [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_
 
 #### 3rd-Level Specialization Feature
 
-Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) Features table.
+Your [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) Features table.
 
 ###### 3rd-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                               |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Earth Accepts Me](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20MeREL_PATH_SUFFIX)                                              |
-| Fire           | [A Conversation With Fire](REL_PATH_PREFIXRules/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20FireREL_PATH_SUFFIX) |
-| Green          | [Remember Growth and Sun and Rain](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20RainREL_PATH_SUFFIX)        |
-| Void           | [Distance Is Only Memory](REL_PATH_PREFIXRules/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20MemoryREL_PATH_SUFFIX)   |
+| Specialization | Feature                                                                                                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [Earth Accepts Me](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20MeREL_PATH_SUFFIX)                                                       |
+| Fire           | [A Conversation With Fire](REL_PATH_PREFIXRules/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20FireREL_PATH_SUFFIX) |
+| Green          | [Remember Growth and Sun and Rain](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20RainREL_PATH_SUFFIX)                 |
+| Void           | [Distance Is Only Memory](REL_PATH_PREFIXRules/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20MemoryREL_PATH_SUFFIX)   |
 
 ##### A Conversation With Fire
 

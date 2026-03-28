@@ -34,20 +34,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 7th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
-| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
-| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
-| Knowledge  | Gods' Library                                                                                                                                                   |
-| Life       | [Font of Grace](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
-| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
-| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
-| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
-| Storm      | [Thunderstruck](REL_PATH_PREFIXRules/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/ThunderstruckREL_PATH_SUFFIX)                                    |
-| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
-| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
-| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
+| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
+| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
+| Knowledge  | Gods' Library                                                                                                                                                            |
+| Life       | [Font of Grace](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
+| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
+| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
+| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
+| Storm      | [Thunderstruck](REL_PATH_PREFIXRules/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/ThunderstruckREL_PATH_SUFFIX)                                    |
+| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
+| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
+| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
 
 ##### Blessing of Iron
 
@@ -55,7 +55,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -74,7 +74,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](REL_PATH_PREFIXRules/Conduit/3rd-Level%20Features/Minor%20MiracleREL_PATH_SUFFIX) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](REL_PATH_PREFIXRules/Features/Conduit/3rd-Level%20Features/Minor%20MiracleREL_PATH_SUFFIX) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library
 

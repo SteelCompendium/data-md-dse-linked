@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: 8th Level Tradition Features
-file_dpath: Talent/8th-Level Features
+file_dpath: Features/Talent/8th-Level Features
 item_id: 8th-level-tradition-features
 item_index: '02'
 item_name: 8th-Level Tradition Features
@@ -25,7 +25,7 @@ metadata:
   class: talent
   feature_type: trait
   file_basename: 8th Level Tradition Features
-  file_dpath: Talent/8th-Level Features
+  file_dpath: Features/Talent/8th-Level Features
   item_id: 8th-level-tradition-features
   item_index: "02"
   item_name: 8th-Level Tradition Features
@@ -41,11 +41,11 @@ effects:
       Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
 
       ###### 8th-Level Tradition Features Table
-      | Tradition   | Features                                                                                                                                                                                                                                        |
-      | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Chronopathy | [Doubling the Hours](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Doubling%20the%20HoursREL_PATH_SUFFIX), [Stasis Shield](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/Stasis%20ShieldREL_PATH_SUFFIX) |
-      | Telekinesis | [Levitation Field](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/Levitation%20FieldREL_PATH_SUFFIX), [Low Gravity](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Low%20GravityREL_PATH_SUFFIX) |
-      | Telepathy   | [Mindlink](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/MindlinkREL_PATH_SUFFIX), [Universal Connection](REL_PATH_PREFIXRules/Talent/8th-Level%20Features/Universal%20ConnectionREL_PATH_SUFFIX)           |
+      | Tradition   | Features                                                                                                                                                                                                                                                          |
+      | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Chronopathy | [Doubling the Hours](REL_PATH_PREFIXRules/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Doubling%20the%20HoursREL_PATH_SUFFIX), [Stasis Shield](REL_PATH_PREFIXRules/Features/Talent/8th-Level%20Features/Stasis%20ShieldREL_PATH_SUFFIX) |
+      | Telekinesis | [Levitation Field](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/Levitation%20FieldREL_PATH_SUFFIX), [Low Gravity](REL_PATH_PREFIXRules/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Low%20GravityREL_PATH_SUFFIX)          |
+      | Telepathy   | [Mindlink](REL_PATH_PREFIXRules/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/MindlinkREL_PATH_SUFFIX), [Universal Connection](REL_PATH_PREFIXRules/Features/Talent/8th-Level%20Features/Universal%20ConnectionREL_PATH_SUFFIX)           |
       ##### Doubling the Hours
       While you have 5 or more Victories, you can undertake an additional respite activity during a respite.
       ##### Levitation Field
@@ -78,5 +78,5 @@ effects:
 
       Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
       ##### Mindlink
-      During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+      During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
 ```

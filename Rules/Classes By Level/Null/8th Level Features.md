@@ -26,11 +26,11 @@ Your null tradition grants you a feature, as shown on the 8th-Level Tradition Fe
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                                                |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Shared Momentum](REL_PATH_PREFIXRules/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20MomentumREL_PATH_SUFFIX)     |
-| Cryokinetic   | [Synaptic Triage](REL_PATH_PREFIXRules/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20TriageREL_PATH_SUFFIX)     |
-| Metakinetic   | [Inertial Dampener](REL_PATH_PREFIXRules/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20DampenerREL_PATH_SUFFIX) |
+| Tradition     | Feature                                                                                                                                         |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Shared Momentum](REL_PATH_PREFIXRules/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20MomentumREL_PATH_SUFFIX)     |
+| Cryokinetic   | [Synaptic Triage](REL_PATH_PREFIXRules/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20TriageREL_PATH_SUFFIX)     |
+| Metakinetic   | [Inertial Dampener](REL_PATH_PREFIXRules/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20DampenerREL_PATH_SUFFIX) |
 
 ##### Inertial Dampener
 

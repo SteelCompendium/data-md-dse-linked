@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Duelist Features
-file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature
+file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature
 item_id: duelist-features
 item_index: '02'
 item_name: Duelist Features
@@ -25,7 +25,7 @@ metadata:
   class: troubadour
   feature_type: subtrait
   file_basename: Duelist Features
-  file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature
+  file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature
   item_id: duelist-features
   item_index: "02"
   item_name: Duelist Features
@@ -43,7 +43,7 @@ effects:
       ###### Verbal Duel
       Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX), which deals psychic damage instead of its usual damage.
       ###### We Can't Be Upstaged!
-      You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+      You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
     features:
       - type: feature
         feature_type: ability

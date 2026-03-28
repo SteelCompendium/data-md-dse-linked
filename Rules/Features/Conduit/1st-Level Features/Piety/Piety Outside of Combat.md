@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Piety Outside of Combat
-file_dpath: Conduit/1st-Level Features/Piety
+file_dpath: Features/Conduit/1st-Level Features/Piety
 item_id: piety-outside-of-combat
 item_index: '22'
 item_name: Piety Outside of Combat
@@ -25,7 +25,7 @@ metadata:
   class: conduit
   feature_type: subtrait
   file_basename: Piety Outside of Combat
-  file_dpath: Conduit/1st-Level Features/Piety
+  file_dpath: Features/Conduit/1st-Level Features/Piety
   item_id: piety-outside-of-combat
   item_index: "22"
   item_name: Piety Outside of Combat
@@ -38,7 +38,7 @@ metadata:
   type: feature/subtrait/conduit/1st-level-feature
 effects:
   - effect: |-
-      Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+      Though you can't gain [piety outside of combat](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
       When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX), you can use it as if you had spent an amount of piety equal to your Victories.
 ```

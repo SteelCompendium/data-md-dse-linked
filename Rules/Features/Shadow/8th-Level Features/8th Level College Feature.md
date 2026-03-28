@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: 8th Level College Feature
-file_dpath: Shadow/8th-Level Features
+file_dpath: Features/Shadow/8th-Level Features
 item_id: 8th-level-college-feature
 item_index: '01'
 item_name: 8th-Level College Feature
@@ -25,7 +25,7 @@ metadata:
   class: shadow
   feature_type: trait
   file_basename: 8th Level College Feature
-  file_dpath: Shadow/8th-Level Features
+  file_dpath: Features/Shadow/8th-Level Features
   item_id: 8th-level-college-feature
   item_index: "01"
   item_name: 8th-Level College Feature
@@ -41,15 +41,15 @@ effects:
       Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants you a feature, as shown on the 8th-Level College Features table.
 
       ###### 8th-Level College Features Table
-      | College         | Feature                                                                                                                    |
-      | --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-      | Black Ash       | [Cinder Step](REL_PATH_PREFIXRules/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Cinder%20StepREL_PATH_SUFFIX) |
-      | Caustic Alchemy | [Time Bomb](REL_PATH_PREFIXRules/Abilities/Shadow/8th-Level%20Features/Time%20BombREL_PATH_SUFFIX)                         |
-      | Harlequin Mask  | [Parkour](REL_PATH_PREFIXRules/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/ParkourREL_PATH_SUFFIX)           |
+      | College         | Feature                                                                                                                             |
+      | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+      | Black Ash       | [Cinder Step](REL_PATH_PREFIXRules/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Cinder%20StepREL_PATH_SUFFIX) |
+      | Caustic Alchemy | [Time Bomb](REL_PATH_PREFIXRules/Abilities/Shadow/8th-Level%20Features/Time%20BombREL_PATH_SUFFIX)                                  |
+      | Harlequin Mask  | [Parkour](REL_PATH_PREFIXRules/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/ParkourREL_PATH_SUFFIX)           |
       ##### Cinder Step
-      Whenever you willingly move, you can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). When you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) this way, it counts as using a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability for the purpose of using your [Burning Ash](REL_PATH_PREFIXRules/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20AshREL_PATH_SUFFIX) and [Trail of Cinders](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20CindersREL_PATH_SUFFIX) features.
+      Whenever you willingly move, you can [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). When you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) this way, it counts as using a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability for the purpose of using your [Burning Ash](REL_PATH_PREFIXRules/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20AshREL_PATH_SUFFIX) and [Trail of Cinders](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20CindersREL_PATH_SUFFIX) features.
       ##### Parkour
-      Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20GambitREL_PATH_SUFFIX) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+      Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20GambitREL_PATH_SUFFIX) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
       ##### Time Bomb
       You have damage immunity against area abilities and effects equal to your Agility score. You also have the following ability, which you can use once per round on your turn.
     features:

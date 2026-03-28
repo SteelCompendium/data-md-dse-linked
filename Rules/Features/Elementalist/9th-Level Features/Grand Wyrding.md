@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Grand Wyrding
-file_dpath: Elementalist/9th-Level Features
+file_dpath: Features/Elementalist/9th-Level Features
 item_id: grand-wyrding
 item_index: '01'
 item_name: Grand Wyrding
@@ -25,7 +25,7 @@ metadata:
   class: elementalist
   feature_type: trait
   file_basename: Grand Wyrding
-  file_dpath: Elementalist/9th-Level Features
+  file_dpath: Features/Elementalist/9th-Level Features
   item_id: grand-wyrding
   item_index: "01"
   item_name: Grand Wyrding
@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/elementalist/9th-level-feature
 effects:
   - effect: |-
-      You have mastered the magic of shaping a wyrd, and can use your [Wyrding](REL_PATH_PREFIXRules/Elementalist/6th-Level%20Features/WyrdingREL_PATH_SUFFIX) feature as a main action.
+      You have mastered the magic of shaping a wyrd, and can use your [Wyrding](REL_PATH_PREFIXRules/Features/Elementalist/6th-Level%20Features/WyrdingREL_PATH_SUFFIX) feature as a main action.
 
       Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 ```

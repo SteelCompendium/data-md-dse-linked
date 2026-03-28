@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: 1st Level College Features
-file_dpath: Shadow/1st-Level Features
+file_dpath: Features/Shadow/1st-Level Features
 item_id: 1st-level-college-features
 item_index: '02'
 item_name: 1st-Level College Features
@@ -25,7 +25,7 @@ metadata:
   class: shadow
   feature_type: trait
   file_basename: 1st Level College Features
-  file_dpath: Shadow/1st-Level Features
+  file_dpath: Features/Shadow/1st-Level Features
   item_id: 1st-level-college-features
   item_index: "02"
   item_name: 1st-Level College Features
@@ -41,11 +41,11 @@ effects:
       Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants you one or two features, as shown on the 1st-Level College Features table.
 
       ###### 1st-Level College Features Table
-      | College         | Feature                                                                                                                                                                                                                                   |
-      | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Black Ash       | [Black Ash Teleport](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20TeleportREL_PATH_SUFFIX)                                                                                                                    |
-      | Caustic Alchemy | [Coat the Blade](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coat%20the%20BladeREL_PATH_SUFFIX), [Smoke Bomb](REL_PATH_PREFIXRules/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20BombREL_PATH_SUFFIX) |
-      | Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                             |
+      | College         | Feature                                                                                                                                                                                                                                            |
+      | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Black Ash       | [Black Ash Teleport](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20TeleportREL_PATH_SUFFIX)                                                                                                                             |
+      | Caustic Alchemy | [Coat the Blade](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coat%20the%20BladeREL_PATH_SUFFIX), [Smoke Bomb](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20BombREL_PATH_SUFFIX) |
+      | Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                      |
       ##### Black Ash Teleport
       You have the following ability.
     features:
@@ -119,5 +119,5 @@ effects:
   - effect: |-
       ##### Smoke Bomb
 
-      You always carry a supply of [smoke bombs](REL_PATH_PREFIXRules/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20BombREL_PATH_SUFFIX) to use for distractions and easy getaways. You can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+      You always carry a supply of [smoke bombs](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20BombREL_PATH_SUFFIX) to use for distractions and easy getaways. You can use the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 ```

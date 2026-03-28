@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: 3rd Level Specialization Feature
-file_dpath: Elementalist/3rd-Level Features
+file_dpath: Features/Elementalist/3rd-Level Features
 item_id: 3rd-level-specialization-feature
 item_index: '01'
 item_name: 3rd-Level Specialization Feature
@@ -25,7 +25,7 @@ metadata:
   class: elementalist
   feature_type: trait
   file_basename: 3rd Level Specialization Feature
-  file_dpath: Elementalist/3rd-Level Features
+  file_dpath: Features/Elementalist/3rd-Level Features
   item_id: 3rd-level-specialization-feature
   item_index: "01"
   item_name: 3rd-Level Specialization Feature
@@ -38,15 +38,15 @@ metadata:
   type: feature/trait/elementalist/3rd-level-feature
 effects:
   - effect: |-
-      Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) Features table.
+      Your [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) Features table.
 
       ###### 3rd-Level Elemental Specialization Features Table
-      | Specialization | Feature                                                                                                                                                               |
-      | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Earth          | [Earth Accepts Me](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20MeREL_PATH_SUFFIX)                                              |
-      | Fire           | [A Conversation With Fire](REL_PATH_PREFIXRules/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20FireREL_PATH_SUFFIX) |
-      | Green          | [Remember Growth and Sun and Rain](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20RainREL_PATH_SUFFIX)        |
-      | Void           | [Distance Is Only Memory](REL_PATH_PREFIXRules/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20MemoryREL_PATH_SUFFIX)   |
+      | Specialization | Feature                                                                                                                                                                        |
+      | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+      | Earth          | [Earth Accepts Me](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20MeREL_PATH_SUFFIX)                                                       |
+      | Fire           | [A Conversation With Fire](REL_PATH_PREFIXRules/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20FireREL_PATH_SUFFIX) |
+      | Green          | [Remember Growth and Sun and Rain](REL_PATH_PREFIXRules/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20RainREL_PATH_SUFFIX)                 |
+      | Void           | [Distance Is Only Memory](REL_PATH_PREFIXRules/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20MemoryREL_PATH_SUFFIX)   |
       ##### A Conversation With Fire
       When you spend 1 uninterrupted minute in front of a fire, you can speak the name of another creature. If that creature is willing to speak to you, their image appears in the fire, and they can see you before them in a shimmering ball of light. The two of you can speak to each other through these images as if you were together in person. As a maneuver, you or the creature can end the conversation.
       ##### Distance Is Only Memory

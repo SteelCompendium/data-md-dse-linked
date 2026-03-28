@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Improved Sanctified Weapon
-file_dpath: Conduit/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Conduit/4th-Level Features/4th-Level Domain Feature
 item_id: improved-sanctified-weapon
 item_index: '05'
 item_name: Improved Sanctified Weapon
@@ -25,7 +25,7 @@ metadata:
   class: conduit
   feature_type: subtrait
   file_basename: Improved Sanctified Weapon
-  file_dpath: Conduit/4th-Level Features/4th-Level Domain Feature
+  file_dpath: Features/Conduit/4th-Level Features/4th-Level Domain Feature
   item_id: improved-sanctified-weapon
   item_index: "05"
   item_name: Improved Sanctified Weapon
@@ -38,6 +38,6 @@ metadata:
   type: feature/subtrait/conduit/4th-level-feature
 effects:
   - effect: The weapon improved by your [Sanctified
-      Weapon](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)
+      Weapon](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)
       feature grants a +3 bonus to rolled damage instead of +1.
 ```

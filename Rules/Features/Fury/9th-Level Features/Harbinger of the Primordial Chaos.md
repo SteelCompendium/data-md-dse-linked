@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Harbinger of the Primordial Chaos
-file_dpath: Fury/9th-Level Features
+file_dpath: Features/Fury/9th-Level Features
 item_id: harbinger-of-the-primordial-chaos
 item_index: '02'
 item_name: Harbinger of the Primordial Chaos
@@ -25,7 +25,7 @@ metadata:
   class: fury
   feature_type: trait
   file_basename: Harbinger of the Primordial Chaos
-  file_dpath: Fury/9th-Level Features
+  file_dpath: Features/Fury/9th-Level Features
   item_id: harbinger-of-the-primordial-chaos
   item_index: "02"
   item_name: Harbinger of the Primordial Chaos
@@ -40,7 +40,7 @@ effects:
   - effect: You can create a temporary source of elemental power as a respite
       activity. This source of elemental power lasts 24 hours after creation,
       and can be used to create a portal to Quintessence with your [Primordial
-      Portal](REL_PATH_PREFIXRules/Fury/6th-Level%20Features/Primordial%20PortalREL_PATH_SUFFIX)
+      Portal](REL_PATH_PREFIXRules/Features/Fury/6th-Level%20Features/Primordial%20PortalREL_PATH_SUFFIX)
       feature. If you do so, the source of elemental power lasts as long as the
       portal is maintained in your network.
 ```

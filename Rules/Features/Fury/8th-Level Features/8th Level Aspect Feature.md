@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 8th Level Aspect Feature
-file_dpath: Fury/8th-Level Features
+file_dpath: Features/Fury/8th-Level Features
 item_id: 8th-level-aspect-feature
 item_index: '02'
 item_name: 8th-Level Aspect Feature
@@ -25,7 +25,7 @@ metadata:
   class: fury
   feature_type: trait
   file_basename: 8th Level Aspect Feature
-  file_dpath: Fury/8th-Level Features
+  file_dpath: Features/Fury/8th-Level Features
   item_id: 8th-level-aspect-feature
   item_index: "02"
   item_name: 8th-Level Aspect Feature
@@ -38,16 +38,16 @@ metadata:
   type: feature/trait/fury/8th-level-feature
 effects:
   - effect: |-
-      Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 8th-Level Aspect Features table.
+      Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
       ###### 8th-Level Aspect Features Table
-      | Aspect     | Feature                                                                                                                                 |
-      | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-      | Berserker  | [Strongest There Is](REL_PATH_PREFIXRules/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20IsREL_PATH_SUFFIX) |
-      | Reaver     | [A Step Ahead](REL_PATH_PREFIXRules/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20AheadREL_PATH_SUFFIX)             |
-      | Stormwight | [Menagerie](REL_PATH_PREFIXRules/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/MenagerieREL_PATH_SUFFIX)                       |
+      | Aspect     | Feature                                                                                                                                          |
+      | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+      | Berserker  | [Strongest There Is](REL_PATH_PREFIXRules/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20IsREL_PATH_SUFFIX) |
+      | Reaver     | [A Step Ahead](REL_PATH_PREFIXRules/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20AheadREL_PATH_SUFFIX)             |
+      | Stormwight | [Menagerie](REL_PATH_PREFIXRules/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/MenagerieREL_PATH_SUFFIX)                       |
       ##### Menagerie
-      You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+      You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](REL_PATH_PREFIXRules/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
       ##### A Step Ahead
       You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action, the distance you can shift gains a bonus equal to your Agility score.
       ##### Strongest There Is

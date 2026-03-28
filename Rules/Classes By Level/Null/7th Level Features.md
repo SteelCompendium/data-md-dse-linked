@@ -22,11 +22,11 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](REL_PATH_PREFIXRules/Null/1st-Level%20Features/Discipline%20MasteryREL_PATH_SUFFIX) feature provides additional benefits when you have 10 or more discipline.
+Your [Discipline Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20MasteryREL_PATH_SUFFIX) feature provides additional benefits when you have 10 or more discipline.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to it and enhance its effects. A [psi boost](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to it and enhance its effects. A [psi boost](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX).
 
 ##### Dynamic Power (1 Discipline)
 

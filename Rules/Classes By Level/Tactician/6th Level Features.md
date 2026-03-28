@@ -26,7 +26,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 #### 6th-Level Doctrine Ability
 
-Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Insurgent Abilities
 

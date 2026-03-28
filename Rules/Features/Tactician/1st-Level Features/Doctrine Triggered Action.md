@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Doctrine Triggered Action
-file_dpath: Tactician/1st-Level Features
+file_dpath: Features/Tactician/1st-Level Features
 item_id: doctrine-triggered-action
 item_index: '03'
 item_name: Doctrine Triggered Action
@@ -25,7 +25,7 @@ metadata:
   class: tactician
   feature_type: trait
   file_basename: Doctrine Triggered Action
-  file_dpath: Tactician/1st-Level Features
+  file_dpath: Features/Tactician/1st-Level Features
   item_id: doctrine-triggered-action
   item_index: "03"
   item_name: Doctrine Triggered Action
@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/tactician/1st-level-feature
 effects:
   - effect: |-
-      Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Doctrine Triggered Actions](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Doctrine%20Triggered%20ActionREL_PATH_SUFFIX) table.
+      Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Doctrine Triggered Actions](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Doctrine%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
       ###### Doctrine Triggered Actions Table
       | Doctrine   | Triggered Action                                                                                                    |

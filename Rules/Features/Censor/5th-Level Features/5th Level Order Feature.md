@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: 5th Level Order Feature
-file_dpath: Censor/5th-Level Features
+file_dpath: Features/Censor/5th-Level Features
 item_id: 5th-level-order-feature
 item_index: '01'
 item_name: 5th-Level Order Feature
@@ -25,7 +25,7 @@ metadata:
   class: censor
   feature_type: trait
   file_basename: 5th Level Order Feature
-  file_dpath: Censor/5th-Level Features
+  file_dpath: Features/Censor/5th-Level Features
   item_id: 5th-level-order-feature
   item_index: "01"
   item_name: 5th-Level Order Feature
@@ -41,11 +41,11 @@ effects:
       Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants you a feature, as shown on the 5th-Level Order Features table.
 
       ###### 5th-Level Order Features Table
-      | Order    | Feature                                                                                                                      |
-      | -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-      | Exorcist | [Evil Revealed](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20RevealedREL_PATH_SUFFIX) |
-      | Oracle   | Prophecy                                                                                                                     |
-      | Paragon  | Stand Fast!                                                                                                                  |
+      | Order    | Feature                                                                                                                               |
+      | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+      | Exorcist | [Evil Revealed](REL_PATH_PREFIXRules/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20RevealedREL_PATH_SUFFIX) |
+      | Oracle   | Prophecy                                                                                                                              |
+      | Paragon  | Stand Fast!                                                                                                                           |
       ##### Evil Revealed
       Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your Judgment ability against them as a free triggered action.
       ##### Prophecy

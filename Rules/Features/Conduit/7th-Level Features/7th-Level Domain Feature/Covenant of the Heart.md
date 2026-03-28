@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Covenant of the Heart
-file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
+file_dpath: Features/Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: covenant-of-the-heart
 item_index: '07'
 item_name: Covenant of the Heart
@@ -25,7 +25,7 @@ metadata:
   class: conduit
   feature_type: subtrait
   file_basename: Covenant of the Heart
-  file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
+  file_dpath: Features/Conduit/7th-Level Features/7th-Level Domain Feature
   item_id: covenant-of-the-heart
   item_index: "07"
   item_name: Covenant of the Heart
@@ -39,7 +39,7 @@ metadata:
 effects:
   - effect: You can maintain bonds with up to three willing creatures using your
       [Invocation of the
-      Heart](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)
+      Heart](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)
       feature. Additionally, you have the following ability.
     features:
       - type: feature

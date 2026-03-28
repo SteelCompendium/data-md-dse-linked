@@ -26,11 +26,11 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                                                        |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20ProcessingREL_PATH_SUFFIX)           |
-| Cryokinetic   | [Entropic Adaptability](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20AdaptabilityREL_PATH_SUFFIX) |
-| Metakinetic   | [Inertial Sink](REL_PATH_PREFIXRules/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20SinkREL_PATH_SUFFIX)                 |
+| Tradition     | Feature                                                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Rapid Processing](REL_PATH_PREFIXRules/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20ProcessingREL_PATH_SUFFIX)           |
+| Cryokinetic   | [Entropic Adaptability](REL_PATH_PREFIXRules/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20AdaptabilityREL_PATH_SUFFIX) |
+| Metakinetic   | [Inertial Sink](REL_PATH_PREFIXRules/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20SinkREL_PATH_SUFFIX)                 |
 
 ##### Entropic Adaptability
 

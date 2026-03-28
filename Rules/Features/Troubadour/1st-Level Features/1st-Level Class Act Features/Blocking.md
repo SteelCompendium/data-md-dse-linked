@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Blocking
-file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
+file_dpath: Features/Troubadour/1st-Level Features/1st-Level Class Act Features
 item_id: blocking
 item_index: '01'
 item_name: Blocking
@@ -25,7 +25,7 @@ metadata:
   class: troubadour
   feature_type: subtrait
   file_basename: Blocking
-  file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
+  file_dpath: Features/Troubadour/1st-Level Features/1st-Level Class Act Features
   item_id: blocking
   item_index: "01"
   item_name: Blocking
@@ -38,7 +38,7 @@ metadata:
   type: feature/subtrait/troubadour/1st-level-feature
 effects:
   - effect: You have the following performance ability, which is usable with your
-      [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX)
+      [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX)
       feature.
     features:
       - type: feature

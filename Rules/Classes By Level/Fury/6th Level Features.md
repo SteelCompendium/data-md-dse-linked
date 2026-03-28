@@ -20,7 +20,7 @@ As a 6th-level [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), you gai
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](REL_PATH_PREFIXRules/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](REL_PATH_PREFIXRules/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](REL_PATH_PREFIXRules/Conditions/FrightenedREL_PATH_SUFFIX) of you (save ends).
 
 #### Primordial Portal
 
@@ -34,7 +34,7 @@ You gain one crafting, exploration, or intrigue perk of your choice.
 
 #### 6th-Level Aspect Ability
 
-Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
+Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Berserker Abilities
 

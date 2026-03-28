@@ -28,7 +28,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-You choose an [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) from the following options: earth, fire, green, or void. Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) will be featured in future products.) (*Quick Build:* Fire.)
+You choose an [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) from the following options: earth, fire, green, or void. Your [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) will be featured in future products.) (*Quick Build:* Fire.)
 
 ##### Earth: Acolyte of Earth
 
@@ -60,9 +60,9 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see [Persistent Magic](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Persistent%20MagicREL_PATH_SUFFIX) below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Persistent%20MagicREL_PATH_SUFFIX) below), you can maintain it for a number of rounds equal to your Victories.
 
 When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.
 
@@ -118,16 +118,16 @@ You have the following ability.
 
 #### 1st-Level Specialization Feature
 
-Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a feature, as shown on the 1st-Level [Elemental Specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) Features table.
+Your [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a feature, as shown on the 1st-Level [Elemental Specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) Features table.
 
 ###### 1st-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                                       |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Motivate%20EarthREL_PATH_SUFFIX)                                                            |
-| Fire           | [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX)                                          |
-| Green          | [It Is the Soul Which Hears](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20HearsREL_PATH_SUFFIX) |
-| Void           | [A Beyonding of Vision](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20VisionREL_PATH_SUFFIX)               |
+| Specialization | Feature                                                                                                                                                                                |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Motivate Earth](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Motivate%20EarthREL_PATH_SUFFIX)                                                                     |
+| Fire           | [Return to Formlessness](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Return%20to%20FormlessnessREL_PATH_SUFFIX)                                                   |
+| Green          | [It Is the Soul Which Hears](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20HearsREL_PATH_SUFFIX) |
+| Void           | [A Beyonding of Vision](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20VisionREL_PATH_SUFFIX)               |
 
 ##### A Beyonding of Vision
 
@@ -186,7 +186,7 @@ You have the following ability.
 
 #### Specialization Triggered Action
 
-Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Specialization Triggered Actions](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Specialization%20Triggered%20ActionREL_PATH_SUFFIX) table.
+Your [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Specialization Triggered Actions](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Specialization%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
 ###### Elemental Specialization Triggered Actions Table
 
@@ -259,7 +259,7 @@ Your [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Fe
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20DestructionREL_PATH_SUFFIX).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20DestructionREL_PATH_SUFFIX).)
 
 ##### Enchantment of Battle
 
@@ -285,7 +285,7 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20ReactivityREL_PATH_SUFFIX).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20ReactivityREL_PATH_SUFFIX).)
 
 ##### Ward of Delightful Consequences
 
@@ -305,7 +305,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 #### Elementalist Abilities
 
-Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
 ##### Signature Abilities
 

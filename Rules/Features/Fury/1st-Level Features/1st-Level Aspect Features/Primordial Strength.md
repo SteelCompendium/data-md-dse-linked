@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Primordial Strength
-file_dpath: Fury/1st-Level Features/1st-Level Aspect Features
+file_dpath: Features/Fury/1st-Level Features/1st-Level Aspect Features
 item_id: primordial-strength
 item_index: '07'
 item_name: Primordial Strength
@@ -25,7 +25,7 @@ metadata:
   class: fury
   feature_type: subtrait
   file_basename: Primordial Strength
-  file_dpath: Fury/1st-Level Features/1st-Level Aspect Features
+  file_dpath: Features/Fury/1st-Level Features/1st-Level Aspect Features
   item_id: primordial-strength
   item_index: "07"
   item_name: Primordial Strength
@@ -40,5 +40,5 @@ effects:
   - effect: |-
       Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
 
-      As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+      As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 ```

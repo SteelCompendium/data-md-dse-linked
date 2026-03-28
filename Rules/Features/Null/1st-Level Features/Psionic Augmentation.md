@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Psionic Augmentation
-file_dpath: Null/1st-Level Features
+file_dpath: Features/Null/1st-Level Features
 item_id: psionic-augmentation
 item_index: 08
 item_name: Psionic Augmentation
@@ -25,7 +25,7 @@ metadata:
   class: "null"
   feature_type: trait
   file_basename: Psionic Augmentation
-  file_dpath: Null/1st-Level Features
+  file_dpath: Features/Null/1st-Level Features
   item_id: psionic-augmentation
   item_index: 8
   item_name: Psionic Augmentation
@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/null/1st-level-feature
 effects:
   - effect: |-
-      Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20AugmentationREL_PATH_SUFFIX).)
+      Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20AugmentationREL_PATH_SUFFIX).)
 
       ##### Density Augmentation
       You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).

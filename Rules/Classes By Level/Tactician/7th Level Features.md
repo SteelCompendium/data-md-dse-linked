@@ -34,15 +34,15 @@ You gain one skill of your choice.
 
 #### 7th-Level Doctrine Feature
 
-Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 7th-Level Doctrine Features table.
+Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
 ###### 7th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                      |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Asymmetric Warfare](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20WarfareREL_PATH_SUFFIX) |
-| Mastermind | [Grand Strategy](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20StrategyREL_PATH_SUFFIX)         |
-| Vanguard   | [Shock and Awe](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20AweREL_PATH_SUFFIX)         |
+| Doctrine   | Feature                                                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Asymmetric Warfare](REL_PATH_PREFIXRules/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20WarfareREL_PATH_SUFFIX) |
+| Mastermind | [Grand Strategy](REL_PATH_PREFIXRules/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20StrategyREL_PATH_SUFFIX)         |
+| Vanguard   | [Shock and Awe](REL_PATH_PREFIXRules/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20AweREL_PATH_SUFFIX)         |
 
 ##### Asymmetric Warfare
 

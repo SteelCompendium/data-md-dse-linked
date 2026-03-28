@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Spotlight
-file_dpath: Troubadour/6th-Level Features
+file_dpath: Features/Troubadour/6th-Level Features
 item_id: spotlight
 item_index: '01'
 item_name: Spotlight
@@ -25,7 +25,7 @@ metadata:
   class: troubadour
   feature_type: trait
   file_basename: Spotlight
-  file_dpath: Troubadour/6th-Level Features
+  file_dpath: Features/Troubadour/6th-Level Features
   item_id: spotlight
   item_index: "01"
   item_name: Spotlight
@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/troubadour/6th-level-feature
 effects:
   - effect: You have the following performance ability, which is usable with your
-      [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX)
+      [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX)
       feature.
     features:
       - type: feature

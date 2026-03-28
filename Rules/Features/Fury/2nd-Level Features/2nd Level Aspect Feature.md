@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 2nd Level Aspect Feature
-file_dpath: Fury/2nd-Level Features
+file_dpath: Features/Fury/2nd-Level Features
 item_id: 2nd-level-aspect-feature
 item_index: '02'
 item_name: 2nd-Level Aspect Feature
@@ -25,7 +25,7 @@ metadata:
   class: fury
   feature_type: trait
   file_basename: 2nd Level Aspect Feature
-  file_dpath: Fury/2nd-Level Features
+  file_dpath: Features/Fury/2nd-Level Features
   item_id: 2nd-level-aspect-feature
   item_index: "02"
   item_name: 2nd-Level Aspect Feature
@@ -38,14 +38,14 @@ metadata:
   type: feature/trait/fury/2nd-level-feature
 effects:
   - effect: |-
-      Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Aspect Features table.
+      Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
       ###### 2nd-Level Aspect Features Table
-      | Aspect     | Feature                                                                                                                             |
-      | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-      | Berserker  | [Unstoppable Force](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20ForceREL_PATH_SUFFIX) |
-      | Reaver     | [Inescapable Wrath](REL_PATH_PREFIXRules/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20WrathREL_PATH_SUFFIX) |
-      | Stormwight | Tooth and Claw                                                                                                                      |
+      | Aspect     | Feature                                                                                                                                      |
+      | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Berserker  | [Unstoppable Force](REL_PATH_PREFIXRules/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20ForceREL_PATH_SUFFIX) |
+      | Reaver     | [Inescapable Wrath](REL_PATH_PREFIXRules/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20WrathREL_PATH_SUFFIX) |
+      | Stormwight | Tooth and Claw                                                                                                                               |
       ##### Inescapable Wrath
       You have a bonus to speed equal to your Agility score, and you ignore difficult terrain.
       ##### Tooth and Claw

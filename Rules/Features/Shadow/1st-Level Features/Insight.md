@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Insight
-file_dpath: Shadow/1st-Level Features
+file_dpath: Features/Shadow/1st-Level Features
 item_id: insight
 item_index: '05'
 item_name: Insight
@@ -25,7 +25,7 @@ metadata:
   class: shadow
   feature_type: trait
   file_basename: Insight
-  file_dpath: Shadow/1st-Level Features
+  file_dpath: Features/Shadow/1st-Level Features
   item_id: insight
   item_index: "05"
   item_name: Insight
@@ -46,6 +46,6 @@ effects:
       Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.
       You lose any remaining insight at the end of the encounter.
       ##### Insight Outside of Combat
-      Although you can't gain [insight outside of combat](REL_PATH_PREFIXRules/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+      Although you can't gain [insight outside of combat](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
       When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), you can use it as if you had spent an amount of insight equal to your Victories.
 ```

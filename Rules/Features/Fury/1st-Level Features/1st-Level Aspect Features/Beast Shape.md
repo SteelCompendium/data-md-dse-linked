@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Beast Shape
-file_dpath: Fury/1st-Level Features/1st-Level Aspect Features
+file_dpath: Features/Fury/1st-Level Features/1st-Level Aspect Features
 item_id: beast-shape
 item_index: '06'
 item_name: Beast Shape
@@ -25,7 +25,7 @@ metadata:
   class: fury
   feature_type: subtrait
   file_basename: Beast Shape
-  file_dpath: Fury/1st-Level Features/1st-Level Aspect Features
+  file_dpath: Features/Fury/1st-Level Features/1st-Level Aspect Features
   item_id: beast-shape
   item_index: "06"
   item_name: Beast Shape
@@ -40,6 +40,6 @@ effects:
   - effect: You can use and gain the benefits of a stormwight kit (see Stormwight
       Kits). Your stormwight kit grants you a number of benefits, including
       benefits tied to your [Growing
-      Ferocity](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX)
+      Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX)
       feature.
 ```

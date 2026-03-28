@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Growing Ferocity Improvement
-file_dpath: Fury/10th-Level Features
+file_dpath: Features/Fury/10th-Level Features
 item_id: growing-ferocity-improvement
 item_index: '07'
 item_name: Growing Ferocity Improvement
@@ -25,7 +25,7 @@ metadata:
   class: fury
   feature_type: trait
   file_basename: Growing Ferocity Improvement
-  file_dpath: Fury/10th-Level Features
+  file_dpath: Features/Fury/10th-Level Features
   item_id: growing-ferocity-improvement
   item_index: "07"
   item_name: Growing Ferocity Improvement
@@ -38,6 +38,6 @@ metadata:
   type: feature/trait/fury/10th-level-feature
 effects:
   - effect: Your [Growing
-      Ferocity](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX)
+      Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX)
       feature provides additional benefits when you have 12 or more ferocity.
 ```

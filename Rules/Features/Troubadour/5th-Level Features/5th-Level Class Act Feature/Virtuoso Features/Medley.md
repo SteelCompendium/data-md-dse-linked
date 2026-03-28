@@ -3,7 +3,8 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Medley
-file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso Features
+file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso
+  Features
 item_id: medley
 item_index: '07'
 item_name: Medley
@@ -25,7 +26,8 @@ metadata:
   class: troubadour
   feature_type: subtrait
   file_basename: Medley
-  file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso Features
+  file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act
+    Feature/Virtuoso Features
   item_id: medley
   item_index: "07"
   item_name: Medley
@@ -38,6 +40,6 @@ metadata:
   type: feature/subtrait/troubadour/5th-level-feature
 effects:
   - effect: You can maintain two performances at a time using your
-      [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX)
+      [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX)
       feature.
 ```

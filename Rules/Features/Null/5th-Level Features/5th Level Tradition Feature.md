@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: 5th Level Tradition Feature
-file_dpath: Null/5th-Level Features
+file_dpath: Features/Null/5th-Level Features
 item_id: 5th-level-tradition-feature
 item_index: '03'
 item_name: 5th-Level Tradition Feature
@@ -25,7 +25,7 @@ metadata:
   class: "null"
   feature_type: trait
   file_basename: 5th Level Tradition Feature
-  file_dpath: Null/5th-Level Features
+  file_dpath: Features/Null/5th-Level Features
   item_id: 5th-level-tradition-feature
   item_index: "03"
   item_name: 5th-Level Tradition Feature
@@ -41,9 +41,9 @@ effects:
       Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
       ###### 5th-Level Tradition Features Table
-      | Tradition     | Feature                                                                                                  |
-      | ------------- | -------------------------------------------------------------------------------------------------------- |
-      | Chronokinetic | [Instant Action](REL_PATH_PREFIXRules/Null/5th-Level%20Features/Instant%20ActionREL_PATH_SUFFIX)         |
-      | Cryokinetic   | [Chilling Readiness](REL_PATH_PREFIXRules/Null/5th-Level%20Features/Chilling%20ReadinessREL_PATH_SUFFIX) |
-      | Metakinetic   | [Inertial Fulcrum](REL_PATH_PREFIXRules/Null/5th-Level%20Features/Inertial%20FulcrumREL_PATH_SUFFIX)     |
+      | Tradition     | Feature                                                                                                           |
+      | ------------- | ----------------------------------------------------------------------------------------------------------------- |
+      | Chronokinetic | [Instant Action](REL_PATH_PREFIXRules/Features/Null/5th-Level%20Features/Instant%20ActionREL_PATH_SUFFIX)         |
+      | Cryokinetic   | [Chilling Readiness](REL_PATH_PREFIXRules/Features/Null/5th-Level%20Features/Chilling%20ReadinessREL_PATH_SUFFIX) |
+      | Metakinetic   | [Inertial Fulcrum](REL_PATH_PREFIXRules/Features/Null/5th-Level%20Features/Inertial%20FulcrumREL_PATH_SUFFIX)     |
 ```

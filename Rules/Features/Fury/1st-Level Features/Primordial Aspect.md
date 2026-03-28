@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Primordial Aspect
-file_dpath: Fury/1st-Level Features
+file_dpath: Features/Fury/1st-Level Features
 item_id: primordial-aspect
 item_index: '01'
 item_name: Primordial Aspect
@@ -25,7 +25,7 @@ metadata:
   class: fury
   feature_type: trait
   file_basename: Primordial Aspect
-  file_dpath: Fury/1st-Level Features
+  file_dpath: Features/Fury/1st-Level Features
   item_id: primordial-aspect
   item_index: "01"
   item_name: Primordial Aspect
@@ -42,11 +42,11 @@ effects:
       passage that revealed the building blocks of the timescape—the Primordial
       Chaos—and that left an aspect of that chaos inside you. You choose a
       [primordial
-      aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX)
+      aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX)
       from the following options, each of which grants you a skill. (*Quick
       Build:* Berserker.)
   - effect: Your [primordial
-      aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX)
+      aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX)
       is your subclass, and your choice of aspect determines many of the
       features you'll gain as you gain new levels.
 ```

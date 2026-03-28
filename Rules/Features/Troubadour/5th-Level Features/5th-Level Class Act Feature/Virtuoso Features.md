@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Virtuoso Features
-file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature
+file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature
 item_id: virtuoso-features
 item_index: '03'
 item_name: Virtuoso Features
@@ -25,7 +25,7 @@ metadata:
   class: troubadour
   feature_type: subtrait
   file_basename: Virtuoso Features
-  file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature
+  file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature
   item_id: virtuoso-features
   item_index: "03"
   item_name: Virtuoso Features
@@ -43,5 +43,5 @@ effects:
       ###### Bolstering Banter
       Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a Recovery to gain temporary Stamina equal to their recovery value.
       ###### Medley
-      You can maintain two performances at a time using your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+      You can maintain two performances at a time using your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 ```

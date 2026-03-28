@@ -51,18 +51,18 @@ As a [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), you're at you
 
 ###### Censor Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                          | Abilities                 | Order<br/> Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
-| 1st   | [Censor Order](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/Censor%20OrderREL_PATH_SUFFIX), [Deity and Domains](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Deity%20and%20DomainsREL_PATH_SUFFIX), Wrath, Judgment, Kit, [My Life for Yours](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX), Domain Feature, [Censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) Abilities | Signature, 3, 5           | -                    |
-| 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5           | 5                    |
-| 3rd   | [Look On My Work and Despair](REL_PATH_PREFIXRules/Censor/3rd-Level%20Features/Look%20On%20My%20Work%20and%20DespairREL_PATH_SUFFIX), 7-Wrath Ability                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7        | 5                    |
-| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/Wrath%20Beyond%20WrathREL_PATH_SUFFIX), Domain Feature                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7        | 5                    |
-| 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7, 9     | 5                    |
-| 6th   | [Implement of Wrath](REL_PATH_PREFIXRules/Censor/6th-Level%20Features/Implement%20of%20WrathREL_PATH_SUFFIX), Perk, Order Ability                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/Focused%20WrathREL_PATH_SUFFIX), Skill                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
-| 9th   | [Improved Implement of Wrath](REL_PATH_PREFIXRules/Censor/9th-Level%20Features/Improved%20Implement%20of%20WrathREL_PATH_SUFFIX), Order Ability                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
-| 10th  | Characteristic Increase, Perk, Skill, [Templar](REL_PATH_PREFIXRules/Censor/10th-Level%20Features/TemplarREL_PATH_SUFFIX), Virtue, [Wrath of the Gods](REL_PATH_PREFIXRules/Censor/10th-Level%20Features/Wrath%20of%20the%20GodsREL_PATH_SUFFIX)                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                 | Order<br/> Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
+| 1st   | [Censor Order](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/Censor%20OrderREL_PATH_SUFFIX), [Deity and Domains](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Deity%20and%20DomainsREL_PATH_SUFFIX), Wrath, Judgment, Kit, [My Life for Yours](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX), Domain Feature, [Censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) Abilities | Signature, 3, 5           | -                    |
+| 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5           | 5                    |
+| 3rd   | [Look On My Work and Despair](REL_PATH_PREFIXRules/Features/Censor/3rd-Level%20Features/Look%20On%20My%20Work%20and%20DespairREL_PATH_SUFFIX), 7-Wrath Ability                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7        | 5                    |
+| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/Wrath%20Beyond%20WrathREL_PATH_SUFFIX), Domain Feature                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7        | 5                    |
+| 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5                    |
+| 6th   | [Implement of Wrath](REL_PATH_PREFIXRules/Features/Censor/6th-Level%20Features/Implement%20of%20WrathREL_PATH_SUFFIX), Perk, Order Ability                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/Focused%20WrathREL_PATH_SUFFIX), Skill                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
+| 9th   | [Improved Implement of Wrath](REL_PATH_PREFIXRules/Features/Censor/9th-Level%20Features/Improved%20Implement%20of%20WrathREL_PATH_SUFFIX), Order Ability                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| 10th  | Characteristic Increase, Perk, Skill, [Templar](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/TemplarREL_PATH_SUFFIX), Virtue, [Wrath of the Gods](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/Wrath%20of%20the%20GodsREL_PATH_SUFFIX)                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
 
 ### 1st-Level Features
 
@@ -98,7 +98,7 @@ You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [wrath outside of combat](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), but they might appear in future products.)
 
@@ -167,20 +167,20 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](R
 
 ###### 1st-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                           | Skill Group   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20MakerREL_PATH_SUFFIX)                                         | Crafting      |
-| Death      | [Grave Speech](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Grave%20SpeechREL_PATH_SUFFIX)                                                         | Lore          |
-| Fate       | [Oracular Visions](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20VisionsREL_PATH_SUFFIX)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20ComprehensionREL_PATH_SUFFIX)           | Lore          |
-| Life       | [Revitalizing Ritual](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
-| Love       | [Blessing of Compassion](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
-| Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Faithful%20FriendREL_PATH_SUFFIX)                                                   | Exploration   |
-| Protection | Protective Circle                                                                                                                                                 | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
-| Sun        | [Inner Light](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
-| Trickery   | [Inspired Deception](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
-| War        | [Sanctified Weapon](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)                             | Exploration   |
+| Domain     | Feature                                                                                                                                                                    | Skill Group   |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation   | [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20MakerREL_PATH_SUFFIX)                                                  | Crafting      |
+| Death      | [Grave Speech](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Grave%20SpeechREL_PATH_SUFFIX)                                                                  | Lore          |
+| Fate       | [Oracular Visions](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20VisionsREL_PATH_SUFFIX)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20ComprehensionREL_PATH_SUFFIX)           | Lore          |
+| Life       | [Revitalizing Ritual](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
+| Love       | [Blessing of Compassion](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
+| Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Faithful%20FriendREL_PATH_SUFFIX)                                                            | Exploration   |
+| Protection | Protective Circle                                                                                                                                                          | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
+| Sun        | [Inner Light](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
+| Trickery   | [Inspired Deception](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
+| War        | [Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -507,11 +507,11 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                                                                                                        |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20VigilanceREL_PATH_SUFFIX), [A Sense for Truth](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20TruthREL_PATH_SUFFIX) |
-| Oracle   | [It Was Foretold](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20ForetoldREL_PATH_SUFFIX), [Judge of Character](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20CharacterREL_PATH_SUFFIX)  |
-| Paragon  | [Lead by Example](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20ExampleREL_PATH_SUFFIX), [Stalwart Icon](REL_PATH_PREFIXRules/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20IconREL_PATH_SUFFIX)              |
+| Order    | Features                                                                                                                                                                                                                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Saint's Vigilance](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20VigilanceREL_PATH_SUFFIX), [A Sense for Truth](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20TruthREL_PATH_SUFFIX) |
+| Oracle   | [It Was Foretold](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20ForetoldREL_PATH_SUFFIX), [Judge of Character](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20CharacterREL_PATH_SUFFIX)  |
+| Paragon  | [Lead by Example](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20ExampleREL_PATH_SUFFIX), [Stalwart Icon](REL_PATH_PREFIXRules/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20IconREL_PATH_SUFFIX)              |
 
 ##### It Was Foretold
 
@@ -715,20 +715,20 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](R
 
 ###### 4th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
-| Death      | [Seance](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/SeanceREL_PATH_SUFFIX)                                                   |
-| Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20WarningREL_PATH_SUFFIX)                             |
-| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
-| Life       | [Blessing of Life](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
-| Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
-| Nature     | [Wode Road](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20RoadREL_PATH_SUFFIX)                                           |
-| Protection | [Impervious Touch](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20TouchREL_PATH_SUFFIX)                             |
-| Storm      | [Windwalk](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX)                                               |
-| Sun        | [Light of Revelation](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20RevelationREL_PATH_SUFFIX)                     |
-| Trickery   | [Blessing of Secrets](REL_PATH_PREFIXRules/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20SecretsREL_PATH_SUFFIX)                                       |
-| War        | [Improved Sanctified Weapon](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20WeaponREL_PATH_SUFFIX)       |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
+| Death      | [Seance](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/SeanceREL_PATH_SUFFIX)                                                   |
+| Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20WarningREL_PATH_SUFFIX)                             |
+| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
+| Life       | [Blessing of Life](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
+| Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
+| Nature     | [Wode Road](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20RoadREL_PATH_SUFFIX)                                           |
+| Protection | [Impervious Touch](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20TouchREL_PATH_SUFFIX)                             |
+| Storm      | [Windwalk](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX)                                               |
+| Sun        | [Light of Revelation](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20RevelationREL_PATH_SUFFIX)                     |
+| Trickery   | [Blessing of Secrets](REL_PATH_PREFIXRules/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20SecretsREL_PATH_SUFFIX)                                                |
+| War        | [Improved Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20WeaponREL_PATH_SUFFIX)       |
 
 ##### Blessing of Life
 
@@ -761,7 +761,7 @@ When you use your [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1s
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX) feature grants a +3 bonus to rolled damage instead of +1.
 
 ##### Invocation of the Heart
 
@@ -801,11 +801,11 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ###### 5th-Level Order Features Table
 
-| Order    | Feature                                                                                                                      |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Evil Revealed](REL_PATH_PREFIXRules/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20RevealedREL_PATH_SUFFIX) |
-| Oracle   | Prophecy                                                                                                                     |
-| Paragon  | Stand Fast!                                                                                                                  |
+| Order    | Feature                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Evil Revealed](REL_PATH_PREFIXRules/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20RevealedREL_PATH_SUFFIX) |
+| Oracle   | Prophecy                                                                                                                              |
+| Paragon  | Stand Fast!                                                                                                                           |
 
 ##### Evil Revealed
 
@@ -1016,20 +1016,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](R
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
-| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
-| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
-| Knowledge  | Gods' Library                                                                                                                                                   |
-| Life       | [Font of Grace](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
-| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
-| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
-| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
-| Storm      | [Ride the Lightning](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20LightningREL_PATH_SUFFIX)                       |
-| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
-| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
-| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
+| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
+| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
+| Knowledge  | Gods' Library                                                                                                                                                            |
+| Life       | [Font of Grace](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
+| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
+| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
+| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
+| Storm      | [Ride the Lightning](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20LightningREL_PATH_SUFFIX)                       |
+| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
+| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
+| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
 
 ##### Blessing of Iron
 
@@ -1037,7 +1037,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -1080,7 +1080,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ##### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](REL_PATH_PREFIXRules/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX) already grants you a bonus to speed, this bonus adds to that.
 
 ##### Trinity of Trickery
 
@@ -1133,11 +1133,11 @@ Your [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) order grants y
 
 ###### 8th-Level Order Features Table
 
-| Order    | Feature                                                                                                                                    |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Exorcist | [Demonologist](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/DemonologistREL_PATH_SUFFIX)                   |
-| Oracle   | [Their Past Revealed](REL_PATH_PREFIXRules/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20RevealedREL_PATH_SUFFIX) |
-| Paragon  | Vow                                                                                                                                        |
+| Order    | Feature                                                                                                                                             |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Demonologist](REL_PATH_PREFIXRules/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/DemonologistREL_PATH_SUFFIX)                   |
+| Oracle   | [Their Past Revealed](REL_PATH_PREFIXRules/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20RevealedREL_PATH_SUFFIX) |
+| Paragon  | Vow                                                                                                                                                 |
 
 ##### Demonologist
 
@@ -1229,7 +1229,7 @@ As a 9th-level [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), you
 
 #### Improved Implement of Wrath
 
-The weapon you target with your [Implement of Wrath](REL_PATH_PREFIXRules/Censor/6th-Level%20Features/Implement%20of%20WrathREL_PATH_SUFFIX) feature gains the following additional benefits:
+The weapon you target with your [Implement of Wrath](REL_PATH_PREFIXRules/Features/Censor/6th-Level%20Features/Implement%20of%20WrathREL_PATH_SUFFIX) feature gains the following additional benefits:
 
 - The weapon's wielder and each ally adjacent to them gain a +2 bonus to saving throws.
 - At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a saving throw against each effect on them that is ended by a saving throw.

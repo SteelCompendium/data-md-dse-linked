@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 7th Level Doctrine Feature
-file_dpath: Tactician/7th-Level Features
+file_dpath: Features/Tactician/7th-Level Features
 item_id: 7th-level-doctrine-feature
 item_index: '01'
 item_name: 7th-Level Doctrine Feature
@@ -25,7 +25,7 @@ metadata:
   class: tactician
   feature_type: trait
   file_basename: 7th Level Doctrine Feature
-  file_dpath: Tactician/7th-Level Features
+  file_dpath: Features/Tactician/7th-Level Features
   item_id: 7th-level-doctrine-feature
   item_index: "01"
   item_name: 7th-Level Doctrine Feature
@@ -38,14 +38,14 @@ metadata:
   type: feature/trait/tactician/7th-level-feature
 effects:
   - effect: |-
-      Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 7th-Level Doctrine Features table.
+      Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
       ###### 7th-Level Doctrine Features Table
-      | Doctrine   | Feature                                                                                                                                      |
-      | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Insurgent  | [Asymmetric Warfare](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20WarfareREL_PATH_SUFFIX) |
-      | Mastermind | [Grand Strategy](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20StrategyREL_PATH_SUFFIX)         |
-      | Vanguard   | [Shock and Awe](REL_PATH_PREFIXRules/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20AweREL_PATH_SUFFIX)         |
+      | Doctrine   | Feature                                                                                                                                               |
+      | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Insurgent  | [Asymmetric Warfare](REL_PATH_PREFIXRules/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20WarfareREL_PATH_SUFFIX) |
+      | Mastermind | [Grand Strategy](REL_PATH_PREFIXRules/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20StrategyREL_PATH_SUFFIX)         |
+      | Vanguard   | [Shock and Awe](REL_PATH_PREFIXRules/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20AweREL_PATH_SUFFIX)         |
       ##### Asymmetric Warfare
       You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
       ##### Grand Strategy

@@ -972,7 +972,7 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
-**Special:** You can't take this complication if you are a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) with the stormwight [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX).
+**Special:** You can't take this complication if you are a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) with the stormwight [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX).
 
 #### Stolen Face
 

@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: 2nd Level Tradition Feature
-file_dpath: Talent/2nd-Level Features
+file_dpath: Features/Talent/2nd-Level Features
 item_id: 2nd-level-tradition-feature
 item_index: '02'
 item_name: 2nd-Level Tradition Feature
@@ -25,7 +25,7 @@ metadata:
   class: talent
   feature_type: trait
   file_basename: 2nd Level Tradition Feature
-  file_dpath: Talent/2nd-Level Features
+  file_dpath: Features/Talent/2nd-Level Features
   item_id: 2nd-level-tradition-feature
   item_index: "02"
   item_name: 2nd-Level Tradition Feature
@@ -41,11 +41,11 @@ effects:
       Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
       ###### 2nd-Level Tradition Features Table
-      | Tradition   | Features                                                                                                                               |
-      | ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-      | Chronopathy | [Ease the Hours](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20HoursREL_PATH_SUFFIX)   |
-      | Telekinesis | [Ease Their Fall](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20FallREL_PATH_SUFFIX) |
-      | Telepathy   | [Ease the Mind](REL_PATH_PREFIXRules/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20MindREL_PATH_SUFFIX)     |
+      | Tradition   | Features                                                                                                                                        |
+      | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Chronopathy | [Ease the Hours](REL_PATH_PREFIXRules/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20HoursREL_PATH_SUFFIX)   |
+      | Telekinesis | [Ease Their Fall](REL_PATH_PREFIXRules/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20FallREL_PATH_SUFFIX) |
+      | Telepathy   | [Ease the Mind](REL_PATH_PREFIXRules/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20MindREL_PATH_SUFFIX)     |
       ##### Ease the Hours
       You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.
       ##### Ease the Mind

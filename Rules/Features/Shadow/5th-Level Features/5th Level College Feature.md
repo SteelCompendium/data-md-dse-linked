@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: 5th Level College Feature
-file_dpath: Shadow/5th-Level Features
+file_dpath: Features/Shadow/5th-Level Features
 item_id: 5th-level-college-feature
 item_index: '01'
 item_name: 5th-Level College Feature
@@ -25,7 +25,7 @@ metadata:
   class: shadow
   feature_type: trait
   file_basename: 5th Level College Feature
-  file_dpath: Shadow/5th-Level Features
+  file_dpath: Features/Shadow/5th-Level Features
   item_id: 5th-level-college-feature
   item_index: "01"
   item_name: 5th-Level College Feature
@@ -41,11 +41,11 @@ effects:
       Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants you a feature, as shown on the 5th-Level College Features table.
 
       ###### 5th-Level College Features Table
-      | College         | Feature                                                                                                                                |
-      | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-      | Black Ash       | [Trail of Cinders](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20CindersREL_PATH_SUFFIX) |
-      | Caustic Alchemy | [Volatile Reagents](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20ReagentsREL_PATH_SUFFIX) |
-      | Harlequin Mask  | [Harlequin Gambit](REL_PATH_PREFIXRules/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20GambitREL_PATH_SUFFIX)   |
+      | College         | Feature                                                                                                                                         |
+      | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Black Ash       | [Trail of Cinders](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20CindersREL_PATH_SUFFIX) |
+      | Caustic Alchemy | [Volatile Reagents](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20ReagentsREL_PATH_SUFFIX) |
+      | Harlequin Mask  | [Harlequin Gambit](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20GambitREL_PATH_SUFFIX)   |
       ##### Harlequin Gambit
       Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
       If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending insight. If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.

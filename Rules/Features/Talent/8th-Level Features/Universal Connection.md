@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Universal Connection
-file_dpath: Talent/8th-Level Features
+file_dpath: Features/Talent/8th-Level Features
 item_id: universal-connection
 item_index: '04'
 item_name: Universal Connection
@@ -26,7 +26,7 @@ metadata:
   class: talent
   feature_type: trait
   file_basename: Universal Connection
-  file_dpath: Talent/8th-Level Features
+  file_dpath: Features/Talent/8th-Level Features
   item_id: universal-connection
   item_index: "04"
   item_name: Universal Connection
@@ -40,6 +40,6 @@ metadata:
   type: feature/trait/talent/8th-level-feature
 effects:
   - effect: The range of your [Telepathic
-      Speech](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX)
+      Speech](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX)
       feature increases to anywhere on the same world.
 ```

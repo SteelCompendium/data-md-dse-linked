@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Dramaturgy
-file_dpath: Troubadour/10th-Level Features
+file_dpath: Features/Troubadour/10th-Level Features
 item_id: dramaturgy
 item_index: '02'
 item_name: Dramaturgy
@@ -25,7 +25,7 @@ metadata:
   class: troubadour
   feature_type: trait
   file_basename: Dramaturgy
-  file_dpath: Troubadour/10th-Level Features
+  file_dpath: Features/Troubadour/10th-Level Features
   item_id: dramaturgy
   item_index: "02"
   item_name: Dramaturgy
@@ -39,7 +39,7 @@ metadata:
 effects:
   - effect: You gain 1 additional drama or other Heroic Resource whenever you use
       your [Appeal to the
-      Muses](REL_PATH_PREFIXRules/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20MusesREL_PATH_SUFFIX)
+      Muses](REL_PATH_PREFIXRules/Features/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20MusesREL_PATH_SUFFIX)
       feature. Additionally, your performances no longer have a distance, but
       can affect any target on the encounter map within your line of effect.
 ```

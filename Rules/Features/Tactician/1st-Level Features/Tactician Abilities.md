@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Tactician Abilities
-file_dpath: Tactician/1st-Level Features
+file_dpath: Features/Tactician/1st-Level Features
 item_id: tactician-abilities
 item_index: '02'
 item_name: Tactician Abilities
@@ -25,7 +25,7 @@ metadata:
   class: tactician
   feature_type: trait
   file_basename: Tactician Abilities
-  file_dpath: Tactician/1st-Level Features
+  file_dpath: Features/Tactician/1st-Level Features
   item_id: tactician-abilities
   item_index: "02"
   item_name: Tactician Abilities
@@ -41,7 +41,7 @@ effects:
       You are a formidable combatant in your own right, but your greatest strength is the abilities you wield that let you shape control of the battlefield.
 
       ##### Kit Signature Ability
-      Each kit from your [Field Arsenal](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Field%20ArsenalREL_PATH_SUFFIX) feature grants you a signature ability. Signature abilities can be used at will.
+      Each kit from your [Field Arsenal](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Field%20ArsenalREL_PATH_SUFFIX) feature grants you a signature ability. Signature abilities can be used at will.
       ##### Heroic Abilities
       Your heroic abilities cover a range of combat tactics, all of which require focus to use.
       ###### 3-Focus Ability

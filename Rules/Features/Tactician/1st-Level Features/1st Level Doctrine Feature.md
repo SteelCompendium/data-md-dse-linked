@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 1st Level Doctrine Feature
-file_dpath: Tactician/1st-Level Features
+file_dpath: Features/Tactician/1st-Level Features
 item_id: 1st-level-doctrine-feature
 item_index: '01'
 item_name: 1st-Level Doctrine Feature
@@ -25,7 +25,7 @@ metadata:
   class: tactician
   feature_type: trait
   file_basename: 1st Level Doctrine Feature
-  file_dpath: Tactician/1st-Level Features
+  file_dpath: Features/Tactician/1st-Level Features
   item_id: 1st-level-doctrine-feature
   item_index: "01"
   item_name: 1st-Level Doctrine Feature
@@ -38,14 +38,14 @@ metadata:
   type: feature/trait/tactician/1st-level-feature
 effects:
   - effect: |-
-      Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 1st-Level Doctrine Features table.
+      Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
       ###### 1st-Level Doctrine Features Table
-      | Doctrine   | Feature                                                                                                                                        |
-      | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-      | Insurgent  | [Covert Operations](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20OperationsREL_PATH_SUFFIX)     |
-      | Mastermind | [Studied Commander](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20CommanderREL_PATH_SUFFIX)     |
-      | Vanguard   | [Commanding Presence](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20PresenceREL_PATH_SUFFIX) |
+      | Doctrine   | Feature                                                                                                                                                 |
+      | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Insurgent  | [Covert Operations](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20OperationsREL_PATH_SUFFIX)     |
+      | Mastermind | [Studied Commander](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20CommanderREL_PATH_SUFFIX)     |
+      | Vanguard   | [Commanding Presence](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20PresenceREL_PATH_SUFFIX) |
       ##### Commanding Presence
       You command any room you walk into. While you are present during a negotiation, each hero with you treats their Renown as 2 higher than usual. Additionally, each hero with you during a combat encounter has a double edge on tests made to stop combat and start a negotiation.
       ##### Covert Operations

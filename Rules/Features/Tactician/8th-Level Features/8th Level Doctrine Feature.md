@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 8th Level Doctrine Feature
-file_dpath: Tactician/8th-Level Features
+file_dpath: Features/Tactician/8th-Level Features
 item_id: 8th-level-doctrine-feature
 item_index: '02'
 item_name: 8th-Level Doctrine Feature
@@ -25,7 +25,7 @@ metadata:
   class: tactician
   feature_type: trait
   file_basename: 8th Level Doctrine Feature
-  file_dpath: Tactician/8th-Level Features
+  file_dpath: Features/Tactician/8th-Level Features
   item_id: 8th-level-doctrine-feature
   item_index: "02"
   item_name: 8th-Level Doctrine Feature
@@ -38,14 +38,14 @@ metadata:
   type: feature/trait/tactician/8th-level-feature
 effects:
   - effect: |-
-      Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 8th-Level Doctrine Features table.
+      Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 8th-Level Doctrine Features table.
 
       ###### 8th-Level Doctrine Features Table
-      | Doctrine   | Feature                                                                                                                                                                              |
-      | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-      | Insurgent  | [Bait and Ambush](REL_PATH_PREFIXRules/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Bait%20and%20AmbushREL_PATH_SUFFIX)                                             |
-      | Mastermind | [Pincer Movement](REL_PATH_PREFIXRules/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Pincer%20MovementREL_PATH_SUFFIX)                                               |
-      | Vanguard   | [See Your Enemies Driven Before You](REL_PATH_PREFIXRules/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/See%20Your%20Enemies%20Driven%20Before%20YouREL_PATH_SUFFIX) |
+      | Doctrine   | Feature                                                                                                                                                                                       |
+      | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Insurgent  | [Bait and Ambush](REL_PATH_PREFIXRules/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Bait%20and%20AmbushREL_PATH_SUFFIX)                                             |
+      | Mastermind | [Pincer Movement](REL_PATH_PREFIXRules/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Pincer%20MovementREL_PATH_SUFFIX)                                               |
+      | Vanguard   | [See Your Enemies Driven Before You](REL_PATH_PREFIXRules/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/See%20Your%20Enemies%20Driven%20Before%20YouREL_PATH_SUFFIX) |
       ##### Bait and Ambush
       You have trained your squad to be silent ambushers.
   - name: Mark Benefit

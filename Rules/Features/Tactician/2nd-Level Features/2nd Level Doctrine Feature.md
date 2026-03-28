@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 2nd Level Doctrine Feature
-file_dpath: Tactician/2nd-Level Features
+file_dpath: Features/Tactician/2nd-Level Features
 item_id: 2nd-level-doctrine-feature
 item_index: '03'
 item_name: 2nd-Level Doctrine Feature
@@ -25,7 +25,7 @@ metadata:
   class: tactician
   feature_type: trait
   file_basename: 2nd Level Doctrine Feature
-  file_dpath: Tactician/2nd-Level Features
+  file_dpath: Features/Tactician/2nd-Level Features
   item_id: 2nd-level-doctrine-feature
   item_index: "03"
   item_name: 2nd-Level Doctrine Feature
@@ -38,14 +38,14 @@ metadata:
   type: feature/trait/tactician/2nd-level-feature
 effects:
   - effect: |-
-      Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
+      Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
       ###### 2nd-Level Doctrine Features Table
-      | Doctrine   | Feature                                                                                                                                          |
-      | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-      | Insurgent  | [Infiltration Tactics](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20TacticsREL_PATH_SUFFIX) |
-      | Mastermind | [Goaded](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/GoadedREL_PATH_SUFFIX)                               |
-      | Vanguard   | [Melee Superiority](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20SuperiorityREL_PATH_SUFFIX)       |
+      | Doctrine   | Feature                                                                                                                                                   |
+      | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | Insurgent  | [Infiltration Tactics](REL_PATH_PREFIXRules/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20TacticsREL_PATH_SUFFIX) |
+      | Mastermind | [Goaded](REL_PATH_PREFIXRules/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/GoadedREL_PATH_SUFFIX)                               |
+      | Vanguard   | [Melee Superiority](REL_PATH_PREFIXRules/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20SuperiorityREL_PATH_SUFFIX)       |
       ##### Goaded
       You have learned to leverage your marked foes' psychology and goad them into acting before they're tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the strike to you or another ally within your line of effect. The new target must be within distance of the ability and within line of effect of the creature using it.
       ##### Infiltration Tactics

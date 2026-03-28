@@ -47,14 +47,14 @@ You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama outside of combat](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Artful%20FlourishREL_PATH_SUFFIX), you can use it as if you had spent an amount of drama equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX)**
 >
-> Abilities like Guest Star, [Missed Cue](REL_PATH_PREFIXRules/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20CueREL_PATH_SUFFIX), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like Guest Star, [Missed Cue](REL_PATH_PREFIXRules/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20CueREL_PATH_SUFFIX), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
 > This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
@@ -106,15 +106,15 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                                                                                                                                                            |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)                                                                                                                                  |
-| Duelist   | [Acrobatics](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/AcrobaticsREL_PATH_SUFFIX), [Star Power](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20PowerREL_PATH_SUFFIX)  |
-| Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Power%20ChordREL_PATH_SUFFIX), [Virtuoso Performances](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20PerformancesREL_PATH_SUFFIX) |
+| Class Act | Features                                                                                                                                                                                                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)                                                                                                                                                   |
+| Duelist   | [Acrobatics](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/AcrobaticsREL_PATH_SUFFIX), [Star Power](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20PowerREL_PATH_SUFFIX) |
+| Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Power%20ChordREL_PATH_SUFFIX), [Virtuoso Performances](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20PerformancesREL_PATH_SUFFIX)         |
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### Acrobatics
@@ -129,7 +129,7 @@ You have the following performance ability, which is usable with your [Routines]
 
 ##### Blocking
 
-You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### Blocking
@@ -201,7 +201,7 @@ You have the following ability.
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### "Thunder Mother"
@@ -233,7 +233,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 #### Class Act Triggered Action
 
-Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20ActionREL_PATH_SUFFIX) table.
+Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
 ###### Class Act Triggered Actions Table
 

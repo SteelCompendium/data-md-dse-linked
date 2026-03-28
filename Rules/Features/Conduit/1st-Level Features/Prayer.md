@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Prayer
-file_dpath: Conduit/1st-Level Features
+file_dpath: Features/Conduit/1st-Level Features
 item_id: prayer
 item_index: '06'
 item_name: Prayer
@@ -25,7 +25,7 @@ metadata:
   class: conduit
   feature_type: trait
   file_basename: Prayer
-  file_dpath: Conduit/1st-Level Features
+  file_dpath: Features/Conduit/1st-Level Features
   item_id: prayer
   item_index: "06"
   item_name: Prayer
@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/conduit/1st-level-feature
 effects:
   - effect: |-
-      Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20DistanceREL_PATH_SUFFIX).)
+      Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20DistanceREL_PATH_SUFFIX).)
 
       ##### Prayer of Destruction
       Your god infuses wrath within your being. You gain a +1 bonus to rolled damage with magic abilities.
