@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/talent/1st-level-feature
 effects:
   - effect: |-
-      Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20AugmentationREL_PATH_SUFFIX).)
+      Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Talent%20WardREL_PATH_SUFFIX) below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20AugmentationREL_PATH_SUFFIX).)
 
       ##### Battle Augmentation
       You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). You can use light armor treasures and light weapon treasures.

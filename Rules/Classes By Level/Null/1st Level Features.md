@@ -18,13 +18,13 @@ As a 1st-level [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX), you gai
 
 #### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a null tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX) from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
 - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-Your null tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+Your [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
 #### Discipline
 
@@ -88,13 +88,13 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) you spend during your turn.
+As you advance in your chosen [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX), you gain certain benefits in combat, including benefits based on the amount of [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) you spend during your turn.
 
 Some [Discipline Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20MasteryREL_PATH_SUFFIX) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
 ##### Chronokinetic Mastery
 
-Whenever you use the [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action.
+Whenever you use the [Inertial Shield](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can use the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free triggered action.
 
 Additionally, as your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -111,7 +111,7 @@ Additionally, as your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver as a free triggered action.
 
 Additionally, as your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -128,7 +128,7 @@ Additionally, as your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%
 
 ##### Metakinetic Mastery
 
-Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuver as a free triggered action.
 
 Additionally, as your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 

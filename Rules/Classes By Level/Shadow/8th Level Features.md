@@ -29,7 +29,7 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 | College         | Feature                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Black Ash       | [Cinder Step](REL_PATH_PREFIXRules/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Cinder%20StepREL_PATH_SUFFIX) |
-| Caustic Alchemy | [Time Bomb](REL_PATH_PREFIXRules/Abilities/Shadow/8th-Level%20Features/Time%20BombREL_PATH_SUFFIX)                                  |
+| Caustic Alchemy | [Time Bomb](REL_PATH_PREFIXRules/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Time%20BombREL_PATH_SUFFIX)     |
 | Harlequin Mask  | [Parkour](REL_PATH_PREFIXRules/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/ParkourREL_PATH_SUFFIX)           |
 
 ##### Cinder Step

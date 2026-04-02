@@ -44,7 +44,7 @@ effects:
       ##### Earth: Acolyte of Earth
       You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) increases by 1 until the start of your next turn. This benefit is cumulative.
       ##### Fire: Acolyte of Fire
-      You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability (see below) also gains this bonus when you use it to deal fire damage.
+      You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX) ability (see below) also gains this bonus when you use it to deal fire damage.
       ##### Green: Acolyte of the Green
       You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains temporary Stamina equal to your Reason score.
       ##### Void: Acolyte of the Mystery

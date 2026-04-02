@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/null/8th-level-feature
 effects:
   - effect: |-
-      Your null tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+      Your [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX) grants you a feature, as shown on the 8th-Level Tradition Features table.
 
       ###### 8th-Level Tradition Features Table
       | Tradition     | Feature                                                                                                                                         |

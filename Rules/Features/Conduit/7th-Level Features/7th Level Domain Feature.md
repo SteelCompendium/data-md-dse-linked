@@ -83,7 +83,7 @@ effects:
 
       Each time you finish a respite, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another respite or it is consumed.
       ##### Font of Grace
-      Each time you use your [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), it is lost. Additionally, you can use your [Minor Miracle](REL_PATH_PREFIXRules/Features/Conduit/3rd-Level%20Features/Minor%20MiracleREL_PATH_SUFFIX) feature to return a creature to life even if you don't have their remains.
+      Each time you use your [Healing Grace](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), it is lost. Additionally, you can use your [Minor Miracle](REL_PATH_PREFIXRules/Features/Conduit/3rd-Level%20Features/Minor%20MiracleREL_PATH_SUFFIX) feature to return a creature to life even if you don't have their remains.
       ##### Gods' Library
       You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: Downtime Projects). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
       ##### Light of the Burning Sun
@@ -125,7 +125,7 @@ effects:
   - effect: |-
       ##### Word of Death Deferred
 
-      You can stop death from taking your allies. When an ally within distance of your [Healing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+      You can stop death from taking your allies. When an ally within distance of your [Healing Grace](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
       Additionally, your abilities deal an extra 5 damage to winded creatures.
       ##### Word of Fate Denied
       When an ally within 10 squares takes damage that would leave them dying, you can use a free triggered action to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can't be reduced in any way.

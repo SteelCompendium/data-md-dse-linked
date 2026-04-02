@@ -78,9 +78,9 @@ Choose one of the following abilities.
 > | ---------------------- | -----------------: |
 > | **📏 Self; see below** |        **🎯 Self** |
 >
-> **Trigger:** You use your [In All This Confusion](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20ConfusionREL_PATH_SUFFIX) ability.
+> **Trigger:** You use your In All This Confusion ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20ConfusionREL_PATH_SUFFIX) ability. Before you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), you can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against a creature who damaged you to trigger [In All This Confusion](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20ConfusionREL_PATH_SUFFIX). After you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), you can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) against a creature who damaged you to trigger In All This Confusion. After you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 

@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/conduit/1st-level-feature
 effects:
   - effect: |-
-      Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20DistanceREL_PATH_SUFFIX).)
+      Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Conduit%20WardREL_PATH_SUFFIX) below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20DistanceREL_PATH_SUFFIX).)
 
       ##### Prayer of Destruction
       Your god infuses wrath within your being. You gain a +1 bonus to rolled damage with magic abilities.

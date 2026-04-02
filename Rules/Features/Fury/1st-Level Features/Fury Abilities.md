@@ -37,11 +37,16 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/fury/1st-level-feature
 effects:
-  - effect: |-
-      You specialize in dealing massive damage on the battlefield, and have mastered unique martial abilities that allow you to strike hard and keep moving.
+  - effect: >-
+      You specialize in dealing massive damage on the battlefield, and have
+      mastered unique martial abilities that allow you to strike hard and keep
+      moving.
+
 
       ##### Signature Ability
-      Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/To%20the%20DeathREL_PATH_SUFFIX)!)
+
+      Choose one signature ability from the following options. Signature
+      abilities can be used at will. (*Quick Build:* To the Death!)
     features:
       - type: feature
         feature_type: ability

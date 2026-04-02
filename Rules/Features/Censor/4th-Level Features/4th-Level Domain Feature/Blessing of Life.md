@@ -39,7 +39,7 @@ metadata:
 effects:
   - effect: Your divine presence causes those you deem worthy to recover quickly
       from a fight. Whenever an ally within distance of your [My Life for
-      Yours](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX)
+      Yours](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/My%20Life%20for%20YoursREL_PATH_SUFFIX)
       ability regains Stamina, they regain additional Stamina equal to your
       Presence score.
 ```

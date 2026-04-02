@@ -38,6 +38,6 @@ metadata:
   type: feature/subtrait/censor/4th-level-feature
 effects:
   - effect: When you use your [Hands of the
-      Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20MakerREL_PATH_SUFFIX)
+      Maker](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Hands%20of%20the%20MakerREL_PATH_SUFFIX)
       ability, you can create a mundane object that is size 2 or smaller.
 ```

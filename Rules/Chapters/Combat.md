@@ -548,7 +548,7 @@ Many rules and abilities allow heroes to make [free strikes](REL_PATH_PREFIXRule
 
 #### Granted Abilities
 
-Some abilities, such as the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s [Strike Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/Strike%20NowREL_PATH_SUFFIX) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) instead of a granted signature ability or heroic ability.
+Some abilities, such as the [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)'s [Strike Now](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Strike%20NowREL_PATH_SUFFIX) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) instead of a granted signature ability or heroic ability.
 
 #### Opportunity Attacks
 

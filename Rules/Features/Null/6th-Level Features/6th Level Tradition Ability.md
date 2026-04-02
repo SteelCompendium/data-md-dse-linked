@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/null/6th-level-feature
 effects:
   - effect: |-
-      Your null tradition grants your choice of one of two heroic abilities.
+      Your [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
 
       ##### 6th-Level Chronokinetic Abilities
       Choose one of the following abilities.

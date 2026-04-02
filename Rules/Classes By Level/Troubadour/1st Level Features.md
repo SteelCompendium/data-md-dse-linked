@@ -106,11 +106,11 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                                                                                                                                                                             |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)                                                                                                                                                   |
-| Duelist   | [Acrobatics](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/AcrobaticsREL_PATH_SUFFIX), [Star Power](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20PowerREL_PATH_SUFFIX) |
-| Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Power%20ChordREL_PATH_SUFFIX), [Virtuoso Performances](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20PerformancesREL_PATH_SUFFIX)         |
+| Class Act | Features                                                                                                                                                                                                                                                                                                       |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | Blocking, [Dramatic Monologue](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Dramatic%20MonologueREL_PATH_SUFFIX)                                                                                                                                           |
+| Duelist   | [Acrobatics](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/AcrobaticsREL_PATH_SUFFIX), [Star Power](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20PowerREL_PATH_SUFFIX)                           |
+| Virtuoso  | [Power Chord](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Power%20ChordREL_PATH_SUFFIX), [Virtuoso Performances](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20PerformancesREL_PATH_SUFFIX) |
 
 ##### Acrobatics
 

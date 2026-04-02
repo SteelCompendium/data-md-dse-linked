@@ -91,7 +91,7 @@ effects:
   - effect: |-
       ##### Deleted Scene
 
-      Whenever a creature within distance of your [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX), targeting only one creature.
+      Whenever a creature within distance of your [Dramatic Monologue](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Dramatic%20MonologueREL_PATH_SUFFIX) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Dramatic%20MonologueREL_PATH_SUFFIX), targeting only one creature.
       ##### Masterwork
       Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
       Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](REL_PATH_PREFIXRules/Features/Troubadour/4th-Level%20Features/ZeitgeistREL_PATH_SUFFIX) feature to tell tales of your exploits after the encounter ends.

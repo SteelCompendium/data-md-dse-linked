@@ -40,7 +40,7 @@ effects:
   - effect: You become an expert at wielding destructive flames. Your abilities that
       have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your
       [Hurl
-      Element](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX)
+      Element](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Hurl%20ElementREL_PATH_SUFFIX)
       ability (see below) also gains this bonus when you use it to deal fire
       damage.
 ```

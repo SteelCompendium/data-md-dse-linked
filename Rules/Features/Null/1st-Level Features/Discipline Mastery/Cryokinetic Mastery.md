@@ -38,7 +38,7 @@ metadata:
   type: feature/subtrait/null/1st-level-feature
 effects:
   - effect: |-
-      Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver as a free triggered action.
+      Whenever you use your [Inertial Shield](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Inertial%20ShieldREL_PATH_SUFFIX) ability, you can then use the [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX) maneuver as a free triggered action.
 
       Additionally, as your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20MasteryREL_PATH_SUFFIX) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
       ###### Cryokinetic Mastery Table

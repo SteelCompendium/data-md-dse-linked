@@ -38,7 +38,7 @@ metadata:
   type: feature/subtrait/conduit/7th-level-feature
 effects:
   - effect: Each time you use your [Healing
-      Grace](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX)
+      Grace](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Healing%20GraceREL_PATH_SUFFIX)
       ability, you gain 1 piety that can be spent only on that ability during
       the same turn. If you don't use this
       [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX),

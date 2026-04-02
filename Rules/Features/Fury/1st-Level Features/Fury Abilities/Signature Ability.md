@@ -38,8 +38,7 @@ metadata:
   type: feature/subtrait/fury/1st-level-feature
 effects:
   - effect: Choose one signature ability from the following options. Signature
-      abilities can be used at will. (*Quick Build:* [To the
-      Death](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/To%20the%20DeathREL_PATH_SUFFIX)!)
+      abilities can be used at will. (*Quick Build:* To the Death!)
     features:
       - type: feature
         feature_type: ability

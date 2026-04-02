@@ -34,7 +34,7 @@ You gain one skill of your choice.
 
 #### Careful Observation Improvement
 
-You can target three creatures simultaneously with your [Careful Observation](REL_PATH_PREFIXRules/Abilities/Shadow/3rd-Level%20Features/Careful%20ObservationREL_PATH_SUFFIX) ability.
+You can target three creatures simultaneously with your [Careful Observation](REL_PATH_PREFIXRules/Features/Shadow/3rd-Level%20Features/Careful%20ObservationREL_PATH_SUFFIX) ability.
 
 #### Improved Umbral Form
 

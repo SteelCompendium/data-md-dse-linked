@@ -60,7 +60,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 ##### Deleted Scene
 
-Whenever a creature within distance of your [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20MonologueREL_PATH_SUFFIX), targeting only one creature.
+Whenever a creature within distance of your [Dramatic Monologue](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Dramatic%20MonologueREL_PATH_SUFFIX) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Dramatic%20MonologueREL_PATH_SUFFIX), targeting only one creature.
 
 ##### Masterwork
 

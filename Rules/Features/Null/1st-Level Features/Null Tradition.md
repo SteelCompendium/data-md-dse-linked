@@ -39,9 +39,12 @@ metadata:
 effects:
   - effect: Through extensive physical and psionic training, you have learned to
       unlock the full potential of your body. As you shape the growth of your
-      power, you choose a null tradition from the following options, each of
-      which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters
-      skill.)
-  - effect: Your null tradition is your subclass, and your choice of tradition
-      determines many of the features you'll gain as you gain new levels.
+      power, you choose a [null
+      tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX)
+      from the following options, each of which grants you a skill. (*Quick
+      Build:* Chronokinetic and the Monsters skill.)
+  - effect: Your [null
+      tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX)
+      is your subclass, and your choice of tradition determines many of the
+      features you'll gain as you gain new levels.
 ```

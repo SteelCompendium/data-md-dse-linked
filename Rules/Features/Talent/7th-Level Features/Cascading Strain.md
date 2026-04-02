@@ -39,6 +39,6 @@ metadata:
 effects:
   - effect: Whenever you take damage from a strained effect or from having negative
       clarity, you can choose one enemy within distance of your [Mind
-      Spike](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Mind%20SpikeREL_PATH_SUFFIX)
+      Spike](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Mind%20SpikeREL_PATH_SUFFIX)
       ability to take the same damage.
 ```

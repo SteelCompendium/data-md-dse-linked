@@ -37,16 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/trait/talent/1st-level-feature
 effects:
-  - effect: >-
-      - **Telepathy** abilities allow you to communicate with, read, and
-      influence the minds of other creatures.
+  - effect: |-
+      - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-
-      You choose a [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)
-      tradition from the following options: chronopathy, telekinesis, or
-      telepathy. Your
-      [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition is
-      your subclass, and your choice of tradition determines many of the
-      features you'll gain as you gain new levels. (Other talent traditions will
-      be featured in future products.) (*Quick Build:* Telekinesis.)
+      You choose a [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent traditions](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Talent%20TraditionREL_PATH_SUFFIX) will be featured in future products.) (*Quick Build:* Telekinesis.)
 ```
