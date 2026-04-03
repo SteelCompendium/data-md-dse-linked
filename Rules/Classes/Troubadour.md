@@ -88,7 +88,7 @@ Additionally, you gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Leve
 - Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
 - When you or another hero dies, you gain 10 [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
 
-When you are dead, you continue to gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX) during future encounters.
+When you are dead, you continue to gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX) during future encounters.
 
 You lose any remaining drama at the end of the encounter.
 
@@ -101,9 +101,9 @@ When you use an ability outside of combat that lets you spend unlimited drama on
 <!-- -->
 > **The Auteur [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX)**
 >
-> Abilities like Guest Star, [Missed Cue](REL_PATH_PREFIXRules/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20CueREL_PATH_SUFFIX), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like [Guest Star](REL_PATH_PREFIXRules/Abilities/Troubadour/2nd-Level%20Features/Guest%20StarREL_PATH_SUFFIX), [Missed Cue](REL_PATH_PREFIXRules/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20CueREL_PATH_SUFFIX), and [Twist at the End](REL_PATH_PREFIXRules/Abilities/Troubadour/2nd-Level%20Features/Twist%20at%20the%20EndREL_PATH_SUFFIX) allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
-> This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
+> This is because, uniquely among all the subclasses in *Draw [Steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX)*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
 > When the auteur uses these abilities, they are changing that story. They rewrite stories to make them more dramatic in the telling. What *actually* happened is a matter of some debate. Even the people who were there don't agree on exactly what took place. How people *remember* it is what's important!
 >
@@ -288,7 +288,7 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Auteur    | [Turnabout Is Fair Play](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Turnabout%20Is%20Fair%20PlayREL_PATH_SUFFIX) |
 | Duelist   | [Riposte](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/RiposteREL_PATH_SUFFIX)                                     |
-| Virtuoso  | Harmonize                                                                                                                            |
+| Virtuoso  | [Harmonize](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/HarmonizeREL_PATH_SUFFIX)                                 |
 
 <!-- -->
 > ###### Harmonize (3 Drama)
@@ -417,7 +417,7 @@ You master a range of heroic abilities, all of which cost drama to empower them.
 
 ###### 3-Drama Ability
 
-Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* Harsh Critic.)
+Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* [Harsh Critic](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Harsh%20CriticREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Harsh Critic (3 Drama)
@@ -489,7 +489,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 ###### 5-Drama Ability
 
-Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* Dramatic Reversal.)
+Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* [Dramatic Reversal](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20ReversalREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Dramatic Reversal (5 Drama)
@@ -1351,7 +1351,7 @@ As a 10th-level [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUF
 
 #### Applause
 
-You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
 

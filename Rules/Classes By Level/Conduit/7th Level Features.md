@@ -34,20 +34,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 7th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
-| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
-| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
-| Knowledge  | Gods' Library                                                                                                                                                            |
-| Life       | [Font of Grace](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
-| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
-| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
-| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
-| Storm      | [Thunderstruck](REL_PATH_PREFIXRules/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/ThunderstruckREL_PATH_SUFFIX)                                    |
-| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
-| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
-| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
+| Domain                                                                                 | Feature                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation                                                                               | [Divine Quartermaster](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
+| Death                                                                                  | [Word of Death Deferred](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Word of Fate Denied](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
+| Knowledge                                                                              | Gods' Library                                                                                                                                                            |
+| Life                                                                                   | [Font of Grace](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
+| Love                                                                                   | [Covenant of the Heart](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
+| Nature                                                                                 | [Nature's Bounty](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
+| Protection                                                                             | [Blessing of Iron](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
+| Storm                                                                                  | [Thunderstruck](REL_PATH_PREFIXRules/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/ThunderstruckREL_PATH_SUFFIX)                                    |
+| Sun                                                                                    | [Light of the Burning Sun](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
+| Trickery                                                                               | [Trinity of Trickery](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
+| War                                                                                    | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
 
 ##### Blessing of Iron
 

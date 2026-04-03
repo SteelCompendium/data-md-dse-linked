@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/conduit/10th-level-feature
 effects:
   - effect: |-
-      You are now an avatar of your god! When you use your [Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Domain%20Piety%20and%20EffectsREL_PATH_SUFFIX)) without needing to pray.
+      You are [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) an avatar of your god! When you use your [Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Domain%20Piety%20and%20EffectsREL_PATH_SUFFIX)) without needing to pray.
 
       Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 ```

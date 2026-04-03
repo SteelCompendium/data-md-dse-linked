@@ -14,6 +14,6 @@ type: complication
 
 #### Curse of Misfortune
 
-You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just being a bully. But whatever the case, they cursed you before skipping town. Now, in moments of pressure that require great skill, you have a tendency to choke, falling and flailing in such a dramatic fashion that you take everyone else with you.
+You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just being a bully. But whatever the case, they cursed you before skipping town. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), in moments of pressure that require great skill, you have a tendency to [choke](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/ChokeREL_PATH_SUFFIX), falling and flailing in such a dramatic fashion that you take everyone else with you.
 
 **Benefit and Drawback:** Whenever you make a test in combat and incur a consequence, you ignore that consequence. Instead, you and each ally adjacent to you fall [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).

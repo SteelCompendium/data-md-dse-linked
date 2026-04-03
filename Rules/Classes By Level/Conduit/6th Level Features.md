@@ -35,20 +35,20 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 6th-Level Conduit Domain Abilities Table
 
-| Domain     | Ability                    |
-| ---------- | -------------------------- |
-| Creation   | Gods' Machine              |
-| Death      | Aura of Souls              |
-| Fate       | Your Story Ends Here       |
-| Knowledge  | Invocation of Undoing      |
-| Life       | Revitalizing Grace         |
-| Love       | Lauded by God              |
-| Nature     | Spirit Stampede            |
-| Protection | Cuirass of the Gods        |
-| Storm      | Lightning Lord             |
-| Sun        | Blessing of the Midday Sun |
-| Trickery   | Invocation of Mystery      |
-| War        | Blade of the Heavens       |
+| Domain                                                                                 | Ability                                                                                                                                     |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation                                                                               | Gods' Machine                                                                                                                               |
+| Death                                                                                  | [Aura of Souls](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Aura%20of%20SoulsREL_PATH_SUFFIX)                               |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Your Story Ends Here](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Your%20Story%20Ends%20HereREL_PATH_SUFFIX)               |
+| Knowledge                                                                              | [Invocation of Undoing](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Invocation%20of%20UndoingREL_PATH_SUFFIX)               |
+| Life                                                                                   | [Revitalizing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Revitalizing%20GraceREL_PATH_SUFFIX)                       |
+| Love                                                                                   | [Lauded by God](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Lauded%20by%20GodREL_PATH_SUFFIX)                               |
+| Nature                                                                                 | [Spirit Stampede](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Spirit%20StampedeREL_PATH_SUFFIX)                             |
+| Protection                                                                             | [Cuirass of the Gods](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Cuirass%20of%20the%20GodsREL_PATH_SUFFIX)                 |
+| Storm                                                                                  | [Lightning Lord](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Lightning%20LordREL_PATH_SUFFIX)                               |
+| Sun                                                                                    | [Blessing of the Midday Sun](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Blessing%20of%20the%20Midday%20SunREL_PATH_SUFFIX) |
+| Trickery                                                                               | [Invocation of Mystery](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Invocation%20of%20MysteryREL_PATH_SUFFIX)               |
+| War                                                                                    | [Blade of the Heavens](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Blade%20of%20the%20HeavensREL_PATH_SUFFIX)               |
 
 <!-- -->
 > ###### Aura of Souls (9 Piety)

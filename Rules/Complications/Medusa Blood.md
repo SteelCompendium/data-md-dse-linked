@@ -14,7 +14,7 @@ type: complication
 
 #### Medusa Blood
 
-Your mother and father never saw eye to eye. You know this because your father is still alive and your mother is a medusa. This made your childhood difficult, and now it's making your adulthood complicated as well.
+Your mother and father never saw eye to eye. You know this because your father is still alive and your mother is a medusa. This made your childhood difficult, and [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) it's making your adulthood complicated as well.
 
 **Benefit:** You have the following ability.
 

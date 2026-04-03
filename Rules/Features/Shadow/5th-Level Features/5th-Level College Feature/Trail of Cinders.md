@@ -37,19 +37,8 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/shadow/5th-level-feature
 effects:
-  - effect: >-
-      Whenever you reduce a non-minion creature to 0 Stamina, you can
-      immediately use a free maneuver to use your Black Ash
-      [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability.
+  - effect: |-
+      Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability.
 
-
-      Additionally, you can now bring an adjacent willing creature along with
-      you whenever you use a
-      [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to
-      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The
-      creature appears in an unoccupied space adjacent to the space into which
-      you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX).
-      If no such space exists, they can't
-      [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with
-      you.
+      Additionally, you can [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) bring an adjacent willing creature along with you whenever you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The creature appears in an unoccupied space adjacent to the space into which you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). If no such space exists, they can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with you.
 ```

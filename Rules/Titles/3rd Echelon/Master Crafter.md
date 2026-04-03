@@ -15,7 +15,7 @@ type: title/3rd-echelon
 
 #### Master Crafter
 
-*The sword Vanartha has been remade, mightier now than on the day it was forged.*
+*The sword Vanartha has been remade, mightier [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) than on the day it was forged.*
 
 **Prerequisite:** You complete a downtime project to imbue armor, an implement, or a weapon with a 9th-level enhancement.
 

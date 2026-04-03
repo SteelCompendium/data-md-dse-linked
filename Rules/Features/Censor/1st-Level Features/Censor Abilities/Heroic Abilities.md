@@ -41,7 +41,7 @@ effects:
       You call upon a number of heroic abilities, all of them bound to your [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
       ###### 3-Wrath Ability
-      Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)
+      Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/The%20Gods%20Punish%20and%20DefendREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability
@@ -129,12 +129,10 @@ effects:
             tier3: 11 + P holy damage; I < STRONG,
               [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)
               (save ends)
-  - effect: >-
+  - effect: |-
       ###### 5-Wrath Ability
 
-
-      Choose one heroic ability from the following options, each of which costs
-      5 wrath to use. (*Quick Build:* Purifying Fire.)
+      Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/Purifying%20FireREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability

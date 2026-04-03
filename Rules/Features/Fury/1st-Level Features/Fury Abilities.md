@@ -123,17 +123,12 @@ effects:
           - name: Effect
             effect: You gain 2 surges, and the target can make an opportunity attack against
               you as a free triggered action.
-  - effect: >-
+  - effect: |-
       ##### Heroic Abilities
 
-
-      You fight with an array of heroic abilities, all of which cost ferocity to
-      fuel them.
-
+      You fight with an array of heroic abilities, all of which cost ferocity to fuel them.
       ###### 3-Ferocity Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 ferocity to use. (*Quick Build:* Back!)
+      Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* [Back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX)!)
     features:
       - type: feature
         feature_type: ability
@@ -226,12 +221,10 @@ effects:
               [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX)
               this way, the target takes damage equal to your Might score at the
               end of each of your turns.
-  - effect: >-
+  - effect: |-
       ###### 5-Ferocity Ability
 
-
-      Choose one heroic ability from the following options, each of which costs
-      5 ferocity to use. (*Quick Build:* Blood for Blood!)
+      Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Blood%20for%20BloodREL_PATH_SUFFIX)!)
     features:
       - type: feature
         feature_type: ability

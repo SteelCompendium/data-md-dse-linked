@@ -18,7 +18,7 @@ As a 10th-level [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUF
 
 #### Applause
 
-You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
 

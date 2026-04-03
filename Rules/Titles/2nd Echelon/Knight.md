@@ -15,7 +15,7 @@ type: title/2nd-echelon
 
 #### Knight
 
-*Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.*
+*Kneel, heroes. [Arise](REL_PATH_PREFIXRules/Abilities/Conduit/8th-Level%20Features/AriseREL_PATH_SUFFIX), knights of Tor, and may your swords be ever sharp in our service.*
 
 **Prerequisite:** A noble or monarch grants you knighthood or a similar rank.
 

@@ -26,11 +26,11 @@ The majority of [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) i
 
 ### On Devils
 
-Adelard scuttled across the floor of his basement, a heavy tome clutched in one hand, his index finger marking a page. Occasionally he would stop, open the book, consult a diagram, look at the chalk markings he'd made on the floor, tilt his head, then bend down and refine or rub out an esoteric symbol.
+Adelard scuttled across the floor of his basement, a heavy tome clutched in one hand, his index finger marking a page. Occasionally he would stop, open the book, consult a diagram, [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) at the chalk markings he'd made on the floor, tilt his head, then bend down and refine or rub out an esoteric symbol.
 
 One of the red candles suddenly guttered out, making the small room noticeably darker. "Damn and blast!" he hissed. Then he relit it from another candle.
 
-Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a* skull—it didn't even specify a *[human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual *know* if the skull was real?
+Stepping [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a* skull—it didn't even specify a *[human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual *know* if the skull was real?
 
 He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
 
@@ -40,7 +40,7 @@ Moments later, the candles flared, there was a burst of flame, and acrid brimsto
 
 "It worked!" Adelard said, holding his clenched fists up. "Ahahaha! It worked! Finally, after *years*! I will have my revenge! Hahaha...! \*cough\* \*cough\*" Adelard was suddenly gripped by a coughing fit, but he kept crowing.
 
-"Dismiss me from service, will they?! \*cough\* Old and useless... am I?! I'll show *them*!" He coughed again, fighting to breathe now. "I will *hex* them and *torture* them until they..."
+"Dismiss me from service, will they?! \*cough\* Old and useless... am I?! I'll show *them*!" He coughed again, fighting to breathe [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX). "I will *hex* them and *torture* them until they..."
 
 He stopped cavorting and capering, and his eyes went wide. "Until they... until..." He clutched his chest.
 
@@ -72,7 +72,7 @@ A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stop
 
 "Ah. Um. Hmm."
 
-A young man in a low, stone building saw this exchange, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) what looked like a long iron poker, and ran out to confront the new arrival.
+A young man in a low, stone building saw this exchange, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX) what looked like a long [iron](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/IronREL_PATH_SUFFIX) poker, and ran out to confront the new arrival.
 
 "Have at you, [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX)!" he said, assuming something like a dueling pose. "I say! Steady on!" The [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX) raised his hands.
 

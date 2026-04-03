@@ -30,20 +30,20 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 9th-Level Conduit Domain Abilities Table
 
-| Domain     | Ability                  |
-| ---------- | ------------------------ |
-| Creation   | Divine Dragon            |
-| Death      | Word of Final Redemption |
-| Fate       | Bend Fate                |
-| Knowledge  | Word of Weakening        |
-| Life       | Radiance of Grace        |
-| Love       | Alacrity of the Heart    |
-| Nature     | Thorn Cage               |
-| Protection | Blessing of the Fortress |
-| Storm      | Godstorm                 |
-| Sun        | Solar Flare              |
-| Trickery   | Night Falls              |
-| War        | Righteous Phalanx        |
+| Domain                                                                                 | Ability                                                                                                                               |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation                                                                               | [Divine Dragon](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Divine%20DragonREL_PATH_SUFFIX)                           |
+| Death                                                                                  | [Word of Final Redemption](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Word%20of%20Final%20RedemptionREL_PATH_SUFFIX) |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Bend Fate](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Bend%20FateREL_PATH_SUFFIX)                                   |
+| Knowledge                                                                              | [Word of Weakening](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Word%20of%20WeakeningREL_PATH_SUFFIX)                 |
+| Life                                                                                   | [Radiance of Grace](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Radiance%20of%20GraceREL_PATH_SUFFIX)                 |
+| Love                                                                                   | [Alacrity of the Heart](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Alacrity%20of%20the%20HeartREL_PATH_SUFFIX)       |
+| Nature                                                                                 | [Thorn Cage](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Thorn%20CageREL_PATH_SUFFIX)                                 |
+| Protection                                                                             | [Blessing of the Fortress](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Blessing%20of%20the%20FortressREL_PATH_SUFFIX) |
+| Storm                                                                                  | [Godstorm](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/GodstormREL_PATH_SUFFIX)                                       |
+| Sun                                                                                    | [Solar Flare](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Solar%20FlareREL_PATH_SUFFIX)                               |
+| Trickery                                                                               | [Night Falls](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Night%20FallsREL_PATH_SUFFIX)                               |
+| War                                                                                    | [Righteous Phalanx](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Righteous%20PhalanxREL_PATH_SUFFIX)                   |
 
 <!-- -->
 > ###### Alacrity of the Heart (11 Piety)

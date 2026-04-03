@@ -173,7 +173,7 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Black Ash       | [In All This Confusion](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20ConfusionREL_PATH_SUFFIX) |
 | Caustic Alchemy | [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX)                   |
-| Harlequin Mask  | Clever Trick                                                                                                                   |
+| Harlequin Mask  | [Clever Trick](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Clever%20TrickREL_PATH_SUFFIX)                       |
 
 <!-- -->
 > ###### Clever Trick (1 Insight)
@@ -321,7 +321,7 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 ###### 3-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)
+Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Get%20In%20Get%20OutREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Disorienting Strike (3 Insight)
@@ -389,7 +389,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 ##### 5-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: Coup de Grace.)
+Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coup%20de%20GraceREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Coup de Grace (5 Insight)
@@ -735,19 +735,19 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
 
-If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
+If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX). If you do, while I'm No Threat is active, the creature's body is disguised to [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 ##### Trail of Cinders
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The creature appears in an unoccupied space adjacent to the space into which you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). If no such space exists, they can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with you.
+Additionally, you can [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) bring an adjacent willing creature along with you whenever you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The creature appears in an unoccupied space adjacent to the space into which you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). If no such space exists, they can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with you.
 
 ##### Volatile Reagents
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
+Additionally, your [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX) ability [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
 
 #### 9-Insight Ability
 
@@ -989,7 +989,7 @@ Whenever you willingly move, you can [teleport](REL_PATH_PREFIXRules/Movement/Te
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20GambitREL_PATH_SUFFIX) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20GambitREL_PATH_SUFFIX) feature as a free triggered action when a creature is reduced to 0 Stamina by your [Clever Trick](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Clever%20TrickREL_PATH_SUFFIX) ability.
 
 ##### Time Bomb
 
@@ -1226,7 +1226,7 @@ While you are in your [umbral form](REL_PATH_PREFIXRules/Features/Shadow/6th-Lev
 
 #### Subterfuge
 
-You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX).
 
 Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
 

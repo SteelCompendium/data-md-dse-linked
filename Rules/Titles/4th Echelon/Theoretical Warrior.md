@@ -15,7 +15,7 @@ type: title/4th-echelon
 
 #### Theoretical Warrior
 
-*I've read about this tactic in books—it looks fairly straightforward.*
+*I've read about this tactic in books—it [looks](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) fairly straightforward.*
 
 **Prerequisite:** You have the [Master Librarian](REL_PATH_PREFIXRules/Titles/2nd%20Echelon/Master%20LibrarianREL_PATH_SUFFIX) title, and you complete a Learn From a Master project with a project goal of 1,000.
 

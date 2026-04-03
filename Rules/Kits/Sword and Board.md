@@ -14,7 +14,7 @@ type: kit
 
 #### Sword and Board
 
-The [Sword and Board](REL_PATH_PREFIXRules/Kits/Sword%20and%20BoardREL_PATH_SUFFIX) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+The [Sword and Board](REL_PATH_PREFIXRules/Kits/Sword%20and%20BoardREL_PATH_SUFFIX) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) or solid oak in the other, you protect yourself while you control the battlefield.
 
 ##### Equipment
 

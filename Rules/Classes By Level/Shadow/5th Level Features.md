@@ -32,19 +32,19 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
 
-If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
+If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX). If you do, while I'm No Threat is active, the creature's body is disguised to [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 ##### Trail of Cinders
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The creature appears in an unoccupied space adjacent to the space into which you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). If no such space exists, they can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with you.
+Additionally, you can [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) bring an adjacent willing creature along with you whenever you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The creature appears in an unoccupied space adjacent to the space into which you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). If no such space exists, they can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with you.
 
 ##### Volatile Reagents
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
+Additionally, your [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX) ability [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
 
 #### 9-Insight Ability
 

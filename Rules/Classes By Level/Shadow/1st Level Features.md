@@ -127,7 +127,7 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Black Ash       | [In All This Confusion](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20ConfusionREL_PATH_SUFFIX) |
 | Caustic Alchemy | [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX)                   |
-| Harlequin Mask  | Clever Trick                                                                                                                   |
+| Harlequin Mask  | [Clever Trick](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Clever%20TrickREL_PATH_SUFFIX)                       |
 
 <!-- -->
 > ###### Clever Trick (1 Insight)
@@ -275,7 +275,7 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 ###### 3-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)
+Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Get%20In%20Get%20OutREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Disorienting Strike (3 Insight)
@@ -343,7 +343,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 ##### 5-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: Coup de Grace.)
+Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coup%20de%20GraceREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Coup de Grace (5 Insight)

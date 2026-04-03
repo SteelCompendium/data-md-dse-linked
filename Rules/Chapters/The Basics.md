@@ -16,17 +16,17 @@ type: chapter
 
 # The Basics
 
-The flow of playing *Draw Steel* is like playing any other tabletop roleplaying game with a Director (also called a Game Master or GM in other games). Play is a conversation between the Director and the heroes that describes the story. The Director sets the scene, describing the important elements of the environment that the heroes would notice.
+The flow of playing *Draw [Steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX)* is like playing any other tabletop roleplaying game with a Director (also called a Game Master or GM in other games). Play is a conversation between the Director and the heroes that describes the story. The Director sets the scene, describing the important elements of the environment that the heroes would notice.
 
 **Director (Willy):** *You stand in the doorway of the top level of the ruined necromancer's tower. The air is stale and reeks of death. A pale full moon shines through a broken ceiling, illuminating six sarcophagi upon a raised dais, each with a lid carved in the likeness of a [devil](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX). Broken flasks, beakers, and other laboratory glass covers the floor.*
 
 After the Director sets the scene, each player describes how their character interacts with the area. The Director then describes how the environment and any creatures in it respond to the heroes' actions.
 
-**Alyssa (playing Jorn, a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)):** *I'm going to hang out at the back of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
+**Alyssa (playing Jorn, a [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX)):** *I'm going to hang out at the [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
 
 **Matt (playing Linn, a [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX)):** *Linn uses her [Minor Telekinesis](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/1st-Level%20Tradition%20Features/Minor%20TelekinesisREL_PATH_SUFFIX) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
 
-**James (playing Korvo, a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
+**James (playing Korvo, a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)):** *I'll light a torch as I step into the room. Is there anything new we can see [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX)?*
 
 **Director:** *With the glass cleared away and brighter light glowing in the room, you can see that the floor is covered in faded sigils.*
 
@@ -56,7 +56,7 @@ At some point, a player will have their hero attempt a task that has a risk of f
 
 **James:** *I think we found the Rotting Lords of Hell.*
 
-**Director:** *Draw steel!*
+**Director:** *Draw [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX)!*
 
 When combat starts, it's time to use a square-gridded map and miniatures to represent the position of the heroes relative to their enemies and the environment. The rules become a little more granular during combat to keep things interesting and fair, but the idea that the game is a conversation between the Director and the other players remains the same.
 
@@ -112,7 +112,7 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 #### Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) uses their [Brutal Slam](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Brutal%20SlamREL_PATH_SUFFIX) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
+The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) uses their [Brutal Slam](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Brutal%20SlamREL_PATH_SUFFIX) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
 A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](REL_PATH_PREFIXRules/Classes/TacticianREL_PATH_SUFFIX) might not have an ability that lets them [climb](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) up the face of a cliff, so [climbing](REL_PATH_PREFIXRules/Movement/Climb%20or%20SwimREL_PATH_SUFFIX) is an activity they can attempt with a test. An [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](REL_PATH_PREFIXRules/Chapters/TestsREL_PATH_SUFFIX) for more information.
 
@@ -196,7 +196,7 @@ If you are under multiple effects that each grant you a different automatic outc
 
 ### Hero Tokens
 
-In all great heroic stories, luck favors the protagonists, giving them that little bit of extra fortune they need to win the day. In these stories, fate is often on the side of the righteous. To represent that tiny bit of karma, players have access to hero tokens, a special resource that they can rely on when all else fails.
+In all great heroic stories, luck favors the protagonists, giving them that little bit of extra fortune they need to win the day. In these stories, [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) is often on the side of the righteous. To represent that tiny bit of karma, players have access to hero tokens, a special resource that they can rely on when all else fails.
 
 Hero tokens are a group resource that is tracked by the players and kept in a pool accessible to all their characters. Hero tokens can be tracked using poker chips, stones, or other markers, or can be tallied numerically on a piece of paper or written off to the side in a virtual tabletop.
 
@@ -236,7 +236,7 @@ Sometimes the rules tell you to divide a number in half. Whenever you divide an 
 
 ### Creatures and Objects
 
-*Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
+*Draw [Steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX)* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
 When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) can't use their [Return to Formlessness](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/Return%20to%20FormlessnessREL_PATH_SUFFIX) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 
@@ -259,7 +259,7 @@ Two types of characters inhabit the world of the game—the player characters (a
 
 ### Building a Heroic Narrative
 
-The game takes place in a series of scenes with the heroes as the main characters. An adventure is a collection of scenes that make up a story, with a beginning, middle, and end, and a campaign is a collection of adventures that tell the entire epic tale of a group of heroes. You can think of each adventure as a movie in a saga of films, a book in a series of novels, or a season of a television show. While many heroes have their stories told over the course of a campaign, some wrap up their careers in a single adventure that takes place in one game session, called a one-shot. You can think of a one-shot as a great stand-alone novella or movie.
+The game takes place in a series of scenes with the heroes as the main characters. An adventure is a collection of scenes that make up a story, with a beginning, middle, and end, and a campaign is a collection of adventures that tell the entire [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) tale of a group of heroes. You can think of each adventure as a movie in a saga of films, a book in a series of novels, or a season of a television show. While many heroes have their stories told over the course of a campaign, some wrap up their careers in a single adventure that takes place in one game session, called a one-shot. You can think of a one-shot as a great stand-alone novella or movie.
 
 This game is built so that each adventure you play and each battle you fight gets more exciting as it goes on. In fantastic tales, the heroes and their foes both grow in power over the course of an adventure. But it isn't time alone that grows a hero's capabilities. Rather, it's the adrenaline that comes from battle, the danger of the hero's profession, and the pressure to save the world—or at least some small part of it that pushes a character to do the impossible. Each small act of heroism gives a hero the confidence and bravery to perform legendary feats against all odds.
 
@@ -321,7 +321,7 @@ The standard 8-or-so hours of sleep one gets at night doesn't count as a respite
 
 ### Echelons of Play
 
-The core gameplay experience of *Draw Steel* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world—maybe even across all worlds know the names of their saviors!
+The core gameplay experience of *Draw [Steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX)* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world—maybe even across all worlds know the names of their saviors!
 
 Since this game encompasses power levels from hometown heroes to [demigods](REL_PATH_PREFIXRules/Titles/4th%20Echelon/DemigodREL_PATH_SUFFIX), the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
 
@@ -331,7 +331,7 @@ The 1st echelon of play details the stories of characters of 1st to 3rd level. A
 
 #### 2nd Echelon (4th to 6th Level)
 
-The 2nd echelon of play covers 4th to 6th level. At this echelon, the heroes are now known throughout the wider region they serve. In Vasloria, this means the characters might save and be celebrated by an entire country. In Capital, their reputation and work could encompass several different neighborhoods of the enormous city. Heroes of the timescape might be known for saving a planet!
+The 2nd echelon of play covers 4th to 6th level. At this echelon, the heroes are [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) known throughout the wider region they serve. In Vasloria, this means the characters might save and be celebrated by an entire country. In Capital, their reputation and work could encompass several different neighborhoods of the enormous city. Heroes of the timescape might be known for saving a planet!
 
 Heroes in this echelon battle humanoids of great supernatural power, such as draconians, [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), and hobgoblins. They face bosses possessed of cunning and ambition as great as their terrible influence, such as medusas and overminds. Heroes at this level also face the humanoid threats of earlier levels, but those foes are villainous counterparts of equal power rather than bands of ruffians or marauding armies.
 
@@ -353,7 +353,7 @@ Orden contains eight major regions, the largest of which is Vasloria.
 
 #### Vasloria
 
-A forested, medieval, feudal land, Vasloria is peppered with few cities, mostly just towns and villages. While there will someday be nations here with proper borders, as of now in the Age of Chaos those nations are merely geographic areas with names people use to distinguish lands that share similar terrain and subcultures.
+A forested, medieval, feudal land, Vasloria is peppered with few cities, mostly just towns and villages. While there will someday be nations here with proper borders, as of [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) in the Age of Chaos those nations are merely geographic areas with names people use to distinguish lands that share similar terrain and subcultures.
 
 Aendrim, the land of hills and farms. Corwell with its knights and castles. The marshlands of Tull where witches and wise women battle hags and swamp monsters. The thick forests of Farrow with its bands of archers, and the horselands of Graid home to the best cavalry in Orden.
 
@@ -363,7 +363,7 @@ Scattered across it all, Vasloria boasts the densest collection of elf-haunted w
 
 Within the wodes, time misbehaves. Cause and effect are only distant cousins, as all lands were before Ord placed the [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) in the world,
 
-imposing the Law of Time on Orden. Children's tales of villagers wandering into a wode and emerging unchanged 100 years later are based on real events. When pressed on how this "works," the elves look baffled. "How does what work?"
+imposing the Law of Time on Orden. Children's tales of villagers wandering into a wode and emerging unchanged 100 years later are based on real events. When pressed on how this "works," the elves [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) baffled. "How does what work?"
 
 ##### Omund's Land
 
@@ -371,21 +371,21 @@ Western Vasloria, including most of Aendrim and Corwell and parts of Graid, was 
 
 Under Omund's rule, order thrived. Roads were safe. People could even walk into the woods unafraid of meeting anything more threatening than a nymph or conversational manticore.
 
-Omund died 15 years ago and so died the rule of law. Now the forest claims the towns and roads once held safe. The woods are dangerous. Their only law... tooth and claw.
+Omund died 15 years ago and so died the rule of law. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) the forest claims the towns and roads once held safe. The woods are dangerous. Their only law... tooth and claw.
 
-Omund was betrayed and his castle fell to Ajax the Invincible, now called the Iron Saint. His wizard Mortum unlocked the secret of the ancient sky elf flying cities, and raised the Chrysopolis, Ajax's city-fortress in the sky.
+Omund was betrayed and his castle fell to Ajax the Invincible, [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) called the [Iron](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/IronREL_PATH_SUFFIX) Saint. His wizard Mortum unlocked the secret of the ancient sky elf flying cities, and raised the Chrysopolis, Ajax's city-fortress in the sky.
 
-It was Mortum who used the secrets of the synliroi body banks, granting immortality to those nobles who voluntarily submit to Ajax. Those same body banks produce Ajax's war dogs, his brutal, patchwork—soldiers who owe their new lives to the Iron Saint and fight for him fanatically.
+It was Mortum who used the secrets of the synliroi body banks, granting immortality to those nobles who voluntarily submit to Ajax. Those same body banks produce Ajax's war dogs, his brutal, patchwork—soldiers who owe their new lives to the [Iron](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/IronREL_PATH_SUFFIX) Saint and fight for him fanatically.
 
 Ajax abolished all faiths and temples. He executed the dukes who organized and united the barons, leaving the far-flung baronies to try and hold [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) civilization together. Once, these people were loose allies. There was trade between [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), elves, [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) and [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX).
 
-Now there is only suspicion.
+[Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) there is only suspicion.
 
 **The [high elves](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](REL_PATH_PREFIXRules/Ancestries/Wode%20ElfREL_PATH_SUFFIX) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
 
 **The [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) do not like this deal with the Overlord but lack the power—or the will—to rebel.
 
-**The Hawklords of the High Aeries**, once remote and proud, almost mythical to the people below, made their own pact with Ajax to avoid extermination. They now serve as his elite counterinsurgent force. Mounted on their giant hawks, they project Ajax's power, enforce his law and extend his influence into every corner of the wilderness. Their mastery of the air means any revolt or rebellion is quickly seen and crushed.
+**The Hawklords of the High Aeries**, once remote and proud, almost mythical to the people below, made their own pact with Ajax to avoid extermination. They [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) serve as his elite counterinsurgent force. Mounted on their giant hawks, they project Ajax's power, enforce his law and extend his influence into every corner of the wilderness. Their mastery of the air means any revolt or rebellion is quickly seen and crushed.
 
 **The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) foolish enough to travel without a disguise away to the Chrysopolis.
 
@@ -393,13 +393,13 @@ Isolated and outnumbered, the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_P
 
 #### Capital
 
-The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from Vasloria, on the eastern coast of Rioja, Capital is not only the largest city in Orden—it's the largest city there has ever been. Larger than the fabled steel [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
+The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from Vasloria, on the eastern coast of Rioja, Capital is not only the largest city in Orden—it's the largest city there has ever been. Larger than the fabled [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
 
 It is a city of playwrights and opera, of spies and sorcery. Famed throughout the world as a city of high magic where flying tapestries act as taxis, the reality of living in Capital is somewhat more mundane. Only the very wealthy can afford such luxuries.
 
 The great houses, ancient noble families, reluctantly share power with the upstart guilds who think vast wealth entitles them to rule. The great houses are very proud of their city. They believe anyone, from anywhere, should be able to come to Capital and earn a living, own property, expect justice. They just don't think anyone else should be able to *rule*.
 
-The guilds, by contrast, are more egalitarian, more democratic, and largely obsessed with accruing wealth, city be damned. Three of them recently used their obscene wealth to buy great house status and now play the great game with the best of them.
+The guilds, by contrast, are more egalitarian, more democratic, and largely obsessed with accruing wealth, city be damned. Three of them recently used their obscene wealth to buy great house status and [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) play the great game with the best of them.
 
 The "great game" is espionage, and **House Alvaro** are the best players in the world. Led by Duke Prospero, House Alvaro sponsor the Imperial University, the greatest center of learning in the world. Nobles from across Orden, including Vanigar, send their children to learn diplomacy and statecraft at the university. While the greatest spies in the world are all graduates of the Actian School, one of the colleges in the university, which has historically doubled as the prince's intelligence agency.
 
@@ -409,13 +409,13 @@ Duke Marco Vorona sponsors the Imperial War College, also known as the Academy. 
 
 **House Navarr**, oldest of the great houses, enforces the church's law, which they call justice. Led by His Grace Orsino, Duke Navarr, archbishop of the most powerful church in the city—the Church of Saint Ysabella the Pitiless—House Navarr consolidates a vast network of different churches and orders of knights across the region under one elaborate system of patronage.
 
-Arguably the most powerful great house, **House Valetta** controls the Arbitros Fiat, the tax collectors. Valetta is led by the Duchess Lenore who, in mourning for her assassinated husband Maximo, opened the *Codex Mortis* and spoke the ritual which should have returned her love to life. Instead, she brought about the Lilac Night, which transformed every mortal in her district, including herself, into deathless [revenants](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX). Now, the Duchess Lenore is an immortal vampire queen. A dead lady, ruling over a dead city.
+Arguably the most powerful great house, **House Valetta** controls the Arbitros Fiat, the tax collectors. Valetta is led by the Duchess Lenore who, in mourning for her assassinated husband Maximo, opened the *Codex Mortis* and spoke the ritual which should have returned her love to life. Instead, she brought about the Lilac Night, which transformed every mortal in her district, including herself, into deathless [revenants](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX). [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), the Duchess Lenore is an immortal vampire queen. A dead lady, ruling over a dead city.
 
 After the Lilac Night, when the prince was no longer able to rely on House Valetta to deliver the taxes they collected, Lady Shirome
 
 coordinated with two other guilds to buy Great House status for themselves.
 
-Lady Shirome runs the city's assayers guild, **the Fulcrum**. The guild controls the Trade Integrity Board, which sets lending rates and leads trade negotiations between Capital and other governments in Orden. It was the Fulcrum that convinced the prince to switch the city to paper money. As a result, Capital is the first and only city in Orden to have a robust monetary policy.
+Lady Shirome runs the city's assayers guild, **the [Fulcrum](REL_PATH_PREFIXRules/Abilities/Talent/9th-Level%20Features/FulcrumREL_PATH_SUFFIX)**. The guild controls the Trade Integrity Board, which sets lending rates and leads trade negotiations between Capital and other governments in Orden. It was the [Fulcrum](REL_PATH_PREFIXRules/Abilities/Talent/9th-Level%20Features/FulcrumREL_PATH_SUFFIX) that convinced the prince to switch the city to paper money. As a result, Capital is the first and only city in Orden to have a robust monetary policy.
 
 The Broadsheets, formally known as **the Font**, publish the thrice-daily news sheets everyone in the city reads. Guildmaster Inān al-Adwiyya uses a vast network of young people called the Paperfeathers to deliver and sell the broadsheets throughout the city. Lady al-Adwiyya knows almost everything happening anywhere in the city.
 
@@ -423,7 +423,7 @@ The Farrier's Guild, popularly known as **the Rasp**, control transport througho
 
 Three years ago, the prince of Capital died leaving no heir or even a likely candidate. He was a young man, only forty-one, but the events surrounding his death are shrouded in mystery and inaccurate accounts. Was he murdered like a commoner, or assassinated by a political rival? Evidence is scant, rumor substitutes as fact.
 
-Now the great game takes on a new meaning as the four great houses and three newly ascendant guilds jockey for position, each wanting to step into the power vacuum left by the dead prince. Everyone knows a war is coming, a war of succession that means fighting on the street. But each player in the game would much prefer it if someone *else* made the first move.
+[Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) the great game takes on a new meaning as the four great houses and three newly ascendant guilds jockey for position, each wanting to step into the power vacuum left by the dead prince. Everyone knows a war is coming, a war of succession that means fighting on the street. But each player in the game would much prefer it if someone *else* made the first move.
 
 #### The Myriad Worlds of the Timescape
 
@@ -435,7 +435,7 @@ The lower worlds lack the energy necessary for such extraordinary technology to 
 
 On Axiom, the Plane of Uttermost Law, the [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the [time raiders](REL_PATH_PREFIXRules/Ancestries/Time%20RaiderREL_PATH_SUFFIX) and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
 
-Meanwhile, on Proteus, the Sea of Eternal Change, the formless proteans rebelled against the synliroi who once ruled the Plane of Uttermost Chaos, exiling the voiceless talkers to the World Below. Now masters of their world, the proteans take to the stars in their living changeships, hurling their small fleet against the tyrannical unquestioned might of UNISOL.
+Meanwhile, on Proteus, the Sea of Eternal Change, the formless proteans rebelled against the synliroi who once ruled the Plane of Uttermost Chaos, exiling the voiceless talkers to the World Below. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) masters of their world, the proteans take [to the stars](REL_PATH_PREFIXRules/Abilities/Shadow/9th-Level%20Features/To%20the%20StarsREL_PATH_SUFFIX) in their living changeships, hurling their small fleet against the tyrannical unquestioned might of UNISOL.
 
 On Quintessence, the lowest of the upper worlds, proteans and [memonek](REL_PATH_PREFIXRules/Ancestries/MemonekREL_PATH_SUFFIX) alike rub shoulders with [devils](REL_PATH_PREFIXRules/Ancestries/DevilREL_PATH_SUFFIX), fire [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX), even [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) in Quintessence's capital city of Alloy, the City at the Center of the Timescape. The Free City of Alloy, also known as the City of Brass, is the gateway to the timescape. People travelling to or from the upper and lower worlds meet here to trade goods and information, free from the inflexible law of UNISOL.
 
@@ -451,7 +451,7 @@ The seven archdevils conspired together once; agreeing to create the Order of De
 
 The demons of the Abyssal Waste, the lowest plane, claw and scramble over each other, competing for souls in this heat-blasted desert under a baleful, giant orange sun. Mindless collections of organs, claws, and teeth, demons collect souls until they reach sentience and gain identity and the blessing of memory. These demons will do anything to escape upwards, out of the wasteland, lest they lose their collected souls, lose their identity, and fall into that mindless state called lethe.
 
-At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City, a city of the dead, ruled by Khorsekef, once the Infinite Pharaoh of Khemhara, now the Ultralich. Khorsekef intends to return to Orden and sit once again on his throne in the Heliopolis.
+At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City, a city of the dead, ruled by Khorsekef, once the Infinite Pharaoh of Khemhara, [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) the Ultralich. Khorsekef intends to return to Orden and sit once again on his throne in the Heliopolis.
 
 #### Setting Design
 
@@ -463,7 +463,7 @@ In Capital, for instance, people use flying tapestries to get around the city qu
 
 It's not clear to us, looking in, but it doesn't seem as though Orden operates according to the real-world laws of physics, chemistry, and biology. People in the middle ages here on Earth didn't know about quarks or DNA, but they still knew everything was made of "stuff" and everyone expected a child to more or less resemble their parents. Essentially, Orden works the way people living in any culture's medieval era believed the real world actually worked. Because of the presence of magic, prayer, and psionics in the world, it's unlikely anything like science or an industrial age will *ever* come to Orden.
 
-Ultimately, while there are 10th-level characters out there, these are exceedingly rare. Most people in Orden do not have class levels. Only a few are 1st level anything! No one has ever tried to take a census of all the [censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), [conduits](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX), [furies](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), and so forth, but if they did, they'd probably end up with a chart that looks a lot like Zipf's Law.
+Ultimately, while there are 10th-level characters out there, these are exceedingly rare. Most people in Orden do not have class levels. Only a few are 1st level anything! No one has ever tried to take a census of all the [censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX), [conduits](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX), [furies](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), and so forth, but if they did, they'd probably end up with a chart that [looks](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) a lot like Zipf's Law.
 
 Finally, most information about Orden and the timescape is presented from the point of view of someone living in Orden. They can tell you what they think they know, but even learned historians do not agree, and new information constantly comes to light challenging the accepted academic wisdom. Just like... you get it.
 
@@ -483,4 +483,4 @@ If you're a player, ask your Director about the setting where the game takes pla
 <!-- -->
 > **What's Next? Find Out on Patreon**
 >
-> While this book and *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* are both chock-full of character options and adventure ideas that could keep you playing *Draw Steel* for years, some folks want even more [classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX), [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX), monsters, treasures, and encounters. You can find out what we're developing next, get a preview of that content, and read blog posts about the development of the game by joining the MCDM Patreon at *[mcdm.gg/Patreon](https://mcdm.gg/Patreon)*.
+> While this book and *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* are both chock-full of character options and adventure ideas that could keep you playing *Draw [Steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX)* for years, some folks want even more [classes](REL_PATH_PREFIXRules/Chapters/ClassesREL_PATH_SUFFIX), [ancestries](REL_PATH_PREFIXRules/Chapters/AncestriesREL_PATH_SUFFIX), monsters, treasures, and encounters. You can find out what we're developing next, get a preview of that content, and read blog posts about the development of the game by joining the MCDM Patreon at *[mcdm.gg/Patreon](https://mcdm.gg/Patreon)*.

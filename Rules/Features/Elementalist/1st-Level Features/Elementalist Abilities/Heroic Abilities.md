@@ -137,12 +137,10 @@ effects:
               score. The pillar can't collide with any creatures or objects, nor
               can it force creatures raised by it to collide with other
               creatures or objects.
-  - effect: >-
+  - effect: |-
       ###### 5-Essence Ability
 
-
-      Choose one heroic ability from the following options, each of which costs
-      5 essence to use. (*Quick Build:* Conflagration.)
+      Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/ConflagrationREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability

@@ -14,7 +14,7 @@ type: complication
 
 #### Antihero
 
-You used to be a villain. You're (mostly) reformed now, but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go back. You've made too many enemies on the other side.
+You used to be a villain. You're (mostly) reformed [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX). You've made too many enemies on the other side.
 
 **Benefit:** You have 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) token.
 

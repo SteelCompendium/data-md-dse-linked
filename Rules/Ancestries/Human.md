@@ -14,15 +14,15 @@ type: ancestry
 
 ## Human
 
-[Humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+[Humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
 "No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin... the [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) and the [orcs](REL_PATH_PREFIXRules/Ancestries/OrcREL_PATH_SUFFIX) as you say. What is it that sets [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
 
 ### On Humans
 
-So, we arrive here at the end of your first semester of [Human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe now, I often see former students' names in our textbooks years later. Perhaps that will be some of you.
+So, we arrive here at the end of your first semester of [Human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), I often see former students' names in our textbooks years later. Perhaps that will be some of you.
 
-I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)?
+I will [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)?
 
 I am a [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
@@ -38,11 +38,11 @@ That refusal to yield to death... to *death*... is what drives you, I think. Dri
 
 We studied [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) history in this room. Did you feel that those great ancestors of yours were perhaps made of finer stuff than you? Do not think thus. I knew them, and I know you, and your future is greater. I sometimes think each [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX) generation greater than the last—more courageous, more generous. Quicker to forgive.
 
-Today, Ajax's name is on everyone's tongue, but we learned of many great evils that plagued this world. We met the Pharaoh Khorsekef, desperate, his power failing, as he opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and now rules the Necropolitan Ruin in the Abyssal Waste.
+Today, Ajax's name is on everyone's tongue, but we learned of many great evils that plagued this world. We met the Pharaoh Khorsekef, desperate, his power failing, as he opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) rules the Necropolitan Ruin in the Abyssal Waste.
 
 We watched Cthrion Uroniziir try to reduce the timescape into one singular universe, wiping out reality as we know it. She was defeated, and we see her cage every day.1
 
-Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them—all of them—were led... by [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). That's a fact. That's history. You can look it up.
+Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them—all of them—were led... by [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). That's a fact. That's history. You can [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) it up.
 
 Is there some rare trait that makes you uniquely qualified to lead disparate peoples, bring them together to achieve great things? I think... there must be.
 
@@ -50,7 +50,7 @@ Those great [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), your
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
-Stopping Ajax will require you to become something else. You must become heroes. [Conduits](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) of saints, warmasters of great armies. [Censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) and [shadows](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX). That may seem unlikely now, but the future has a way of surprising us.
+Stopping Ajax will require you to become something else. You must become heroes. [Conduits](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) of saints, warmasters of great armies. [Censors](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUFFIX) and [shadows](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX). That may seem unlikely [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), but the future has a way of surprising us.
 
 Some of your names, I will see written in future textbooks. But some of your names, I will see written in the stars.
 

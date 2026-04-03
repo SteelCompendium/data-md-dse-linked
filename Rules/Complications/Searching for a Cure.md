@@ -18,4 +18,4 @@ Your homeland has been corrupted by some terrible curse or plague, and you're th
 
 **Benefit:** Choose a type of monster connected to your homeland's plight, such as a vampire, ghost, or medusa. You have a +1 bonus to saving throws related to that monster's abilities, and you treat your characteristic scores as 1 higher than usual for the purpose of resisting potencies related to those abilities.
 
-**Drawback:** You have started to succumb to the curse or plague, and will suffer the fate of your family if you don't find a cure soon. Work with the Director to determine the timeline of your transformation, which should be something that could happen during the campaign!
+**Drawback:** You have started to succumb to the curse or plague, and will suffer the [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) of your family if you don't find a cure soon. Work with the Director to determine the timeline of your transformation, which should be something that could happen during the campaign!

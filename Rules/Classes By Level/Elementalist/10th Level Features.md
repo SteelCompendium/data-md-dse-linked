@@ -18,7 +18,7 @@ As a 10th-level [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH
 
 #### Breath
 
-You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) (no action required). When you do, 1 breath becomes 3 [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) (no action required). When you do, 1 breath becomes 3 [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
 
 [Breath](REL_PATH_PREFIXRules/Features/Elementalist/10th-Level%20Features/BreathREL_PATH_SUFFIX) remains until you convert it to [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
 

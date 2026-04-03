@@ -45,7 +45,7 @@ effects:
       | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
       | Auteur    | [Turnabout Is Fair Play](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Turnabout%20Is%20Fair%20PlayREL_PATH_SUFFIX) |
       | Duelist   | [Riposte](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/RiposteREL_PATH_SUFFIX)                                     |
-      | Virtuoso  | Harmonize                                                                                                                            |
+      | Virtuoso  | [Harmonize](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/HarmonizeREL_PATH_SUFFIX)                                 |
     features:
       - type: feature
         feature_type: ability

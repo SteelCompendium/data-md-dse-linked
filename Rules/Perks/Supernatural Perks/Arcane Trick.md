@@ -33,4 +33,4 @@ You have the following ability.
 > - You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
 > - Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
 > - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using [Arcane Trick](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Arcane%20TrickREL_PATH_SUFFIX).
-> - You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
+> - You touch a size 1T object to cover it with an illusion that makes it [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.

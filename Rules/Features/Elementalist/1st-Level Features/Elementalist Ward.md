@@ -41,7 +41,7 @@ effects:
       You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20ReactivityREL_PATH_SUFFIX).)
 
       ##### Ward of Delightful Consequences
-      A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 surge.
+      A protective field of void magic absorbs violence aimed at you, then lets you hurl it [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) at your enemies. The first time each round that you take damage, you gain 1 surge.
       ##### Ward of Excellent Protection
       You weave a shield of all the elements around yourself, channeling their full protective power. You have immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your Reason score.
       ##### Ward of Nature's Affection

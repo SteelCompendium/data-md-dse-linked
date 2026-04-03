@@ -40,5 +40,5 @@ effects:
   - effect: |-
       Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-      Additionally, your [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
+      Additionally, your [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX) ability [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
 ```

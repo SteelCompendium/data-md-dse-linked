@@ -22,7 +22,7 @@ You are granted one perk from your career and can choose other perks from your c
 
 ### Perk Types
 
-Six types of perks are available to your character. Five of those types reflect the setup of the five skill groups (see [Skills](#page-268-0) in Chapter 9: Tests), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to supernatural power.
+Six types of perks are available to your character. Five of those types reflect the [setup](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/SetupREL_PATH_SUFFIX) of the five skill groups (see [Skills](#page-268-0) in Chapter 9: Tests), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to supernatural power.
 
 **Crafting perks** improve your talent for crafting materials, and let you become an expert in the things you create.
 
@@ -210,7 +210,7 @@ Whenever you make a test as part of a crafting or research project using a skill
 Each time you enter a settlement you've never been to before, you can ask the Director one of the following questions:
 
 - Who is the most influential public figure in this settlement?
-- Who in this settlement would be the friendliest to us right now?
+- Who in this settlement would be the friendliest to us right [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX)?
 - What does this settlement need most from outsiders?
 
 If the Director doesn't have an answer to the question you ask, or doesn't want to answer, you can instead ask a different question.
@@ -256,7 +256,7 @@ You have the following ability.
 > - You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
 > - Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
 > - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using [Arcane Trick](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/Arcane%20TrickREL_PATH_SUFFIX).
-> - You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
+> - You touch a size 1T object to cover it with an illusion that makes it [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
 
 #### Creature Sense
 
@@ -270,7 +270,7 @@ The spirit uses the [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/F
 
 The [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) into existence in an unoccupied space adjacent to you.
 
 ###### Familiar Statblock
 

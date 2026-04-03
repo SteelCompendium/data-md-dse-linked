@@ -357,7 +357,7 @@ You have mastered a range of heroic abilities, all of them channeled through you
 
 ###### 3-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike.)
+Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Chronal%20SpikeREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Chronal Spike (3 Discipline)
@@ -421,7 +421,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 ###### 5-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* A Squad Unto Myself.)
+Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/A%20Squad%20Unto%20MyselfREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Arcane Disruptor (5 Discipline)
@@ -731,7 +731,7 @@ Your [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Nu
 
 #### Chilling Readiness
 
-You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
+You [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
 
 #### Inertial Fulcrum
 
@@ -1213,7 +1213,7 @@ Whenever you use an ability, you gain 1 discipline that can be used only to appl
 
 #### Order
 
-You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
 At the start of a combat encounter, you can spend 1 order to increase the size of your Null Field by 1 until the end of the encounter.
 

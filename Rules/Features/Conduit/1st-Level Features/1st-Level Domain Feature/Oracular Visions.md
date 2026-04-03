@@ -38,9 +38,13 @@ metadata:
   type: feature/subtrait/conduit/1st-level-feature
 effects:
   - effect: Your deity rewards you with hazy visions of things to come. Each time
-      you earn 1 or more Victories, you earn an equal number of fate points.
-      Whenever you or a creature within 10 squares makes a test, you can spend 1
-      fate point to tap into a vision of the outcome, granting that creature an
-      edge on the test. You lose any remaining fate points when you finish a
-      respite.
+      you earn 1 or more Victories, you earn an equal number of
+      [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX)
+      points. Whenever you or a creature within 10 squares makes a test, you can
+      spend 1
+      [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX)
+      point to tap into a vision of the outcome, granting that creature an edge
+      on the test. You lose any remaining
+      [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX)
+      points when you finish a respite.
 ```

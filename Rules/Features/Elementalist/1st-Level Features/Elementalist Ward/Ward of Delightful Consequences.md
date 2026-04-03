@@ -38,6 +38,8 @@ metadata:
   type: feature/subtrait/elementalist/1st-level-feature
 effects:
   - effect: A protective field of void magic absorbs violence aimed at you, then
-      lets you hurl it back at your enemies. The first time each round that you
-      take damage, you gain 1 surge.
+      lets you hurl it
+      [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX)
+      at your enemies. The first time each round that you take damage, you gain
+      1 surge.
 ```

@@ -34,7 +34,7 @@ You wear no armor and wield a whip.
 
 ###### Extension of My Arm
 
-*When you draw your whip back after an attack, your enemy is drawn ever closer.*
+*When you draw your whip [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) after an attack, your enemy is drawn ever closer.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |

@@ -68,17 +68,17 @@ The little man smiled. "Getting into places we ain't supposed to be." "Now we're
 
 John thought about how to put what he knew into words. "You know..." He shrugged. "Some people can only be heroes if they think they're better than everyone else. Some people can only be heroes once they realize they're not. And some people..."
 
-He looked at his drink, at the expensive clear glass the innkeep had given him because he recognized Sir John. He turned the glass slowly on the table, and now he was mostly talking to himself. "Some people still have to figure that out."
+He looked at his drink, at the expensive clear glass the innkeep had given him because he recognized Sir John. He turned the glass slowly on the table, and [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) he was mostly talking to himself. "Some people still have to figure that out."
 
 "Which is best?" Jackson asked, and Embers could tell the little man was testing John.
 
-John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
+John took a deep breath and came [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
 The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) looked at the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
-"What do you mean?" Now it was the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)'s turn to be confused. "What do you mean, 'What do I mean?'" John said.
+"What do you mean?" [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) it was the [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX)'s turn to be confused. "What do you mean, 'What do I mean?'" John said.
 
 "I'm not... we don't need *real* ogres." Jackson looked at the elf. "Is he for real?"
 
@@ -86,11 +86,11 @@ The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) looked at th
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) void mage, then back at the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the [high elf](REL_PATH_PREFIXRules/Ancestries/High%20ElfREL_PATH_SUFFIX) void mage, then [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) at the [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX). "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
-The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) turned back to Sir John. "Hello. I lie for a living. And I'm *really good at it*. Sometimes also kill people, but only if lying or running away doesn't work."
+The [polder](REL_PATH_PREFIXRules/Ancestries/PolderREL_PATH_SUFFIX) turned [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to Sir John. "Hello. I lie for a living. And I'm *really good at it*. Sometimes also kill people, but only if lying or running away doesn't work."
 
 John turned to Embers. "I thought he was a thief."
 
@@ -124,7 +124,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) stared at them for a moment, then turned back to his friend.
+The [dragon knight](REL_PATH_PREFIXRules/Ancestries/Dragon%20KnightREL_PATH_SUFFIX) stared at them for a moment, then turned [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to his friend.
 
 "Maybe you're right," he said.
 
@@ -178,4 +178,4 @@ Evading others' notice gives you freedom to move. At the start of each of your t
 
 ##### Reactive Tumble (1 Point)
 
-Staying light on your feet lets you quickly get back into position. Whenever you are force moved, you can use a free triggered action to shift 1 square after the forced movement is resolved.
+Staying light on your feet lets you quickly get [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) into position. Whenever you are force moved, you can use a free triggered action to shift 1 square after the forced movement is resolved.

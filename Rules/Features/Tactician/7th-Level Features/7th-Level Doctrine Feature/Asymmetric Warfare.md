@@ -37,10 +37,11 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/tactician/7th-level-feature
 effects:
-  - effect: You have advanced your skills in subterfuge, now directing full
-      battlefield strategy and logistics. During a montage test or negotiation,
-      you can obtain one automatic success on a test made using a skill from the
-      intrigue skill group. Additionally, you can use skills from the intrigue
-      skill group to conceal large groups of people, such as escaping civilians
-      and groups of guerilla warriors.
+  - effect: You have advanced your skills in subterfuge,
+      [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX)
+      directing full battlefield strategy and logistics. During a montage test
+      or negotiation, you can obtain one automatic success on a test made using
+      a skill from the intrigue skill group. Additionally, you can use skills
+      from the intrigue skill group to conceal large groups of people, such as
+      escaping civilians and groups of guerilla warriors.
 ```

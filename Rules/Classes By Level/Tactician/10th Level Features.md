@@ -22,7 +22,7 @@ Your Might and Reason scores each increase to 5.
 
 #### Command
 
-You have an epic resource called [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX). Each time you finish a respite, you gain [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX) equal to the XP you gain. You can spend [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX) on your abilities as if it were [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX). Each time you finish a respite, you gain [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX) equal to the XP you gain. You can spend [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX) on your abilities as if it were [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
 
 Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 command as a free triggered action to increase the power roll outcome for that target by one tier. Whenever an enemy marked by you makes an ability roll, you can spend 1 command as a free triggered action to decrease the power roll outcome by one tier.
 

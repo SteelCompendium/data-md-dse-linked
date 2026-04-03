@@ -15,7 +15,7 @@ type: title/2nd-echelon
 
 #### Giant Slayer
 
-*Come back here, puny one, and let me crush you!*
+*Come [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) here, puny one, and let me crush you!*
 
 **Prerequisite:** You defeat a leader or solo creature with the Giant keyword, such as a fire giant chief.
 

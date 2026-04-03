@@ -20,7 +20,7 @@ The spirit uses the [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/F
 
 The [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](REL_PATH_PREFIXRules/Perks/Supernatural%20Perks/FamiliarREL_PATH_SUFFIX) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) into existence in an unoccupied space adjacent to you.
 
 ###### Familiar Statblock
 

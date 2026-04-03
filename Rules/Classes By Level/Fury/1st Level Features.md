@@ -47,7 +47,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 Though you can't gain [ferocity outside of combat](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/To%20the%20Uttermost%20EndREL_PATH_SUFFIX), you can use it as if you had spent an amount of [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) equal to your Victories.
 
 #### Growing Ferocity
 
@@ -252,7 +252,7 @@ You fight with an array of heroic abilities, all of which cost ferocity to fuel 
 
 ###### 3-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
+Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* [Back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX)!)
 
 <!-- -->
 > ###### Back! (3 Ferocity)
@@ -324,7 +324,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 ###### 5-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* Blood for Blood!)
+Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Blood%20for%20BloodREL_PATH_SUFFIX)!)
 
 <!-- -->
 > ###### Blood for Blood! (5 Ferocity)

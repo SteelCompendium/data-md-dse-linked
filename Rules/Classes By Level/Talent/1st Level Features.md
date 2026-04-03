@@ -108,7 +108,7 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ##### Entropy Ward
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
+Your ward [slows](REL_PATH_PREFIXRules/Abilities/Talent/2nd-Level%20Features/SlowREL_PATH_SUFFIX) time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
 
 ##### Repulsive Ward
 
@@ -402,7 +402,7 @@ You know a range of heroic abilities, all of which cost clarity to fuel them.
 
 ###### 3-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)
+Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/ChokeREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Awe (3 Clarity)
@@ -468,7 +468,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ###### 5-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)
+Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Inertia%20SoakREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Flashback (5 Clarity)

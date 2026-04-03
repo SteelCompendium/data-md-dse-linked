@@ -14,7 +14,7 @@ type: complication
 
 #### Frostheart
 
-At the edge of the world, you were lost in a winter storm and [presumed dead](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Presumed%20DeadREL_PATH_SUFFIX). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [presumed dead](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Presumed%20DeadREL_PATH_SUFFIX). But an unknown [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) or power kept you alive, bringing you [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
 

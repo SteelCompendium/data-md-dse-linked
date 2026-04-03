@@ -128,17 +128,12 @@ effects:
               ended by a saving throw or that ends at the end of their turn.
           - cost: Spend 1 Drama
             effect: The chosen ally can spend a Recovery.
-  - effect: >-
+  - effect: |-
       ##### Heroic Abilities
 
-
-      You master a range of heroic abilities, all of which cost drama to empower
-      them.
-
+      You master a range of heroic abilities, all of which cost drama to empower them.
       ###### 3-Drama Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 drama to use. (*Quick Build:* Harsh Critic.)
+      Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* [Harsh Critic](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Harsh%20CriticREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability
@@ -241,12 +236,10 @@ effects:
               A < STRONG,
               [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and
               can't stand (EoT)"
-  - effect: >-
+  - effect: |-
       ###### 5-Drama Ability
 
-
-      Choose one heroic ability from the following options, each of which costs
-      5 drama to use. (*Quick Build:* Dramatic Reversal.)
+      Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* [Dramatic Reversal](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20ReversalREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability

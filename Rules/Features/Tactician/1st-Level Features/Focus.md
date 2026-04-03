@@ -38,7 +38,7 @@ metadata:
   type: feature/trait/tactician/1st-level-feature
 effects:
   - effect: |-
-      The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
+      The ring of [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) panics others but brings order to your mind, granting you a Heroic Resource called [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
 
       ##### Focus in Combat
       At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX) equal to your Victories. At the start of each of your turns during combat, you gain 2 [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).

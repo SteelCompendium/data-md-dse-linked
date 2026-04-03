@@ -209,7 +209,7 @@ Your primordial damage type is corruption.
 
 ###### Driving Pounce
 
-*Your enemies try in vain to fall back from your pouncing attack.*
+*Your enemies try in vain to fall [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) from your pouncing attack.*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
@@ -269,7 +269,7 @@ Your primordial damage type is lightning.
 
 ###### Unbalancing Attack
 
-*A wild assault forces your foe onto their back.*
+*A wild assault forces your foe onto their [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX).*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |

@@ -42,7 +42,7 @@ The first time you take damage each combat round, you gain 3 ferocity instead of
 
 #### Primordial Power
 
-You have an epic resource called [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX). Each time you finish a respite, you gain [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) equal to the XP you gain. You can spend [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) on your abilities as if it were [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX). Each time you finish a respite, you gain [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) equal to the XP you gain. You can spend [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) on your abilities as if it were [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
 
 Additionally, you can spend any amount of [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) as a free maneuver, ending one effect on you for each [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) spent.
 

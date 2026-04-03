@@ -37,15 +37,11 @@ metadata:
   source: mcdm.heroes.v1
   type: feature/subtrait/talent/1st-level-feature
 effects:
-  - effect: >-
-      You know a range of heroic abilities, all of which cost clarity to fuel
-      them.
-
+  - effect: |-
+      You know a range of heroic abilities, all of which cost clarity to fuel them.
 
       ###### 3-Clarity Ability
-
-      Choose one heroic ability from the following options, each of which costs
-      3 clarity to use. (*Quick Build:* Choke.)
+      Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/ChokeREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability
@@ -152,12 +148,10 @@ effects:
             tier2: 6 + R damage; R < AVERAGE, the target has weakness 5 (save ends)
             tier3: 9 + R damage; R < STRONG, the target has weakness equal to 5 + your
               Reason score (save ends)
-  - effect: >-
+  - effect: |-
       ###### 5-Clarity Ability
 
-
-      Choose one heroic ability from the following options, each of which costs
-      5 clarity to use. (*Quick Build:* Inertia Soak.)
+      Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Inertia%20SoakREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability

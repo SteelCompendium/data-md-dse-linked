@@ -16,11 +16,11 @@ type: treasure/leveled/weapon
 
 ##### Icemaker Maul
 
-*The head of this iron hammer is cold to the touch and encases whatever it strikes in a thin layer of ice.*
+*The head of this [iron](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/IronREL_PATH_SUFFIX) hammer is cold to the touch and encases whatever it strikes in a thin layer of ice.*
 
 **Keywords:** Heavy Weapon, Magic
 
-**Item Prerequisite:** Eight iron bars cooled in a glacier, the branch of an ancient evergreen
+**Item Prerequisite:** Eight [iron](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/IronREL_PATH_SUFFIX) bars cooled in a glacier, the branch of an ancient evergreen
 
 **Project Source:** Texts in Zaliac
 

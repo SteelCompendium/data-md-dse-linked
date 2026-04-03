@@ -41,7 +41,7 @@ effects:
       You have mastered a range of heroic abilities, all of them channeled through your [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
       ###### 3-Discipline Ability
-      Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike.)
+      Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Chronal%20SpikeREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability
@@ -134,12 +134,10 @@ effects:
               [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) and
               [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX)
               (save ends)
-  - effect: >-
+  - effect: |-
       ###### 5-Discipline Ability
 
-
-      Choose one heroic ability from the following options, each of which costs
-      5 discipline to use. (*Quick Build:* A Squad Unto Myself.)
+      Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/A%20Squad%20Unto%20MyselfREL_PATH_SUFFIX).)
     features:
       - type: feature
         feature_type: ability

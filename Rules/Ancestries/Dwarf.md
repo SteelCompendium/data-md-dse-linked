@@ -14,7 +14,7 @@ type: ancestry
 
 ## Dwarf
 
-Possessed of a strength that belies their size, [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX).
+Possessed of a strength that belies their size, [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX).
 
 [Dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) are the children of the elder god Ord, and a common phrase among [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) is "Ord made the world"-their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many [dwarves](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) leave their homes to see the world and seek glory in Ord's name.
 
@@ -22,7 +22,7 @@ Possessed of a strength that belies their size, [dwarves](REL_PATH_PREFIXRules/A
 
 "They can be stubborn," Embers said.
 
-John smiled and gave her a look as they walked around the barn. "Yeah not like elves and [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), right?"
+John smiled and gave her a [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) as they walked around the barn. "Yeah not like elves and [humans](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX), right?"
 
 Embers grinned.
 
@@ -34,9 +34,9 @@ They found the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) at 
 
 John and Embers watched silently as the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) hefted another massive stone onto the cutting block.
 
-The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) spit into his hands and noticed the two out of the corner of his eye. He paused, walked over to grab his battle staff with the hourglass symbol of Zarok, Law-Giver at the tip. He walked back to the stone and leaned his staff against a tree stump within easy reach should he need to use it.
+The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) spit into his hands and noticed the two out of the corner of his eye. He paused, walked over to grab his battle staff with the hourglass symbol of Zarok, Law-Giver at the tip. He walked [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to the stone and leaned his staff against a tree stump within easy reach should he need to use it.
 
-He went back to work.
+He went [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to work.
 
 "Good morning," John said.
 
@@ -44,13 +44,13 @@ The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) ignored them.
 
 "I'm a friend of Morag the Wise Woman," John said. "She said there was a high theochron of Zarok, Law-Giver around here working to earn his keep."
 
-The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) paused. "High theochron?" he said. "A lofty title. Far too lofty for a job such as this," he went back to work and a moment later there were two more smoking blocks. He cleared them away.
+The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) paused. "High theochron?" he said. "A lofty title. Far too lofty for a job such as this," he went [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to work and a moment later there were two more smoking blocks. He cleared them away.
 
 "There's a job for nine..." John hesitated. *Ratcatchers* didn't seem appropriate. He went with his gut. "Heroes. In Bedegar. A village looking for someone to stand against Lord Saxton."
 
 "Mm. I have heard of this one," the [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) said, seemingly uninterested. He hurled the smaller blocks into a pile and went to heft a new stone to cut. "A foul tyrant. Well-suited to these times. Perhaps the people deserve him."
 
-"No people *deserve* tyranny," Embers said, an edge in her voice. The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) appeared to notice her for the first time, peered at her, took in her raiment, and went back to work. "Nine against Saxton." The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) carried the massive block over his head to the cutting stone. He shook his head in disbelief at what was being asked. "How great the opposition?"
+"No people *deserve* tyranny," Embers said, an edge in her voice. The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) appeared to notice her for the first time, peered at her, took in her raiment, and went [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to work. "Nine against Saxton." The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) carried the massive block over his head to the cutting stone. He shook his head in disbelief at what was being asked. "How great the opposition?"
 
 John told him.
 
@@ -62,7 +62,7 @@ The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) dropped the st
 
 "I see no reason to choose," Embers said smoothly. "In my case, as well as the case of these villagers, justice would *be* revenge."
 
-The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)'s head snapped to look at Sir John. "She speaks my language as well it seems. You are of a kind, you two."
+The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX)'s head snapped to [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) at Sir John. "She speaks my language as well it seems. You are of a kind, you two."
 
 "Three," John dared.
 
@@ -84,7 +84,7 @@ The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) said nothing. 
 
 "Kal Kalavar's new thane is not an easy problem to solve," John said with sympathy. "Saxton is."
 
-The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) looked up at Embers, "Her I know by reputation." He turned to look at John.
+The [dwarf](REL_PATH_PREFIXRules/Ancestries/DwarfREL_PATH_SUFFIX) looked up at Embers, "Her I know by reputation." He turned to [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) at John.
 
 John bowed slightly. "John," he said.
 

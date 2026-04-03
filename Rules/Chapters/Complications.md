@@ -228,7 +228,7 @@ Unless you use this benefit again, you return to your true form at the start of 
 
 #### Antihero
 
-You used to be a villain. You're (mostly) reformed now, but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go back. You've made too many enemies on the other side.
+You used to be a villain. You're (mostly) reformed [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX). You've made too many enemies on the other side.
 
 **Benefit:** You have 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](REL_PATH_PREFIXRules/Complications/AntiheroREL_PATH_SUFFIX) token.
 
@@ -236,7 +236,7 @@ You used to be a villain. You're (mostly) reformed now, but in desperate moments
 
 #### Artifact Bonded
 
-A powerful artifact has bonded to you, though you don't know whether you're destined to wield the artifact or to destroy it. You're not powerful enough to use it at the moment, although you might be someday. For now, though, the artifact has no effect beyond getting you in trouble.
+A powerful artifact has bonded to you, though you don't know whether you're destined to wield the artifact or to destroy it. You're not powerful enough to use it at the moment, although you might be someday. For [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), though, the artifact has no effect beyond getting you in trouble.
 
 **Benefit:** Choose an artifact (see [Treasures](#page-327-2) in [Chapter 13: Rewards](#page-327-1)). The first time in an encounter that you are reduced to 0 Stamina against your will, the artifact appears on your person. It disappears at the end of your next turn, when you benefit from one of its properties, or when you have more than 0 Stamina, whichever comes first.
 
@@ -260,7 +260,7 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 #### Chaos Touched
 
-You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
+You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
 **Benefit:** You gain an edge on the [Escape Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/Escape%20GrabREL_PATH_SUFFIX), [Grab](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/GrabREL_PATH_SUFFIX), and [Knockback](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/KnockbackREL_PATH_SUFFIX) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
@@ -268,7 +268,7 @@ You came into contact with a mote of pure chaos energy, or were subjected to a s
 
 #### Chosen One
 
-Perhaps the stars marked you out at birth, or maybe your name appears in an ancient prophecy. In any case, a sinister cult has decided that you're important to their plans—though you don't particularly like the fate those plans have in store for you.
+Perhaps the stars marked you out at birth, or maybe your name appears in an ancient prophecy. In any case, a sinister cult has decided that you're important to their plans—though you don't particularly like the [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) those plans have in store for you.
 
 **Benefit:** You have 3 destiny points. Whenever you spend your Heroic Resource for your class, you can spend 1 or more destiny points instead. Each time you earn a Victory, you regain 1 destiny point.
 
@@ -296,7 +296,7 @@ Each time you complete this project, your knowledge of your chosen field expands
 
 #### Corrupted Mentor
 
-Your mentor taught you everything and you trusted them completely until they went rogue, betraying you or the organization you both belonged to. Their current whereabouts and activities are unknown, though disturbing rumors are heard from time to time. Even worse, as their former pupil, you're now under suspicion as well.
+Your mentor taught you everything and you trusted them completely until they went rogue, betraying you or the organization you both belonged to. Their current whereabouts and activities are unknown, though disturbing rumors are heard from time to time. Even worse, as their former pupil, you're [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) under suspicion as well.
 
 **Benefit:** You know the Corrupt Spirit maneuver, taught to you by your mentor. (In retrospect, that probably should have aroused your suspicion.)
 
@@ -349,13 +349,13 @@ When you were young, you did something reckless and unthinking that endangered a
 
 For as long as you can remember, you've never gotten older. You've simply adventured through one age after another. Still, your memory of past events—even those you were involved with—is a little hazy. Apparently, your memory isn't as long-lived as you are.
 
-**Benefit:** You don't age. Additionally, whenever you would die, you instead enter a state of suspended animation indistinguishable from death. If your body isn't destroyed by dying or while you remain in this state, you come back to life after 12 hours and regain Stamina equal to your recovery value.
+**Benefit:** You don't age. Additionally, whenever you would die, you instead enter a state of suspended animation indistinguishable from death. If your body isn't destroyed by dying or while you remain in this state, you come [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to life after 12 hours and regain Stamina equal to your recovery value.
 
 **Drawback:** You take a bane on any test made to recall lore.
 
 #### Curse of Misfortune
 
-You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just being a bully. But whatever the case, they cursed you before skipping town. Now, in moments of pressure that require great skill, you have a tendency to choke, falling and flailing in such a dramatic fashion that you take everyone else with you.
+You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just being a bully. But whatever the case, they cursed you before skipping town. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), in moments of pressure that require great skill, you have a tendency to [choke](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/ChokeREL_PATH_SUFFIX), falling and flailing in such a dramatic fashion that you take everyone else with you.
 
 **Benefit and Drawback:** Whenever you make a test in combat and incur a consequence, you ignore that consequence. Instead, you and each ally adjacent to you fall [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX).
 
@@ -367,7 +367,7 @@ A soothsayer once predicted you would have a long life, even as they told you yo
 
 #### Curse of Punishment
 
-Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
+Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) benefit from the blessing but also suffer from a curse.
 
 **Benefit:** You have 1 additional Recovery.
 
@@ -375,7 +375,7 @@ Through ignorance, fear, spite, or selfishness, you refused to help someone in n
 
 #### Curse of Stone
 
-As a child, you met a creature who turns people to stone, such as a medusa. You escaped half petrified, avoiding the fate of others who stand as statues now.
+As a child, you met a creature who turns people [to stone](REL_PATH_PREFIXRules/Abilities/Fury/5th-Level%20Features/To%20StoneREL_PATH_SUFFIX), such as a medusa. You escaped half petrified, avoiding the [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) of others who stand as statues [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX).
 
 **Benefit:** You have a +1 bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX). Additionally, you can use a free maneuver to cause your body, gear, and any items you hold to take on the appearance of stone, making you appear to be a mundane statue while you remain unmoving.
 
@@ -407,7 +407,7 @@ You sometimes have strange dreams of a raging inferno... a gleaming pile of trea
 
 #### Elemental Inside
 
-When an evil mage threatened someone you loved, you blocked that foe's summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—who isn't at all happy about it.
+When an evil mage threatened someone you loved, you blocked that foe's summoning of an elemental creature by absorbing their magic with your body. You are [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) infused with the power of that elemental—who isn't at all happy about it.
 
 **Benefit:** You gain a +3 bonus to Stamina at 1st level, then again at 4th, 7th, and 10th levels.
 
@@ -431,7 +431,7 @@ Whether you're a convicted criminal, a noble stripped of their title, or a perso
 
 #### Fallen Immortal
 
-You used to be an immortal creature, dispensing justice and doing the bidding of the gods. Now, whether as punishment or reward, you have been ordered to set your true nature aside and become a mortal. Your remaining years will be short, but living alongside your fellow mortals gives your life new meaning.
+You used to be an immortal creature, dispensing justice and doing the bidding of the gods. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), whether as punishment or reward, you have been ordered to set your true nature aside and become a mortal. Your remaining years will be short, but living alongside your fellow mortals gives your life new meaning.
 
 **Benefit:** You have the Religion skill (from the lore skill group). Additionally, whenever you use an ability that deals untyped damage, that ability can deal holy damage instead.
 
@@ -453,7 +453,7 @@ Your birth was attended by faeries. A friendly fairy blessed you, granting you s
 
 #### Fiery Ideal
 
-A spirit beyond your comprehension instilled in you a special purpose, choosing you to be the guardian of a place, a cause, or a philosophy. The flame that now burns in your soul can sear your enemies—or you if you fall short of expectations.
+A spirit beyond your comprehension instilled in you a special purpose, choosing you to be the guardian of a place, a cause, or a philosophy. The flame that [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) burns in your soul can sear your enemies—or you if you fall short of expectations.
 
 **Benefit:** While you fight on behalf of your special purpose, whenever you obtain a tier 3 outcome with a damage-dealing ability, the ability deals extra fire damage equal to your highest characteristic score.
 
@@ -485,7 +485,7 @@ You are in love with someone powerful, but tragic circumstances mean you cannot 
 
 #### Frostheart
 
-At the edge of the world, you were lost in a winter storm and [presumed dead](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Presumed%20DeadREL_PATH_SUFFIX). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [presumed dead](REL_PATH_PREFIXRules/Titles/1st%20Echelon/Presumed%20DeadREL_PATH_SUFFIX). But an unknown [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) or power kept you alive, bringing you [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
 
@@ -493,7 +493,7 @@ At the edge of the world, you were lost in a winter storm and [presumed dead](RE
 
 #### Getting Too Old for This
 
-You were once a renowned hero, but you've been living the last few years in blissful peace. Now you're coming out of retirement for one last hurrah. Your fighting skills might have atrophied to the point where you're no stronger than a wet-behind-the-ears novice adventurer, but you still remember some of your old tricks.
+You were once a renowned hero, but you've been living the last few years in blissful peace. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) you're coming out of retirement for one last hurrah. Your fighting skills might have atrophied to the point where you're no stronger than a wet-behind-the-ears novice adventurer, but you still remember some of your old tricks.
 
 **Benefit:** On your turn, you can choose a heroic ability that you would be able to learn if you were one level higher. Provided you meet the ability's other prerequisites and can spend any required Heroic Resource, you can use the ability. Once you use this benefit, you can't do so again until you earn 2 or more Victories.
 
@@ -511,7 +511,7 @@ As a child, you survived a gnoll attack. But that attack left you with a jagged 
 
 #### Greening
 
-You once felt the call of a great tree in the middle of a forest, whose life force was being drained by a parasitic supernatural moss clinging to its roots. As you removed the moss, you felt as if you were being filled with green elemental energy. Sadly, the great tree withered before you could finish the job, but left behind a golden sapling you now carry with you, seeking the perfect place to plant it.
+You once felt the call of a great tree in the middle of a forest, whose life force was being drained by a parasitic supernatural moss clinging to its roots. As you removed the moss, you felt as if you were being filled with green elemental energy. Sadly, the great tree withered before you could finish the job, but left behind a golden sapling you [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) carry with you, seeking the perfect place to plant it.
 
 **Benefit:** You have corruption immunity 5.
 
@@ -535,7 +535,7 @@ Once when you were a child, your settlement was in danger and you called out to 
 
 #### Guilty Conscience
 
-The world is in trouble—and it's partly your fault. Maybe you helped a villain rise to power or inadvertently released a demon from imprisonment. Now it's your mission to repair the damage you caused.
+The world is in trouble—and it's partly your fault. Maybe you helped a villain rise to power or inadvertently released a demon from imprisonment. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) it's your mission to repair the damage you caused.
 
 **Benefit:** You're determined to stay alive so you can set things right. When your Stamina reaches the negative of your winded value, you can use a free triggered action to spend a Recovery.
 
@@ -559,7 +559,7 @@ You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](#p
 
 #### Hunted
 
-You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX), or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
+You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a [revenant](REL_PATH_PREFIXRules/Ancestries/RevenantREL_PATH_SUFFIX), or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), you live your life on the run.
 
 **Benefit:** You have one skill of your choice from the intrigue skill group. Additionally, whenever one or more creatures are pursuing you, you can lay low as a respite activity. When you do so, anyone pursuing you loses track of your and your party's location and must start their search again.
 
@@ -581,7 +581,7 @@ You have that skill, and you gain an edge on tests made to find or learn clues a
 
 #### Indebted
 
-A deal you made went south, or you got involved with the wrong people. Now you owe a debt or a ransom that would bankrupt a minor noble. To pay it off, you'll need to take some dangerous risks.
+A deal you made went south, or you got involved with the wrong people. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) you owe a debt or a ransom that would bankrupt a minor noble. To pay it off, you'll need to take some dangerous risks.
 
 **Benefit:** You're good with money—because you've had to be. Whenever you earn Wealth, you earn 1 more than usual.
 
@@ -625,7 +625,7 @@ In a sinister ritual, your soul has been bound to that of another creature. This
 
 #### Lightning Soul
 
-You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX), but you absorbed the lightning into your body. It's always there now, simmering under the surface.
+You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX), but you absorbed the lightning into your body. It's always there [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), simmering under the surface.
 
 **Benefit:** Whenever you regain Stamina in combat, you gain 1 surge. Whenever you spend a surge to deal extra damage, you can make that extra damage into lightning damage.
 
@@ -637,11 +637,11 @@ You've always been a lone wolf. With no one else to lean on, you've picked up a 
 
 **Benefit:** When you finish a respite, choose a skill you don't have. You have that skill until the end of your next respite.
 
-**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX), or the end of the encounter.
+**Drawback:** [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX), or the end of the encounter.
 
 #### Lost in Time
 
-In a long-ago age, a cataclysm overtook your city. You weren't killed, but some arcane accident caused you to be suspended in time until now. Alone, you must navigate the world around you with a head full of outdated memories—and a few ancient secrets.
+In a long-ago age, a cataclysm overtook your city. You weren't killed, but some arcane accident caused you to be suspended in time until [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX). Alone, you must navigate the world around you with a head full of outdated memories—and a few ancient secrets.
 
 **Benefit:** Choose a damage type from acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic. Whenever you use a signature ability, you can have it deal your chosen damage type instead of its usual damage.
 
@@ -668,7 +668,7 @@ A bredbeddle stole your head! Usually, being beheaded by one of those magical gi
 
 #### Lucky
 
-You've always had a lucky streak. When you leave things in the hands of fate, you succeed more than you fail. But luck is fickle—and when you don't trust it, it deserts you.
+You've always had a lucky streak. When you leave things in the hands of [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX), you succeed more than you fail. But luck is fickle—and when you don't trust it, it deserts you.
 
 **Benefit:** When you spend a hero token to succeed on a saving throw or to reroll a test, roll a d10. On a 6 or higher, you gain the benefit but don't spend the hero token.
 
@@ -715,7 +715,7 @@ You can perceive ghosts and spirits that others don't sense. These supernatural 
 
 #### Medusa Blood
 
-Your mother and father never saw eye to eye. You know this because your father is still alive and your mother is a medusa. This made your childhood difficult, and now it's making your adulthood complicated as well.
+Your mother and father never saw eye to eye. You know this because your father is still alive and your mother is a medusa. This made your childhood difficult, and [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) it's making your adulthood complicated as well.
 
 **Benefit:** You have the following ability.
 
@@ -758,7 +758,7 @@ You might be a common bandit or an idealistic freedom fighter, but in any event,
 
 **Benefit:** You earn 1 Renown.
 
-**Drawback:** Law enforcement officials and bounty hunters who recognize you attempt to arrest you.
+**Drawback:** Law enforcement officials and bounty hunters who recognize you attempt to [arrest](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/ArrestREL_PATH_SUFFIX) you.
 
 #### Pirate
 
@@ -786,7 +786,7 @@ You once contracted a terrible illness for which no one could find a cure. You s
 
 #### Prisoner of the Synlirii
 
-You were captured by the psionic beings known as voiceless talkers (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). You escaped them, but you can't escape a feeling that's lingered since then in the back of your mind-the feeling of being watched.
+You were captured by the psionic beings known as voiceless talkers (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). You escaped them, but you can't escape a feeling that's lingered since then in the [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) of your mind-the feeling of being watched.
 
 **Benefit:** You can telepathically communicate with any creature within 10 squares of you if they share a language with you and you know of each other. A creature you communicate with this way can respond telepathically if they choose.
 
@@ -827,7 +827,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 #### Raised by Beasts
 
-You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes, bears, or wolves) took you in. Returning to so-called civilization was a shock, but you're now determined to learn all you can about your own kind.
+You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes, bears, or wolves) took you in. Returning to so-called civilization was a shock, but you're [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) determined to learn all you can about your own kind.
 
 **Benefit:** You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an edge on tests that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're supernaturally compelled to be.
 
@@ -835,9 +835,9 @@ You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes,
 
 #### Refugee
 
-A hostile army—perhaps the forces of Ajax, the Iron Saint—conquered your homeland. Your family escaped, but you can't return home until your oppressors are defeated once and for all.
+A hostile army—perhaps the forces of Ajax, the [Iron](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/IronREL_PATH_SUFFIX) Saint—conquered your homeland. Your family escaped, but you can't return home until your oppressors are defeated once and for all.
 
-**Benefit:** When your family fled your homeland, they left their most valuable asset behind. Work with the Director to determine whether this asset is a trinket or leveled treasure, several points of Wealth, the project source to create a treasure, or the like. This asset is in the hands of the invaders but can be won back as the Director determines.
+**Benefit:** When your family fled your homeland, they left their most valuable asset behind. Work with the Director to determine whether this asset is a trinket or leveled treasure, several points of Wealth, the project source to create a treasure, or the like. This asset is in the hands of the invaders but can be won [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) as the Director determines.
 
 **Drawback:** The faction that invaded your homeland wants you captured or dead. Any of their agents or sympathizers attempt to harm you if they recognize you, as the Director determines.
 
@@ -886,7 +886,7 @@ Your homeland has been corrupted by some terrible curse or plague, and you're th
 
 **Benefit:** Choose a type of monster connected to your homeland's plight, such as a vampire, ghost, or medusa. You have a +1 bonus to saving throws related to that monster's abilities, and you treat your characteristic scores as 1 higher than usual for the purpose of resisting potencies related to those abilities.
 
-**Drawback:** You have started to succumb to the curse or plague, and will suffer the fate of your family if you don't find a cure soon. Work with the Director to determine the timeline of your transformation, which should be something that could happen during the campaign!
+**Drawback:** You have started to succumb to the curse or plague, and will suffer the [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) of your family if you don't find a cure soon. Work with the Director to determine the timeline of your transformation, which should be something that could happen during the campaign!
 
 #### Secret Identity
 
@@ -898,7 +898,7 @@ You're secretly important—but it's not safe for your true identity to be known
 
 #### Secret Twin
 
-You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your [secret twin](REL_PATH_PREFIXRules/Complications/Secret%20TwinREL_PATH_SUFFIX) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
+You have an identical twin—either a sibling or someone who [looks](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) so much like you that no one would ever know the difference. Your [secret twin](REL_PATH_PREFIXRules/Complications/Secret%20TwinREL_PATH_SUFFIX) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
 
 **Benefit:** You have a 1st-echelon trinket of your choice. This was a signature treasure of your twin, and has their name or sigil written, sewn, or emblazoned on it somewhere.
 
@@ -906,7 +906,7 @@ You have an identical twin—either a sibling or someone who looks so much like 
 
 #### Self-Taught
 
-While your peers were learning their trades in fancy schools, you honed your capabilities on the mean streets with nothing but your own instinct as a guide. What you lost in polish and tactical acumen, you now make up for in raw power.
+While your peers were learning their trades in fancy schools, you honed your capabilities on the mean streets with nothing but your own instinct as a guide. What you lost in polish and tactical acumen, you [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) make up for in raw power.
 
 **Benefit and Drawback:** At the start of each of your turns during combat, you can forgo gaining your Heroic Resource until the start of your next turn. If you do, your strikes gain a damage bonus equal to your highest characteristic score until the start of your next turn.
 
@@ -950,9 +950,9 @@ You are the sole survivor of a shipwreck that left you stranded on a remote and 
 
 #### Sibling's Shield
 
-You were tasked with delivering a ceremonial shield to your older sibling, a celebrated warrior, for their years of service. When you arrived at their homestead, you found them dead on their doorstep with their own sword lodged in their back. To find out who did this to them—and why—you decided to step into their shoes. It will take a while to match up to your sibling's legacy, though.
+You were tasked with delivering a ceremonial shield to your older sibling, a celebrated warrior, for their years of service. When you arrived at their homestead, you found them dead on their doorstep with their own sword lodged in their [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX). To find out who did this to them—and why—you decided to step into their shoes. It will take a while to match up to your sibling's legacy, though.
 
-**Benefit:** While you wear your [sibling's shield](REL_PATH_PREFIXRules/Complications/Siblings%20ShieldREL_PATH_SUFFIX) on your back, you can't be flanked.
+**Benefit:** While you wear your [sibling's shield](REL_PATH_PREFIXRules/Complications/Siblings%20ShieldREL_PATH_SUFFIX) on your [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX), you can't be flanked.
 
 **Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer Recoveries than usual when you finish the respite.
 
@@ -976,7 +976,7 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 #### Stolen Face
 
-An evil fairy cursed you, leaving you with a blank visage instead of a face. Although you're able to imitate other peoples' features, you'd like to have your own back.
+An evil fairy cursed you, leaving you with a blank visage instead of a face. Although you're able to imitate other peoples' features, you'd like to have your own [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX).
 
 **Benefit:** You can spend 5 uninterrupted minutes to rearrange your face to resemble the face of another creature of your ancestry who you've observed before. You have a double edge on tests made to impersonate that creature or to disguise your identity. You are unable to change your hair or other nonfacial features.
 
@@ -992,7 +992,7 @@ Your siblings each inherited money or land, but you received a strange, seemingl
 
 #### Stripped of Rank
 
-You were trained as an officer, but you no longer serve. Whether you fled from a battle, were dishonorably discharged, or defected from an evil army, you make your own way in the world now—though your military training will never truly leave you.
+You were trained as an officer, but you no longer serve. Whether you fled from a battle, were dishonorably discharged, or defected from an evil army, you make your own way in the world [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX)—though your military training will never truly leave you.
 
 **Benefit:** You have the following ability.
 
@@ -1031,7 +1031,7 @@ A vampire has bitten you. You're not undead—or not yet, anyway—but your conn
 
 You occasionally hear a [voice in your head](REL_PATH_PREFIXRules/Complications/Voice%20in%20Your%20HeadREL_PATH_SUFFIX), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
 
-**Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
+**Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), the voice seems keen on making sure you survive.
 
 **Drawback:** Eventually, the voice reveals it wants something from you that you might not want to provide. If the voice is displeased with you, it can interrupt your rest during a respite, causing you to regain 2 fewer Recoveries than usual.
 
@@ -1041,7 +1041,7 @@ You have sworn an oath to an organization. That organization is your rock, and a
 
 **Benefit:** You gain a +1 bonus to [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX).
 
-**Drawback:** If you are ever forced to disobey your organization's orders, your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) becomes 0 until your doubts are resolved or you find a new organization to pledge yourself to.
+**Drawback:** If you are ever forced to disobey your organization's orders, your [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) becomes 0 until your [doubts](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/DoubtREL_PATH_SUFFIX) are resolved or you find a new organization to pledge yourself to.
 
 #### Vow of Honesty
 
@@ -1049,7 +1049,7 @@ You were brought up to a strict standard of behavior. You cannot tell a lie.
 
 **Benefit:** If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you have a double edge on any test made to persuade a creature of some specific fact.
 
-**Drawback:** When you lie, your honor is stained and you lose this complication's benefit. Additionally, you take a bane on any test that uses a skill from the interpersonal skill group. You can lose the bane and regain this complication's benefit only by doing penance, such as gaining the forgiveness of the creature you lied to.
+**Drawback:** When you lie, your honor is stained and you lose this complication's benefit. Additionally, you take a bane on any test that uses a skill from the interpersonal skill group. You can lose the bane and regain this complication's benefit only by doing [penance](REL_PATH_PREFIXRules/Abilities/Conduit/5th-Level%20Features/PenanceREL_PATH_SUFFIX), such as gaining the forgiveness of the creature you lied to.
 
 #### Waking Dreams
 
@@ -1129,7 +1129,7 @@ You were dying in the wode, collapsing while starving and wounded. When you woke
 
 #### Wrathful Spirit
 
-You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
+You're quick to anger, never letting an insult go without slinging one right [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX). In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 
 **Benefit:** While you are [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
 

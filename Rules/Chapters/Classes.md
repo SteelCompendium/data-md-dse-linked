@@ -28,7 +28,7 @@ Your class provides you with many of your features, most of your abilities—you
 
 **[Fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX):** Coursing with the [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) of the Primordial Chaos in their veins, a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX) lives.
 
-**[Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX):** Disciplined and calm, the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) is an unarmed warrior who manifests an aura that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
+**[Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX):** Disciplined and calm, the [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) is an unarmed warrior who manifests an aura that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) and faster than any steed.
 
 **[Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX):** Stalking from the darkness, the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) is an expert assassin and thief who fights equally well in melee and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
 
@@ -36,7 +36,7 @@ Your class provides you with many of your features, most of your abilities—you
 
 **[Talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX):** A [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) is the master of psionics, manifesting powers that manipulate objects, minds, and time. These heroes can reach far into themselves to use abilities even when they don't have their Heroic Resource to spare—if they're willing to face the cost.
 
-**[Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX):** A [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) inspires their allies with storytelling and swordplay that is as much an art as it is an act of war. Their quips, songs, poems, and epic tales produce actual magic that harms foes and bolsters allies. They can even use their magic to tweak the campaign's story in real time to better suit their needs.
+**[Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX):** A [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) inspires their allies with storytelling and swordplay that is as much an art as it is an act of war. Their quips, songs, poems, and [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) tales produce actual magic that harms foes and bolsters allies. They can even use their magic to tweak the campaign's story in real time to better suit their needs.
 
 ### Subclasses
 
@@ -107,7 +107,7 @@ Abilities with the Melee keyword can be used only over very short distances, typ
 
 ##### Psionic
 
-Abilities with the Psionic keyword are used by characters who can manifest psionic powers, have innate psionic features, or wield psionic items. These abilities might create blasts of psychic energy, move objects with telekinesis, or slow down time with chronopathy.
+Abilities with the Psionic keyword are used by characters who can manifest psionic powers, have innate psionic features, or wield psionic items. These abilities might create blasts of psychic energy, move objects with telekinesis, or [slow](REL_PATH_PREFIXRules/Abilities/Talent/2nd-Level%20Features/SlowREL_PATH_SUFFIX) down time with chronopathy.
 
 ##### Ranged
 
@@ -195,9 +195,9 @@ You can stack squares on top of each other to make the wall higher. Unless other
 <!-- -->
 > **Straight Lines**
 >
-> Talking about a straight line area of effect on an encounter map doesn't mean the line can only be a straight vertical or horizontal line of contiguous squares. It means each square in the line's length must move in the same direction without bending back in an opposite direction. To make a line area quickly, pick your line's origin square, then pick each subsquent square in the line one at a time in a single direction without bending back in an opposite direction.
+> Talking about a straight line area of effect on an encounter map doesn't mean the line can only be a straight vertical or horizontal line of contiguous squares. It means each square in the line's length must move in the same direction without bending [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) in an opposite direction. To make a line area quickly, pick your line's origin square, then pick each subsquent square in the line one at a time in a single direction without bending [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) in an opposite direction.
 >
-> Likewise, abilities and effects that require a creature to move in a straight line, such as the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
+> Likewise, abilities and effects that require a creature to move in a straight line, such as the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) in a direction opposite to where they've already moved.
 
 #### Target
 
@@ -242,9 +242,9 @@ If an ability requires a power roll, it has a "Power Roll" entry that tells you 
 
 Unlike power rolls made as tests (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the tier outcome of the power roll. For instance, the [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX)'s [Brutal Slam](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Brutal%20SlamREL_PATH_SUFFIX) ability is a melee strike that targets one adjacent creature (within 1 square), and which has the following effects:
 
-- **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your Might score, then pushes the target back 1 square.
-- **Tier 2 (12-16):** The ability deals damage equal to 6 + your Might score, then pushes the target back 2 squares.
-- **Tier 3 (17 or higher):** The ability deals damage equal to 9 + your Might score, then pushes the target back 4 squares.
+- **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your Might score, then pushes the target [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) 1 square.
+- **Tier 2 (12-16):** The ability deals damage equal to 6 + your Might score, then pushes the target [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) 2 squares.
+- **Tier 3 (17 or higher):** The ability deals damage equal to 9 + your Might score, then pushes the target [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) 4 squares.
 
 ###### Characteristics and Damage
 
@@ -272,7 +272,7 @@ Some abilities, including your [free strikes](REL_PATH_PREFIXRules/Abilities/Com
 
 Strikes and area abilities can deal damage and have an additional effect on a target. The damage and the strength of the effect are determined by the ability roll.
 
-To keep things moving quickly and to make abilities easy to read during play, damage and effects are separated with a semicolon in a power roll tier entry, with effects abbreviated whenever possible. An effect determined by a power roll always applies to the target unless otherwise specified. For example, the [Brutal Slam](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Brutal%20SlamREL_PATH_SUFFIX) ability mentioned above has the following power roll setup in the ability format:
+To keep things moving quickly and to make abilities easy to read during play, damage and effects are separated with a semicolon in a power roll tier entry, with effects abbreviated whenever possible. An effect determined by a power roll always applies to the target unless otherwise specified. For example, the [Brutal Slam](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Brutal%20SlamREL_PATH_SUFFIX) ability mentioned above has the following power roll [setup](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/SetupREL_PATH_SUFFIX) in the ability format:
 
 **Power Roll + Might:**
 
@@ -280,11 +280,11 @@ To keep things moving quickly and to make abilities easy to read during play, da
 - **12-16:** 6 + M damage; push 2
 - **17+:** 9 + M damage; push 4
 
-Unless otherwise indicated, any effects that are determined by a power roll's tier outcome occur after the power roll's damage has been dealt to all targets. If an ability roll deals damage to multiple targets but its effect targets the creature using the ability or the Director, such as Muse of Fire, then the effect only occurs once, not once per target. If different tiered outcomes affect multiple targets, the creature using the ability picks which tier of rolled effect applies to them or the Director. If an ability creates multiple effects, those effects resolve in the order in which they are presented.
+Unless otherwise indicated, any effects that are determined by a power roll's tier outcome occur after the power roll's damage has been dealt to all targets. If an ability roll deals damage to multiple targets but its effect targets the creature using the ability or the Director, such as [Muse of Fire](REL_PATH_PREFIXRules/Abilities/Elementalist/8th-Level%20Features/Muse%20of%20FireREL_PATH_SUFFIX), then the effect only occurs once, not once per target. If different tiered outcomes affect multiple targets, the creature using the ability picks which tier of rolled effect applies to them or the Director. If an ability creates multiple effects, those effects resolve in the order in which they are presented.
 
 #### "During the Move"
 
-Certain ability effects allow you to move and affect other creatures or objects during that move, such as the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)'s One Hundred Throats ability. For such abilities, the move begins in the space you first leave when you start the move and ends in the last space you move into.
+Certain ability effects allow you to move and affect other creatures or objects during that move, such as the [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX)'s [One Hundred Throats](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/One%20Hundred%20ThroatsREL_PATH_SUFFIX) ability. For such abilities, the move begins in the space you first leave when you start the move and ends in the last space you move into.
 
 #### Rolled Damage
 
@@ -304,7 +304,7 @@ Your character has a **weak**, an **average**, and a **strong** potency value, a
 
 In abilities and other effects, a potency always appears as the single-letter abbreviation for the target's characteristic: M for Might, A for Agility, R for Reason, I for Intuition, or P for Presence. That characteristic is followed by a "less than" sign (\<) and your potency value—for example, M < WEAK or R < AVERAGE -with the value indicating the minimum score in that characteristic that the target needs to beat the effect.
 
-As an example, consider the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX)'s Judgment's Hammer ability, which has the following power roll:
+As an example, consider the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX)'s [Judgment's Hammer](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Judgments%20HammerREL_PATH_SUFFIX) ability, which has the following power roll:
 
 **Power Roll + Intuition:**
 
@@ -318,7 +318,7 @@ At 1st level, a [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) u
 - Average: 1
 - Strong: 2
 
-When writing Judgment's Hammer on their character sheet, the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX)'s player updates the damage and converts the weak, average, and strong potencies into their numerical values, knowing that those values won't change until the character hits 2nd echelon and their Intuition score becomes 3. That produces the following:
+When writing [Judgment's Hammer](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Judgments%20HammerREL_PATH_SUFFIX) on their character sheet, the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX)'s player updates the damage and converts the weak, average, and strong potencies into their numerical values, knowing that those values won't change until the character hits 2nd echelon and their Intuition score becomes 3. That produces the following:
 
 **Power Roll + Intuition:**
 
@@ -326,7 +326,7 @@ When writing Judgment's Hammer on their character sheet, the [conduit](REL_PATH_
 - **12-16:** 8 holy damage; A < 1, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
 - **17+:** 11 holy damage; A < 2, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and can't stand (save ends)
 
-During a game session, the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) uses Judgment's Hammer to target a bandit with an Agility score of 0. The ability thus has the following outcomes at each tier:
+During a game session, the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) uses [Judgment's Hammer](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Judgments%20HammerREL_PATH_SUFFIX) to target a bandit with an Agility score of 0. The ability thus has the following outcomes at each tier:
 
 - With a tier 1 outcome (11 or lower), the ability deals 5 holy damage to the bandit. But the bandit resists the additional effect because they have Agility 0 (and therefore don't have an Agility of less than 0).
 - With a tier 2 outcome (12-16), the ability deals 8 holy damage. But the bandit is also knocked [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), unable to resist the additional effect because they would need an Agility of 1 or higher to do so. If the bandit had Agility 1 or higher, they would have taken 8 holy damage but stayed standing.
@@ -334,9 +334,9 @@ During a game session, the [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PAT
 
 ##### Potency Presentation
 
-Potencies are presented in an abbreviated style in abilities so they don't take up too much space, and so you can read them by saying: "If the target's [characteristic] is less than [potency value], they [suffer effect]." If our 1st-level [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) obtained a tier 2 outcome when using Judgment's Hammer, the player would say, "I deal 8 holy damage, and if the bandit's Agility is less than 1, they fall [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)."
+Potencies are presented in an abbreviated style in abilities so they don't take up too much space, and so you can read them by saying: "If the target's [characteristic] is less than [potency value], they [suffer effect]." If our 1st-level [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) obtained a tier 2 outcome when using [Judgment's Hammer](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Judgments%20HammerREL_PATH_SUFFIX), the player would say, "I deal 8 holy damage, and if the bandit's Agility is less than 1, they fall [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)."
 
-Reading the ability this way prevents a lot of back and forth. You don't need to ask, "What's the target's Agility score?", wait for a response, and then give the outcome. You can simply say, "If they don't have an Agility of 1 or higher, they fall [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)." Players can let the Director figure out whether the target is [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and keep the game moving, with the Director doing the same in reverse when monsters and other foes use abilities with potencies against the heroes.
+Reading the ability this way prevents a lot of [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) and forth. You don't need to ask, "What's the target's Agility score?", wait for a response, and then give the outcome. You can simply say, "If they don't have an Agility of 1 or higher, they fall [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)." Players can let the Director figure out whether the target is [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and keep the game moving, with the Director doing the same in reverse when monsters and other foes use abilities with potencies against the heroes.
 
 ##### Adjusting Potencies
 
@@ -403,7 +403,7 @@ Many effects last until the end of the target's next turn, abbreviated as "(EoT)
 
 ##### Saving Throw (Save Ends)
 
-If an effect has "(save ends)" at the end of its description, a creature suffering the effect makes a saving throw at the end of each of their turns to remove the effect. A saving throw represents the sheer luck involved in shaking off an effect. Because a target typically had a chance to avoid a "save ends" effect using a characteristic score to resist a potency, it's now down to fate.
+If an effect has "(save ends)" at the end of its description, a creature suffering the effect makes a saving throw at the end of each of their turns to remove the effect. A saving throw represents the sheer luck involved in shaking off an effect. Because a target typically had a chance to avoid a "save ends" effect using a characteristic score to resist a potency, it's [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) down to [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX).
 
 To make a saving throw, a creature rolls a d10. On a 6 or higher, the effect ends. Otherwise, it continues.
 
@@ -502,7 +502,7 @@ For example a 6th-level [censor](REL_PATH_PREFIXRules/Classes/CensorREL_PATH_SUF
 <!-- -->
 > **Quick Build Gold Icons**
 >
-> Abilities granted by your class that are quick build options are indicated by a gold icon to the left of their name. Look for this icon if you're using the quick build options when creating your hero:
+> Abilities granted by your class that are quick build options are indicated by a gold icon to the left of their name. [Look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) for this icon if you're using the quick build options when creating your hero:
 
 ## Censor
 
@@ -659,20 +659,20 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](R
 
 ###### 1st-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                    | Skill Group   |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Hands%20of%20the%20MakerREL_PATH_SUFFIX)                       | Crafting      |
-| Death      | [Grave Speech](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Grave%20SpeechREL_PATH_SUFFIX)                                       | Lore          |
-| Fate       | [Oracular Visions](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20VisionsREL_PATH_SUFFIX)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20ComprehensionREL_PATH_SUFFIX)           | Lore          |
-| Life       | [Revitalizing Ritual](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
-| Love       | [Blessing of Compassion](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
-| Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Faithful%20FriendREL_PATH_SUFFIX)                                 | Exploration   |
-| Protection | [Protective Circle](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
-| Sun        | [Inner Light](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
-| Trickery   | [Inspired Deception](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
-| War        | [Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)                             | Exploration   |
+| Domain                                                                                 | Feature                                                                                                                                                                    | Skill Group   |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation                                                                               | [Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Hands%20of%20the%20MakerREL_PATH_SUFFIX)                       | Crafting      |
+| Death                                                                                  | [Grave Speech](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Grave%20SpeechREL_PATH_SUFFIX)                                       | Lore          |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Oracular Visions](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20VisionsREL_PATH_SUFFIX)                               | Lore          |
+| Knowledge                                                                              | [Blessing of Comprehension](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20ComprehensionREL_PATH_SUFFIX)           | Lore          |
+| Life                                                                                   | [Revitalizing Ritual](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
+| Love                                                                                   | [Blessing of Compassion](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
+| Nature                                                                                 | [Faithful Friend](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Faithful%20FriendREL_PATH_SUFFIX)                                 | Exploration   |
+| Protection                                                                             | [Protective Circle](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX)                             | Exploration   |
+| Storm                                                                                  | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
+| Sun                                                                                    | [Inner Light](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
+| Trickery                                                                               | [Inspired Deception](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
+| War                                                                                    | [Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -745,7 +745,7 @@ You have the following ability.
 
 ##### Inner Light
 
-Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of morning light into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
+Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Morning%20LightREL_PATH_SUFFIX) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
 
 ##### Inspired Deception
 
@@ -753,7 +753,7 @@ The gods favor your thievery with magic. Whenever you make a test that uses a sk
 
 ##### Oracular Visions
 
-Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
+Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) points. Whenever you or a creature within 10 squares makes a test, you can spend 1 [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) points when you finish a respite.
 
 ##### Protective Circle
 
@@ -845,7 +845,7 @@ You call upon a number of heroic abilities, all of them bound to your [wrath](RE
 
 ###### 3-Wrath Ability
 
-Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)
+Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/The%20Gods%20Punish%20and%20DefendREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Behold a Shield of Faith! (3 Wrath)
@@ -915,7 +915,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ###### 5-Wrath Ability
 
-Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire.)
+Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/Purifying%20FireREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Arrest (5 Wrath)
@@ -1207,20 +1207,20 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](R
 
 ###### 4th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
-| Death      | [Seance](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/SeanceREL_PATH_SUFFIX)                                                   |
-| Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20WarningREL_PATH_SUFFIX)                             |
-| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
-| Life       | [Blessing of Life](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
-| Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
-| Nature     | [Wode Road](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20RoadREL_PATH_SUFFIX)                                           |
-| Protection | [Impervious Touch](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20TouchREL_PATH_SUFFIX)                             |
-| Storm      | [Windwalk](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX)                                               |
-| Sun        | [Light of Revelation](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20RevelationREL_PATH_SUFFIX)                     |
-| Trickery   | [Blessing of Secrets](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20SecretsREL_PATH_SUFFIX)                     |
-| War        | [Improved Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20WeaponREL_PATH_SUFFIX)       |
+| Domain                                                                                 | Feature                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation                                                                               | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
+| Death                                                                                  | [Seance](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/SeanceREL_PATH_SUFFIX)                                                   |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Oracular Warning](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20WarningREL_PATH_SUFFIX)                             |
+| Knowledge                                                                              | [Saint's Epiphany](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
+| Life                                                                                   | [Blessing of Life](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
+| Love                                                                                   | [Invocation of the Heart](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
+| Nature                                                                                 | [Wode Road](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20RoadREL_PATH_SUFFIX)                                           |
+| Protection                                                                             | [Impervious Touch](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20TouchREL_PATH_SUFFIX)                             |
+| Storm                                                                                  | [Windwalk](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX)                                               |
+| Sun                                                                                    | [Light of Revelation](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20RevelationREL_PATH_SUFFIX)                     |
+| Trickery                                                                               | [Blessing of Secrets](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20SecretsREL_PATH_SUFFIX)                     |
+| War                                                                                    | [Improved Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20WeaponREL_PATH_SUFFIX)       |
 
 ##### Blessing of Life
 
@@ -1508,20 +1508,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](R
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
-| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
-| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
-| Knowledge  | Gods' Library                                                                                                                                                            |
-| Life       | [Font of Grace](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
-| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
-| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
-| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
-| Storm      | [Ride the Lightning](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20LightningREL_PATH_SUFFIX)                       |
-| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
-| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
-| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
+| Domain                                                                                 | Feature                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation                                                                               | [Divine Quartermaster](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
+| Death                                                                                  | [Word of Death Deferred](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Word of Fate Denied](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
+| Knowledge                                                                              | Gods' Library                                                                                                                                                            |
+| Life                                                                                   | [Font of Grace](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
+| Love                                                                                   | [Covenant of the Heart](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
+| Nature                                                                                 | [Nature's Bounty](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
+| Protection                                                                             | [Blessing of Iron](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
+| Storm                                                                                  | [Ride the Lightning](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20LightningREL_PATH_SUFFIX)                       |
+| Sun                                                                                    | [Light of the Burning Sun](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
+| Trickery                                                                               | [Trinity of Trickery](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
+| War                                                                                    | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
 
 ##### Blessing of Iron
 
@@ -1857,7 +1857,7 @@ While you rest in their presence, your god might also give you priority targets 
 
 #### Virtue
 
-You have an epic resource called [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX). Each time you finish a respite, you gain [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) equal to the XP you gain. You can spend [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) on your abilities as if it were [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX). Each time you finish a respite, you gain [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) equal to the XP you gain. You can spend [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) on your abilities as if it were [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
 Additionally, you can spend 3 [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 
@@ -1871,7 +1871,7 @@ When you gain [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/
 
 The power of the gods flows through you! As a vessel for divine power, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
-**As a [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
+**As a [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with [awe](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/AweREL_PATH_SUFFIX) and making you more worldly and aware.**
 
 <!-- -->
 > "The gods judge our actions, and our inaction."
@@ -1967,7 +1967,7 @@ Additionally, whenever you activate a domain effect by praying for [piety](REL_P
 ###### Fate Domain Piety and Effect
 
 - **[Piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **[Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) Effect:** You call on the forces of [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
 
 ###### Knowledge Domain Piety and Effect
 
@@ -2020,20 +2020,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 1st-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                     | Skill Group   |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Hands%20of%20the%20MakerREL_PATH_SUFFIX)                        | Crafting      |
-| Death      | [Grave Speech](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Grave%20SpeechREL_PATH_SUFFIX)                                        | Lore          |
-| Fate       | [Oracular Visions](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20VisionsREL_PATH_SUFFIX)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20ComprehensionREL_PATH_SUFFIX)           | Lore          |
-| Life       | [Revitalizing Ritual](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
-| Love       | [Blessing of Compassion](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
-| Nature     | [Faithful Friend](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Faithful%20FriendREL_PATH_SUFFIX)                                  | Exploration   |
-| Protection | [Protective Circle](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
-| Sun        | [Inner Light](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
-| Trickery   | [Inspired Deception](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
-| War        | [Sanctified Weapon](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)                             | Exploration   |
+| Domain                                                                                 | Feature                                                                                                                                                                     | Skill Group   |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation                                                                               | [Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Hands%20of%20the%20MakerREL_PATH_SUFFIX)                        | Crafting      |
+| Death                                                                                  | [Grave Speech](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Grave%20SpeechREL_PATH_SUFFIX)                                        | Lore          |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Oracular Visions](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20VisionsREL_PATH_SUFFIX)                               | Lore          |
+| Knowledge                                                                              | [Blessing of Comprehension](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20ComprehensionREL_PATH_SUFFIX)           | Lore          |
+| Life                                                                                   | [Revitalizing Ritual](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20RitualREL_PATH_SUFFIX)                         | Exploration   |
+| Love                                                                                   | [Blessing of Compassion](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20CompassionREL_PATH_SUFFIX)                 | Interpersonal |
+| Nature                                                                                 | [Faithful Friend](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Faithful%20FriendREL_PATH_SUFFIX)                                  | Exploration   |
+| Protection                                                                             | [Protective Circle](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20CircleREL_PATH_SUFFIX)                             | Exploration   |
+| Storm                                                                                  | [Blessing of Fortunate Weather](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20WeatherREL_PATH_SUFFIX) | Exploration   |
+| Sun                                                                                    | [Inner Light](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20LightREL_PATH_SUFFIX)                                         | Lore          |
+| Trickery                                                                               | [Inspired Deception](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20DeceptionREL_PATH_SUFFIX)                           | Intrigue      |
+| War                                                                                    | [Sanctified Weapon](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -2106,7 +2106,7 @@ You have the following ability.
 
 ##### Inner Light
 
-Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of morning light into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
+Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Morning%20LightREL_PATH_SUFFIX) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
 
 ##### Inspired Deception
 
@@ -2114,7 +2114,7 @@ The gods favor your thievery with magic. Whenever you make a test that uses a sk
 
 ##### Oracular Visions
 
-Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
+Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) points. Whenever you or a creature within 10 squares makes a test, you can spend 1 [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining [fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) points when you finish a respite.
 
 ##### Protective Circle
 
@@ -2395,7 +2395,7 @@ You make use of a number of heroic abilities, all of which channel piety to empo
 
 ###### 3-Piety Ability
 
-Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* Violence Will Not Aid Thee.)
+Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Violence%20Will%20Not%20Aid%20TheeREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Call the Thunder Down (3 Piety)
@@ -2459,7 +2459,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 ###### 5-Piety Ability
 
-Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* Curse of Terror.)
+Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Curse%20of%20TerrorREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Corruption's Curse (5 Piety)
@@ -2541,20 +2541,20 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
-| Domain     | Ability                      |
-| ---------- | ---------------------------- |
-| Creation   | Statue of Power              |
-| Death      | Reap                         |
-| Fate       | Blessing of Fate and Destiny |
-| Knowledge  | The Gods Command You Obey    |
-| Life       | Wellspring of Grace          |
-| Love       | Our Hearts Your Strength     |
-| Nature     | Nature Judges Thee           |
-| Protection | Sacred Bond                  |
-| Storm      | Saint's Tempest              |
-| Sun        | Morning Light                |
-| Trickery   | Divine Comedy                |
-| War        | Blessing of Insight          |
+| Domain                                                                                 | Ability                                                                                                                                         |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation                                                                               | [Statue of Power](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Statue%20of%20PowerREL_PATH_SUFFIX)                               |
+| Death                                                                                  | [Reap](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/ReapREL_PATH_SUFFIX)                                                         |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Blessing of Fate and Destiny](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Blessing%20of%20Fate%20and%20DestinyREL_PATH_SUFFIX) |
+| Knowledge                                                                              | [The Gods Command You Obey](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/The%20Gods%20Command%20You%20ObeyREL_PATH_SUFFIX)       |
+| Life                                                                                   | [Wellspring of Grace](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Wellspring%20of%20GraceREL_PATH_SUFFIX)                       |
+| Love                                                                                   | [Our Hearts Your Strength](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Our%20Hearts%20Your%20StrengthREL_PATH_SUFFIX)           |
+| Nature                                                                                 | [Nature Judges Thee](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Nature%20Judges%20TheeREL_PATH_SUFFIX)                         |
+| Protection                                                                             | [Sacred Bond](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Sacred%20BondREL_PATH_SUFFIX)                                         |
+| Storm                                                                                  | [Saint's Tempest](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Saints%20TempestREL_PATH_SUFFIX)                                  |
+| Sun                                                                                    | [Morning Light](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Morning%20LightREL_PATH_SUFFIX)                                     |
+| Trickery                                                                               | [Divine Comedy](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Divine%20ComedyREL_PATH_SUFFIX)                                     |
+| War                                                                                    | [Blessing of Insight](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Blessing%20of%20InsightREL_PATH_SUFFIX)                       |
 
 <!-- -->
 > ###### Blessing of Fate and Destiny (5 Piety)
@@ -2811,20 +2811,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 4th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
-| Death      | [Seance](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/SeanceREL_PATH_SUFFIX)                                                   |
-| Fate       | [Oracular Warning](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20WarningREL_PATH_SUFFIX)                             |
-| Knowledge  | [Saint's Epiphany](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
-| Life       | [Blessing of Life](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
-| Love       | [Invocation of the Heart](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
-| Nature     | [Wode Road](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20RoadREL_PATH_SUFFIX)                                           |
-| Protection | [Impervious Touch](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20TouchREL_PATH_SUFFIX)                             |
-| Storm      | [Windwalk](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX)                                               |
-| Sun        | [Light of Revelation](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20RevelationREL_PATH_SUFFIX)                     |
-| Trickery   | [Blessing of Secrets](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20SecretsREL_PATH_SUFFIX)                     |
-| War        | [Improved Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20WeaponREL_PATH_SUFFIX)       |
+| Domain                                                                                 | Feature                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation                                                                               | [Improved Hands of the Maker](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20MakerREL_PATH_SUFFIX) |
+| Death                                                                                  | [Seance](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/SeanceREL_PATH_SUFFIX)                                                   |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Oracular Warning](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20WarningREL_PATH_SUFFIX)                             |
+| Knowledge                                                                              | [Saint's Epiphany](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20EpiphanyREL_PATH_SUFFIX)                              |
+| Life                                                                                   | [Blessing of Life](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20LifeREL_PATH_SUFFIX)                           |
+| Love                                                                                   | [Invocation of the Heart](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20HeartREL_PATH_SUFFIX)           |
+| Nature                                                                                 | [Wode Road](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20RoadREL_PATH_SUFFIX)                                           |
+| Protection                                                                             | [Impervious Touch](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20TouchREL_PATH_SUFFIX)                             |
+| Storm                                                                                  | [Windwalk](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/WindwalkREL_PATH_SUFFIX)                                               |
+| Sun                                                                                    | [Light of Revelation](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20RevelationREL_PATH_SUFFIX)                     |
+| Trickery                                                                               | [Blessing of Secrets](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20SecretsREL_PATH_SUFFIX)                     |
+| War                                                                                    | [Improved Sanctified Weapon](REL_PATH_PREFIXRules/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20WeaponREL_PATH_SUFFIX)       |
 
 ###### Blessing of Life
 
@@ -2976,20 +2976,20 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 6th-Level Conduit Domain Abilities Table
 
-| Domain     | Ability                    |
-| ---------- | -------------------------- |
-| Creation   | Gods' Machine              |
-| Death      | Aura of Souls              |
-| Fate       | Your Story Ends Here       |
-| Knowledge  | Invocation of Undoing      |
-| Life       | Revitalizing Grace         |
-| Love       | Lauded by God              |
-| Nature     | Spirit Stampede            |
-| Protection | Cuirass of the Gods        |
-| Storm      | Lightning Lord             |
-| Sun        | Blessing of the Midday Sun |
-| Trickery   | Invocation of Mystery      |
-| War        | Blade of the Heavens       |
+| Domain                                                                                 | Ability                                                                                                                                     |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation                                                                               | Gods' Machine                                                                                                                               |
+| Death                                                                                  | [Aura of Souls](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Aura%20of%20SoulsREL_PATH_SUFFIX)                               |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Your Story Ends Here](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Your%20Story%20Ends%20HereREL_PATH_SUFFIX)               |
+| Knowledge                                                                              | [Invocation of Undoing](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Invocation%20of%20UndoingREL_PATH_SUFFIX)               |
+| Life                                                                                   | [Revitalizing Grace](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Revitalizing%20GraceREL_PATH_SUFFIX)                       |
+| Love                                                                                   | [Lauded by God](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Lauded%20by%20GodREL_PATH_SUFFIX)                               |
+| Nature                                                                                 | [Spirit Stampede](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Spirit%20StampedeREL_PATH_SUFFIX)                             |
+| Protection                                                                             | [Cuirass of the Gods](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Cuirass%20of%20the%20GodsREL_PATH_SUFFIX)                 |
+| Storm                                                                                  | [Lightning Lord](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Lightning%20LordREL_PATH_SUFFIX)                               |
+| Sun                                                                                    | [Blessing of the Midday Sun](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Blessing%20of%20the%20Midday%20SunREL_PATH_SUFFIX) |
+| Trickery                                                                               | [Invocation of Mystery](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Invocation%20of%20MysteryREL_PATH_SUFFIX)               |
+| War                                                                                    | [Blade of the Heavens](REL_PATH_PREFIXRules/Abilities/Conduit/6th-Level%20Features/Blade%20of%20the%20HeavensREL_PATH_SUFFIX)               |
 
 <!-- -->
 > ###### Aura of Souls (9 Piety)
@@ -3179,20 +3179,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 7th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Divine Quartermaster](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
-| Death      | [Word of Death Deferred](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
-| Fate       | [Word of Fate Denied](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
-| Knowledge  | Gods' Library                                                                                                                                                            |
-| Life       | [Font of Grace](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
-| Love       | [Covenant of the Heart](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
-| Nature     | [Nature's Bounty](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
-| Protection | [Blessing of Iron](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
-| Storm      | [Thunderstruck](REL_PATH_PREFIXRules/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/ThunderstruckREL_PATH_SUFFIX)                                    |
-| Sun        | [Light of the Burning Sun](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
-| Trickery   | [Trinity of Trickery](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
-| War        | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
+| Domain                                                                                 | Feature                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation                                                                               | [Divine Quartermaster](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20QuartermasterREL_PATH_SUFFIX)                     |
+| Death                                                                                  | [Word of Death Deferred](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20DeferredREL_PATH_SUFFIX)             |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Word of Fate Denied](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20DeniedREL_PATH_SUFFIX)                   |
+| Knowledge                                                                              | Gods' Library                                                                                                                                                            |
+| Life                                                                                   | [Font of Grace](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20GraceREL_PATH_SUFFIX)                                 |
+| Love                                                                                   | [Covenant of the Heart](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20HeartREL_PATH_SUFFIX)               |
+| Nature                                                                                 | [Nature's Bounty](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20BountyREL_PATH_SUFFIX)                                |
+| Protection                                                                             | [Blessing of Iron](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20IronREL_PATH_SUFFIX)                           |
+| Storm                                                                                  | [Thunderstruck](REL_PATH_PREFIXRules/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/ThunderstruckREL_PATH_SUFFIX)                                    |
+| Sun                                                                                    | [Light of the Burning Sun](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20SunREL_PATH_SUFFIX)       |
+| Trickery                                                                               | [Trinity of Trickery](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20TrickeryREL_PATH_SUFFIX)                     |
+| War                                                                                    | [Your Triumphs Are Remembered](REL_PATH_PREFIXRules/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20RememberedREL_PATH_SUFFIX) |
 
 ##### Blessing of Iron
 
@@ -3358,20 +3358,20 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 9th-Level Conduit Domain Abilities Table
 
-| Domain     | Ability                  |
-| ---------- | ------------------------ |
-| Creation   | Divine Dragon            |
-| Death      | Word of Final Redemption |
-| Fate       | Bend Fate                |
-| Knowledge  | Word of Weakening        |
-| Life       | Radiance of Grace        |
-| Love       | Alacrity of the Heart    |
-| Nature     | Thorn Cage               |
-| Protection | Blessing of the Fortress |
-| Storm      | Godstorm                 |
-| Sun        | Solar Flare              |
-| Trickery   | Night Falls              |
-| War        | Righteous Phalanx        |
+| Domain                                                                                 | Ability                                                                                                                               |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation                                                                               | [Divine Dragon](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Divine%20DragonREL_PATH_SUFFIX)                           |
+| Death                                                                                  | [Word of Final Redemption](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Word%20of%20Final%20RedemptionREL_PATH_SUFFIX) |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Bend Fate](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Bend%20FateREL_PATH_SUFFIX)                                   |
+| Knowledge                                                                              | [Word of Weakening](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Word%20of%20WeakeningREL_PATH_SUFFIX)                 |
+| Life                                                                                   | [Radiance of Grace](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Radiance%20of%20GraceREL_PATH_SUFFIX)                 |
+| Love                                                                                   | [Alacrity of the Heart](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Alacrity%20of%20the%20HeartREL_PATH_SUFFIX)       |
+| Nature                                                                                 | [Thorn Cage](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Thorn%20CageREL_PATH_SUFFIX)                                 |
+| Protection                                                                             | [Blessing of the Fortress](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Blessing%20of%20the%20FortressREL_PATH_SUFFIX) |
+| Storm                                                                                  | [Godstorm](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/GodstormREL_PATH_SUFFIX)                                       |
+| Sun                                                                                    | [Solar Flare](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Solar%20FlareREL_PATH_SUFFIX)                               |
+| Trickery                                                                               | [Night Falls](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Night%20FallsREL_PATH_SUFFIX)                               |
+| War                                                                                    | [Righteous Phalanx](REL_PATH_PREFIXRules/Abilities/Conduit/9th-Level%20Features/Righteous%20PhalanxREL_PATH_SUFFIX)                   |
 
 <!-- -->
 > ###### Alacrity of the Heart (11 Piety)
@@ -3551,7 +3551,7 @@ As a 10th-level [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX), 
 
 #### Avatar
 
-You are now an avatar of your god! When you use your [Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Domain%20Piety%20and%20EffectsREL_PATH_SUFFIX)) without needing to pray.
+You are [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) an avatar of your god! When you use your [Prayer](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PrayerREL_PATH_SUFFIX) feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/Piety/Domain%20Piety%20and%20EffectsREL_PATH_SUFFIX)) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -3561,7 +3561,7 @@ Your Intuition score increases to 5. Additionally, you can increase one of your 
 
 #### Divine Power
 
-You have an epic resource called [divine power](REL_PATH_PREFIXRules/Features/Conduit/10th-Level%20Features/Divine%20PowerREL_PATH_SUFFIX). Each time you finish a respite, you gain [divine power](REL_PATH_PREFIXRules/Features/Conduit/10th-Level%20Features/Divine%20PowerREL_PATH_SUFFIX) equal to the XP you gain. You can spend [divine power](REL_PATH_PREFIXRules/Features/Conduit/10th-Level%20Features/Divine%20PowerREL_PATH_SUFFIX) on your abilities as if it were [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called [divine power](REL_PATH_PREFIXRules/Features/Conduit/10th-Level%20Features/Divine%20PowerREL_PATH_SUFFIX). Each time you finish a respite, you gain [divine power](REL_PATH_PREFIXRules/Features/Conduit/10th-Level%20Features/Divine%20PowerREL_PATH_SUFFIX) equal to the XP you gain. You can spend [divine power](REL_PATH_PREFIXRules/Features/Conduit/10th-Level%20Features/Divine%20PowerREL_PATH_SUFFIX) on your abilities as if it were [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX).
 
 Additionally, you can spend [divine power](REL_PATH_PREFIXRules/Features/Conduit/10th-Level%20Features/Divine%20PowerREL_PATH_SUFFIX) as if it were piety to use any [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) ability you don't have that usually costs no [piety](REL_PATH_PREFIXRules/Features/Conduit/1st-Level%20Features/PietyREL_PATH_SUFFIX), you must spend 1 [divine power](REL_PATH_PREFIXRules/Features/Conduit/10th-Level%20Features/Divine%20PowerREL_PATH_SUFFIX) to use it.
 
@@ -3581,7 +3581,7 @@ You gain one skill of your choice.
 
 ## Elementalist
 
-Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
+Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. [Now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
 **As an [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH_SUFFIX), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/Elemental%20SpecializationREL_PATH_SUFFIX) determines which of these talents you excel at.**
 
@@ -3705,13 +3705,13 @@ You have the following ability, which can be used as a ranged [free strike](REL_
 
 #### Persistent Magic
 
-Some of your heroic abilities have a persistent effect entry. For example, the Instantaneous Excavation ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
+Some of your heroic abilities have a persistent effect entry. For example, the [Instantaneous Excavation](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Instantaneous%20ExcavationREL_PATH_SUFFIX) ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
 
 You can't maintain any abilities that would make you earn a negative amount of [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) at the start of your turn. You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
-If you take damage equal to or greater than 5 times your Reason score in one turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining Instantaneous Excavation, taking 10 or more damage in one turn causes you to stop maintaining the ability.
+If you take damage equal to or greater than 5 times your Reason score in one turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining [Instantaneous Excavation](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/Instantaneous%20ExcavationREL_PATH_SUFFIX), taking 10 or more damage in one turn causes you to stop maintaining the ability.
 
 #### Practical Magic
 
@@ -3905,7 +3905,7 @@ You create an invisible elemental ward that protects you. Choose one of the foll
 
 ##### Ward of Delightful Consequences
 
-A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 surge.
+A protective field of void magic absorbs violence aimed at you, then lets you hurl it [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) at your enemies. The first time each round that you take damage, you gain 1 surge.
 
 ##### Ward of Excellent Protection
 
@@ -4133,7 +4133,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 ###### 5-Essence Ability
 
-Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* Conflagration.)
+Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](REL_PATH_PREFIXRules/Abilities/Elementalist/1st-Level%20Features/ConflagrationREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Conflagration (5 Essence)
@@ -4236,11 +4236,11 @@ At the start of a combat encounter, you gain a number of surges equal to your Vi
 
 You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee [free strikes](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). Your statistics stay the same except as noted on the table.
 
-Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
+Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to your true form.
 
 You choose a specific animal and appearance while in animal form. For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an animal form, your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
-You can revert back to your true form as a maneuver. You can't enter an animal form unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
+You can revert [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to your true form as a maneuver. You can't enter an animal form unless you are in your true form. When you are dying, you revert to your true form and can't turn [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) into an animal until you are no longer dying.
 
 ###### Green Animal Forms Table
 
@@ -4662,7 +4662,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 - You restore all Stamina to a mundane object of a size equal to your Reason score or smaller.
 - Choose a cube with a size up to your Reason score within 5 squares. You can fill that area with difficult terrain or natural phenomena such as fire, water, or plant life, or can clear the area of those things.
 - You can preserve a corpse or up to 5 pounds of food for a week, or can cause a corpse or that amount of food to instantly rot.
-- You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
+- You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black [Iron](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/IronREL_PATH_SUFFIX) Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
 
 #### New 9-Essence Ability
 
@@ -4742,7 +4742,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 Your [Mantle of Essence](REL_PATH_PREFIXRules/Features/Elementalist/4th-Level%20Features/Mantle%20of%20EssenceREL_PATH_SUFFIX) feature no longer requires [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
 
-Additionally, your [Mantle of Essence](REL_PATH_PREFIXRules/Features/Elementalist/4th-Level%20Features/Mantle%20of%20EssenceREL_PATH_SUFFIX) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
+Additionally, your [Mantle of Essence](REL_PATH_PREFIXRules/Features/Elementalist/4th-Level%20Features/Mantle%20of%20EssenceREL_PATH_SUFFIX) [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
 
 #### Surging Essence
 
@@ -4789,7 +4789,7 @@ You can only combine animal forms whose levels add up to 12 or less. For example
 
 ##### The Flame Primordial
 
-You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/Return%20to%20FormlessnessREL_PATH_SUFFIX) ability instead.
+You produce a fire that entrances the [fates](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX), distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/Return%20to%20FormlessnessREL_PATH_SUFFIX) ability instead.
 
 Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.
 
@@ -4986,7 +4986,7 @@ As a 10th-level [elementalist](REL_PATH_PREFIXRules/Classes/ElementalistREL_PATH
 
 #### Breath
 
-You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) (no action required). When you do, 1 breath becomes 3 [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) (no action required). When you do, 1 breath becomes 3 [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
 
 [Breath](REL_PATH_PREFIXRules/Features/Elementalist/10th-Level%20Features/BreathREL_PATH_SUFFIX) remains until you convert it to [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX).
 
@@ -5047,7 +5047,7 @@ You gain one skill of your choice.
 
 ## Fury
 
-You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
+You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX), like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
 **As a [fury](REL_PATH_PREFIXRules/Classes/FuryREL_PATH_SUFFIX), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) increases. Nature has no concept of fairness—and neither do you.**
 
@@ -5128,7 +5128,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 Though you can't gain [ferocity outside of combat](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20CombatREL_PATH_SUFFIX), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/To%20the%20Uttermost%20EndREL_PATH_SUFFIX), you can use it as if you had spent an amount of [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX) equal to your Victories.
 
 #### Growing Ferocity
 
@@ -5333,7 +5333,7 @@ You fight with an array of heroic abilities, all of which cost ferocity to fuel 
 
 ###### 3-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
+Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* [Back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX)!)
 
 <!-- -->
 > ###### Back! (3 Ferocity)
@@ -5405,7 +5405,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 ###### 5-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* Blood for Blood!)
+Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/Blood%20for%20BloodREL_PATH_SUFFIX)!)
 
 <!-- -->
 > ###### Blood for Blood! (5 Ferocity)
@@ -5839,7 +5839,7 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 
 #### Primordial Portal
 
-As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
 
 (Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)
 
@@ -6007,7 +6007,7 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](REL_PATH_PREFIXRules/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](REL_PATH_PREFIXRules/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX) feature [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 
@@ -6231,7 +6231,7 @@ The first time you take damage each combat round, you gain 3 ferocity instead of
 
 #### Primordial Power
 
-You have an epic resource called [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX). Each time you finish a respite, you gain [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) equal to the XP you gain. You can spend [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) on your abilities as if it were [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX). Each time you finish a respite, you gain [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) equal to the XP you gain. You can spend [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) on your abilities as if it were [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).
 
 Additionally, you can spend any amount of [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) as a free maneuver, ending one effect on you for each [primordial power](REL_PATH_PREFIXRules/Features/Fury/10th-Level%20Features/Primordial%20PowerREL_PATH_SUFFIX) spent.
 
@@ -6440,7 +6440,7 @@ Your primordial damage type is corruption.
 
 ###### Driving Pounce
 
-*Your enemies try in vain to fall back from your pouncing attack.*
+*Your enemies try in vain to fall [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) from your pouncing attack.*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
@@ -6500,7 +6500,7 @@ Your primordial damage type is lightning.
 
 ###### Unbalancing Attack
 
-*A wild assault forces your foe onto their back.*
+*A wild assault forces your foe onto their [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX).*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
@@ -6872,7 +6872,7 @@ You have mastered a range of heroic abilities, all of them channeled through you
 
 ###### 3-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike.)
+Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/Chronal%20SpikeREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Chronal Spike (3 Discipline)
@@ -6936,7 +6936,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 ###### 5-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* A Squad Unto Myself.)
+Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](REL_PATH_PREFIXRules/Abilities/Null/1st-Level%20Features/A%20Squad%20Unto%20MyselfREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Arcane Disruptor (5 Discipline)
@@ -7246,7 +7246,7 @@ Your [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Nu
 
 #### Chilling Readiness
 
-You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
+You [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
 
 #### Inertial Fulcrum
 
@@ -7728,7 +7728,7 @@ Whenever you use an ability, you gain 1 discipline that can be used only to appl
 
 #### Order
 
-You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX).
 
 At the start of a combat encounter, you can spend 1 order to increase the size of your Null Field by 1 until the end of the encounter.
 
@@ -7903,7 +7903,7 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Black Ash       | [In All This Confusion](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20ConfusionREL_PATH_SUFFIX) |
 | Caustic Alchemy | [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX)                   |
-| Harlequin Mask  | Clever Trick                                                                                                                   |
+| Harlequin Mask  | [Clever Trick](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Clever%20TrickREL_PATH_SUFFIX)                       |
 
 <!-- -->
 > ###### Clever Trick (1 Insight)
@@ -8051,7 +8051,7 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 ###### 3-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)
+Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Get%20In%20Get%20OutREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Disorienting Strike (3 Insight)
@@ -8119,7 +8119,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 ##### 5-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: Coup de Grace.)
+Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coup%20de%20GraceREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Coup de Grace (5 Insight)
@@ -8465,19 +8465,19 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
 
-If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
+If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX). If you do, while I'm No Threat is active, the creature's body is disguised to [look](REL_PATH_PREFIXRules/Abilities/Shadow/6th-Level%20Features/LookREL_PATH_SUFFIX) like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 ##### Trail of Cinders
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The creature appears in an unoccupied space adjacent to the space into which you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). If no such space exists, they can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with you.
+Additionally, you can [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) bring an adjacent willing creature along with you whenever you use a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) ability to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). The creature appears in an unoccupied space adjacent to the space into which you [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX). If no such space exists, they can't [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) with you.
 
 ##### Volatile Reagents
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
+Additionally, your [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX) ability [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](REL_PATH_PREFIXRules/Movement/FlyREL_PATH_SUFFIX), you fall.
 
 #### 9-Insight Ability
 
@@ -8719,7 +8719,7 @@ Whenever you willingly move, you can [teleport](REL_PATH_PREFIXRules/Movement/Te
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20GambitREL_PATH_SUFFIX) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](REL_PATH_PREFIXRules/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20GambitREL_PATH_SUFFIX) feature as a free triggered action when a creature is reduced to 0 Stamina by your [Clever Trick](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Clever%20TrickREL_PATH_SUFFIX) ability.
 
 ##### Time Bomb
 
@@ -8956,7 +8956,7 @@ While you are in your [umbral form](REL_PATH_PREFIXRules/Features/Shadow/6th-Lev
 
 #### Subterfuge
 
-You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](REL_PATH_PREFIXRules/Features/Shadow/1st-Level%20Features/InsightREL_PATH_SUFFIX).
 
 Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
 
@@ -9026,7 +9026,7 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Fea
 
 #### Focus
 
-The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
+The ring of [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) panics others but brings order to your mind, granting you a Heroic Resource called [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
 
 ##### Focus in Combat
 
@@ -9220,7 +9220,7 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 ###### 3-Focus Ability
 
-Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* Inspiring Strike.)
+Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* [Inspiring Strike](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/Inspiring%20StrikeREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Battle Cry (3 Focus)
@@ -9280,7 +9280,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 #### 5-Focus Ability
 
-Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil.)
+Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* [Hammer and Anvil](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/Hammer%20and%20AnvilREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Hammer and Anvil (5 Focus)
@@ -9806,7 +9806,7 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Fea
 
 ##### Asymmetric Warfare
 
-You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
+You have advanced your skills in subterfuge, [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX) directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
 
 ##### Grand Strategy
 
@@ -10032,7 +10032,7 @@ Your Might and Reason scores each increase to 5.
 
 #### Command
 
-You have an epic resource called [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX). Each time you finish a respite, you gain [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX) equal to the XP you gain. You can spend [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX) on your abilities as if it were [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX). Each time you finish a respite, you gain [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX) equal to the XP you gain. You can spend [command](REL_PATH_PREFIXRules/Features/Tactician/10th-Level%20Features/CommandREL_PATH_SUFFIX) on your abilities as if it were [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
 
 Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 command as a free triggered action to increase the power roll outcome for that target by one tier. Whenever an enemy marked by you makes an ability roll, you can spend 1 command as a free triggered action to decrease the power roll outcome by one tier.
 
@@ -10200,7 +10200,7 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ##### Entropy Ward
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
+Your ward [slows](REL_PATH_PREFIXRules/Abilities/Talent/2nd-Level%20Features/SlowREL_PATH_SUFFIX) time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
 
 ##### Repulsive Ward
 
@@ -10494,7 +10494,7 @@ You know a range of heroic abilities, all of which cost clarity to fuel them.
 
 ###### 3-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)
+Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/ChokeREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Awe (3 Clarity)
@@ -10560,7 +10560,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ###### 5-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)
+Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Inertia%20SoakREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Flashback (5 Clarity)
@@ -10866,7 +10866,7 @@ Your Reason and Presence scores each increase to 3.
 
 As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
-Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
+Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
 #### Mind Recovery
 
@@ -11506,7 +11506,7 @@ You gain one skill of your choice.
 
 #### Vision
 
-You have an epic resource called [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX). Each time you finish a respite, you gain [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) equal to the XP you gain. You can spend [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) on your abilities as if it were clarity.
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX). Each time you finish a respite, you gain [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) equal to the XP you gain. You can spend [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) on your abilities as if it were clarity.
 
 Additionally, you can spend [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 
@@ -11588,7 +11588,7 @@ Additionally, you gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Leve
 - Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
 - When you or another hero dies, you gain 10 [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
 
-When you are dead, you continue to gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX) during future encounters.
+When you are dead, you continue to gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX) during future encounters.
 
 You lose any remaining drama at the end of the encounter.
 
@@ -11601,9 +11601,9 @@ When you use an ability outside of combat that lets you spend unlimited drama on
 <!-- -->
 > **The Auteur [Troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX)**
 >
-> Abilities like Guest Star, [Missed Cue](REL_PATH_PREFIXRules/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20CueREL_PATH_SUFFIX), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like [Guest Star](REL_PATH_PREFIXRules/Abilities/Troubadour/2nd-Level%20Features/Guest%20StarREL_PATH_SUFFIX), [Missed Cue](REL_PATH_PREFIXRules/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20CueREL_PATH_SUFFIX), and [Twist at the End](REL_PATH_PREFIXRules/Abilities/Troubadour/2nd-Level%20Features/Twist%20at%20the%20EndREL_PATH_SUFFIX) allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
-> This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
+> This is because, uniquely among all the subclasses in *Draw [Steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX)*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
 > When the auteur uses these abilities, they are changing that story. They rewrite stories to make them more dramatic in the telling. What *actually* happened is a matter of some debate. Even the people who were there don't agree on exactly what took place. How people *remember* it is what's important!
 >
@@ -11788,7 +11788,7 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Auteur    | [Turnabout Is Fair Play](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Turnabout%20Is%20Fair%20PlayREL_PATH_SUFFIX) |
 | Duelist   | [Riposte](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/RiposteREL_PATH_SUFFIX)                                     |
-| Virtuoso  | Harmonize                                                                                                                            |
+| Virtuoso  | [Harmonize](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/HarmonizeREL_PATH_SUFFIX)                                 |
 
 <!-- -->
 > ###### Harmonize (3 Drama)
@@ -11917,7 +11917,7 @@ You master a range of heroic abilities, all of which cost drama to empower them.
 
 ###### 3-Drama Ability
 
-Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* Harsh Critic.)
+Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* [Harsh Critic](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Harsh%20CriticREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Harsh Critic (3 Drama)
@@ -11989,7 +11989,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 ###### 5-Drama Ability
 
-Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* Dramatic Reversal.)
+Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* [Dramatic Reversal](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Dramatic%20ReversalREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Dramatic Reversal (5 Drama)
@@ -12851,7 +12851,7 @@ As a 10th-level [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUF
 
 #### Applause
 
-You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/DramaREL_PATH_SUFFIX).
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
 

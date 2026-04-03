@@ -5,7 +5,7 @@ class: ignored
 distance: Melee 1 or ranged 10
 file_basename: Fade
 file_dpath: Abilities/Kits/Cloak and Dagger
-flavor: A stab, and a few quick, careful steps back.
+flavor: A stab, and a few quick, careful steps [back](scc:mcdm.heroes.v1:feature.ability.fury.1st-level-feature:back).
 item_id: fade
 item_index: '01'
 item_name: Fade
@@ -27,7 +27,8 @@ type: kit-ability/cloak-and-dagger
 type: feature
 feature_type: ability
 name: Fade
-flavor: A stab, and a few quick, careful steps back.
+flavor: A stab, and a few quick, careful steps
+  [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX).
 keywords:
   - Melee
   - Ranged
@@ -43,7 +44,8 @@ metadata:
   distance: Melee 1 or ranged 10
   file_basename: Fade
   file_dpath: Abilities/Kits/Cloak and Dagger
-  flavor: A stab, and a few quick, careful steps back.
+  flavor: A stab, and a few quick, careful steps
+    [back](scc:mcdm.heroes.v1:feature.ability.fury.1st-level-feature:back).
   item_id: fade
   item_index: "01"
   item_name: Fade

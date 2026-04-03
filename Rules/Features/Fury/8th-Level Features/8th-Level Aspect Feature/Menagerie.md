@@ -41,7 +41,9 @@ effects:
       swap your stormwight kit and still take another respite activity. Your
       [Nature's
       Knight](REL_PATH_PREFIXRules/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20KnightREL_PATH_SUFFIX)
-      feature now lets you automatically sense the presence of animals within 1
-      mile of you. Additionally, whenever you make a test to track another
-      creature, you can roll three dice and choose which two to use.
+      feature
+      [now](REL_PATH_PREFIXRules/Abilities/Tactician/1st-Level%20Features/NowREL_PATH_SUFFIX)
+      lets you automatically sense the presence of animals within 1 mile of you.
+      Additionally, whenever you make a test to track another creature, you can
+      roll three dice and choose which two to use.
 ```

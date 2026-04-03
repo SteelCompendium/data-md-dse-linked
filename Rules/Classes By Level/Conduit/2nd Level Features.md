@@ -34,20 +34,20 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
-| Domain     | Ability                      |
-| ---------- | ---------------------------- |
-| Creation   | Statue of Power              |
-| Death      | Reap                         |
-| Fate       | Blessing of Fate and Destiny |
-| Knowledge  | The Gods Command You Obey    |
-| Life       | Wellspring of Grace          |
-| Love       | Our Hearts Your Strength     |
-| Nature     | Nature Judges Thee           |
-| Protection | Sacred Bond                  |
-| Storm      | Saint's Tempest              |
-| Sun        | Morning Light                |
-| Trickery   | Divine Comedy                |
-| War        | Blessing of Insight          |
+| Domain                                                                                 | Ability                                                                                                                                         |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation                                                                               | [Statue of Power](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Statue%20of%20PowerREL_PATH_SUFFIX)                               |
+| Death                                                                                  | [Reap](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/ReapREL_PATH_SUFFIX)                                                         |
+| [Fate](REL_PATH_PREFIXRules/Abilities/Talent/6th-Level%20Features/FateREL_PATH_SUFFIX) | [Blessing of Fate and Destiny](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Blessing%20of%20Fate%20and%20DestinyREL_PATH_SUFFIX) |
+| Knowledge                                                                              | [The Gods Command You Obey](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/The%20Gods%20Command%20You%20ObeyREL_PATH_SUFFIX)       |
+| Life                                                                                   | [Wellspring of Grace](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Wellspring%20of%20GraceREL_PATH_SUFFIX)                       |
+| Love                                                                                   | [Our Hearts Your Strength](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Our%20Hearts%20Your%20StrengthREL_PATH_SUFFIX)           |
+| Nature                                                                                 | [Nature Judges Thee](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Nature%20Judges%20TheeREL_PATH_SUFFIX)                         |
+| Protection                                                                             | [Sacred Bond](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Sacred%20BondREL_PATH_SUFFIX)                                         |
+| Storm                                                                                  | [Saint's Tempest](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Saints%20TempestREL_PATH_SUFFIX)                                  |
+| Sun                                                                                    | [Morning Light](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Morning%20LightREL_PATH_SUFFIX)                                     |
+| Trickery                                                                               | [Divine Comedy](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Divine%20ComedyREL_PATH_SUFFIX)                                     |
+| War                                                                                    | [Blessing of Insight](REL_PATH_PREFIXRules/Abilities/Conduit/2nd-Level%20Features/Blessing%20of%20InsightREL_PATH_SUFFIX)                       |
 
 <!-- -->
 > ###### Blessing of Fate and Destiny (5 Piety)

@@ -5,7 +5,8 @@ class: ignored
 distance: Melee 3
 file_basename: Extension of My Arm
 file_dpath: Abilities/Kits/Whirlwind
-flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
+flavor: When you draw your whip [back](scc:mcdm.heroes.v1:feature.ability.fury.1st-level-feature:back)
+  after an attack, your enemy is drawn ever closer.
 item_id: extension-of-my-arm
 item_index: '01'
 item_name: Extension of My Arm
@@ -26,7 +27,9 @@ type: kit-ability/whirlwind
 type: feature
 feature_type: ability
 name: Extension of My Arm
-flavor: When you draw your whip back after an attack, your enemy is drawn ever closer.
+flavor: When you draw your whip
+  [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX)
+  after an attack, your enemy is drawn ever closer.
 keywords:
   - Melee
   - Strike
@@ -41,8 +44,9 @@ metadata:
   distance: Melee 3
   file_basename: Extension of My Arm
   file_dpath: Abilities/Kits/Whirlwind
-  flavor: When you draw your whip back after an attack, your enemy is drawn ever
-    closer.
+  flavor: When you draw your whip
+    [back](scc:mcdm.heroes.v1:feature.ability.fury.1st-level-feature:back) after
+    an attack, your enemy is drawn ever closer.
   item_id: extension-of-my-arm
   item_index: "01"
   item_name: Extension of My Arm

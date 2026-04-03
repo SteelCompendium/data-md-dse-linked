@@ -38,7 +38,7 @@ While you rest in their presence, your god might also give you priority targets 
 
 #### Virtue
 
-You have an epic resource called [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX). Each time you finish a respite, you gain [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) equal to the XP you gain. You can spend [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) on your abilities as if it were [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX). Each time you finish a respite, you gain [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) equal to the XP you gain. You can spend [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) on your abilities as if it were [wrath](REL_PATH_PREFIXRules/Features/Censor/1st-Level%20Features/WrathREL_PATH_SUFFIX).
 
 Additionally, you can spend 3 [virtue](REL_PATH_PREFIXRules/Features/Censor/10th-Level%20Features/VirtueREL_PATH_SUFFIX) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 

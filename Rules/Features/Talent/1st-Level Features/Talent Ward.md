@@ -41,7 +41,7 @@ effects:
       Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Psionic%20AugmentationREL_PATH_SUFFIX) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/Talent%20Ward/Repulsive%20WardREL_PATH_SUFFIX).)
 
       ##### Entropy Ward
-      Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
+      Your ward [slows](REL_PATH_PREFIXRules/Abilities/Talent/2nd-Level%20Features/SlowREL_PATH_SUFFIX) time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
       ##### Repulsive Ward
       You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push them up to a number of squares equal to your Reason score.
       ##### Steel Ward

@@ -156,7 +156,7 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ##### Entropy Ward
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
+Your ward [slows](REL_PATH_PREFIXRules/Abilities/Talent/2nd-Level%20Features/SlowREL_PATH_SUFFIX) time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
 
 ##### Repulsive Ward
 
@@ -450,7 +450,7 @@ You know a range of heroic abilities, all of which cost clarity to fuel them.
 
 ###### 3-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)
+Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/ChokeREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Awe (3 Clarity)
@@ -516,7 +516,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ###### 5-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)
+Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Inertia%20SoakREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Flashback (5 Clarity)
@@ -822,7 +822,7 @@ Your Reason and Presence scores each increase to 3.
 
 As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
-Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
+Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
 #### Mind Recovery
 
@@ -1462,7 +1462,7 @@ You gain one skill of your choice.
 
 #### Vision
 
-You have an epic resource called [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX). Each time you finish a respite, you gain [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) equal to the XP you gain. You can spend [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) on your abilities as if it were clarity.
+You have an [epic](REL_PATH_PREFIXRules/Abilities/Troubadour/9th-Level%20Features/EpicREL_PATH_SUFFIX) resource called [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX). Each time you finish a respite, you gain [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) equal to the XP you gain. You can spend [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) on your abilities as if it were clarity.
 
 Additionally, you can spend [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](REL_PATH_PREFIXRules/Features/Talent/10th-Level%20Features/VisionREL_PATH_SUFFIX). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 

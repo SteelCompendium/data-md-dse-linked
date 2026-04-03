@@ -254,7 +254,7 @@ You wear light armor and wield one or two light weapons.
 
 ###### Fade
 
-*A stab, and a few quick, careful steps back.*
+*A stab, and a few quick, careful steps [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX).*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -808,7 +808,7 @@ You wear light armor and wield a medium weapon.
 
 #### Sword and Board
 
-The [Sword and Board](REL_PATH_PREFIXRules/Kits/Sword%20and%20BoardREL_PATH_SUFFIX) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+The [Sword and Board](REL_PATH_PREFIXRules/Kits/Sword%20and%20BoardREL_PATH_SUFFIX) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) or solid oak in the other, you protect yourself while you control the battlefield.
 
 ##### Equipment
 
@@ -898,7 +898,7 @@ You wear no armor and wield a whip.
 
 ###### Extension of My Arm
 
-*When you draw your whip back after an attack, your enemy is drawn ever closer.*
+*When you draw your whip [back](REL_PATH_PREFIXRules/Abilities/Fury/1st-Level%20Features/BackREL_PATH_SUFFIX) after an attack, your enemy is drawn ever closer.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
